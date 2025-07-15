@@ -58,7 +58,7 @@ async function loadOriginalArticles() {
     // Sample articles - in production, this would fetch from your CMS or JSON file
     const articles = [
         {
-            id: 1,
+            id: 4,
             title: 'Crypto Market Update - July 15, 2025',
             excerpt: 'Bitcoin pulls back from $123K ATH to $117K. Get the latest market analysis, regulatory updates, and insights.',
             author: 'BlockwireNews Team',
