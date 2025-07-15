@@ -59,6 +59,15 @@ async function loadOriginalArticles() {
     const articles = [
         {
             id: 1,
+            title: 'Crypto Market Update - July 15, 2025',
+            excerpt: 'Bitcoin pulls back from $123K ATH to $117K. Get the latest market analysis, regulatory updates, and insights.',
+            author: 'BlockwireNews Team',
+            date: '2025-07-15',
+            image: '/images/bitcoin-market-july-2025.jpg',
+            slug: 'crypto-market-update-july-15-2025'
+        },    
+        {
+            id: 1,
             title: 'Bitcoin Halving 2024: What Investors Need to Know',
             excerpt: 'An in-depth analysis of the upcoming Bitcoin halving event and its potential impact on cryptocurrency markets.',
             author: 'John Doe',

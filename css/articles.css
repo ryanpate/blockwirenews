@@ -1,0 +1,271 @@
+/* Article-specific styles */
+
+.full-article {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 20px;
+}
+
+.article-header {
+    margin-bottom: 2rem;
+}
+
+.article-meta-top {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.article-meta-top .category {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.article-meta-top .reading-time {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.full-article h1 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    color: var(--text-primary);
+}
+
+.article-meta {
+    display: flex;
+    gap: 1.5rem;
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.author-name {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.author-name:hover {
+    text-decoration: underline;
+}
+
+/* Share Buttons */
+.share-buttons {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+.share-buttons a {
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+}
+
+.share-twitter {
+    background-color: #1DA1F2;
+    color: white;
+}
+
+.share-facebook {
+    background-color: #1877F2;
+    color: white;
+}
+
+.share-linkedin {
+    background-color: #0A66C2;
+    color: white;
+}
+
+.share-buttons a:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+
+/* Featured Image */
+.featured-image {
+    margin-bottom: 2rem;
+}
+
+.featured-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.image-caption {
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    font-style: italic;
+}
+
+/* Article Content */
+.article-content {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+.article-content p {
+    margin-bottom: 1.5rem;
+}
+
+.article-content .lead {
+    font-size: 1.25rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+}
+
+.article-content h2 {
+    font-size: 2rem;
+    margin: 3rem 0 1rem 0;
+    color: var(--text-primary);
+}
+
+.article-content h3 {
+    font-size: 1.5rem;
+    margin: 2rem 0 1rem 0;
+    color: var(--text-primary);
+}
+
+.article-content ul,
+.article-content ol {
+    margin: 1.5rem 0;
+    padding-left: 2rem;
+}
+
+.article-content li {
+    margin-bottom: 0.75rem;
+}
+
+.article-content strong {
+    color: var(--text-primary);
+}
+
+.article-content em {
+    font-style: italic;
+}
+
+/* Data Tables */
+.data-table {
+    overflow-x: auto;
+    margin: 2rem 0;
+}
+
+.data-table table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.data-table th,
+.data-table td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.data-table th {
+    background-color: var(--bg-light);
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.data-table tr:hover {
+    background-color: var(--bg-light);
+}
+
+/* Article Ads */
+.article-ad-top {
+    margin: 2rem 0;
+}
+
+.article-ad-middle {
+    margin: 3rem 0;
+}
+
+.article-ad-bottom {
+    margin: 3rem 0 2rem 0;
+}
+
+/* Related Articles */
+.related-articles {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.related-articles h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.related-grid {
+    display: grid;
+    gap: 1rem;
+}
+
+.related-item {
+    padding: 1rem;
+    background: var(--bg-light);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.related-item:hover {
+    background: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.related-item h4 {
+    margin-bottom: 0.5rem;
+}
+
+.related-item h4 a {
+    color: var(--text-primary);
+    text-decoration: none;
+}
+
+.related-item h4 a:hover {
+    color: var(--primary-color);
+}
+
+.related-item .date {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .full-article h1 {
+        font-size: 2rem;
+    }
+    
+    .article-content {
+        font-size: 1rem;
+    }
+    
+    .article-content h2 {
+        font-size: 1.5rem;
+    }
+    
+    .data-table {
+        font-size: 0.9rem;
+    }
+    
+    .share-buttons {
+        justify-content: center;
+    }
+}
