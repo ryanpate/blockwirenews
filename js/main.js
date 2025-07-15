@@ -91,8 +91,8 @@ async function loadOriginalArticles() {
             author: 'BlockwireNews Team',
             date: '2025-07-15',
             image: '/images/bitcoin-market-july-2025.jpg',
-            slug: 'first_article_ever'
-        }   
+            slug: 'crypto-market-update-july-15-2025'
+        },
     ];
 
     let articlesHTML = '';
