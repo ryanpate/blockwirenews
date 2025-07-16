@@ -1,0 +1,123 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/images"
+public_folder: "/images"
+
+collections:
+  - name: "news"
+    label: "News Articles"
+    folder: "content/news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured", name: "featured", widget: "boolean", default: false}
+      - {label: "Source", name: "source", widget: "string", default: "BlockwireNews"}
+      - {label: "Source URL", name: "sourceUrl", widget: "string", required: false}
+      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["bitcoin", "ethereum", "defi", "nft", "analysis", "regulation", "trading"]}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "bitcoin"
+    label: "Bitcoin Articles"
+    folder: "content/bitcoin"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string", default: "BlockwireNews Team"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "ethereum"
+    label: "Ethereum Articles"
+    folder: "content/ethereum"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string", default: "BlockwireNews Team"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "defi"
+    label: "DeFi Articles"
+    folder: "content/defi"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string", default: "BlockwireNews Team"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "analysis"
+    label: "Analysis & Opinion"
+    folder: "content/analysis"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string", default: "BlockwireNews Team"}
+      - {label: "Analysis Type", name: "analysisType", widget: "select", options: ["technical", "fundamental", "market", "opinion"]}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "learn"
+    label: "Educational Content"
+    folder: "content/learn"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string", default: "BlockwireNews Team"}
+      - {label: "Difficulty", name: "difficulty", widget: "select", options: ["beginner", "intermediate", "advanced"]}
+      - {label: "Topics", name: "topics", widget: "list"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      
+      - file: "content/about.md"
+        label: "About Page"
+        name: "about"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "settings"
+    label: "Site Settings"
+    files:
+      - file: "data/settings.json"
+        label: "General Settings"
+        name: "general"
+        fields:
+          - {label: "Site Title", name: "site_title", widget: "string"}
+          - {label: "Site Description", name: "site_description", widget: "text"}
+          - {label: "Twitter Handle", name: "twitter", widget: "string"}
+          - {label: "Telegram Link", name: "telegram", widget: "string"}
+          - {label: "Email", name: "email", widget: "string"}
+          - {label: "Google Analytics ID", name: "ga_id", widget: "string"}
+          - {label: "AdSense Publisher ID", name: "adsense_id", widget: "string"}

@@ -1,0 +1,760 @@
+/* Retro-Modern CSS for BlockwireNews */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #FF6B35;
+    --secondary-color: #4ECDC4;
+    --dark-bg: #0A0E27;
+    --card-bg: #1A1F3A;
+    --text-primary: #FFFFFF;
+    --text-secondary: #B8BCC8;
+    --accent-gold: #FFD700;
+    --accent-green: #00FF88;
+    --accent-red: #FF3B3B;
+    --retro-purple: #9D4EDD;
+    --retro-pink: #FF006E;
+    --font-mono: 'Space Mono', 'Courier New', monospace;
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;500;700;900&display=swap');
+
+body {
+    font-family: var(--font-sans);
+    background-color: var(--dark-bg);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+    position: relative;
+}
+
+/* Retro Grid Background */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+        linear-gradient(rgba(78, 205, 196, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(78, 205, 196, 0.03) 1px, transparent 1px);
+    background-size: 50px 50px;
+    z-index: -3;
+}
+
+/* Animated Background */
+.bg-animation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, #0A0E27 0%, #1A1F3A 50%, #0A0E27 100%);
+    z-index: -2;
+}
+
+.bg-animation::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+        radial-gradient(circle at 20% 50%, rgba(157, 78, 221, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 80% 80%, rgba(255, 107, 53, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 40% 20%, rgba(255, 0, 110, 0.05) 0%, transparent 50%);
+    animation: pulse 20s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
+/* Floating Coins Animation */
+.floating-coins {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: -1;
+    pointer-events: none;
+}
+
+.coin {
+    position: absolute;
+    font-size: 20px;
+    opacity: 0.1;
+    animation: float 20s infinite linear;
+    font-family: var(--font-mono);
+    text-shadow: 0 0 10px currentColor;
+}
+
+@keyframes float {
+    from {
+        transform: translateY(100vh) rotate(0deg);
+    }
+    to {
+        transform: translateY(-100px) rotate(360deg);
+    }
+}
+
+/* Retro Header */
+header {
+    background: rgba(26, 31, 58, 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 3px solid var(--primary-color);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 
+        0 4px 30px rgba(255, 107, 53, 0.2),
+        inset 0 -1px 0 rgba(255, 255, 255, 0.1);
+}
+
+nav {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-decoration: none;
+    transition: transform 0.3s;
+}
+
+.logo:hover {
+    transform: scale(1.05);
+}
+
+.logo-icon {
+    width: 50px;
+    height: 50px;
+    background: linear-gradient(45deg, var(--retro-purple), var(--retro-pink), var(--primary-color));
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 
+        0 0 20px rgba(157, 78, 221, 0.5),
+        inset 0 0 20px rgba(255, 255, 255, 0.1);
+}
+
+.logo-icon::before {
+    content: '₿';
+    position: absolute;
+    font-size: 30px;
+    animation: coinSpin 3s linear infinite;
+    font-family: var(--font-mono);
+}
+
+@keyframes coinSpin {
+    from { transform: rotateY(0deg); }
+    to { transform: rotateY(360deg); }
+}
+
+.logo-text {
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: var(--text-primary);
+    text-shadow: 
+        2px 2px 0 var(--retro-purple),
+        3px 3px 0 var(--retro-pink),
+        4px 4px 8px rgba(0,0,0,0.5);
+    font-family: var(--font-mono);
+    letter-spacing: -0.02em;
+}
+
+.nav-links {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+
+.nav-links a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: all 0.3s;
+    position: relative;
+    font-weight: 500;
+    font-family: var(--font-mono);
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.nav-links a::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--accent-green), var(--secondary-color));
+    transition: width 0.3s;
+    box-shadow: 0 0 10px var(--accent-green);
+}
+
+.nav-links a:hover {
+    color: var(--accent-green);
+    text-shadow: 0 0 10px currentColor;
+}
+
+.nav-links a:hover::after {
+    width: 100%;
+}
+
+/* Retro Price Ticker */
+.price-ticker {
+    background: linear-gradient(90deg, rgba(157, 78, 221, 0.1), rgba(255, 0, 110, 0.1));
+    padding: 0.5rem 0;
+    overflow: hidden;
+    white-space: nowrap;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    font-family: var(--font-mono);
+}
+
+.ticker-content {
+    display: inline-block;
+    padding-left: 100%;
+    animation: ticker 30s linear infinite;
+}
+
+@keyframes ticker {
+    0% { transform: translate(0, 0); }
+    100% { transform: translate(-100%, 0); }
+}
+
+.ticker-item {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 3rem;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.ticker-item.positive { 
+    color: var(--accent-green); 
+    text-shadow: 0 0 5px currentColor;
+}
+.ticker-item.negative { 
+    color: var(--accent-red); 
+    text-shadow: 0 0 5px currentColor;
+}
+
+/* Retro Hero Section */
+.hero {
+    max-width: 1400px;
+    margin: 3rem auto;
+    padding: 0 2rem;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    font-weight: 900;
+    font-family: var(--font-mono);
+    text-transform: uppercase;
+    letter-spacing: -0.02em;
+    background: linear-gradient(45deg, var(--retro-purple), var(--retro-pink), var(--primary-color), var(--secondary-color));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 200%;
+    animation: gradientShift 5s ease infinite;
+    filter: drop-shadow(0 0 20px rgba(157, 78, 221, 0.5));
+}
+
+@keyframes gradientShift {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+}
+
+.hero p {
+    font-size: 1.25rem;
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+    font-family: var(--font-mono);
+    text-shadow: 0 0 10px rgba(78, 205, 196, 0.3);
+}
+
+/* Retro Search Bar */
+.search-container {
+    max-width: 600px;
+    margin: 0 auto 3rem;
+    position: relative;
+}
+
+.search-bar {
+    width: 100%;
+    padding: 1rem 3rem 1rem 1.5rem;
+    background: var(--card-bg);
+    border: 2px solid var(--retro-purple);
+    border-radius: 50px;
+    color: var(--text-primary);
+    font-size: 1rem;
+    font-family: var(--font-mono);
+    transition: all 0.3s;
+    box-shadow: 
+        0 0 20px rgba(157, 78, 221, 0.2),
+        inset 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.search-bar:focus {
+    outline: none;
+    border-color: var(--accent-green);
+    box-shadow: 
+        0 0 30px rgba(0, 255, 136, 0.4),
+        inset 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.search-btn {
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: linear-gradient(45deg, var(--retro-purple), var(--retro-pink));
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    transition: all 0.3s;
+    box-shadow: 0 0 15px rgba(157, 78, 221, 0.5);
+}
+
+.search-btn:hover {
+    transform: translateY(-50%) scale(1.1);
+    box-shadow: 0 0 25px rgba(255, 0, 110, 0.7);
+}
+
+/* Retro News Cards */
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 2rem;
+    margin-bottom: 4rem;
+}
+
+.news-card {
+    background: var(--card-bg);
+    border-radius: 16px;
+    overflow: hidden;
+    transition: all 0.3s;
+    position: relative;
+    border: 2px solid transparent;
+    box-shadow: 
+        0 4px 20px rgba(0, 0, 0, 0.3),
+        inset 0 0 30px rgba(157, 78, 221, 0.05);
+}
+
+.news-card:hover {
+    transform: translateY(-5px) scale(1.02);
+    border-color: var(--retro-purple);
+    box-shadow: 
+        0 10px 30px rgba(157, 78, 221, 0.3),
+        inset 0 0 30px rgba(255, 0, 110, 0.1);
+}
+
+.news-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--retro-purple), var(--retro-pink), var(--primary-color));
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.news-card:hover::before {
+    opacity: 1;
+    animation: neonPulse 1s ease-in-out infinite;
+}
+
+@keyframes neonPulse {
+    0%, 100% { box-shadow: 0 0 10px currentColor; }
+    50% { box-shadow: 0 0 20px currentColor, 0 0 30px currentColor; }
+}
+
+.card-content {
+    padding: 1.5rem;
+}
+
+.card-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    font-family: var(--font-mono);
+}
+
+.source-badge {
+    background: linear-gradient(45deg, rgba(157, 78, 221, 0.2), rgba(78, 205, 196, 0.2));
+    color: var(--secondary-color);
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    border: 1px solid var(--secondary-color);
+    text-shadow: 0 0 5px currentColor;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: var(--text-primary);
+    line-height: 1.4;
+    transition: color 0.3s;
+    font-weight: 700;
+}
+
+.news-card:hover .card-title {
+    color: var(--accent-green);
+    text-shadow: 0 0 10px rgba(0, 255, 136, 0.5);
+}
+
+.card-excerpt {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.card-tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.tag {
+    background: linear-gradient(45deg, rgba(255, 107, 53, 0.2), rgba(255, 0, 110, 0.2));
+    color: var(--primary-color);
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-family: var(--font-mono);
+    font-weight: 700;
+    transition: all 0.3s;
+    border: 1px solid transparent;
+    text-transform: uppercase;
+}
+
+.tag:hover {
+    background: var(--primary-color);
+    color: var(--dark-bg);
+    transform: scale(1.05);
+    box-shadow: 0 0 15px var(--primary-color);
+    border-color: var(--accent-gold);
+}
+
+/* Retro Section Headers */
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    color: var(--text-primary);
+    position: relative;
+    padding-left: 1rem;
+    font-family: var(--font-mono);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: -0.02em;
+    text-shadow: 
+        2px 2px 0 var(--retro-purple),
+        3px 3px 0 var(--retro-pink),
+        4px 4px 8px rgba(0,0,0,0.5);
+}
+
+.section-title::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 4px;
+    height: 80%;
+    background: linear-gradient(to bottom, var(--retro-purple), var(--retro-pink));
+    box-shadow: 0 0 10px var(--retro-purple);
+}
+
+.view-all {
+    color: var(--secondary-color);
+    text-decoration: none;
+    font-weight: 700;
+    font-family: var(--font-mono);
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    transition: all 0.3s;
+    position: relative;
+}
+
+.view-all:hover {
+    color: var(--accent-green);
+    transform: translateX(5px);
+    text-shadow: 0 0 10px currentColor;
+}
+
+.view-all::after {
+    content: ' →';
+    display: inline-block;
+    transition: transform 0.3s;
+}
+
+.view-all:hover::after {
+    transform: translateX(5px);
+}
+
+/* Retro Featured Section */
+.featured-section {
+    background: 
+        linear-gradient(135deg, rgba(157, 78, 221, 0.1), rgba(255, 0, 110, 0.1)),
+        repeating-linear-gradient(
+            45deg,
+            transparent,
+            transparent 10px,
+            rgba(255, 255, 255, 0.01) 10px,
+            rgba(255, 255, 255, 0.01) 20px
+        );
+    border-radius: 20px;
+    padding: 3rem;
+    margin-bottom: 4rem;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid rgba(157, 78, 221, 0.3);
+    box-shadow: 
+        0 0 40px rgba(157, 78, 221, 0.2),
+        inset 0 0 40px rgba(0, 0, 0, 0.2);
+}
+
+.featured-section::before {
+    content: '🔥';
+    position: absolute;
+    top: -20px;
+    right: 20px;
+    font-size: 100px;
+    opacity: 0.1;
+    animation: float 3s ease-in-out infinite;
+    filter: drop-shadow(0 0 20px var(--retro-pink));
+}
+
+/* Retro Market Cards */
+.market-overview {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.market-card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    transition: all 0.3s;
+    border: 2px solid transparent;
+    box-shadow: 
+        0 4px 20px rgba(0, 0, 0, 0.3),
+        inset 0 0 20px rgba(157, 78, 221, 0.05);
+    position: relative;
+    overflow: hidden;
+}
+
+.market-card::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+    transform: rotate(45deg);
+    transition: all 0.5s;
+    opacity: 0;
+}
+
+.market-card:hover::before {
+    animation: shine 0.5s ease-in-out;
+}
+
+@keyframes shine {
+    0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); opacity: 0; }
+    50% { opacity: 1; }
+    100% { transform: translateX(100%) translateY(100%) rotate(45deg); opacity: 0; }
+}
+
+.market-card:hover {
+    border-color: var(--accent-gold);
+    transform: scale(1.05);
+    box-shadow: 
+        0 8px 30px rgba(255, 215, 0, 0.3),
+        inset 0 0 20px rgba(255, 215, 0, 0.1);
+}
+
+.market-card h3 {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    font-family: var(--font-mono);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.market-value {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    font-family: var(--font-mono);
+    text-shadow: 0 0 10px currentColor;
+}
+
+.market-change {
+    font-size: 0.9rem;
+    font-weight: 700;
+    font-family: var(--font-mono);
+}
+
+.market-change.positive {
+    color: var(--accent-green);
+    text-shadow: 0 0 10px currentColor;
+}
+
+.market-change.negative {
+    color: var(--accent-red);
+    text-shadow: 0 0 10px currentColor;
+}
+
+/* Retro Footer */
+footer {
+    background: 
+        linear-gradient(180deg, transparent, rgba(157, 78, 221, 0.05)),
+        var(--card-bg);
+    margin-top: 4rem;
+    padding: 3rem 0 2rem;
+    border-top: 3px solid var(--retro-purple);
+    position: relative;
+}
+
+footer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--retro-purple), var(--retro-pink), var(--primary-color), var(--secondary-color));
+    animation: neonPulse 2s ease-in-out infinite;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+    }
+    
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+    
+    .news-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .market-overview {
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    .section-title {
+        font-size: 1.8rem;
+    }
+}
+
+/* Additional Retro Effects */
+.glitch {
+    position: relative;
+    text-shadow: 
+        0.05em 0 0 rgba(255, 0, 0, 0.75),
+        -0.025em -0.05em 0 rgba(0, 255, 0, 0.75),
+        0.025em 0.05em 0 rgba(0, 0, 255, 0.75);
+    animation: glitch 2s infinite;
+}
+
+@keyframes glitch {
+    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+        text-shadow: 
+            0.05em 0 0 rgba(255, 0, 0, 0.75),
+            -0.025em -0.05em 0 rgba(0, 255, 0, 0.75),
+            0.025em 0.05em 0 rgba(0, 0, 255, 0.75);
+    }
+    20%, 22%, 24%, 55% {
+        text-shadow: 
+            0.05em 0 0 rgba(255, 0, 0, 0.75),
+            -0.025em -0.05em 0 rgba(0, 255, 0, 0.75),
+            0.025em 0.05em 0 rgba(0, 0, 255, 0.75);
+        transform: translate(2px, 2px);
+    }
+}
+
+/* Newsletter Form */
+.newsletter-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.newsletter-form input[type="email"] {
+    flex: 1;
+    padding: 1rem;
+    background: var(--dark-bg);
+    border: 2px solid var(--secondary-color);
+    border-radius: 8px;
+    color: var(--text-primary);
+    font-family: var(--font-mono);
+}
+
+.newsletter-form button {
+    padding: 1rem 2rem;
+    background: linear-gradient(45deg, var(--retro-purple), var(--retro-pink));
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-family: var(--font-mono);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    box-shadow: 0 0 20px rgba(157, 78, 221, 0.4);
+}
+
+.newsletter-form button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 30px rgba(255, 0, 110, 0.6);
+}

@@ -1,0 +1,113 @@
+{{ define "main" }}
+<!-- Hero Section -->
+<section class="hero">
+    <h1 class="glitch">Real-Time Crypto News Aggregator</h1>
+    <p>Stay ahead with curated cryptocurrency news from top sources worldwide</p>
+    
+    <!-- Search Bar -->
+    <div class="search-container">
+        <input type="search" class="search-bar" placeholder="Search for Bitcoin, Ethereum, DeFi news..." id="searchBar">
+        <button class="search-btn" id="searchBtn">🔍</button>
+    </div>
+</section>
+
+<!-- AdSense Placeholder - Above the fold -->
+{{ partial "adsense.html" (dict "slot" "header" "format" "horizontal") }}
+
+<!-- Market Overview -->
+{{ partial "market-overview.html" . }}
+
+<!-- Featured Section - Aggregated News -->
+<section class="news-container">
+    <div class="featured-section">
+        <h2 class="section-title">🔥 Trending Now</h2>
+        <div class="news-grid">
+            {{ $aggregatedNews := .Site.Data.aggregated_news }}
+            {{ range first 2 $aggregatedNews.featured }}
+                {{ partial "news-card.html" . }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Latest Aggregated News -->
+<section class="news-container">
+    <div class="section-header">
+        <h2 class="section-title">Latest News</h2>
+        <a href="/news/" class="view-all">View All</a>
+    </div>
+    
+    <div class="news-grid">
+        {{ $aggregatedNews := .Site.Data.aggregated_news }}
+        {{ range first 6 $aggregatedNews.latest }}
+            {{ partial "news-card.html" . }}
+        {{ end }}
+    </div>
+</section>
+
+<!-- AdSense Placeholder - Mid content -->
+{{ partial "adsense.html" (dict "slot" "mid-content" "format" "rectangle") }}
+
+<!-- Bitcoin News Section -->
+<section class="news-container">
+    <div class="section-header">
+        <h2 class="section-title">Bitcoin</h2>
+        <a href="/bitcoin/" class="view-all">View All</a>
+    </div>
+    
+    <div class="news-grid">
+        {{ $bitcoinPages := where .Site.RegularPages "Section" "bitcoin" }}
+        {{ range first 3 $bitcoinPages }}
+            <article class="news-card">
+                <div class="card-content">
+                    <div class="card-meta">
+                        <span class="source-badge">{{ .Params.source | default "BlockwireNews" }}</span>
+                        <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+                    </div>
+                    <h3 class="card-title">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h3>
+                    <p class="card-excerpt">{{ .Summary | truncate 150 }}</p>
+                    <div class="card-tags">
+                        {{ range .Params.tags }}
+                            <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+                        {{ end }}
+                    </div>
+                </div>
+            </article>
+        {{ end }}
+    </div>
+</section>
+
+<!-- DeFi & Web3 Section -->
+<section class="news-container">
+    <div class="section-header">
+        <h2 class="section-title">DeFi & Web3</h2>
+        <a href="/defi/" class="view-all">View All</a>
+    </div>
+    
+    <div class="news-grid">
+        {{ $aggregatedNews := .Site.Data.aggregated_news }}
+        {{ range first 3 $aggregatedNews.defi }}
+            {{ partial "news-card.html" . }}
+        {{ end }}
+    </div>
+</section>
+
+<!-- Newsletter Signup -->
+<section class="news-container">
+    <div class="featured-section" style="text-align: center;">
+        <h2 style="margin-bottom: 1rem;">📧 Never Miss a Crypto Update</h2>
+        <p style="color: var(--text-secondary); margin-bottom: 2rem;">Get daily cryptocurrency news delivered to your inbox</p>
+        {{ .Content }}
+        <form class="newsletter-form" style="display: flex; gap: 1rem;">
+            <input type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+        </form>
+    </div>
+</section>
+
+<!-- AdSense Placeholder - Footer -->
+{{ partial "adsense.html" (dict "slot" "footer" "format" "horizontal") }}
+
+{{ end }}

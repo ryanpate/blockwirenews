@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    {{ partial "head.html" . }}
+</head>
+<body>
+    <!-- Animated Background -->
+    <div class="bg-animation"></div>
+    
+    <!-- Floating Coins -->
+    <div class="floating-coins" id="floatingCoins"></div>
+    
+    {{ partial "header.html" . }}
+    
+    {{ partial "price-ticker.html" . }}
+    
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    
+    {{ partial "footer.html" . }}
+    
+    <script src="/js/main.js"></script>
+</body>
+</html>

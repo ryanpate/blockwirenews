@@ -1,0 +1,17 @@
+<article class="news-card">
+    <div class="card-content">
+        <div class="card-meta">
+            <span class="source-badge">{{ .source | default "Aggregated" }}</span>
+            <time>{{ if .timestamp }}{{ .timestamp | dateFormat "Jan 2, 3:04 PM" }}{{ else }}{{ now.Format "Jan 2, 3:04 PM" }}{{ end }}</time>
+        </div>
+        <h3 class="card-title">
+            <a href="{{ .link }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>
+        </h3>
+        <p class="card-excerpt">{{ .excerpt | default (substr .title 0 150) }}</p>
+        <div class="card-tags">
+            {{ range .tags }}
+                <span class="tag">{{ . }}</span>
+            {{ end }}
+        </div>
+    </div>
+</article>
