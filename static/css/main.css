@@ -466,14 +466,20 @@ nav {
 }
 
 .card-title a {
-    color: var(--text-primary);
+    color: var(--text-primary) !important;
     text-decoration: none;
-    transition: color 0.3s;
+    transition: all 0.3s;
+    display: block;
+}
+
+.card-title a:hover {
+    color: var(--accent-green) !important;
+    text-shadow: 0 0 10px rgba(0, 255, 136, 0.5);
 }
 
 .news-card:hover .card-title,
 .news-card:hover .card-title a {
-    color: var(--accent-green);
+    color: var(--accent-green) !important;
     text-shadow: 0 0 10px rgba(0, 255, 136, 0.5);
 }
 
@@ -501,6 +507,8 @@ nav {
     transition: all 0.3s;
     border: 1px solid transparent;
     text-transform: uppercase;
+    display: inline-block;
+    text-decoration: none;
 }
 
 .tag:hover {
@@ -509,6 +517,29 @@ nav {
     transform: scale(1.05);
     box-shadow: 0 0 15px var(--primary-color);
     border-color: var(--accent-gold);
+}
+
+/* Override any default link styles in cards */
+.news-card h1 a,
+.news-card h2 a,
+.news-card h3 a,
+.news-card h4 a,
+.news-card h5 a,
+.news-card h6 a {
+    color: var(--text-primary) !important;
+}
+
+.news-card p {
+    color: var(--text-secondary) !important;
+}
+
+/* Ensure featured section cards have proper text color */
+.featured-section .news-card a {
+    color: var(--text-primary) !important;
+}
+
+.featured-section .news-card:hover a {
+    color: var(--accent-green) !important;
 }
 
 /* Retro Section Headers */
