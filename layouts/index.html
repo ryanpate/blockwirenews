@@ -3,7 +3,7 @@
 <section class="hero">
     <h1 class="glitch">Real-Time Crypto News Aggregator</h1>
     <p>Stay ahead with curated cryptocurrency news from top sources worldwide</p>
-    
+
     <!-- Search Bar -->
     <div class="search-container">
         <input type="search" class="search-bar" placeholder="Search for Bitcoin, Ethereum, DeFi news..." id="searchBar">
@@ -23,8 +23,37 @@
         <h2 class="section-title">🔥 Trending Now</h2>
         <div class="news-grid">
             {{ $aggregatedNews := .Site.Data.aggregated_news }}
+            {{ if $aggregatedNews }}
+            {{ if $aggregatedNews.featured }}
             {{ range first 2 $aggregatedNews.featured }}
-                {{ partial "news-card.html" . }}
+            {{ partial "news-card.html" . }}
+            {{ end }}
+            {{ else }}
+            <p style="color: var(--text-secondary); text-align: center; width: 100%;">No featured news available. Run
+                the news scraper to populate content.</p>
+            {{ end }}
+            {{ else }}
+            <!-- Fallback to recent posts -->
+            {{ $recentPosts := where .Site.RegularPages "Section" "!=" "" | first 2 }}
+            {{ range $recentPosts }}
+            <article class="news-card">
+                <div class="card-content">
+                    <div class="card-meta">
+                        <span class="source-badge">{{ .Section | humanize }}</span>
+                        <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+                    </div>
+                    <h3 class="card-title">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h3>
+                    <p class="card-excerpt">{{ .Summary | truncate 150 }}</p>
+                    <div class="card-tags">
+                        {{ range .Params.tags }}
+                        <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+                        {{ end }}
+                    </div>
+                </div>
+            </article>
+            {{ end }}
             {{ end }}
         </div>
     </div>
@@ -36,11 +65,35 @@
         <h2 class="section-title">Latest News</h2>
         <a href="/news/" class="view-all">View All</a>
     </div>
-    
+
     <div class="news-grid">
         {{ $aggregatedNews := .Site.Data.aggregated_news }}
+        {{ if and $aggregatedNews $aggregatedNews.latest }}
         {{ range first 6 $aggregatedNews.latest }}
-            {{ partial "news-card.html" . }}
+        {{ partial "news-card.html" . }}
+        {{ end }}
+        {{ else }}
+        <!-- Fallback to recent posts -->
+        {{ $recentPosts := where .Site.RegularPages "Section" "!=" "" | first 6 }}
+        {{ range $recentPosts }}
+        <article class="news-card">
+            <div class="card-content">
+                <div class="card-meta">
+                    <span class="source-badge">{{ .Section | humanize }}</span>
+                    <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+                </div>
+                <h3 class="card-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h3>
+                <p class="card-excerpt">{{ .Summary | truncate 150 }}</p>
+                <div class="card-tags">
+                    {{ range .Params.tags }}
+                    <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+                    {{ end }}
+                </div>
+            </div>
+        </article>
+        {{ end }}
         {{ end }}
     </div>
 </section>
@@ -54,27 +107,27 @@
         <h2 class="section-title">Bitcoin</h2>
         <a href="/bitcoin/" class="view-all">View All</a>
     </div>
-    
+
     <div class="news-grid">
         {{ $bitcoinPages := where .Site.RegularPages "Section" "bitcoin" }}
         {{ range first 3 $bitcoinPages }}
-            <article class="news-card">
-                <div class="card-content">
-                    <div class="card-meta">
-                        <span class="source-badge">{{ .Params.source | default "BlockwireNews" }}</span>
-                        <time>{{ .Date.Format "Jan 2, 2006" }}</time>
-                    </div>
-                    <h3 class="card-title">
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    </h3>
-                    <p class="card-excerpt">{{ .Summary | truncate 150 }}</p>
-                    <div class="card-tags">
-                        {{ range .Params.tags }}
-                            <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
-                        {{ end }}
-                    </div>
+        <article class="news-card">
+            <div class="card-content">
+                <div class="card-meta">
+                    <span class="source-badge">{{ .Params.source | default "BlockwireNews" }}</span>
+                    <time>{{ .Date.Format "Jan 2, 2006" }}</time>
                 </div>
-            </article>
+                <h3 class="card-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h3>
+                <p class="card-excerpt">{{ .Summary | truncate 150 }}</p>
+                <div class="card-tags">
+                    {{ range .Params.tags }}
+                    <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+                    {{ end }}
+                </div>
+            </div>
+        </article>
         {{ end }}
     </div>
 </section>
@@ -85,11 +138,35 @@
         <h2 class="section-title">DeFi & Web3</h2>
         <a href="/defi/" class="view-all">View All</a>
     </div>
-    
+
     <div class="news-grid">
         {{ $aggregatedNews := .Site.Data.aggregated_news }}
+        {{ if and $aggregatedNews $aggregatedNews.defi }}
         {{ range first 3 $aggregatedNews.defi }}
-            {{ partial "news-card.html" . }}
+        {{ partial "news-card.html" . }}
+        {{ end }}
+        {{ else }}
+        <!-- Fallback to DeFi category posts -->
+        {{ $defiPosts := where .Site.RegularPages "Section" "defi" | first 3 }}
+        {{ range $defiPosts }}
+        <article class="news-card">
+            <div class="card-content">
+                <div class="card-meta">
+                    <span class="source-badge">{{ .Params.source | default "BlockwireNews" }}</span>
+                    <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+                </div>
+                <h3 class="card-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h3>
+                <p class="card-excerpt">{{ .Summary | truncate 150 }}</p>
+                <div class="card-tags">
+                    {{ range .Params.tags }}
+                    <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+                    {{ end }}
+                </div>
+            </div>
+        </article>
+        {{ end }}
         {{ end }}
     </div>
 </section>
@@ -98,7 +175,8 @@
 <section class="news-container">
     <div class="featured-section" style="text-align: center;">
         <h2 style="margin-bottom: 1rem;">📧 Never Miss a Crypto Update</h2>
-        <p style="color: var(--text-secondary); margin-bottom: 2rem;">Get daily cryptocurrency news delivered to your inbox</p>
+        <p style="color: var(--text-secondary); margin-bottom: 2rem;">Get daily cryptocurrency news delivered to your
+            inbox</p>
         {{ .Content }}
         <form class="newsletter-form" style="display: flex; gap: 1rem;">
             <input type="email" placeholder="Enter your email" required>
