@@ -1,351 +1,280 @@
+#!/usr/bin/env python3
+"""
+Cryptocurrency News Scraper for Hugo
+Scrapes news from popular crypto news site RSS feeds and saves to Hugo data format
+"""
+
 import requests
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import time
 import json
+import os
 from datetime import datetime
-import feedparser
+import time
+import hashlib
+from urllib.parse import urlparse
 import logging
 
 # Set up logging
-logging.basicConfig(level=logging.INFO,
-                    format='%(asctime)s - %(levelname)s - %(message)s')
-
-# Cryptocurrency news sources with their RSS feeds and web scraping configs
-CRYPTO_SOURCES = {
-    'rss_feeds': {
-        'CoinDesk': 'https://www.coindesk.com/arc/outboundfeeds/rss/',
-        'CoinTelegraph': 'https://cointelegraph.com/rss',
-        'CryptoSlate': 'https://cryptoslate.com/feed/',
-        'The Block': 'https://www.theblock.co/rss.xml',
-        'Decrypt': 'https://decrypt.co/feed',
-        'Bitcoin Magazine': 'https://bitcoinmagazine.com/feed',
-        'CryptoNews': 'https://cryptonews.com/news/feed/',
-        'NewsBTC': 'https://www.newsbtc.com/feed/',
-        'Bitcoinist': 'https://bitcoinist.com/feed/',
-        'CryptoPotato': 'https://cryptopotato.com/feed/'
-    },
-    'web_scraping': {
-        'CoinDesk': {
-            'url': 'https://www.coindesk.com/livewire/',
-            'article_selector': 'div.article-card',
-            'title_selector': 'h3',
-            'link_selector': 'a',
-            'time_selector': 'time',
-            'use_selenium': True
-        },
-        'CoinTelegraph': {
-            'url': 'https://cointelegraph.com/tags/bitcoin',
-            'article_selector': 'article.post-card',
-            'title_selector': 'h2.post-card__title',
-            'link_selector': 'a.post-card__title-link',
-            'time_selector': 'time.post-card__date',
-            'use_selenium': True
-        },
-        'CryptoSlate': {
-            'url': 'https://cryptoslate.com/news/',
-            'article_selector': 'article.post',
-            'title_selector': 'h2.title',
-            'link_selector': 'a',
-            'time_selector': 'span.date',
-            'use_selenium': False
-        }
-    }
-}
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
 
 
 class CryptoNewsScraper:
-    def __init__(self):
-        self.news_data = []
-        self.selenium_driver = None
+    def __init__(self, hugo_data_dir='../data'):
+        self.headers = {
+            'User-Agent': (
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+                'AppleWebKit/537.36 (KHTML, like Gecko) '
+                'Chrome/91.0.4472.124 Safari/537.36'
+            )
+        }
+        self.session = requests.Session()
+        self.session.headers.update(self.headers)
+        self.hugo_data_dir = hugo_data_dir
+        self.news_file = os.path.join(hugo_data_dir, 'aggregated_news.json')
+        self.existing_articles = self.load_existing_articles()
 
-    def get_selenium_driver(self):
-        """Initialize and return a Selenium WebDriver instance"""
-        if not self.selenium_driver:
-            options = Options()
-            options.add_argument("--headless")
-            options.add_argument('--no-sandbox')
-            options.add_argument('--disable-dev-shm-usage')
-            options.add_argument('--disable-gpu')
-            options.add_argument('--window-size=1920,1080')
-            options.add_argument(
-                'user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
+        # Ensure data directory exists
+        os.makedirs(hugo_data_dir, exist_ok=True)
 
+    def load_existing_articles(self):
+        """Load existing articles to avoid duplicates."""
+        if os.path.exists(self.news_file):
             try:
-                self.selenium_driver = webdriver.Chrome(options=options)
+                with open(self.news_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    existing = set()
+                    for category_articles in data.values():
+                        if isinstance(category_articles, list):
+                            for article in category_articles:
+                                if 'id' in article:
+                                    existing.add(article['id'])
+                    return existing
             except Exception as e:
-                logging.error(f"Failed to initialize Chrome driver: {e}")
-                return None
+                logging.error(f"Error loading existing articles: {e}")
+                return set()
+        return set()
 
-        return self.selenium_driver
+    def generate_article_id(self, title, url):
+        """Generate unique ID for an article."""
+        content = f"{title}{url}"
+        return hashlib.md5(content.encode()).hexdigest()
 
-    def close_selenium(self):
-        """Close Selenium driver"""
-        if self.selenium_driver:
-            self.selenium_driver.quit()
-            self.selenium_driver = None
+    def determine_categories(self, title, summary):
+        """Determine article categories based on content"""
+        text = f"{title} {summary}".lower()
+        categories = []
 
-    def get_soup(self, url, use_selenium=False):
-        """Get BeautifulSoup object from URL"""
-        try:
-            if use_selenium:
-                driver = self.get_selenium_driver()
-                if not driver:
-                    return None
+        if any(word in text for word in ['bitcoin', 'btc', 'satoshi', 'lightning']):
+            categories.append('bitcoin')
+        if any(word in text for word in ['ethereum', 'eth', 'vitalik', 'smart contract']):
+            categories.append('ethereum')
+        if any(word in text for word in ['defi', 'yield', 'liquidity', 'amm', 'dex']):
+            categories.append('defi')
+        if any(word in text for word in ['nft', 'opensea', 'collectible', 'non-fungible']):
+            categories.append('nft')
+        if any(word in text for word in ['analysis', 'technical', 'chart', 'prediction']):
+            categories.append('analysis')
 
-                driver.get(url)
-                # Wait for content to load
-                WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.TAG_NAME, "article"))
-                )
-                # Scroll to load more content
-                driver.execute_script(
-                    "window.scrollTo(0, document.body.scrollHeight);")
-                time.sleep(2)
+        if not categories:
+            categories.append('crypto')
 
-                soup = BeautifulSoup(driver.page_source, 'html.parser')
-            else:
-                headers = {
-                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                    'Accept-Language': 'en-US,en;q=0.9',
-                    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-                    'Accept-Encoding': 'gzip, deflate',
-                    'DNT': '1',
-                    'Connection': 'keep-alive',
-                    'Upgrade-Insecure-Requests': '1'
-                }
-                response = requests.get(url, headers=headers, timeout=10)
-                response.raise_for_status()
-                soup = BeautifulSoup(response.text, 'html.parser')
+        return categories
 
-            return soup
-
-        except Exception as e:
-            logging.error(f"Error fetching {url}: {e}")
-            return None
-
-    def scrape_rss_feeds(self):
-        """Scrape news from RSS feeds"""
-        logging.info("Scraping RSS feeds...")
-
-        for source, feed_url in CRYPTO_SOURCES['rss_feeds'].items():
-            try:
-                feed = feedparser.parse(feed_url)
-
-                for entry in feed.entries[:10]:  # Get latest 10 articles
-                    article = {
-                        'source': source,
-                        'title': entry.get('title', 'No title'),
-                        'link': entry.get('link', ''),
-                        'published': entry.get('published', ''),
-                        'summary': entry.get('summary', '')[:200] + '...' if entry.get('summary') else '',
-                        'tags': self.extract_tags(entry.get('title', '') + ' ' + entry.get('summary', '')),
-                        'scrape_time': datetime.now().isoformat()
-                    }
-                    self.news_data.append(article)
-
-                logging.info(
-                    f"✓ Scraped {len(feed.entries[:10])} articles from {source} RSS")
-
-            except Exception as e:
-                logging.error(f"Error scraping RSS feed for {source}: {e}")
-
-    def scrape_websites(self):
-        """Scrape news directly from websites"""
-        logging.info("Scraping websites...")
-
-        for source, config in CRYPTO_SOURCES['web_scraping'].items():
-            try:
-                soup = self.get_soup(
-                    config['url'], config.get('use_selenium', False))
-                if not soup:
-                    continue
-
-                articles = soup.select(config['article_selector'])[:10]
-
-                for article in articles:
-                    try:
-                        # Extract title
-                        title_elem = article.select_one(
-                            config['title_selector'])
-                        title = title_elem.get_text(
-                            strip=True) if title_elem else 'No title'
-
-                        # Extract link
-                        link_elem = article.select_one(config['link_selector'])
-                        if link_elem:
-                            link = link_elem.get('href', '')
-                            if link and not link.startswith('http'):
-                                link = f"https://{source.lower().replace(' ', '')}.com{link}"
-                        else:
-                            link = ''
-
-                        # Extract time
-                        time_elem = article.select_one(
-                            config.get('time_selector', 'time'))
-                        published = time_elem.get_text(
-                            strip=True) if time_elem else 'Unknown'
-
-                        article_data = {
-                            'source': source,
-                            'title': title,
-                            'link': link,
-                            'published': published,
-                            'summary': '',
-                            'tags': self.extract_tags(title),
-                            'scrape_time': datetime.now().isoformat()
-                        }
-
-                        self.news_data.append(article_data)
-
-                    except Exception as e:
-                        logging.error(
-                            f"Error parsing article from {source}: {e}")
-
-                logging.info(
-                    f"✓ Scraped {len(articles)} articles from {source} website")
-
-            except Exception as e:
-                logging.error(f"Error scraping website for {source}: {e}")
-
-    def extract_tags(self, text):
-        """Extract relevant crypto tags from text"""
-        text = text.lower()
+    def extract_tags(self, title, summary):
+        """Extract relevant tags from content"""
+        text = f"{title} {summary}".lower()
         tags = []
 
-        crypto_keywords = {
-            'bitcoin': ['bitcoin', 'btc', 'satoshi'],
-            'ethereum': ['ethereum', 'eth', 'vitalik'],
-            'defi': ['defi', 'decentralized finance', 'yield', 'liquidity'],
-            'nft': ['nft', 'non-fungible', 'opensea', 'digital art'],
-            'blockchain': ['blockchain', 'distributed ledger', 'consensus'],
-            'regulation': ['regulation', 'sec', 'legal', 'compliance'],
-            'trading': ['trading', 'exchange', 'market', 'price'],
-            'mining': ['mining', 'miner', 'hashrate', 'proof of work'],
-            'web3': ['web3', 'decentralized web', 'dapp'],
-            'altcoin': ['altcoin', 'alt', 'token'],
-            'stablecoin': ['stablecoin', 'usdt', 'usdc', 'dai'],
-            'metaverse': ['metaverse', 'virtual world', 'digital realm']
+        tag_keywords = {
+            'Bitcoin': ['bitcoin', 'btc'],
+            'Ethereum': ['ethereum', 'eth'],
+            'DeFi': ['defi', 'yield', 'liquidity'],
+            'NFT': ['nft', 'opensea'],
+            'Trading': ['trading', 'price', 'market'],
+            'Regulation': ['regulation', 'sec', 'legal'],
+            'Analysis': ['analysis', 'technical', 'chart']
         }
 
-        for tag, keywords in crypto_keywords.items():
+        for tag, keywords in tag_keywords.items():
             if any(keyword in text for keyword in keywords):
                 tags.append(tag)
 
-        return tags[:5]  # Return max 5 tags
+        return tags[:5]  # Max 5 tags
 
-    def scrape_all(self):
-        """Run all scraping methods"""
-        logging.info("Starting crypto news aggregation...")
+    def clean_summary(self, summary):
+        """Clean and truncate summary text"""
+        # Remove HTML tags
+        soup = BeautifulSoup(summary, 'html.parser')
+        clean_text = soup.get_text()
+        # Truncate to 200 chars
+        if len(clean_text) > 200:
+            clean_text = clean_text[:197] + '...'
+        return clean_text.strip()
 
-        # Scrape RSS feeds first (more reliable)
-        self.scrape_rss_feeds()
+    def fetch_rss(self, feed_url, source_name, limit=10):
+        """Fetch items from an RSS feed in Hugo format."""
+        articles = []
+        try:
+            resp = self.session.get(feed_url, timeout=10)
+            resp.raise_for_status()
+            soup = BeautifulSoup(resp.content, 'xml')
+            items = soup.find_all('item', limit=limit)
 
-        # Then scrape websites
-        self.scrape_websites()
+            for item in items:
+                title = item.title.text.strip() if item.title else ''
+                link = item.link.text.strip() if item.link else ''
 
-        # Close Selenium driver
-        self.close_selenium()
+                if not title or not link:
+                    continue
 
-        # Remove duplicates based on title
-        unique_news = []
-        seen_titles = set()
+                summary = ''
+                if item.description:
+                    summary = self.clean_summary(item.description.text)
 
-        for article in self.news_data:
-            if article['title'] not in seen_titles:
-                seen_titles.add(article['title'])
-                unique_news.append(article)
+                # Try to get publication date
+                pub_date = item.pubDate.text if item.pubDate else datetime.now().isoformat()
 
-        self.news_data = unique_news
+                article_id = self.generate_article_id(title, link)
+                if article_id in self.existing_articles:
+                    continue
 
-        # Sort by scrape time (most recent first)
-        self.news_data.sort(key=lambda x: x['scrape_time'], reverse=True)
+                # Format for Hugo
+                article = {
+                    'id': article_id,
+                    'title': title,
+                    'link': link,
+                    'source': source_name,
+                    'sourceUrl': feed_url,
+                    'timestamp': pub_date,
+                    'excerpt': summary,
+                    'categories': self.determine_categories(title, summary),
+                    'tags': self.extract_tags(title, summary)
+                }
+
+                articles.append(article)
+
+            logging.info(
+                f"Fetched {len(articles)} new articles from {source_name}")
+
+        except Exception as e:
+            logging.error(f"Error fetching RSS from {source_name}: {e}")
+
+        return articles
+
+    def scrape_all_sources(self):
+        """Scrape all configured RSS sources."""
+        all_articles = []
+
+        # RSS sources configuration
+        rss_sources = [
+            ('CoinDesk', 'https://www.coindesk.com/arc/outboundfeeds/rss/'),
+            ('CoinTelegraph', 'https://cointelegraph.com/rss'),
+            ('CryptoNews', 'https://cryptonews.com/news/feed/'),
+            ('Bitcoin.com', 'https://news.bitcoin.com/feed/'),
+            ('Bitcoinist', 'https://bitcoinist.com/feed/'),
+            ('CryptoSlate', 'https://cryptoslate.com/feed/'),
+            ('The Daily Hodl', 'https://dailyhodl.com/feed/'),
+            ('BeInCrypto', 'https://beincrypto.com/feed/'),
+            ('NewsBTC', 'https://www.newsbtc.com/feed/'),
+            ('CryptoPotato', 'https://cryptopotato.com/feed/')
+        ]
+
+        for source_name, feed_url in rss_sources:
+            articles = self.fetch_rss(feed_url, source_name)
+            all_articles.extend(articles)
+            time.sleep(1)  # Be polite
+
+        # Sort by timestamp (newest first)
+        all_articles.sort(key=lambda x: x['timestamp'], reverse=True)
+        return all_articles
+
+    def save_to_hugo_format(self, new_articles):
+        """Save articles in Hugo data format."""
+        # Load existing data
+        if os.path.exists(self.news_file):
+            try:
+                with open(self.news_file, 'r', encoding='utf-8') as f:
+                    existing_data = json.load(f)
+            except:
+                existing_data = {}
+        else:
+            existing_data = {}
+
+        # Merge new articles with existing ones
+        all_articles = new_articles
+        if 'all' in existing_data and isinstance(existing_data['all'], list):
+            # Add existing articles that aren't duplicates
+            existing_ids = {a['id'] for a in new_articles}
+            for article in existing_data['all']:
+                if article.get('id') not in existing_ids:
+                    all_articles.append(article)
+
+        # Sort all articles by timestamp
+        all_articles.sort(key=lambda x: x.get('timestamp', ''), reverse=True)
+
+        # Limit total articles to prevent file from growing too large
+        all_articles = all_articles[:500]
+
+        # Categorize articles for Hugo
+        hugo_data = {
+            'latest': all_articles[:20],
+            'featured': [a for a in all_articles if any(cat in ['bitcoin', 'ethereum'] for cat in a.get('categories', []))][:5],
+            'bitcoin': [a for a in all_articles if 'bitcoin' in a.get('categories', [])][:10],
+            'ethereum': [a for a in all_articles if 'ethereum' in a.get('categories', [])][:10],
+            'defi': [a for a in all_articles if 'defi' in a.get('categories', [])][:10],
+            'nft': [a for a in all_articles if 'nft' in a.get('categories', [])][:10],
+            'analysis': [a for a in all_articles if 'analysis' in a.get('categories', [])][:10],
+            'all': all_articles,
+            'last_updated': datetime.now().isoformat()
+        }
+
+        # Save to JSON file
+        with open(self.news_file, 'w', encoding='utf-8') as f:
+            json.dump(hugo_data, f, ensure_ascii=False, indent=2)
 
         logging.info(
-            f"✓ Total unique articles collected: {len(self.news_data)}")
+            f"Saved {len(new_articles)} new articles to {self.news_file}")
 
-        return self.news_data
+        # Update existing articles set
+        for article in new_articles:
+            article_id = article.get('id')
+            if article_id:
+                self.existing_articles.add(article_id)
+            else:
+                logging.warning(f"Skipping article without id: {article}")
 
-    def save_to_json(self, filename='crypto_news.json'):
-        """Save scraped data to JSON file"""
-        with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(self.news_data, f, ensure_ascii=False, indent=2)
-        logging.info(f"✓ Data saved to {filename}")
+    def run(self):
+        """Main execution method."""
+        try:
+            logging.info("Starting crypto news scraping...")
+            new_articles = self.scrape_all_sources()
 
-    def save_to_html(self, filename='crypto_news.html'):
-        """Generate an HTML file with the news"""
-        html_template = '''
-        <!DOCTYPE html>
-        <html>
-        <head>
-            <title>Crypto News Aggregator</title>
-            <style>
-                body { font-family: Arial, sans-serif; margin: 20px; background: #f5f5f5; }
-                .article { background: white; padding: 15px; margin: 10px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-                .source { color: #007bff; font-weight: bold; }
-                .title { font-size: 18px; margin: 10px 0; }
-                .link { color: #28a745; text-decoration: none; }
-                .tags { margin-top: 10px; }
-                .tag { background: #e9ecef; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px; }
-                .time { color: #666; font-size: 14px; }
-            </style>
-        </head>
-        <body>
-            <h1>Latest Cryptocurrency News</h1>
-            <p>Last updated: {update_time}</p>
-            {articles}
-        </body>
-        </html>
-        '''
+            if new_articles:
+                self.save_to_hugo_format(new_articles)
+                logging.info(
+                    f"Successfully scraped {len(new_articles)} new articles")
 
-        articles_html = ''
-        for article in self.news_data[:50]:  # Show top 50 articles
-            tags_html = ''.join(
-                [f'<span class="tag">{tag}</span>' for tag in article['tags']])
-            articles_html += f'''
-            <div class="article">
-                <span class="source">{article['source']}</span> • <span class="time">{article['published']}</span>
-                <h3 class="title">{article['title']}</h3>
-                <a class="link" href="{article['link']}" target="_blank">Read full article →</a>
-                <div class="tags">{tags_html}</div>
-            </div>
-            '''
+                # Print summary
+                print(f"\n✓ Scraped {len(new_articles)} new articles")
+                print(f"✓ Data saved to {self.news_file}")
+                print("\nSample articles:")
+                for article in new_articles[:3]:
+                    print(f"- {article['title']} ({article['source']})")
+            else:
+                logging.info("No new articles found")
 
-        html_content = html_template.format(
-            update_time=datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-            articles=articles_html
-        )
-
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(html_content)
-
-        logging.info(f"✓ HTML file generated: {filename}")
+        except Exception as e:
+            logging.error(f"Fatal error: {e}")
+            raise
 
 
-def main():
-    """Main function to run the scraper"""
-    scraper = CryptoNewsScraper()
+if __name__ == "__main__":
+    # Determine the correct path to Hugo data directory
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    hugo_data_dir = os.path.join(script_dir, 'data')
 
-    # Scrape all sources
-    news_data = scraper.scrape_all()
-
-    # Save results
-    scraper.save_to_json()
-    scraper.save_to_html()
-
-    # Print sample results
-    print("\n--- Sample Results ---")
-    for article in news_data[:5]:
-        print(f"\nSource: {article['source']}")
-        print(f"Title: {article['title']}")
-        print(f"Link: {article['link']}")
-        print(f"Tags: {', '.join(article['tags'])}")
-        print("-" * 50)
-
-
-if __name__ == '__main__':
-    main()
+    scraper = CryptoNewsScraper(hugo_data_dir=hugo_data_dir)
+    scraper.run()
