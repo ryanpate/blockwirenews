@@ -1,0 +1,118 @@
+{{ $slot := .slot | default "default" }}
+{{ $format := .format | default "auto" }}
+
+<div class="ad-container">
+    {{ if eq $slot "header" }}
+    <!-- Blockwire Multiplex - Above the fold -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-5523870768931777"
+         data-ad-slot="1109757835"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    
+    {{ else if eq $slot "mid-content" }}
+    <!-- In-article Ad - Mid content -->
+    <ins class="adsbygoogle"
+         style="display:block; text-align:center;"
+         data-ad-layout="in-article"
+         data-ad-format="fluid"
+         data-ad-client="ca-pub-5523870768931777"
+         data-ad-slot="5591794875"></ins>
+    
+    {{ else if eq $slot "in-article" }}
+    <!-- In-article Ad - For blog posts -->
+    <ins class="adsbygoogle"
+         style="display:block; text-align:center;"
+         data-ad-layout="in-article"
+         data-ad-format="fluid"
+         data-ad-client="ca-pub-5523870768931777"
+         data-ad-slot="5591794875"></ins>
+    
+    {{ else if eq $slot "autorelaxed" }}
+    <!-- Autorelaxed Ad -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-format="autorelaxed"
+         data-ad-client="ca-pub-5523870768931777"
+         data-ad-slot="6969423326"></ins>
+    
+    {{ else if eq $slot "footer" }}
+    <!-- Blockwire Multiplex - Footer -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-5523870768931777"
+         data-ad-slot="1109757835"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    
+    {{ else if eq $slot "sidebar" }}
+    <!-- Autorelaxed Ad - Sidebar -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-format="autorelaxed"
+         data-ad-client="ca-pub-5523870768931777"
+         data-ad-slot="6969423326"></ins>
+    
+    {{ else }}
+    <!-- Blockwire Multiplex - Default -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-5523870768931777"
+         data-ad-slot="1109757835"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    {{ end }}
+    
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+
+<!-- Ad styling -->
+<style>
+.ad-container {
+    max-width: 1400px;
+    margin: 2rem auto;
+    padding: 0 2rem;
+    text-align: center;
+    min-height: 100px;
+}
+
+/* Responsive ad containers */
+@media (max-width: 768px) {
+    .ad-container ins[data-ad-format="horizontal"] {
+        width: 100%;
+        height: auto;
+    }
+    
+    .ad-container ins[data-ad-format="rectangle"] {
+        width: 100%;
+        max-width: 336px;
+        height: auto;
+    }
+}
+
+/* Remove ads in development */
+body.development .ad-container {
+    background: rgba(255, 255, 255, 0.05);
+    border: 2px dashed rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    padding: 2rem;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    font-family: var(--font-mono);
+}
+
+body.development .ad-container::before {
+    content: 'AdSense: ' attr(data-ad-slot);
+}
+
+body.development .ad-container ins {
+    display: none !important;
+}
+</style>
