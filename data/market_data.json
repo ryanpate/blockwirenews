@@ -1,0 +1,138 @@
+{
+  "global": {
+    "market_cap": {
+      "value": "$3.8T",
+      "change": -3.75,
+      "positive": false
+    },
+    "volume_24h": {
+      "value": "$224.9B",
+      "change": 0,
+      "positive": true
+    },
+    "btc_dominance": {
+      "value": "61.7%",
+      "change": 0,
+      "positive": true
+    },
+    "active_cryptos": {
+      "value": "17,671",
+      "change": 0,
+      "positive": true
+    }
+  },
+  "tickers": [
+    {
+      "symbol": "ARB",
+      "price": "$0.4264",
+      "change": 7.18,
+      "positive": true
+    },
+    {
+      "symbol": "AVAX",
+      "price": "$21.81",
+      "change": 4.59,
+      "positive": true
+    },
+    {
+      "symbol": "BNB",
+      "price": "$686.77",
+      "change": 0.66,
+      "positive": true
+    },
+    {
+      "symbol": "BTC",
+      "price": "$117,161",
+      "change": -0.75,
+      "positive": false
+    },
+    {
+      "symbol": "ADA",
+      "price": "$0.7359",
+      "change": 1.96,
+      "positive": true
+    },
+    {
+      "symbol": "LINK",
+      "price": "$15.92",
+      "change": 2.84,
+      "positive": true
+    },
+    {
+      "symbol": "ATOM",
+      "price": "$4.63",
+      "change": 2.9,
+      "positive": true
+    },
+    {
+      "symbol": "DOGE",
+      "price": "$0.1963",
+      "change": 2.08,
+      "positive": true
+    },
+    {
+      "symbol": "ETH",
+      "price": "$3,114",
+      "change": 4.82,
+      "positive": true
+    },
+    {
+      "symbol": "NEAR",
+      "price": "$2.64",
+      "change": 4.05,
+      "positive": true
+    },
+    {
+      "symbol": "OP",
+      "price": "$0.6942",
+      "change": 7.05,
+      "positive": true
+    },
+    {
+      "symbol": "DOT",
+      "price": "$4.03",
+      "change": 4.0,
+      "positive": true
+    },
+    {
+      "symbol": "XRP",
+      "price": "$2.89",
+      "change": 0.77,
+      "positive": true
+    },
+    {
+      "symbol": "SOL",
+      "price": "$162.13",
+      "change": 1.62,
+      "positive": true
+    }
+  ],
+  "trending": [
+    {
+      "name": "Pump.fun",
+      "symbol": "PUMP",
+      "rank": 55
+    },
+    {
+      "name": "Toncoin",
+      "symbol": "TON",
+      "rank": 24
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "rank": 63
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "rank": 15
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "rank": 2
+    }
+  ],
+  "last_updated": "2025-07-15T21:39:13.752322"
+}
