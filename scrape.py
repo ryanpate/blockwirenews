@@ -240,11 +240,7 @@ class CryptoNewsScraper:
 
         # Update existing articles set
         for article in new_articles:
-            article_id = article.get('id')
-            if article_id:
-                self.existing_articles.add(article_id)
-            else:
-                logging.warning(f"Skipping article without id: {article}")
+            self.existing_articles.add(article['id'])
 
     def run(self):
         """Main execution method."""
@@ -274,7 +270,7 @@ class CryptoNewsScraper:
 if __name__ == "__main__":
     # Determine the correct path to Hugo data directory
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    hugo_data_dir = os.path.join(script_dir, 'data')
+    hugo_data_dir = os.path.join(script_dir, '..', 'data')
 
     scraper = CryptoNewsScraper(hugo_data_dir=hugo_data_dir)
     scraper.run()

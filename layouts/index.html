@@ -28,32 +28,32 @@
             {{ range first 2 $aggregatedNews.featured }}
             {{ partial "news-card.html" . }}
             {{ end }}
+            {{ else if $aggregatedNews.latest }}
+            <!-- Use latest if no featured -->
+            {{ range first 2 $aggregatedNews.latest }}
+            {{ partial "news-card.html" . }}
+            {{ end }}
             {{ else }}
             <p style="color: var(--text-secondary); text-align: center; width: 100%;">No featured news available. Run
                 the news scraper to populate content.</p>
             {{ end }}
             {{ else }}
-            <!-- Fallback to recent posts -->
-            {{ $recentPosts := where .Site.RegularPages "Section" "!=" "" | first 2 }}
-            {{ range $recentPosts }}
+            <!-- Fallback content -->
             <article class="news-card">
                 <div class="card-content">
                     <div class="card-meta">
-                        <span class="source-badge">{{ .Section | humanize }}</span>
-                        <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+                        <span class="source-badge">BlockwireNews</span>
+                        <time>{{ now.Format "Jan 2, 2006" }}</time>
                     </div>
-                    <h3 class="card-title">
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    </h3>
-                    <p class="card-excerpt">{{ .Summary | truncate 150 }}</p>
+                    <h3 class="card-title">Welcome to BlockwireNews</h3>
+                    <p class="card-excerpt">Your real-time cryptocurrency news aggregator. Run the scraper to start
+                        seeing live news!</p>
                     <div class="card-tags">
-                        {{ range .Params.tags }}
-                        <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
-                        {{ end }}
+                        <span class="tag">Bitcoin</span>
+                        <span class="tag">Crypto</span>
                     </div>
                 </div>
             </article>
-            {{ end }}
             {{ end }}
         </div>
     </div>
