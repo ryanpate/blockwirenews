@@ -657,6 +657,10 @@ nav {
     overflow: hidden;
 }
 
+.market-card * {
+    color: var(--text-primary) !important;
+}
+
 .market-card::before {
     content: '';
     position: absolute;
@@ -699,7 +703,7 @@ nav {
 }
 
 .market-card h3 {
-    color: var(--text-secondary);
+    color: var(--text-secondary) !important;
     font-size: 0.9rem;
     margin-bottom: 0.5rem;
     font-family: var(--font-mono);
@@ -712,23 +716,24 @@ nav {
     font-weight: bold;
     margin-bottom: 0.5rem;
     font-family: var(--font-mono);
-    color: var(--text-primary);
-    text-shadow: 0 0 10px currentColor;
+    color: var(--text-primary) !important;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
 }
 
 .market-change {
     font-size: 0.9rem;
     font-weight: 700;
     font-family: var(--font-mono);
+    color: var(--text-secondary) !important;
 }
 
 .market-change.positive {
-    color: var(--accent-green);
+    color: var(--accent-green) !important;
     text-shadow: 0 0 10px currentColor;
 }
 
 .market-change.negative {
-    color: var(--accent-red);
+    color: var(--accent-red) !important;
     text-shadow: 0 0 10px currentColor;
 }
 
