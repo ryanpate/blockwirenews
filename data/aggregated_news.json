@@ -893,7 +893,29 @@
       "tags": []
     }
   ],
-  "nft": [],
+  "nft": [
+    {
+      "id": "6c52ddf456df5f3b867420b37e355c7d",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Thu, 17 Jul 2025 14:08:15 +0100",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "categories": [
+        "bitcoin",
+        "defi",
+        "nft"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi",
+        "NFT",
+        "Trading",
+        "Regulation"
+      ]
+    }
+  ],
   "analysis": [
     {
       "id": "98c9581cc11927987250f71fb331e145",
@@ -965,6 +987,40 @@
       ]
     },
     {
+      "id": "395ceba51cec12eafe00b17848d0ae75",
+      "title": "FLOKI Surges 40% on Triple Bullish Crossover; Is 25% Still in the Tank?",
+      "link": "https://beincrypto.com/floki-price-40-up-more-coming/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:30:00 +0000",
+      "excerpt": "FLOKI price has already gone up 40% this week. But new chart signals suggest more gains could be coming soon. Here’s what traders are watching.\nThe post FLOKI Surges 40% on Triple Bullish Crossover...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "75735abe43ebc39afb6c2f311d4c6c37",
+      "title": "ETH Skyrockets 8% Daily Above $3.4K, Bulls Eye This Level Next (Ethereum Price Analysis)",
+      "link": "https://cryptopotato.com/eth-skyrockets-8-daily-above-3-4k-bulls-eye-this-level-next-ethereum-price-analysis/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 12:54:31 +0000",
+      "excerpt": "Ethereum has regained upward strength, reclaiming the key $3K level and highlighting strong buyer control. The ongoing bullish momentum now sets sights on the next major target around the $3.5K-$3....",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
       "id": "bd2cfaaf36d84f3d6903feb065aebc53",
       "title": "Bonk Price Prediction: Can BONK Shed A Zero And Hit a New ATH In July 2025?",
       "link": "https://cryptonews.com/news/bonk-price-prediction-can-bonk-shed-a-zero-and-hit-a-new-ath-in-july-2025/",
@@ -1020,40 +1076,6 @@
       "sourceUrl": "https://cointelegraph.com/rss",
       "timestamp": "Thu, 17 Jul 2025 10:38:50 +0100",
       "excerpt": "Bitcoin dominance charts moving downward may be a signal that the much-anticipated “altcoin season” is finally here, analysts said.",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "8babc800c47ce7c597833b16ec7871a9",
-      "title": "Best Meme Coins Live News Today: Latest Opportunities & Updates (July 17)",
-      "link": "https://bitcoinist.com/meme-coins-live-news-july-17-2025/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Thu, 17 Jul 2025 10:00:21 +0000",
-      "excerpt": "Get Early Alpha with Our Immediate Analysis of Today’s Best Meme Coins Check out our Live Update Coverage on the Best Meme Coins for July 17, 2025! With Bitcoin merrily skipping past the $122K ATH,...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "06f9e84dddd10e48b547077e14253ecd",
-      "title": "Crypto Presales Live News Today: Latest Opportunities & Updates (July 17)",
-      "link": "https://bitcoinist.com/crypto-presales-live-news-july-17-2025/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Thu, 17 Jul 2025 10:00:09 +0000",
-      "excerpt": "Stay Ahead with Our Immediate Analysis of Today’s Best Crypto Presales Check out our Live Update Coverage on the Best Crypto Presales for July 17, 2025! As Bitcoin broke through a historical $123K ...",
       "categories": [
         "bitcoin",
         "analysis"
@@ -2710,6 +2732,225 @@
       ]
     },
     {
+      "id": "0ac648bf320e4e71056826ebec2de769",
+      "title": "RGB Protocol to bring tokenized assets, USDT to Bitcoin",
+      "link": "https://cointelegraph.com/news/rgb-protocol-launches-on-bitcoin-enables-tokenized-usdt-and-nfts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Thu, 17 Jul 2025 14:54:56 +0100",
+      "excerpt": "Boosty Labs founder and CEO Viktor Ihnatiuk told Cointelegraph that Tether’s USDT will be RGB’s first real-world use case for stablecoin transfers on Bitcoin.",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "88785567f5738313d99c6fe2a3cceb37",
+      "title": "BTCFi TVL jumps 22x to $7B, but trust remains an issue",
+      "link": "https://cointelegraph.com/news/btcfi-defi-growth-2024-tvl-hits-7b-despite-challenges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Thu, 17 Jul 2025 14:47:45 +0100",
+      "excerpt": "BTCFi, or Bitcoin-based decentralized finance (DeFi), has surged over 22x in TVL since January 2024, driven by new protocols and institutional inflows, but still faces adoption hurdles due to trust.",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi"
+      ]
+    },
+    {
+      "id": "bd877624013363028be8fd1f0071f8d9",
+      "title": "DEX-to-CEX ratio hits new high as crypto traders flee centralization",
+      "link": "https://cointelegraph.com/news/dex-volumes-hit-record-q2-2025-pancakeswap-hyperliquid-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Thu, 17 Jul 2025 14:46:27 +0100",
+      "excerpt": "Despite the rising DEX-to-CEX ratio, centralized exchanges still lead in the crypto spot market, posting $3.9 trillion in trading volume, compared to $877 billion for DEXs.",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "e12c8239aa45a83cd4cf4f1a2b989608",
+      "title": "Bitcoin’s next chapter: From passive asset to financial powerhouse",
+      "link": "https://cointelegraph.com/news/bitcoin-s-next-chapter-from-passive-asset-to-financial-powerhouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Thu, 17 Jul 2025 14:30:00 +0100",
+      "excerpt": "This episode of the Clear Crypto Podcast uncovers how Bitcoin is shedding its passive role and becoming a usable financial tool through wrapped assets, bridges and new DeFi use cases.",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi"
+      ]
+    },
+    {
+      "id": "6c52ddf456df5f3b867420b37e355c7d",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Thu, 17 Jul 2025 14:08:15 +0100",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "categories": [
+        "bitcoin",
+        "defi",
+        "nft"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi",
+        "NFT",
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "f71e3e87a33225bd665f9bb7fabd59d6",
+      "title": "Analyst Predicts the Exact Timing of the Next Altcoin Season",
+      "link": "https://cryptopotato.com/analyst-predicts-the-exact-timing-of-the-next-altcoin-season/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 14:01:51 +0000",
+      "excerpt": "\"Every altseason started on the same day, and this one won't be any different,\" one popular analyst stated.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6ebb78ffc5cebb375bec4757eb71e356",
+      "title": "US Marshalls Own 85% Less Bitcoin Than Believed, FOIA Reveals",
+      "link": "https://bitcoinist.com/us-marshalls-85-less-bitcoin-than-believed-foia/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 14:00:13 +0000",
+      "excerpt": "A Freedom of Information Act (FOIA) request filed in March has shed new light on the scale of Bitcoin holdings under the control of the US Marshals Service (USMS). According to the documents obtain...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "66ffdc34c62885ed25684e466d870eda",
+      "title": "Shiba Inu Exchange Reserves Hit Lowest Level Since 2023 — Why A Price Surge Could Follow",
+      "link": "https://www.newsbtc.com/shiba-inu/shiba-inu-low-exchange-reserves/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 14:00:03 +0000",
+      "excerpt": "Shiba Inu’s exchange reserves have hit a new low, the lowest level since 2023, providing a bullish outlook for the top meme coin. Based on this development, SHIB looks well primed for a parabolic r...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "edc99a2ddf2392c6f3ef20e913920820",
+      "title": "Father of Crypto Tycoon Vanishes As $1,000,000+ Drained from His Bank Accounts: Report",
+      "link": "https://dailyhodl.com/2025/07/17/father-of-crypto-tycoon-vanishes-as-1000000-drained-from-his-bank-accounts-report/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:45:07 +0000",
+      "excerpt": "The father of a successful crypto investor is missing, and his family is worried he may have been kidnapped. Wen Hou, the chief investment officer of the private investment firm Coincident Capital,...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "822374ffb1cc21a19ccab76271dedce5",
+      "title": "Little Pepe Presale Raised Over $6,575,000 as Stage 5 Sold Out and Stage 6 Launches at $0.0015",
+      "link": "https://cryptopotato.com/little-pepe-presale-raised-over-6575000-as-stage-5-sold-out-and-stage-6-launches-at-0-0015/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:34:55 +0000",
+      "excerpt": "[PRESS RELEASE – Dubai, UAE, July 17th, 2025] Little Pepe ($LILPEPE), the meme coin built on real blockchain utility, has now raised over $6.575 million in its ongoing presale—officially sold out S...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "04b7fcc1203d700fc6b541aa60856dcc",
+      "title": "Ripple’s XRPL DEX liquidity spikes 75% in one month",
+      "link": "https://cryptoslate.com/ripples-xrpl-dex-liquidity-spikes-75-in-one-month/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:31:57 +0000",
+      "excerpt": "There has been a sharp increase in capital allocation and transactions on the XRP Ledger DEX. Over the past month, liquidity, volume, and almost all other usage metrics showed a shift in the struct...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
+      "id": "97eb2ab8daa66369a6c4c4242cabceb9",
+      "title": "Ether ETFs Shatter Records With $727 Million Inflows as Bitcoin ETFs Extend Streak to 10 Days",
+      "link": "https://news.bitcoin.com/ether-etfs-shatter-records-with-727-million-inflows-as-bitcoin-etfs-extend-streak-to-10-days/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:30:29 +0000",
+      "excerpt": "In a landmark session, ether ETFs recorded their highest single-day inflow ever with $727 million, while bitcoin ETFs extended their green streak to 10 days with $799 million in net inflows. Crypto...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "395ceba51cec12eafe00b17848d0ae75",
+      "title": "FLOKI Surges 40% on Triple Bullish Crossover; Is 25% Still in the Tank?",
+      "link": "https://beincrypto.com/floki-price-40-up-more-coming/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:30:00 +0000",
+      "excerpt": "FLOKI price has already gone up 40% this week. But new chart signals suggest more gains could be coming soon. Here’s what traders are watching.\nThe post FLOKI Surges 40% on Triple Bullish Crossover...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "c5f15b137c5f4aecc67f70046095d1b3",
+      "title": "XRP Just 4% From All-Time High, but $1.7 Billion Sell-Off Risk Looms",
+      "link": "https://beincrypto.com/xrp-price-nears-ath-but-will-sell-off-prevent-this/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:22:07 +0000",
+      "excerpt": "XRP's price surge to $3.25 faces challenges from a growing sell-off, but a breakthrough past $3.40 could propel it to new highs.\nThe post XRP Just 4% From All-Time High, but $1.7 Billion Sell-Off R...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "12101a767a4e47c275be88493c90934b",
       "title": "SEC delays in-kind redemption decision for Bitwise crypto ETFs",
       "link": "https://cointelegraph.com/news/sec-extends-deadline-in-kind-redemptions-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2728,6 +2969,75 @@
       ]
     },
     {
+      "id": "3e5fb0f2a2ac74896dc5dcfebbd666a7",
+      "title": "Pakistan and El Salvador Team Up on Crypto — What It Means for the Best Presales Right Now",
+      "link": "https://www.newsbtc.com/news/best-presales-as-pakistan-and-el-salvador-team-up/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:11:47 +0000",
+      "excerpt": "Pakistan and El Salvador have initiated a diplomatic alliance that puts crypto first. It’s the latest in a global shift to improving crypto regulation and adoption. Crypto is the ultimate winner he...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ea8a434cf5afc7daeb55d694c69efb5a",
+      "title": "FLOKI Rallies 30% In 24 Hours, BOME, FARTCOIN Follow | Meme Coins To Watch",
+      "link": "https://beincrypto.com/meme-coins-to-watch-fartcoin-bome-floki/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:04:05 +0000",
+      "excerpt": "FLOKI’s 30% rally, FARTCOIN’s recovery, and BOME’s surprise performance highlight meme coin momentum, but investors should stay cautious of potential pullbacks.\nThe post FLOKI Rallies 30% In 24 Hou...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "20c3b62acca45ba169c8055c0824302a",
+      "title": "Bitcoin’s 6-7-Week Theory Shows Where We Are In The Cycle",
+      "link": "https://bitcoinist.com/bitcoins-6-7-week-theory/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:00:48 +0000",
+      "excerpt": "After being in existence for over 15 years, Bitcoin has established a number of trends that analysts across the board have pointed to for historical value. One of these trends that has been establi...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "b69fb5e296fc2cc2161a390436551ae5",
+      "title": "Nearly 500 MetaMask Users Hacked Daily as Wallet Attacks Explode: Chainalysis",
+      "link": "https://cryptopotato.com/nearly-500-metamask-users-hacked-daily-as-wallet-attacks-explode-chainalysis/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:00:29 +0000",
+      "excerpt": "Up to 500 MetaMask users face daily thefts amidst escalating wallet-targeted attacks.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "636f84e3f5122bba7495cb872ae07146",
+      "title": "Big Pharma In The Crypto Game: $60M Investment For BNB Treasury Strategy",
+      "link": "https://www.newsbtc.com/analysis/bnb/big-pharma-in-the-crypto-game-60m-investment-for-bnb-treasury-strategy/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:00:08 +0000",
+      "excerpt": "Windtree Therapeutics (WINT), a biotech company dedicated to developing therapies for critical health conditions, has announced a significant partnership with Build and Build Corporation. The two c...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "9172e7f402e0a4607846395724be9631",
       "title": "Bitcoin ’wrench attacks’ on track to double its worst year",
       "link": "https://cointelegraph.com/news/bitcoin-wrench-attacks-to-double-2021-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2740,6 +3050,39 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "6103bf77f50e6e0e6025e2c29b3134d1",
+      "title": "ChangeNOW Redefines Crypto Speed Standards with Sub-2-Minute Swaps",
+      "link": "https://beincrypto.com/changenow-redefines-crypto-speed-standards-with-sub-2-minute-swaps/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 13:00:00 +0000",
+      "excerpt": "A crypto exchange platform ChangeNOW has reached a new performance milestone, officially announcing an average cryptocurrency processing time of under two minutes, with a median of four minutes, pl...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
+      "id": "75735abe43ebc39afb6c2f311d4c6c37",
+      "title": "ETH Skyrockets 8% Daily Above $3.4K, Bulls Eye This Level Next (Ethereum Price Analysis)",
+      "link": "https://cryptopotato.com/eth-skyrockets-8-daily-above-3-4k-bulls-eye-this-level-next-ethereum-price-analysis/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 12:54:31 +0000",
+      "excerpt": "Ethereum has regained upward strength, reclaiming the key $3K level and highlighting strong buyer control. The ongoing bullish momentum now sets sights on the next major target around the $3.5K-$3....",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Analysis"
       ]
     },
     {
@@ -2758,6 +3101,37 @@
       ]
     },
     {
+      "id": "66f1ff3ed262a67a902c54305a80ec23",
+      "title": "Bank of America Says Several Stock Sectors Signal Prime Buying Opportunities Amid AI Boom",
+      "link": "https://dailyhodl.com/2025/07/17/bank-of-america-says-several-stock-sectors-signal-prime-buying-opportunities-amid-ai-boom/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 12:45:40 +0000",
+      "excerpt": "Bank of America’s chief investment officer views stock market dips and several sectors as prime buying opportunities, despite record market highs. In a new interview on CNBC’s Closing Bell, Chris H...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "adbc9ceec17473647e5cfae77419bb5e",
+      "title": "Crypto Clash: Warren Flags Economic Risk, CZ Defends Industry",
+      "link": "https://cryptopotato.com/crypto-clash-warren-flags-economic-risk-cz-defends-industry/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 12:36:34 +0000",
+      "excerpt": "Elizabeth Warren warns crypto could destabilize the U.S. economy. CZ fires back, arguing the NYSE isn’t the economy, it’s just one player.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
       "id": "bd2cfaaf36d84f3d6903feb065aebc53",
       "title": "Bonk Price Prediction: Can BONK Shed A Zero And Hit a New ATH In July 2025?",
       "link": "https://cryptonews.com/news/bonk-price-prediction-can-bonk-shed-a-zero-and-hit-a-new-ath-in-july-2025/",
@@ -2771,6 +3145,22 @@
       ],
       "tags": [
         "DeFi",
+        "Trading"
+      ]
+    },
+    {
+      "id": "ef2bb633d26e9fc6754181de0de12b83",
+      "title": "Ethereum Momentum Fuels Meme Coin Surge While PENGU and PUMP Stumble",
+      "link": "https://beincrypto.com/ethereum-meme-coins-soar-pengu-pump-drop/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 12:31:25 +0000",
+      "excerpt": "As Ethereum's renewed strength fuels the altcoin market, meme coins like FLOKI and BONK gain, while weaker tokens like PENGU and PUMP tumble.\nThe post Ethereum Momentum Fuels Meme Coin Surge While ...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
         "Trading"
       ]
     },
@@ -3834,5 +4224,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-17T12:35:55.258845"
+  "last_updated": "2025-07-17T14:04:18.824442"
 }
