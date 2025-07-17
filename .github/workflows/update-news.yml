@@ -3,7 +3,7 @@ name: Update Crypto News and Market Data
 on:
   schedule:
     # Run every hour at minute 5
-    - cron: '5 * * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch: # Allow manual trigger
   
 permissions:
