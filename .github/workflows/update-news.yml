@@ -1,16 +1,16 @@
-name: Update Crypto News
+name: Update Crypto News and Market Data
 
 on:
   schedule:
     # Run every hour at minute 5
     - cron: '5 * * * *'
   workflow_dispatch: # Allow manual trigger
-
+  
 permissions:
   contents: write
 
 jobs:
-  scrape-news:
+  update-data:
     runs-on: self-hosted
     
     steps:
@@ -46,8 +46,8 @@ jobs:
           ls -la
           echo "Scripts directory:"
           ls -la scripts/ || echo "Scripts directory not found"
-          echo "Looking for scrape.py:"
-          find . -name "scrape.py" -type f
+          echo "Looking for Python scripts:"
+          find . -name "*.py" -type f
       
       - name: Run news scraper
         run: |
@@ -55,6 +55,7 @@ jobs:
           if [ -f "scripts/scrape.py" ]; then
             cd scripts
             python scrape.py
+            cd ..
           elif [ -f "scrape.py" ]; then
             # If it's in the root directory
             python scrape.py
@@ -63,18 +64,33 @@ jobs:
             exit 1
           fi
       
+      - name: Run market data updater
+        run: |
+          # Check if update_market_data.py exists
+          if [ -f "scripts/update_market_data.py" ]; then
+            cd scripts
+            python update_market_data.py
+            cd ..
+          elif [ -f "update_market_data.py" ]; then
+            # If it's in the root directory
+            python update_market_data.py
+          else
+            echo "Warning: update_market_data.py not found - skipping market data update"
+          fi
+      
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --quiet data/aggregated_news.json || echo "changed=true" >> $GITHUB_OUTPUT
+          # Check for changes in both files
+          git diff --quiet data/aggregated_news.json data/market_data.json || echo "changed=true" >> $GITHUB_OUTPUT
       
       - name: Commit and push changes
         if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/aggregated_news.json
-          git commit -m "🤖 Update crypto news - $(date '+%Y-%m-%d %H:%M:%S')"
+          git add data/aggregated_news.json data/market_data.json || true
+          git commit -m "🤖 Update crypto news and market data - $(date '+%Y-%m-%d %H:%M:%S')"
           git push
       
       - name: Trigger Netlify build (optional)
@@ -82,4 +98,4 @@ jobs:
         run: |
           # Trigger Netlify build webhook if you have one
           # curl -X POST -d {} YOUR_NETLIFY_BUILD_HOOK_URL
-          echo "News updated, Netlify will auto-deploy"
+          echo "Data updated, Netlify will auto-deploy"
