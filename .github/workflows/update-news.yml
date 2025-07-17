@@ -3,8 +3,11 @@ name: Update Crypto News and Market Data
 on:
   schedule:
     # Run every hour at minute 5
-    - cron: '5 * * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
 
 jobs:
   update-data:
@@ -21,8 +24,16 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
+          
+          # Stash any local changes first
+          git stash --include-untracked || true
+          
+          # Get latest from remote
           git fetch origin main
           git reset --hard origin/main
+          
+          # Clean any untracked files
+          git clean -fd
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -94,22 +105,54 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # Pull latest changes before committing
-          git pull --rebase origin main
-          
-          # Add the changed files
+          # Add the changed files first
           git add data/aggregated_news.json data/market_data.json || true
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
           
           # Commit changes
           git commit -m "🤖 Update crypto news and market data - $(date '+%Y-%m-%d %H:%M:%S')"
           
-          # Push with retry logic
+          # Pull and push with retry logic
           for i in {1..3}; do
-            git push && break || {
-              echo "Push failed, pulling and retrying..."
-              git pull --rebase origin main
+            echo "Attempt $i to push changes..."
+            
+            # Try to push
+            if git push; then
+              echo "Push successful!"
+              break
+            else
+              echo "Push failed, pulling latest changes..."
+              
+              # Fetch and merge the latest changes
+              git fetch origin main
+              
+              # Try rebase, if it fails due to conflicts, use merge
+              if ! git rebase origin/main; then
+                echo "Rebase failed, attempting merge strategy..."
+                git rebase --abort
+                git merge origin/main --no-edit || {
+                  echo "Merge also failed, using theirs strategy"
+                  git reset --hard HEAD~1
+                  git pull origin main
+                  git add data/aggregated_news.json data/market_data.json || true
+                  git commit -m "🤖 Update crypto news and market data - $(date '+%Y-%m-%d %H:%M:%S')"
+                }
+              fi
+              
+              # Wait before retry
               sleep 2
-            }
+            fi
+            
+            # If we've tried 3 times, fail the job
+            if [ $i -eq 3 ]; then
+              echo "Failed to push after 3 attempts"
+              exit 1
+            fi
           done
       
       - name: Trigger Netlify build (optional)
