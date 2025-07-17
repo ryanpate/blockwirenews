@@ -987,6 +987,23 @@
       ]
     },
     {
+      "id": "3cf6a6122369a5c2c1ab00fec1b51580",
+      "title": "Crypto Price Prediction Today 17 July – XRP, PUMP, ADA",
+      "link": "https://cryptonews.com/news/crypto-price-prediction-today-17-july-xrp-pump-ada/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Thu, 17 Jul 2025 22:32:32 +0000",
+      "excerpt": "Bitcoin has climbed to $118,632, sitting 3.3% below its record peak of $122,838, while XRP has surged 33% over seven days and Cardano posted 8% daily gains against Bitcoin's 0.6% dip. Crypto price ...",
+      "categories": [
+        "bitcoin",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
       "id": "655ce72521e1f83771c7968540d6151e",
       "title": "ChatGPT’s 42-Indicator XRP Analysis Flags Extreme $3.30 Resistance Test",
       "link": "https://cryptonews.com/news/chatgpt-42-signal-xrp-analysis-330-resistance-190b-breakthrough/",
@@ -1066,21 +1083,6 @@
       "tags": [
         "Ethereum",
         "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "8f8f01ad6ba81f8ce1cf0d180e339719",
-      "title": "XRP Path To A New All-Time High Is Playing Out Beautifully – Here’s How",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-path-to-new-all-time-high/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Thu, 17 Jul 2025 15:00:22 +0000",
-      "excerpt": "XRP’s journey toward a new all-time high is shaping up with remarkable precision. After weeks of steady accumulation and shallow pullbacks, the chart is finally coming alive, and momentum is buildi...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
         "Analysis"
       ]
     }
@@ -2731,6 +2733,32 @@
       ]
     },
     {
+      "id": "e3411809f7cb087fcee6d4ea7cd5ef8f",
+      "title": "Trump’s court pick would bring crypto baggage to the bench",
+      "link": "https://cointelegraph.com/news/trump-court-pick-eric-tung-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Thu, 17 Jul 2025 23:55:00 +0100",
+      "excerpt": "The president’s pick to sit on an appellate court covering Silicon Valley has represented several blockchain entities in courts.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "149e098201ff792cc40aecd785fa4dae",
+      "title": "US to investigate Brazil’s digital payment system",
+      "link": "https://cointelegraph.com/news/u-s-investigates-brazil-s-digital-trade-practices-amid-pix-dominance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Thu, 17 Jul 2025 23:40:00 +0100",
+      "excerpt": "As Brazil’s Pix system expands and BRICS eyes a reserve currency, Trump responds with a 50% tariff and a sweeping trade investigation.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "ba241e6d9aaa350aa38faf63910f7faa",
       "title": "300% DOGE price rally expected if this key price level is reclaimed",
       "link": "https://cointelegraph.com/news/300percent-doge-price-rally-expected-if-this-key-price-level-is-reclaimed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2758,6 +2786,95 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "ee4d4d7847c027259345738b9e566829",
+      "title": "Sberbank Proposes Russian Crypto Custody Services",
+      "link": "https://news.bitcoin.com/sberbank-proposes-russian-crypto-custody-services/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 23:05:52 +0000",
+      "excerpt": "Russia’s largest lender, the state-run Sberbank, revealed Thursday that it plans to launch custody services for Russian crypto holdings, according to Reuters. With this step, Sberbank aims to claim...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "10fe700a38544d8da27ae1ae1bdda59f",
+      "title": "Ethereum ETF Inflows Hit Record $726M—BlackRock Alone Drew $500M",
+      "link": "https://bitcoinist.com/ethereum-etf-inflows-record-726m-blackrock-500m/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 23:00:06 +0000",
+      "excerpt": "Data shows the US Ethereum spot ETFs have just seen their biggest day of inflows, driven largely by demand on BlackRock and Fidelity. Ethereum Spot ETFs Have Seen A Sharp Uptick In Demand According...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "11ec1812b9e16e215d2cca110190ef0b",
+      "title": "Pundit Warns XRP Investors To Not Make This Grave Mistake This Cycle",
+      "link": "https://www.newsbtc.com/analysis/xrp/xrp-investors-grave-mistake/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 23:00:06 +0000",
+      "excerpt": "A powerful message has emerged from a recent episode of the Good Evening Crypto YouTube show that urged XRP holders to rethink their exit strategy ahead of what may be one of the most pivotal crypt...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "b41d0d987b5c43a310a5d66ab542a9d7",
+      "title": "White House Moves to Let 401(k)s Invest in Bitcoin, Gold, Private Equity: FT",
+      "link": "https://news.bitcoin.com/white-house-moves-to-let-401ks-invest-in-bitcoin-gold-private-equity-ft/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 22:45:35 +0000",
+      "excerpt": "President Donald Trump is preparing an executive order to open the $9 trillion U.S. retirement market, specifically 401(k) plans, to investments in cryptocurrencies like bitcoin, gold, and private ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "4c2600ea1e2c21645962ea5271e525d1",
+      "title": "XRP hits new ATH of $3.55 after 7 years amid altcoin surge",
+      "link": "https://cryptoslate.com/xrp-hits-new-ath-of-3-55-after-7-years-amid-altcoin-surge/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 22:34:22 +0000",
+      "excerpt": "Ripple’s XRP surged to a new all-time high of $3.55 on July 17, climbing more than 36% over the past week and over 13% over the past 24 hours. The rally marked XRP’s first break above its 2018 peak...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3cf6a6122369a5c2c1ab00fec1b51580",
+      "title": "Crypto Price Prediction Today 17 July – XRP, PUMP, ADA",
+      "link": "https://cryptonews.com/news/crypto-price-prediction-today-17-july-xrp-pump-ada/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Thu, 17 Jul 2025 22:32:32 +0000",
+      "excerpt": "Bitcoin has climbed to $118,632, sitting 3.3% below its record peak of $122,838, while XRP has surged 33% over seven days and Cardano posted 8% daily gains against Bitcoin's 0.6% dip. Crypto price ...",
+      "categories": [
+        "bitcoin",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
       ]
     },
     {
@@ -3861,6 +3978,21 @@
       ]
     },
     {
+      "id": "9b404484a05d60da1a7bfec3690295f8",
+      "title": "PlayW3 Unleashes ‘Be the Boss,’ a New On-Chain Business Model That Turns Creators Into Owners – Over $320,000 Already Paid Out",
+      "link": "https://dailyhodl.com/2025/07/17/playw3-unleashes-be-the-boss-a-new-on-chain-business-model-that-turns-creators-into-owners-over-320000-already-paid-out/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 16:39:23 +0000",
+      "excerpt": "July 17, 2025 – Tel Aviv, Israel PlayW3 has officially launched ‘Be The Boss,’ a groundbreaking on-chain partner program that transforms creators, marketers and entrepreneurs into full-fledged Web ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "0c43d36d135c4cd98a1d190d618df3a1",
       "title": "PlayW3 Unleashes ‘Be The Boss’: A New On-Chain Business Model That Turns Creators Into Owners — $320,000+ Already Paid Out",
       "link": "https://dailyhodl.com/2025/07/17/playw3-unleashes-be-the-boss-a-new-on-chain-business-model-that-turns-creators-into-owners-320000-already-paid-out/",
@@ -4087,6 +4219,19 @@
         "Bitcoin",
         "Ethereum"
       ]
+    },
+    {
+      "id": "a814896e9eca9effb9ab27cd532b863a",
+      "title": "Numerai Announces $1 Million Strategic Buyback of NMR",
+      "link": "https://dailyhodl.com/2025/07/17/numerai-announces-1-million-strategic-buyback-of-nmr/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 15:51:52 +0000",
+      "excerpt": "July 17, 2025 – San Francisco, California Crowdsourced hedge fund announces strategic token buyback as Meta Model leads amid AUM growth. Numerai, the decentralized hedge fund powered by crowdsource...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "d5e66c6796bc081f35608542c0468885",
@@ -4493,6 +4638,21 @@
       "tags": [
         "Trading",
         "Analysis"
+      ]
+    },
+    {
+      "id": "e3fcad125aea254adb2d03bcc4f8407a",
+      "title": "Bit Origin Secures $500 Million Equity and Debt Facilities To Launch Dogecoin Treasury",
+      "link": "https://dailyhodl.com/2025/07/17/bit-origin-secures-500-million-equity-and-debt-facilities-to-launch-dogecoin-treasury/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 14:32:43 +0000",
+      "excerpt": "July 17, 2025 – Singapore, Singapore – Much Doge. Such Utility. Very Treasury. – First publicly listed company on a major US exchange to accumulate Dogecoin as a core asset. Bit Origin Ltd (NASDAQ:...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
       ]
     },
     {
@@ -6019,5 +6179,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-17T22:32:07.727933"
+  "last_updated": "2025-07-17T23:29:50.771121"
 }
