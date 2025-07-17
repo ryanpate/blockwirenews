@@ -2748,6 +2748,95 @@
       ]
     },
     {
+      "id": "658cb7ba3c24069a1a42f4952308ce1a",
+      "title": "Bitcoin Standard Treasury Company to Launch With 30,021 Bitcoin After SPAC Merger",
+      "link": "https://news.bitcoin.com/bitcoin-standard-treasury-company-to-launch-with-30021-bitcoin-after-spac-merger/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 19:10:20 +0000",
+      "excerpt": "Bitcoin Standard Treasury Company (BSTR) will become a publicly traded company through a merger with special-purpose acquisition company Cantor Equity Partners I, Inc. (Nasdaq: CEPO), the companies...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "a75d649e376c29d96e3a8ec8d35f0e6c",
+      "title": "Bitcoin On The Global Stage: Pakistan And El Salvador Share Notes",
+      "link": "https://bitcoinist.com/bitcoin-on-the-global-stage-pakistan-and-el-salvador-share-notes/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 19:00:25 +0000",
+      "excerpt": "Pakistan has moved closer to tapping El Salvador’s Bitcoin playbook. In San Salvador this week, Bilal Bin Saqib, CEO of the Pakistan Crypto Council and special assistant to Pakistan’s prime ministe...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "74f4df9c797d7048617f6d30a0365f28",
+      "title": "A New Malware Is Hijacking Computers to Secretly Mine Monero (XMR)",
+      "link": "https://beincrypto.com/virus-hacks-computers-for-crypto-mining-monero/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 19:00:00 +0000",
+      "excerpt": "A stealthy virus named H2Miner is hijacking computers to mine Monero (XMR) and sometimes locking systems with basic ransomware.\nThe post A New Malware Is Hijacking Computers to Secretly Mine Monero...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "aeab82b3a10c204268175391f84260b4",
+      "title": "Curve DAO Explodes 70% in a Week—What’s Fueling CRV’s Run?",
+      "link": "https://cryptopotato.com/curve-dao-explodes-70-in-a-week-whats-fueling-crvs-run/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:57:43 +0000",
+      "excerpt": "Curve DAO (CRV) jumps 70% in a week as price breaks resistance, volume spikes, and on-chain signals suggest sustained upside.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "5c13c56115483695c5a9e0e6a70b66b5",
+      "title": "Nasdaq applies to include staking in BlackRock’s Ethereum ETF as SEC weighs broader industry requests",
+      "link": "https://cryptoslate.com/nasdaq-applies-to-include-staking-in-blackrocks-ethereum-etf-as-sec-weighs-broader-industry-requests/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:46:06 +0000",
+      "excerpt": "Nasdaq filed with the Securities and Exchange Commission (SEC) on July 16 to add staking to BlackRock’s iShares Ethereum Trust (ETHA) exchange-traded fund (ETF).  The rule change would add a detail...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "caaed94c31a412c4b47f94b84953487e",
+      "title": "Billion-Dollar Bank To Hand Out $510,000 To Settle Class Action Lawsuit Alleging Improper Charging of Overdraft Fees",
+      "link": "https://dailyhodl.com/2025/07/17/billion-dollar-bank-to-hand-out-510000-to-settle-class-action-lawsuit-alleging-improper-charging-of-overdraft-fees/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:45:37 +0000",
+      "excerpt": "A multi-billion-dollar bank is planning to shell out $510,000 to settle a class action lawsuit stemming from allegations that the financial institution hit customers with improper overdraft fees. C...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "c136386c791381b693b241725c1f66f8",
       "title": "Stolen Crypto Funds Surpassing 2024 Totals Only Halfway Through 2025: Chainalysis",
       "link": "https://dailyhodl.com/2025/07/17/stolen-crypto-funds-surpassing-2024-totals-only-halfway-through-2025-chainalysis/",
@@ -5251,5 +5340,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-17T18:44:58.113665"
+  "last_updated": "2025-07-17T19:26:38.313153"
 }
