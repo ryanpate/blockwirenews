@@ -987,6 +987,23 @@
       ]
     },
     {
+      "id": "41cafc312af8064ff2ab7d20d7fe28e6",
+      "title": "Bitcoin resistance at $120K hints at consolidation before impulse rally to $135K",
+      "link": "https://cointelegraph.com/news/bitcoin-resistance-at-dollar120k-hints-at-consolidation-before-impulse-rally-to-dollar135k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Thu, 17 Jul 2025 19:21:51 +0100",
+      "excerpt": "Bitcoin technical charts suggest BTC could remain range-bound for an extended period of time. Cointelegraph explains why.",
+      "categories": [
+        "bitcoin",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Analysis"
+      ]
+    },
+    {
       "id": "af037c8099c8f207357d2a7c01bae354",
       "title": "$FARTCOIN Nears $1.80 Breakout: Will Whale Activity Trigger the Next Rally?",
       "link": "https://cryptonews.com/news/fartcoin-nears-1-80-breakout-will-whale-activity-trigger-the-next-rally/",
@@ -1059,22 +1076,6 @@
       "sourceUrl": "https://cryptonews.com/news/feed/",
       "timestamp": "Thu, 17 Jul 2025 14:34:08 +0000",
       "excerpt": "The Cardano price has jumped by 10% in the past 24 hours, but does its chart today signal further gains or a correction?\nThe post Cardano Price Prediction: Is ADA Going To Follow XRP And Hit $3 In ...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "395ceba51cec12eafe00b17848d0ae75",
-      "title": "FLOKI Surges 40% on Triple Bullish Crossover; Is 25% Still in the Tank?",
-      "link": "https://beincrypto.com/floki-price-40-up-more-coming/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Thu, 17 Jul 2025 13:30:00 +0000",
-      "excerpt": "FLOKI price has already gone up 40% this week. But new chart signals suggest more gains could be coming soon. Here’s what traders are watching.\nThe post FLOKI Surges 40% on Triple Bullish Crossover...",
       "categories": [
         "analysis"
       ],
@@ -2730,6 +2731,82 @@
       ]
     },
     {
+      "id": "41cafc312af8064ff2ab7d20d7fe28e6",
+      "title": "Bitcoin resistance at $120K hints at consolidation before impulse rally to $135K",
+      "link": "https://cointelegraph.com/news/bitcoin-resistance-at-dollar120k-hints-at-consolidation-before-impulse-rally-to-dollar135k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Thu, 17 Jul 2025 19:21:51 +0100",
+      "excerpt": "Bitcoin technical charts suggest BTC could remain range-bound for an extended period of time. Cointelegraph explains why.",
+      "categories": [
+        "bitcoin",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "c136386c791381b693b241725c1f66f8",
+      "title": "Stolen Crypto Funds Surpassing 2024 Totals Only Halfway Through 2025: Chainalysis",
+      "link": "https://dailyhodl.com/2025/07/17/stolen-crypto-funds-surpassing-2024-totals-only-halfway-through-2025-chainalysis/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:41:40 +0000",
+      "excerpt": "Blockchain data research firm Chainalysis says that North Korean hackers are on track to make 2025 the biggest year in crypto theft history. In its 2025 Crypto Crime Mid-Year Update, Chainalysis sa...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "535571561fd1cc6b91fd74cb56c80c90",
+      "title": "All 40K Remaining Bitcoin From The 80K Whale Just Moved: $4.75B In One Wallet Now",
+      "link": "https://www.newsbtc.com/bitcoin-news/all-40k-remaining-bitcoin-from-the-80k-whale-just-moved-4-75b-in-one-wallet-now/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:30:25 +0000",
+      "excerpt": "After reaching a record high of $123,200, Bitcoin is now consolidating around the $118,000 level. Market participants remain on alert as top analyst Darkfost reported a major development involving ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "28673da1abdd6d83f905f348e3c3ba17",
+      "title": "Floki ($FLOKI) Price Surges 22%: Is $0.02 Next as Valhalla and Webull Fuel Rally?",
+      "link": "https://cryptonews.com/news/floki-price-surges-22-valhalla-webull-rally/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:26:58 +0000",
+      "excerpt": "Floki ($FLOKI) has climbed 22.2% in 24 hours to $0.000134, breaking past $0.0001. Valhalla’s metaverse launch, a Webull listing, FlokiFi growth and firm whale demand have lifted sentiment, while te...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "79d1d7d487b9fb35399cb5bfb415a2c7",
+      "title": "XRP Price Surges Beyond $3.3, Leaves Over $40 Million in Liquidations",
+      "link": "https://cryptopotato.com/xrp-price-surges-beyond-3-3-leaves-over-40-million-in-liquidations/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:13:42 +0000",
+      "excerpt": "XRP came inches away from a new ATH minutes ago.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "39460d25be092e7509fea35a4923ee53",
       "title": "XRP cloud mining in 2025: How much can you really earn?",
       "link": "https://cointelegraph.com/news/xrp-cloud-mining-in-2025-how-much-can-you-really-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2741,6 +2818,108 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "55ff35e04ad3c44e5e468cb449ec400b",
+      "title": "Bank of America Enters the Stablecoin Race — CEO Makes It Official",
+      "link": "https://cryptopotato.com/bank-of-america-enters-the-stablecoin-race-ceo-makes-it-official/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:10:31 +0000",
+      "excerpt": "The second-largest US bank per market capitalization joins industry counterparts in digital asset payment methods trend.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "845f236a9ac33ce7b2898af53368e0ad",
+      "title": "Senator Elizabeth Warren Says Crypto Deregulation Could ‘Blow Up’ Wall Street",
+      "link": "https://news.bitcoin.com/senator-elizabeth-warren-says-crypto-deregulation-could-blow-up-wall-street/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:08:46 +0000",
+      "excerpt": "Massachusetts Democratic Sen. Elizabeth Warren sounded the alarm, accusing President Donald Trump of chipping away at the Federal Reserve’s hard-earned independence with his repeated threats to ous...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "88ec854adc476d868c7c4209da82dca5",
+      "title": "Russia’s Sberbank Seeks Green Light for Crypto Custody Amid Regulatory Push",
+      "link": "https://cryptonews.com/news/russias-sberbank-2026-crypto-custody-launch/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:07:58 +0000",
+      "excerpt": "Russia’s Sberbank has submitted proposals to let customers store crypto under bank custody, letting tokens be frozen on law-enforcement request while reducing hack risks. The move reflects Moscow’s...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3bfa8cd0e81f87d5fde676f7e05045e6",
+      "title": "Rare Signal That Preceded 630% XRP Gain Has Just Flashed Again, According to Crypto Trader",
+      "link": "https://dailyhodl.com/2025/07/17/rare-signal-that-preceded-630-xrp-gain-has-just-flashed-again-according-to-crypto-trader/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:05:49 +0000",
+      "excerpt": "A closely followed crypto analyst says that a rare bullish signal is suddenly flashing again for one top-10 altcoin. In a new thread, crypto trader Ali Martinez tells his 141,000 followers on the s...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "867c1b7d4303b5fc40e0ad37dee04ddc",
+      "title": "Ripple Partners With City Of California To Replicate Elon Musk’s D.O.G.E",
+      "link": "https://bitcoinist.com/ripple-partners-with-california/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:00:00 +0000",
+      "excerpt": "In a bold move, California Governor Gavin Newsom launched the “California Breakthrough Project,” which brings together Ripple, Coinbase, and other tech companies to help improve government efficien...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "e632d5ede21a6cafbec8ccc4a7a49b6f",
+      "title": "Pi Coin Continues To Bleed Money As Skepticism Hits 3-Month High",
+      "link": "https://beincrypto.com/pi-coin-continues-to-bleed-money-price-drops/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Thu, 17 Jul 2025 18:00:00 +0000",
+      "excerpt": "Pi Coin continues to face a downtrend with increasing skepticism, nearing its all-time low as outflows and weak sentiment persist.\nThe post Pi Coin Continues To Bleed Money As Skepticism Hits 3-Mon...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "cee910fcb43ae3f4b4348017ff2bcfe0",
+      "title": "Pakistan and El Salvador Strengthen Diplomatic Ties With New Crypto Alliance",
+      "link": "https://cryptonews.com/news/pakistan-el-salvador-crypto-alliance/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Thu, 17 Jul 2025 17:47:30 +0000",
+      "excerpt": "Pakistan and El Salvador have formed diplomatic ties with cryptocurrency cooperation at the core. Islamabad has planned a national Bitcoin reserve, a 2 GW mining allocation and a dedicated regulato...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
     },
     {
       "id": "142a30741de3c7f83dc98a887172da15",
@@ -5072,5 +5251,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-17T17:31:37.996048"
+  "last_updated": "2025-07-17T18:44:58.113665"
 }
