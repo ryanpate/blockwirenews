@@ -1,4 +1,36 @@
 <section class="news-container">
+    {{ $marketData := .Site.Data.market_data }}
+    {{ if $marketData }}
+    <div class="market-overview">
+        {{ if $marketData.global }}
+        <div class="market-card">
+            <h3>Market Cap</h3>
+            <div class="market-value">{{ $marketData.global.market_cap.value }}</div>
+            <div
+                class="market-change {{ if $marketData.global.market_cap.positive }}positive{{ else }}negative{{ end }}">
+                {{ if $marketData.global.market_cap.positive }}↑{{ else }}↓{{ end }} {{
+                $marketData.global.market_cap.change }}%
+            </div>
+        </div>
+        <div class="market-card">
+            <h3>24h Volume</h3>
+            <div class="market-value">{{ $marketData.global.volume_24h.value }}</div>
+            <div class="market-change positive">↑ Active</div>
+        </div>
+        <div class="market-card">
+            <h3>BTC Dominance</h3>
+            <div class="market-value">{{ $marketData.global.btc_dominance.value }}</div>
+            <div class="market-change neutral">-</div>
+        </div>
+        <div class="market-card">
+            <h3>Active Cryptos</h3>
+            <div class="market-value">{{ $marketData.global.active_cryptos.value }}</div>
+            <div class="market-change positive">↑ Growing</div>
+        </div>
+        {{ end }}
+    </div>
+    {{ else }}
+    <!-- Fallback static data -->
     <div class="market-overview">
         <div class="market-card">
             <h3>Market Cap</h3>
@@ -21,4 +53,5 @@
             <div class="market-change positive" id="cryptoChange">↑ 142</div>
         </div>
     </div>
+    {{ end }}
 </section>

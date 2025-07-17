@@ -152,7 +152,7 @@ class CryptoMarketData:
         else:
             return f"${num:,.0f}"
     
-    def save_market_data(self, output_dir='data'):
+    def save_market_data(self, output_dir='../data'):
         """Fetch all market data and save to JSON"""
         logging.info("Fetching cryptocurrency market data...")
         
