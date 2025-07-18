@@ -2,16 +2,16 @@
   "global": {
     "market_cap": {
       "value": "$3.9T",
-      "change": -3.37,
+      "change": -4.7,
       "positive": false
     },
     "volume_24h": {
-      "value": "$324.7B",
+      "value": "$315.5B",
       "change": 0,
       "positive": true
     },
     "btc_dominance": {
-      "value": "59.8%",
+      "value": "59.9%",
       "change": 0,
       "positive": true
     },
@@ -24,87 +24,87 @@
   "tickers": [
     {
       "symbol": "ARB",
-      "price": "$0.4571",
-      "change": 2.08,
-      "positive": true
-    },
-    {
-      "symbol": "AVAX",
-      "price": "$23.63",
-      "change": 3.04,
-      "positive": true
-    },
-    {
-      "symbol": "BNB",
-      "price": "$730.65",
-      "change": 1.11,
-      "positive": true
-    },
-    {
-      "symbol": "BTC",
-      "price": "$117,868",
-      "change": -2.34,
-      "positive": false
-    },
-    {
-      "symbol": "ADA",
-      "price": "$0.8190",
-      "change": 0.3,
-      "positive": true
-    },
-    {
-      "symbol": "LINK",
-      "price": "$17.79",
-      "change": 2.47,
-      "positive": true
-    },
-    {
-      "symbol": "ATOM",
-      "price": "$4.90",
-      "change": 1.41,
-      "positive": true
-    },
-    {
-      "symbol": "DOGE",
-      "price": "$0.2345",
-      "change": 8.95,
-      "positive": true
-    },
-    {
-      "symbol": "ETH",
-      "price": "$3,553",
-      "change": 1.92,
-      "positive": true
-    },
-    {
-      "symbol": "NEAR",
-      "price": "$2.81",
-      "change": -0.3,
-      "positive": false
-    },
-    {
-      "symbol": "OP",
-      "price": "$0.7489",
-      "change": 4.58,
-      "positive": true
-    },
-    {
-      "symbol": "DOT",
-      "price": "$4.26",
+      "price": "$0.4542",
       "change": 1.2,
       "positive": true
     },
     {
+      "symbol": "AVAX",
+      "price": "$23.52",
+      "change": 2.42,
+      "positive": true
+    },
+    {
+      "symbol": "BNB",
+      "price": "$731.60",
+      "change": 1.0,
+      "positive": true
+    },
+    {
+      "symbol": "BTC",
+      "price": "$117,867",
+      "change": -1.95,
+      "positive": false
+    },
+    {
+      "symbol": "ADA",
+      "price": "$0.8179",
+      "change": -0.06,
+      "positive": false
+    },
+    {
+      "symbol": "LINK",
+      "price": "$17.79",
+      "change": 2.13,
+      "positive": true
+    },
+    {
+      "symbol": "ATOM",
+      "price": "$4.88",
+      "change": 0.37,
+      "positive": true
+    },
+    {
+      "symbol": "DOGE",
+      "price": "$0.2341",
+      "change": 7.78,
+      "positive": true
+    },
+    {
+      "symbol": "ETH",
+      "price": "$3,559",
+      "change": 2.29,
+      "positive": true
+    },
+    {
+      "symbol": "NEAR",
+      "price": "$2.80",
+      "change": -0.53,
+      "positive": false
+    },
+    {
+      "symbol": "OP",
+      "price": "$0.7509",
+      "change": 4.09,
+      "positive": true
+    },
+    {
+      "symbol": "DOT",
+      "price": "$4.24",
+      "change": 0.07,
+      "positive": true
+    },
+    {
       "symbol": "XRP",
-      "price": "$3.44",
-      "change": -0.79,
+      "price": "$3.42",
+      "change": -1.76,
       "positive": false
     },
     {
       "symbol": "SOL",
-      "price": "$176.34",
-      "change": 0.21,
-      "positive": true
+      "price": "$175.64",
+      "change": -0.37,
+      "positive": false
     }
   ],
   "trending": [
@@ -114,14 +114,9 @@
       "rank": 84
     },
     {
-      "name": "Qubic",
-      "symbol": "QUBIC",
-      "rank": 320
-    },
-    {
       "name": "Blackhole",
       "symbol": "BLACK",
-      "rank": 421
+      "rank": 424
     },
     {
       "name": "Ethereum",
@@ -129,10 +124,15 @@
       "rank": 2
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "rank": 68
+      "name": "Caldera",
+      "symbol": "ERA",
+      "rank": 318
+    },
+    {
+      "name": "XRP",
+      "symbol": "XRP",
+      "rank": 3
     }
   ],
-  "last_updated": "2025-07-18T21:29:03.746838"
+  "last_updated": "2025-07-18T22:32:14.827409"
 }
