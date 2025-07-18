@@ -6236,6 +6236,37 @@
       ]
     },
     {
+      "id": "3b6ff8ddaed638cd939806b5e1effa26",
+      "title": "Stellar’s XLM has &#039;most bullish chart&#039; in crypto, mirroring XRP price",
+      "link": "https://cointelegraph.com/news/stellar-xlm-most-bullish-chart-in-crypto-mirroring-xrp-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Fri, 18 Jul 2025 14:20:29 +0100",
+      "excerpt": "During their bull runs, XLM and XRP often move in sync, with a high correlation coefficient typically topping 0.70. Will history repeat for Stellar?",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "4a0ad22dc0eaa2ec58cd6a080667fff8",
+      "title": "Franchise-led SOL treasury expansion launches with Kraken, Pantera support",
+      "link": "https://cointelegraph.com/news/defi-development-solana-treasury-accelerator-kraken-pantera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Fri, 18 Jul 2025 14:14:38 +0100",
+      "excerpt": "DeFi Development, a Nasdaq-listed Solana treasury company, has launched the DFDV Treasury Accelerator to expand globally via a franchise model, partnering with Kraken and top crypto VCs.",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
       "id": "869047ad788998973741e093a4eeb92a",
       "title": "UK elections: How crypto donation risks are dividing MPs",
       "link": "https://cointelegraph.com/news/uk-elections-crypto-donation-risks-reform-farage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -6247,6 +6278,57 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "635f56531f678ae31ce858911d5061a0",
+      "title": "Bitcoin’s Realized Cap Taps $1T Milestone, Fueled by 25% Surge in 2025",
+      "link": "https://cryptopotato.com/bitcoins-realized-cap-taps-1t-milestone-fueled-by-25-surge-in-2025/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 13:29:50 +0000",
+      "excerpt": "BTC reaches $1T in realized capitalization, marking a historic first, as whales, ETFs, and corporates pour in amid 2025’s bullish run.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "e966ef5a415bf4d5c2b038483b4d71f7",
+      "title": "CLARITY Act Could Reshape Crypto Valuations Like Treasury Markets | US Crypto News",
+      "link": "https://beincrypto.com/bitwise-hougan-clarity-act-us-crypto-news/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 13:27:31 +0000",
+      "excerpt": "The CLARITY Act’s passage could redefine crypto valuations by introducing clearer regulations, potentially boosting Bitcoin and Ethereum while leaving smaller altcoins behind.\nThe post CLARITY Act ...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "DeFi",
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "5f2c38bae344428754e1ef42ec35d0bd",
+      "title": "GSR Leads $100M Private Placement into Nasdaq-listed MEI Pharma to Launch First Institutional Litecoin Treasury Strategy Alongside Charlie Lee",
+      "link": "https://cryptopotato.com/gsr-leads-100m-private-placement-into-nasdaq-listed-mei-pharma-to-launch-first-institutional-litecoin-treasury-strategy-alongside-charlie-lee/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 13:15:15 +0000",
+      "excerpt": "[PRESS RELEASE – NEW YORK, United States, July 18th, 2025] GSR, crypto’s capital markets partner, today announced an investment and strategic partnership with MEI Pharma, Inc. (NASDAQ:MEIP) (“MEI”)...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
     },
     {
       "id": "21fa5df6fad7854beb37f5f6b299f1b5",
@@ -6319,6 +6401,22 @@
       ],
       "tags": [
         "NFT"
+      ]
+    },
+    {
+      "id": "23aaf09af0f69a9faeab48312563859c",
+      "title": "HBAR Price Rallies 20% After $230 Million Inflow from Traders in a Week",
+      "link": "https://beincrypto.com/hbar-price-rallies-after-inflow-from-trader/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 13:00:00 +0000",
+      "excerpt": "HBAR's price surged 20%, bolstered by significant inflows and positive technical indicators. Can the rally continue past key resistance levels?\nThe post HBAR Price Rallies 20% After $230 Million In...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
       ]
     },
     {
@@ -8192,5 +8290,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-18T13:02:21.158723"
+  "last_updated": "2025-07-18T13:47:50.415254"
 }
