@@ -6236,6 +6236,51 @@
       ]
     },
     {
+      "id": "9c2ad549fd8de942d2ebdf688bb8ca3f",
+      "title": "Hacker reconnaissance work continues on TeleMessage app vulnerability — Report",
+      "link": "https://cointelegraph.com/news/hacker-reconnaissance-work-telemessage-vulnerability-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Fri, 18 Jul 2025 23:37:32 +0100",
+      "excerpt": "As of Wednesday, at least eleven IP addresses have actively tried to exploit the vulnerability, with thousands more addresses possibly doing reconnaissance work.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6b59308ac3712c0f069b5b12137bef3c",
+      "title": "ChatGPT’s 42-Signal Bitcoin Analysis Flags Critical $121K Test After Historic $123K ATH Pullback",
+      "link": "https://cryptonews.com/news/chatgpts-42-signal-btc-analysis-flags-critical-121k-test-after-historic-123k-ath-pullback/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Fri, 18 Jul 2025 23:26:03 +0000",
+      "excerpt": "ChatGPT's AI model processed 42 live indicators revealing consolidation momentum as Bitcoin holds $117,600 following a historic $123,091 all-time high achieved on July 14th.\nThe post ChatGPT’s 42-S...",
+      "categories": [
+        "bitcoin",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "7bcc655a0596455bd1b7fd79f1c8521b",
+      "title": "Ethereum ETFs register quickest $1B intake to surpass $7B in total inflows",
+      "link": "https://cryptoslate.com/ethereum-etfs-register-quickest-1b-intake-to-surpass-7b-in-total-inflows/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 23:00:16 +0000",
+      "excerpt": "Ethereum (ETH) spot exchange-traded funds (ETFs) registered the fastest “$1 billion leap” in net inflows in their history, jumping from $6 billion to $7 billion in two days, according to Farside In...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
       "id": "1784f2052d327ec48d0989a1c932e7c1",
       "title": "The rise of ETFs challenges Bitcoin’s self-custody roots",
       "link": "https://cointelegraph.com/news/etfs-challenges-bitcoin-self-custody-roots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -8562,52 +8607,7 @@
         "Ethereum",
         "Trading"
       ]
-    },
-    {
-      "id": "ac366d83a8889f063fe2eadf85befcf3",
-      "title": "Dogecoin Erupts Past $0.23—Analyst Predicts Next Price Targets",
-      "link": "https://www.newsbtc.com/news/dogecoin/dogecoin-erupts-past-0-23-next-price-targets/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 10:00:01 +0000",
-      "excerpt": "The latest burst of momentum has carried the Dogecoin price through the psychologically significant $0.23 barrier, lifting the spot price to roughly $0.236 at press time and extending a weekly adva...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "81045afadc33c4552176e3cd25111d22",
-      "title": "XRP Price Rally Not Over Yet; But a 17% Pullback Might Come First",
-      "link": "https://beincrypto.com/xrp-price-cooldown-before-rally/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 10:00:00 +0000",
-      "excerpt": "XRP price just smashed its all-time high, but investors might need to brace for a short cooldown. On-chain data hints at a 17% drop; possibly the final shakeout before the next big move.\nThe post X...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "ea837490154a4c7a39579523711a4ace",
-      "title": "HTX Hot Listings Weekly Recap (July 7 – 14): Bitcoin Tops $120,000, New Tokens Listed on HTX Post Impressive Returns",
-      "link": "https://beincrypto.com/htx-hot-listings-weekly-recap/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 09:53:35 +0000",
-      "excerpt": "HTX, a leading global crypto exchange, is thrilled to announce the exceptional performance of its newly listed assets, coinciding with Bitcoin‘s groundbreaking surge past $120,000. In a period of r...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
     }
   ],
-  "last_updated": "2025-07-18T22:32:14.271694"
+  "last_updated": "2025-07-18T23:28:52.105818"
 }
