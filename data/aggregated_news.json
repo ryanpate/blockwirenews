@@ -6236,6 +6236,103 @@
       ]
     },
     {
+      "id": "51af241061de20459bd6d953aedaa2c9",
+      "title": "Crypto Biz: Wall Street giants bet on stablecoins",
+      "link": "https://cointelegraph.com/news/crypto-biz-wall-street-giants-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Fri, 18 Jul 2025 21:00:00 +0100",
+      "excerpt": "JPMorgan, Citigroup and Bank of America are all in the early stages of stablecoin development.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "97db79f1306dcf5debf9b978f3b9432f",
+      "title": "Crypto execs center stage as Trump signs stablecoin bill into law",
+      "link": "https://cointelegraph.com/news/donald-trump-stablecoin-law-signed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Fri, 18 Jul 2025 20:42:03 +0100",
+      "excerpt": "Several C-suite executives from cryptocurrency companies attended the Friday event, some of whom directly contributed to Trump’s 2024 campaign.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f0e43396c35523b41ce824bf25ce2f87",
+      "title": "XRP Open Interest Just Hit A Fresh ATH Above $10 Billion, Will Price Follow Next?",
+      "link": "https://www.newsbtc.com/analysis/xrp/xrp-open-interest-at-ath/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 20:30:26 +0000",
+      "excerpt": "XRP Open Interest (OI) has surged to a new all-time high, surpassing $10 billion across major crypto exchanges. This jump in futures activity comes as the XRP price climbs toward $3.48, its highest...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "1342fb8795e23e0150da40275101eedd",
+      "title": "Can XRP Flip Ethereum? Crypto Expert Predicts Monster Altcoin Season Is Coming",
+      "link": "https://bitcoinist.com/can-xrp-flip-ethereum/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 20:30:21 +0000",
+      "excerpt": "With altcoin season potentially on the horizon, discussions have arisen about whether XRP can surpass Ethereum during this run. Crypto founder Arthur Hayes has made a case for ETH leading the way, ...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "8aa32cd74f88c68908f0e39485053e99",
+      "title": "Trump Signs Landmark GENIUS Act, First US Stablecoin Law",
+      "link": "https://news.bitcoin.com/trump-signs-landmark-genius-act-first-us-stablecoin-law/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 20:17:21 +0000",
+      "excerpt": "President Donald Trump signed the GENIUS Act into law on July 18, 2025, making it the first major federal legislation to regulate stablecoins in the United States. Officially titled the Guiding and...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "44932b257c449a5b3758e8f7d69d1470",
+      "title": "BREAKING: President Trump Signs ‘GENIUS Act’ Making Crypto History",
+      "link": "https://bitcoinist.com/breaking-president-trump-signs-genius-act/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 20:15:01 +0000",
+      "excerpt": "On Friday, US President Donald Trump signed a landmark crypto bill into law aimed at establishing a regulatory framework for stablecoins. The legislation, known as the GENIUS Act, passed with a sig...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f6cded1955f3c933bacb8e28ef8bf007",
+      "title": "Trump’s Crypto Venture Now Holds $251M in ETH: $26M Profit and Counting",
+      "link": "https://cryptopotato.com/trumps-crypto-venture-now-holds-251m-in-eth-26m-profit-and-counting/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 20:14:09 +0000",
+      "excerpt": "ETH’s 43% monthly rally is paying off for Trump-linked WLF. Its 70K ETH stash is now worth $251M, showing a $26M paper profit.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
       "id": "b514d35cb71105e60b42fd0c0b02996d",
       "title": "Senate to consider Trump&#039;s CFTC pick as crypto oversight hangs in the balance",
       "link": "https://cointelegraph.com/news/brian-quintenz-donald-trump-cftc-pick-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -6243,6 +6340,34 @@
       "sourceUrl": "https://cointelegraph.com/rss",
       "timestamp": "Fri, 18 Jul 2025 20:04:04 +0100",
       "excerpt": "The Senate Agriculture Committee will hear from prospective CFTC chair Brian Quintenz, who could be the sole commissioner at the US regulator by the end of 2025.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3d930247b1fa7fb340dafc0091b0dceb",
+      "title": "Trump signs GENIUS Act into law, activating America’s first regulatory framework for stablecoins",
+      "link": "https://cryptoslate.com/trump-signs-genius-act-into-law-activating-americas-first-regulatory-framework-for-stablecoins/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 20:01:36 +0000",
+      "excerpt": "President Donald Trump signed the GENIUS Act into law on July 18, pledging that the measure will secure “global dominance” in crypto technology. The legislation gives the US its first federal frame...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "1294f9f38d5f4f79a56aea8e234e7878",
+      "title": "Stocks Primed To Dip in Q3, Says Morgan Stanley’s Chief US Equity Strategist – Here’s How Far They Could Drop in the ‘Quarter of Risk’",
+      "link": "https://dailyhodl.com/2025/07/18/stocks-primed-to-dip-in-q3-says-morgan-stanleys-chief-us-equity-strategist-heres-how-far-they-could-drop-in-the-quarter-of-risk/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 20:00:41 +0000",
+      "excerpt": "Stocks could endure a manageable hiccup in the third quarter of the year, according to Mike Wilson, Morgan Stanley’s chief US equity strategist. Wilson tells Bloomberg Television in a new interview...",
       "categories": [
         "crypto"
       ],
@@ -6263,6 +6388,49 @@
       "tags": [
         "Bitcoin",
         "Ethereum"
+      ]
+    },
+    {
+      "id": "c5df18fffba2b152837b9f25dbdccd1c",
+      "title": "This Memecoin Is Primed To Explode 2,600%+ This Cycle and Hit $1,000,000,000,000 Valuation, According to Analyst",
+      "link": "https://dailyhodl.com/2025/07/18/this-memecoin-is-primed-to-explode-2600-this-cycle-and-hit-1000000000000-valuation-according-to-analyst/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 19:55:08 +0000",
+      "excerpt": "A widely followed crypto analyst says that one popular memecoin appears ready to print staggering gains en route to a $1 trillion market cap valuation. In a new thread, pseudonymous crypto trader C...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "0a7cd44afe94ea991b3d3d54435777d8",
+      "title": "Ex-Pump.fun Dev Behind $2M Theft Jailed in London for Bail Breach, Faces 7+ Years Prison",
+      "link": "https://cryptonews.com/news/ex-pump-fun-dev-behind-2m-theft-jailed-in-london-for-bail-breach-faces-7-years-prison/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Fri, 18 Jul 2025 19:47:29 +0000",
+      "excerpt": "Ex-Pump.fun Dev, Jarett Dunn, sits in a London prison after breaching bail conditions while awaiting trial for stealing approximately $2 million from the platform in May 2024. The Canadian national...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4a1b08430dd58a5a77eeb581707c112e",
+      "title": "Trump Signs GENIUS Act Into Law, Jokingly Calls It ‘Named After Me’",
+      "link": "https://beincrypto.com/trump-signs-genius-act-into-law/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Fri, 18 Jul 2025 19:35:24 +0000",
+      "excerpt": "President Trump has signed the GENIUS Act into law, establishing the first US crypto regulation for stablecoins amid internal GOP controversy.\nThe post Trump Signs GENIUS Act Into Law, Jokingly Cal...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
       ]
     },
     {
@@ -6288,6 +6456,21 @@
       "sourceUrl": "https://cointelegraph.com/rss",
       "timestamp": "Fri, 18 Jul 2025 19:25:30 +0100",
       "excerpt": "Google Gemini could help traders break down the news, track sentiment and turn headlines into actionable crypto trading strategies.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "facdcac0ed813f6534cf1b404bbc83e3",
+      "title": "dYdX Snaps Up Telegram Trading App That Hit $1B Volume in Under a Year",
+      "link": "https://cryptonews.com/news/dydx-acquires-telegram-trading-app-pocket-protector/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Fri, 18 Jul 2025 19:25:26 +0000",
+      "excerpt": "dYdX has acquired Telegram-native trading app Pocket Protector, which reached $1 billion in annualized trading volume in under a year. Co-founders Eddie Zhang and Kaiser Kinbote will join dYdX as P...",
       "categories": [
         "crypto"
       ],
@@ -8409,193 +8592,7 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "03b3d1e264cfcbe8614cf28e36c12806",
-      "title": "How to day trade crypto using ChatGPT and Grok",
-      "link": "https://cointelegraph.com/news/how-to-day-trade-crypto-using-ai-chatgpt-grok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Fri, 18 Jul 2025 07:48:56 +0100",
-      "excerpt": "AI tools like Grok and ChatGPT are changing how traders approach crypto day trading, spotting sentiment shifts in real time and turning them into structured trade plans.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "fba9e0b2d599332ac289ef648ccc58b7",
-      "title": "Backpack Opens FTX Claims Sale Channel Amid Global Payout Disputes",
-      "link": "https://beincrypto.com/backpack-ftx-claims-sale-channel/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 07:48:06 +0000",
-      "excerpt": "Backpack introduces a fee-free FTX claims sale platform, targeting global users, especially in China, while some remain skeptical due to ties with FTX.\nThe post Backpack Opens FTX Claims Sale Chann...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "7a59cfb993509357847cb05dabc58324",
-      "title": "Coinbase Listing Sparks Caldera (ERA) Price Surge, But Airdrop Pressure Holds Firm",
-      "link": "https://beincrypto.com/coinbase-caldera-era-listing/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 07:35:12 +0000",
-      "excerpt": "Coinbase has added ERA, Caldera's token, to its platform, following a trend of listings on other exchanges. Despite initial price increases, ERA's airdrop and market supply shifts led to volatility...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "7abd98b01d411db10f20dbb732af2dd8",
-      "title": "Aussies Can Now Use BTC as Collateral for Home Deposits",
-      "link": "https://news.bitcoin.com/aussies-can-now-use-btc-as-collateral-for-home-deposits/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 07:30:04 +0000",
-      "excerpt": "Australian fintech startup Block Earner has launched what it calls the first bitcoin-backed home loan, allowing Australians to use their bitcoin ( BTC) as collateral for a home deposit without sell...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "f8f5208cdcda95c8c6f2db63cbea03b7",
-      "title": "US Treasuries Go Onchain: Ondo’s USDY Fund Debuts on Sei Network",
-      "link": "https://beincrypto.com/ondo-brings-us-treasuries-on-sei/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 07:19:36 +0000",
-      "excerpt": "Ondo Finance’s launch of tokenized U.S. Treasuries on Sei Network marks a pivotal moment for real-world asset adoption in crypto.\nThe post US Treasuries Go Onchain: Ondo’s USDY Fund Debuts on Sei N...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "29c41a7f6579a94998f94feca8426b2c",
-      "title": "SEC Considers Regulatory Tweaks to Support Tokenization Ecosystem",
-      "link": "https://cryptonews.com/news/sec-considers-regulatory-tweaks-tokenization-ecosystem/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Fri, 18 Jul 2025 07:19:11 +0000",
-      "excerpt": "The SEC is weighing an “innovation exemption” to support tokenization, following the House’s passage of a landmark stablecoin bill.\nThe post SEC Considers Regulatory Tweaks to Support Tokenization ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "9549d98f60b8e2aabe75bf308fd52efa",
-      "title": "SharpLink Gaming Adds Another $115M in ETH Amid Bull Run, Total Holdings Reach 353K ETH",
-      "link": "https://cryptonews.com/news/sharplink-gaming-adds-another-115m-in-eth-amid-bull-run/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Fri, 18 Jul 2025 07:10:29 +0000",
-      "excerpt": "SharpLink Gaming has purchased an additional $115 million in ETH, bringing total holdings to 353K ETH worth over $1.2 billion, making it the world's largest corporate Ethereum holder.\nThe post Shar...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "23ef3635471f84b3613912d747ee5348",
-      "title": "American Businessman Dave Portnoy Regrets Selling XRP: ‘I Would’ve Made Millions’",
-      "link": "https://cryptonews.com/news/dave-portnoy-regrets-selling-xrp/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Fri, 18 Jul 2025 07:04:42 +0000",
-      "excerpt": "Barstool Sports founder Dave Portnoy is expressing regret after selling most of his XRP holdings just weeks before the cryptocurrency hit new year-to-date highs.\nThe post American Businessman Dave ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "c75e057c23a5bb531c12c05c9be4a24e",
-      "title": "Investor Dan Ives Says Microsoft and Nvidia To Hit $5,000,000,000,000 Market Cap in Months, Unveils Four Stocks Primed To Outperform",
-      "link": "https://dailyhodl.com/2025/07/18/investor-dan-ives-says-microsoft-and-nvidia-to-hit-5000000000000-market-cap-in-months-unveils-four-stocks-primed-to-outperform/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 07:04:38 +0000",
-      "excerpt": "Dan Ives, the global head of technology research at Wedbush Securities, is predicting that two big-named tech stocks will hit astronomical market caps. In a new CNBC Television interview, the inves...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "0c068e7a9b588bf46f23d4370800e22d",
-      "title": "Sharplink Gaming’s expanded $6B share offering could buy 1% of ETH",
-      "link": "https://cointelegraph.com/news/sharplink-expanded-6b-share-offering-buy-1-percent-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Fri, 18 Jul 2025 07:01:09 +0100",
-      "excerpt": "The company holds more than 280,000 ETH in its treasury. It has bought ETH worth $515M in the past nine days.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "92414cf4d79210ce54a9aa8935000396",
-      "title": "XRP MVRV Ratio Flashes Signal That Last Led To 630% Surge",
-      "link": "https://www.newsbtc.com/xrp-news/xrp-mvrv-ratio-flashes-signal-last-630-surge/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 07:00:37 +0000",
-      "excerpt": "An analyst has pointed out that the XRP Market Value to Realized Value (MVRV) Ratio has just formed a crossover that proved to be highly bullish the last time it appeared. XRP MVRV Ratio Has Broken...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "1c6bedb2e3f531d9b32ed469fb6610b2",
-      "title": "Thailand Launches Nationwide Crypto Sandbox For Tourists To Boost Competitiveness",
-      "link": "https://bitcoinist.com/thailand-launches-nationwide-crypto-sandbox-for-tourists-to-boost-competitiveness/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 07:00:26 +0000",
-      "excerpt": "Thai financial authorities are seeking the public’s feedback on a crypto sandbox pilot program for tourists aimed at enhancing the country’s appeal as a tech-savvy destination by providing more con...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "9db1b68b3aec4a8b73b5298dd0b3d8ff",
-      "title": "Dave Portnoy dumped his XRP two weeks ago: ‘I want to cry’",
-      "link": "https://cointelegraph.com/news/dave-portnoy-xrp-holdings-sold-price-surge-crypto-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Fri, 18 Jul 2025 06:56:37 +0100",
-      "excerpt": "Barstool Sports founder Dave Portnoy said he “would’ve made millions” if he had just held onto his big XRP stack.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
     }
   ],
-  "last_updated": "2025-07-18T19:25:33.878523"
+  "last_updated": "2025-07-18T20:32:35.625668"
 }
