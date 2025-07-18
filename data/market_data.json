@@ -2,21 +2,21 @@
   "global": {
     "market_cap": {
       "value": "$4.0T",
-      "change": -0.18,
+      "change": -0.84,
       "positive": false
     },
     "volume_24h": {
-      "value": "$284.5B",
+      "value": "$282.7B",
       "change": 0,
       "positive": true
     },
     "btc_dominance": {
-      "value": "59.6%",
+      "value": "59.5%",
       "change": 0,
       "positive": true
     },
     "active_cryptos": {
-      "value": "17,679",
+      "value": "17,681",
       "change": 0,
       "positive": true
     }
@@ -24,86 +24,86 @@
   "tickers": [
     {
       "symbol": "ARB",
-      "price": "$0.4740",
-      "change": 6.28,
+      "price": "$0.4810",
+      "change": 8.18,
       "positive": true
     },
     {
       "symbol": "AVAX",
       "price": "$24.70",
-      "change": 8.67,
+      "change": 9.55,
       "positive": true
     },
     {
       "symbol": "BNB",
-      "price": "$747.45",
-      "change": 3.74,
+      "price": "$744.14",
+      "change": 3.86,
       "positive": true
     },
     {
       "symbol": "BTC",
-      "price": "$120,352",
-      "change": 1.57,
+      "price": "$119,862",
+      "change": 1.48,
       "positive": true
     },
     {
       "symbol": "ADA",
-      "price": "$0.8680",
-      "change": 11.9,
+      "price": "$0.8745",
+      "change": 13.67,
       "positive": true
     },
     {
       "symbol": "LINK",
-      "price": "$18.90",
-      "change": 11.64,
+      "price": "$18.80",
+      "change": 11.49,
       "positive": true
     },
     {
       "symbol": "ATOM",
       "price": "$5.11",
-      "change": 7.2,
+      "change": 8.01,
       "positive": true
     },
     {
       "symbol": "DOGE",
-      "price": "$0.2434",
-      "change": 14.64,
+      "price": "$0.2425",
+      "change": 15.33,
       "positive": true
     },
     {
       "symbol": "ETH",
-      "price": "$3,652",
-      "change": 6.4,
+      "price": "$3,646",
+      "change": 6.36,
       "positive": true
     },
     {
       "symbol": "NEAR",
-      "price": "$3.01",
-      "change": 9.38,
+      "price": "$3.02",
+      "change": 10.73,
       "positive": true
     },
     {
       "symbol": "OP",
-      "price": "$0.7835",
-      "change": 11.09,
+      "price": "$0.7882",
+      "change": 12.2,
       "positive": true
     },
     {
       "symbol": "DOT",
-      "price": "$4.55",
-      "change": 7.99,
+      "price": "$4.56",
+      "change": 9.31,
       "positive": true
     },
     {
       "symbol": "XRP",
-      "price": "$3.56",
-      "change": 12.77,
+      "price": "$3.54",
+      "change": 12.34,
       "positive": true
     },
     {
       "symbol": "SOL",
-      "price": "$183.34",
-      "change": 5.83,
+      "price": "$183.87",
+      "change": 6.61,
       "positive": true
     }
   ],
@@ -114,16 +114,6 @@
       "rank": 3
     },
     {
-      "name": "Caldera",
-      "symbol": "ERA",
-      "rank": 300
-    },
-    {
-      "name": "Blackhole",
-      "symbol": "BLACK",
-      "rank": 480
-    },
-    {
       "name": "Ethereum",
       "symbol": "ETH",
       "rank": 2
@@ -131,8 +121,18 @@
     {
       "name": "Pump.fun",
       "symbol": "PUMP",
-      "rank": 71
+      "rank": 74
+    },
+    {
+      "name": "Caldera",
+      "symbol": "ERA",
+      "rank": 304
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "rank": 8
     }
   ],
-  "last_updated": "2025-07-18T06:47:10.660652"
+  "last_updated": "2025-07-18T07:31:54.229718"
 }
