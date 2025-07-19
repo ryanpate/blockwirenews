@@ -22,7 +22,7 @@ logging.basicConfig(
 
 
 class CryptoNewsScraper:
-    def __init__(self, hugo_data_dir='.. data'):
+    def __init__(self, hugo_data_dir='../data'):
         self.headers = {
             'User-Agent': (
                 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
