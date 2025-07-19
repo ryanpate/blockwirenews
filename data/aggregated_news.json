@@ -1,6 +1,38 @@
 {
   "latest": [
     {
+      "id": "07108c5b190c481757fec1de8c91af7b",
+      "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
+      "link": "https://cryptopotato.com/eth-treasuries-ditch-digital-gold-model-for-yield-generating-staking-heres-why-it-matters/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:19:02 +0000",
+      "excerpt": "Ethereum treasury strategies avoid hype, and focus on productive yield and staking, according to Galaxy Digital.",
+      "categories": [
+        "ethereum",
+        "defi"
+      ],
+      "tags": [
+        "Ethereum",
+        "DeFi"
+      ]
+    },
+    {
+      "id": "342df301606ae20daa3c44af81b29cd2",
+      "title": "Top 3 Altcoins Trending in Nigeria In The Fourth Week Of July",
+      "link": "https://beincrypto.com/trending-altcoins-nigeria-july-fourth-week/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:00:00 +0000",
+      "excerpt": "Ethereum leads the charge in Nigeria, while XRP reaches new highs, and Hedera benefits from institutional backing, signaling continued bullish trends for altcoins.\nThe post Top 3 Altcoins Trending ...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
       "id": "6c52ddf456df5f3b867420b37e355c7d",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -37,6 +69,26 @@
       ]
     },
     {
+      "id": "aaee25f545b25890bf6fa8934e8ea69d",
+      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
+      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
+      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
       "id": "6c636a54f96bfdb87a636e1380e8591e",
       "title": "Traders are bullish on ETH as price begins to catch up with the tech",
       "link": "https://cryptoslate.com/traders-are-bullish-on-eth-as-price-begins-to-catch-up-with-the-tech/",
@@ -67,6 +119,19 @@
       "tags": [
         "Trading"
       ]
+    },
+    {
+      "id": "70a5dca1ffece80299aeb8306e609882",
+      "title": "Another Crypto-Affiliated Firm Achieves the S&P 500 Milestone",
+      "link": "https://beincrypto.com/jack-dorseys-block-earns-sp-500-milestone/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 13:17:02 +0000",
+      "excerpt": "Block Inc., the fintech company founded by Twitter co-creator Jack Dorsey, is set to join the prestigious S&P 500 index on July 23. The announcement, confirmed by S&P Dow Jones Indices on July 18, ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": []
     },
     {
       "id": "2492d874c2d630b1ec6e27e991659d00",
@@ -250,73 +315,41 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "cca23bb05a52fba0c8f90d055f1834ac",
-      "title": "SEC Commissioner Proposes Cross-Border Sandbox for Crypto and Tokenized Assets",
-      "link": "https://news.bitcoin.com/sec-commissioner-proposes-cross-border-sandbox-for-crypto-and-tokenized-assets/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 11:30:32 +0000",
-      "excerpt": "Crypto regulation is on the brink of transformation as U.S. and U.K. leaders push to align on digital asset sandboxes that could reignite blockchain innovation and remove compliance roadblocks. SEC...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "0502c6490e413f9db5a17662f492e096",
-      "title": "4 Signs of a Trillion-Dollar Sea Change in Bitcoin Valuations",
-      "link": "https://cryptopotato.com/4-signs-of-a-trillion-dollar-sea-change-in-bitcoin-valuations/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 11:24:00 +0000",
-      "excerpt": "Bitcoin's ebullient rally to all-time high prices in July might be more proof the cryptocurrency is set to change the world.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "9c68f2d65373eeac2cc370af1d7d7c76",
-      "title": "Ether preps record short squeeze as analysis sees $4K ETH price &#039;soon&#039;",
-      "link": "https://cointelegraph.com/news/ether-preps-record-short-squeeze-analysis-4k-eth-price-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 11:22:31 +0100",
-      "excerpt": "Ether is punishing shorts already, but another 10% ETH price upside will liquidate $1 billion, helping cement $4,000 in the process.",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "34327c4ea3f4e846c01ef93c55a47c04",
-      "title": "Bitcoin Miners and Whales are Dumping BTC After All-Time High",
-      "link": "https://beincrypto.com/bitcoin-miners-whales-selling-profit-taking/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 11:05:10 +0000",
-      "excerpt": "Bitcoin miner reserves is down to a one-month low of 65,000 BTC, signaling aggressive profit-taking as Bitcoin hit a new all-time high above $123,000.\nThe post Bitcoin Miners and Whales are Dumping...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "07108c5b190c481757fec1de8c91af7b",
+      "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
+      "link": "https://cryptopotato.com/eth-treasuries-ditch-digital-gold-model-for-yield-generating-staking-heres-why-it-matters/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:19:02 +0000",
+      "excerpt": "Ethereum treasury strategies avoid hype, and focus on productive yield and staking, according to Galaxy Digital.",
+      "categories": [
+        "ethereum",
+        "defi"
+      ],
+      "tags": [
+        "Ethereum",
+        "DeFi"
+      ]
+    },
+    {
+      "id": "342df301606ae20daa3c44af81b29cd2",
+      "title": "Top 3 Altcoins Trending in Nigeria In The Fourth Week Of July",
+      "link": "https://beincrypto.com/trending-altcoins-nigeria-july-fourth-week/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:00:00 +0000",
+      "excerpt": "Ethereum leads the charge in Nigeria, while XRP reaches new highs, and Hedera benefits from institutional backing, signaling continued bullish trends for altcoins.\nThe post Top 3 Altcoins Trending ...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
     {
       "id": "6c52ddf456df5f3b867420b37e355c7d",
       "title": "Here’s what happened in crypto today",
@@ -354,52 +387,23 @@
       ]
     },
     {
-      "id": "6c636a54f96bfdb87a636e1380e8591e",
-      "title": "Traders are bullish on ETH as price begins to catch up with the tech",
-      "link": "https://cryptoslate.com/traders-are-bullish-on-eth-as-price-begins-to-catch-up-with-the-tech/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:30:52 +0000",
-      "excerpt": "Ethereum (ETH), the world’s second-largest crypto by market cap, may finally be poised for a breakout after years of underwhelming performance. With both traders and the broader community expressin...",
+      "id": "aaee25f545b25890bf6fa8934e8ea69d",
+      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
+      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
+      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
       "categories": [
-        "ethereum"
+        "bitcoin",
+        "ethereum",
+        "analysis"
       ],
       "tags": [
+        "Bitcoin",
         "Ethereum",
         "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "2492d874c2d630b1ec6e27e991659d00",
-      "title": "Will Bitcoin Impede Or Support Altcoin Rally? On-Chain Data Signals Market Uncertainty",
-      "link": "https://www.newsbtc.com/news/bitcoin-impede-or-support-the-altcoin-rally-on-chain-data/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:00:32 +0000",
-      "excerpt": "According to an on-chain analyst on X, Bitcoin has decoupled from other cryptocurrencies or altcoins, which could lead to a severe price downturn within the market over the next day. Why Traders Sh...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "510da46a692fddf6b62a2c51a3fd15fe",
-      "title": "Bitcoin Advocate To Replace Cops With His Own Security In Bedford",
-      "link": "https://bitcoinist.com/bitcoin-advocate-to-replace-cops-with-his-own-security-in-bedford/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:00:24 +0000",
-      "excerpt": "Bitcoin podcaster and Real Bedford FC owner Peter McCormack is taking matters into his own hands in his hometown of Bedford, UK. With rising concerns over public safety, McCormack says he’s steppin...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Regulation"
+        "Analysis"
       ]
     }
   ],
@@ -438,6 +442,26 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "aaee25f545b25890bf6fa8934e8ea69d",
+      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
+      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
+      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Analysis"
       ]
     },
     {
@@ -554,24 +578,61 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "34327c4ea3f4e846c01ef93c55a47c04",
-      "title": "Bitcoin Miners and Whales are Dumping BTC After All-Time High",
-      "link": "https://beincrypto.com/bitcoin-miners-whales-selling-profit-taking/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 11:05:10 +0000",
-      "excerpt": "Bitcoin miner reserves is down to a one-month low of 65,000 BTC, signaling aggressive profit-taking as Bitcoin hit a new all-time high above $123,000.\nThe post Bitcoin Miners and Whales are Dumping...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "07108c5b190c481757fec1de8c91af7b",
+      "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
+      "link": "https://cryptopotato.com/eth-treasuries-ditch-digital-gold-model-for-yield-generating-staking-heres-why-it-matters/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:19:02 +0000",
+      "excerpt": "Ethereum treasury strategies avoid hype, and focus on productive yield and staking, according to Galaxy Digital.",
+      "categories": [
+        "ethereum",
+        "defi"
+      ],
+      "tags": [
+        "Ethereum",
+        "DeFi"
+      ]
+    },
+    {
+      "id": "342df301606ae20daa3c44af81b29cd2",
+      "title": "Top 3 Altcoins Trending in Nigeria In The Fourth Week Of July",
+      "link": "https://beincrypto.com/trending-altcoins-nigeria-july-fourth-week/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:00:00 +0000",
+      "excerpt": "Ethereum leads the charge in Nigeria, while XRP reaches new highs, and Hedera benefits from institutional backing, signaling continued bullish trends for altcoins.\nThe post Top 3 Altcoins Trending ...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "aaee25f545b25890bf6fa8934e8ea69d",
+      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
+      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
+      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
     {
       "id": "6c636a54f96bfdb87a636e1380e8591e",
       "title": "Traders are bullish on ETH as price begins to catch up with the tech",
@@ -692,57 +753,26 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "9bdea1b99b231969a23d4615c82c5edc",
-      "title": "Massive Ethereum Accumulation: Bit Digital Crosses 120,000 ETH With Latest Buy",
-      "link": "https://bitcoinist.com/massive-ethereum-accumulation-bit-digital-crosses-120000-eth-with-latest-buy/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 05:30:00 +0000",
-      "excerpt": "Ethereum (ETH) adoption among public corporations is gaining momentum in 2025. In the latest development, Nasdaq-listed digital asset firm Bit Digital has announced a substantial purchase of 19,683...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "a427ce8d602a082946baf95119927d40",
-      "title": "This Ethereum Metric Called The Bottom Ahead Of Rally, Says Analytics Firm",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-metric-bottom-ahead-rally-analytics/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 02:30:04 +0000",
-      "excerpt": "The on-chain analytics firm Glassnode has revealed an Ethereum indicator that reliably flagged the price bottom in advance of the recent rally. Ethereum NUPL Fell Into Capitulation Zone Earlier In ...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "455c54fe1a5b81a21a0aa094accbb559",
-      "title": "Historic First: Ethereum ETFs Beat Bitcoin In Daily Flows",
-      "link": "https://bitcoinist.com/historic-first-ethereum-etfs-beat-bitcoin/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 02:30:03 +0000",
-      "excerpt": "For the first time in the 18-month history of US spot-crypto exchange-traded funds, the day’s heaviest torrent of institutional cash swept into Ethereum, not Bitcoin. Flow tallies for Thursday put ...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ]
     }
   ],
   "defi": [
+    {
+      "id": "07108c5b190c481757fec1de8c91af7b",
+      "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
+      "link": "https://cryptopotato.com/eth-treasuries-ditch-digital-gold-model-for-yield-generating-staking-heres-why-it-matters/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:19:02 +0000",
+      "excerpt": "Ethereum treasury strategies avoid hype, and focus on productive yield and staking, according to Galaxy Digital.",
+      "categories": [
+        "ethereum",
+        "defi"
+      ],
+      "tags": [
+        "Ethereum",
+        "DeFi"
+      ]
+    },
     {
       "id": "6c52ddf456df5f3b867420b37e355c7d",
       "title": "Here’s what happened in crypto today",
@@ -763,6 +793,19 @@
         "Trading",
         "Regulation"
       ]
+    },
+    {
+      "id": "70a5dca1ffece80299aeb8306e609882",
+      "title": "Another Crypto-Affiliated Firm Achieves the S&P 500 Milestone",
+      "link": "https://beincrypto.com/jack-dorseys-block-earns-sp-500-milestone/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 13:17:02 +0000",
+      "excerpt": "Block Inc., the fintech company founded by Twitter co-creator Jack Dorsey, is set to join the prestigious S&P 500 index on July 23. The announcement, confirmed by S&P Dow Jones Indices on July 18, ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": []
     },
     {
       "id": "de566ced7c362f3c6e30850cd3d1d43b",
@@ -853,6 +896,26 @@
   ],
   "analysis": [
     {
+      "id": "aaee25f545b25890bf6fa8934e8ea69d",
+      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
+      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
+      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
       "id": "d97dd79b99a960cdcde6aff335a06691",
       "title": "XRP Price Prediction: After Skyrocketing 24% to New All-Time High This Week – What’s Next?",
       "link": "https://cryptonews.com/news/xrp-price-prediction-after-skyrocketing-24-to-new-all-time-high-this-week-whats-next/",
@@ -941,6 +1004,38 @@
   ],
   "all": [
     {
+      "id": "07108c5b190c481757fec1de8c91af7b",
+      "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
+      "link": "https://cryptopotato.com/eth-treasuries-ditch-digital-gold-model-for-yield-generating-staking-heres-why-it-matters/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:19:02 +0000",
+      "excerpt": "Ethereum treasury strategies avoid hype, and focus on productive yield and staking, according to Galaxy Digital.",
+      "categories": [
+        "ethereum",
+        "defi"
+      ],
+      "tags": [
+        "Ethereum",
+        "DeFi"
+      ]
+    },
+    {
+      "id": "342df301606ae20daa3c44af81b29cd2",
+      "title": "Top 3 Altcoins Trending in Nigeria In The Fourth Week Of July",
+      "link": "https://beincrypto.com/trending-altcoins-nigeria-july-fourth-week/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:00:00 +0000",
+      "excerpt": "Ethereum leads the charge in Nigeria, while XRP reaches new highs, and Hedera benefits from institutional backing, signaling continued bullish trends for altcoins.\nThe post Top 3 Altcoins Trending ...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
       "id": "6c52ddf456df5f3b867420b37e355c7d",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -977,6 +1072,26 @@
       ]
     },
     {
+      "id": "aaee25f545b25890bf6fa8934e8ea69d",
+      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
+      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
+      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
       "id": "6c636a54f96bfdb87a636e1380e8591e",
       "title": "Traders are bullish on ETH as price begins to catch up with the tech",
       "link": "https://cryptoslate.com/traders-are-bullish-on-eth-as-price-begins-to-catch-up-with-the-tech/",
@@ -1007,6 +1122,19 @@
       "tags": [
         "Trading"
       ]
+    },
+    {
+      "id": "70a5dca1ffece80299aeb8306e609882",
+      "title": "Another Crypto-Affiliated Firm Achieves the S&P 500 Milestone",
+      "link": "https://beincrypto.com/jack-dorseys-block-earns-sp-500-milestone/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 13:17:02 +0000",
+      "excerpt": "Block Inc., the fintech company founded by Twitter co-creator Jack Dorsey, is set to join the prestigious S&P 500 index on July 23. The announcement, confirmed by S&P Dow Jones Indices on July 18, ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": []
     },
     {
       "id": "2492d874c2d630b1ec6e27e991659d00",
@@ -1756,6 +1884,21 @@
       ]
     },
     {
+      "id": "a6412edded0a8723c5fe34eb089f1fe3",
+      "title": "Litecoin Sharp Pullback: Scalping Opportunities Emerge While LTCBTC Seeks Stability",
+      "link": "https://www.newsbtc.com/news/litecoin/litecoin-pulls-back-sharply/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 02:30:41 +0000",
+      "excerpt": "In a recent post on X, CRYPTOWZRD pointed out that Litecoin ended the day on a bearish note, with LTCBTC giving up its gains in a sharp reversal. He emphasized the need for stronger, more stable pr...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
       "id": "a427ce8d602a082946baf95119927d40",
       "title": "This Ethereum Metric Called The Bottom Ahead Of Rally, Says Analytics Firm",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-metric-bottom-ahead-rally-analytics/",
@@ -2441,5 +2584,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-19T13:36:56.879173"
+  "last_updated": "2025-07-19T14:29:34.276064"
 }
