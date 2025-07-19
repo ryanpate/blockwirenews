@@ -1,6 +1,93 @@
 {
   "latest": [
     {
+      "id": "f1500c894987b53db6239cc3f1a6ec37",
+      "title": "Indian crypto exchange CoinDCX hacked, $44 million drained",
+      "link": "https://cointelegraph.com/news/crypto-exchange-coindcx-hacked-42-million-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 17:37:51 +0100",
+      "excerpt": "The cybersecurity exploit occurred due to a \"sophisticated server breach,\" CoinDCX CEO and co-founder Sumit Gupta announced on Saturday.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "da05c3402b631fd8470c5b7a73fce23d",
+      "title": "CoinDCX Hacked for $44 Million as CEO Confirms Internal Wallet Compromise",
+      "link": "https://beincrypto.com/indian-exchange-coindcx-hacked-internal-wallet/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:01:33 +0000",
+      "excerpt": "CoinDCX suffered a $44.2 million exploit involving a compromised internal wallet. CEO says customer funds are secure; investigation is underway.\nThe post CoinDCX Hacked for $44 Million as CEO Confi...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "b259931b09ab06bd1b4259a47f02bf95",
+      "title": "More than 1,700 Data Breaches Impact 165,745,452 Victims in the US in the First Half of 2025: Identity Theft Resource Center",
+      "link": "https://dailyhodl.com/2025/07/19/more-than-1700-data-breaches-impact-165745452-victims-in-the-us-in-the-first-half-of-2025-identity-theft-resource-center/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:55:36 +0000",
+      "excerpt": "Nearly half of the US population has been impacted by data breaches in the first half of 2025 alone, according to a new report from the Identity Theft Resource Center (ITRC). The ITRC says 1,732 da...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "aa1b3e65560ecd5fd85b037796f5b647",
+      "title": "Woman Receives $501,450,311 in Bank Account, Tells Authorities She Doesn’t Know Where It Came From – Now She’s Facing Prison: Report",
+      "link": "https://dailyhodl.com/2025/07/19/woman-receives-501450311-in-bank-account-tells-authorities-she-doesnt-know-where-it-came-from-now-shes-facing-prison-report/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:48:35 +0000",
+      "excerpt": "A 58-year-old woman is awaiting prison after receiving over half a billion dollars in mysterious and unexplained funds in her bank account. Authorities say Zin Nwe Nyunt of Singapore set up a whole...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e7a2bbdf94f58710f2af504f281c1887",
+      "title": "Early BTC Adopters Move Millions in Bitcoin as Prices Stay Strong",
+      "link": "https://news.bitcoin.com/early-btc-adopters-move-millions-in-bitcoin-as-prices-stay-strong/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:36:52 +0000",
+      "excerpt": "While the crypto world buzzed over the 80,000 bitcoins from 2011 shuffled around by an old-school whale this week, a few other longtime holders quietly joined the action, shifting hefty amounts of ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "b1d80a6f5f22b63e629c1c5f6ec0a190",
+      "title": "Will Trump Family’s WLFI Token Be Available to Purchase for Everyone?",
+      "link": "https://beincrypto.com/world-liberty-financial-token-wlfi-launch-details/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:30:00 +0000",
+      "excerpt": "World Liberty Financial’s WLFI token, a DeFi project publicly backed by the Trump family, will not be available to all buyers at launch.  Despite recent speculation, only a limited group of early p...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
       "id": "1a2ff8437d9386b653221d6505fcb771",
       "title": "Why Bitcoin Price Failed To Break $123,000 In The Past Week — Analyst Explains",
       "link": "https://www.newsbtc.com/news/bitcoin/why-bitcoin-price-failed-to-break-123000/",
@@ -211,112 +298,25 @@
         "Ethereum",
         "DeFi"
       ]
-    },
+    }
+  ],
+  "featured": [
     {
-      "id": "342df301606ae20daa3c44af81b29cd2",
-      "title": "Top 3 Altcoins Trending in Nigeria In The Fourth Week Of July",
-      "link": "https://beincrypto.com/trending-altcoins-nigeria-july-fourth-week/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:00:00 +0000",
-      "excerpt": "Ethereum leads the charge in Nigeria, while XRP reaches new highs, and Hedera benefits from institutional backing, signaling continued bullish trends for altcoins.\nThe post Top 3 Altcoins Trending ...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "6c52ddf456df5f3b867420b37e355c7d",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:55:35 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "c9b84864f25a4669e885076c30271f9a",
-      "title": "Spot Bitcoin ETFs gains $363M, extend 12-day inflow streak to $6.6B",
-      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:52:16 +0100",
-      "excerpt": "Spot Bitcoin ETFs have attracted over $6.6 billion in 12 days, boosting assets under management to $152.4 billion.",
+      "id": "e7a2bbdf94f58710f2af504f281c1887",
+      "title": "Early BTC Adopters Move Millions in Bitcoin as Prices Stay Strong",
+      "link": "https://news.bitcoin.com/early-btc-adopters-move-millions-in-bitcoin-as-prices-stay-strong/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:36:52 +0000",
+      "excerpt": "While the crypto world buzzed over the 80,000 bitcoins from 2011 shuffled around by an old-school whale this week, a few other longtime holders quietly joined the action, shifting hefty amounts of ...",
       "categories": [
         "bitcoin"
       ],
       "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "aaee25f545b25890bf6fa8934e8ea69d",
-      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
-      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
-      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
         "Bitcoin",
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "6c636a54f96bfdb87a636e1380e8591e",
-      "title": "Traders are bullish on ETH as price begins to catch up with the tech",
-      "link": "https://cryptoslate.com/traders-are-bullish-on-eth-as-price-begins-to-catch-up-with-the-tech/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:30:52 +0000",
-      "excerpt": "Ethereum (ETH), the world’s second-largest crypto by market cap, may finally be poised for a breakout after years of underwhelming performance. With both traders and the broader community expressin...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "5fb10c64672e3a1f828016d6b8da4382",
-      "title": "XRP Price Watch: $3.66 Rejection Sparks Short-Term Caution",
-      "link": "https://news.bitcoin.com/xrp-price-watch-3-66-rejection-sparks-short-term-caution/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:30:37 +0000",
-      "excerpt": "XRP is priced at $3.39 with a market capitalization of $201 billion and a 24-hour trading volume of $10.74 billion. Its intraday price fluctuated between $3.36 and $3.664 per coin, marking a 7% dec...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
         "Trading"
       ]
-    }
-  ],
-  "featured": [
+    },
     {
       "id": "1a2ff8437d9386b653221d6505fcb771",
       "title": "Why Bitcoin Price Failed To Break $123,000 In The Past Week — Analyst Explains",
@@ -380,26 +380,25 @@
         "Ethereum",
         "Trading"
       ]
-    },
-    {
-      "id": "07108c5b190c481757fec1de8c91af7b",
-      "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
-      "link": "https://cryptopotato.com/eth-treasuries-ditch-digital-gold-model-for-yield-generating-staking-heres-why-it-matters/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:19:02 +0000",
-      "excerpt": "Ethereum treasury strategies avoid hype, and focus on productive yield and staking, according to Galaxy Digital.",
-      "categories": [
-        "ethereum",
-        "defi"
-      ],
-      "tags": [
-        "Ethereum",
-        "DeFi"
-      ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "e7a2bbdf94f58710f2af504f281c1887",
+      "title": "Early BTC Adopters Move Millions in Bitcoin as Prices Stay Strong",
+      "link": "https://news.bitcoin.com/early-btc-adopters-move-millions-in-bitcoin-as-prices-stay-strong/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:36:52 +0000",
+      "excerpt": "While the crypto world buzzed over the 80,000 bitcoins from 2011 shuffled around by an old-school whale this week, a few other longtime holders quietly joined the action, shifting hefty amounts of ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
     {
       "id": "1a2ff8437d9386b653221d6505fcb771",
       "title": "Why Bitcoin Price Failed To Break $123,000 In The Past Week — Analyst Explains",
@@ -551,23 +550,6 @@
         "Bitcoin",
         "Ethereum",
         "Trading"
-      ]
-    },
-    {
-      "id": "c3108a54f1f6f8ac318b25c2ee2e4447",
-      "title": "Everyone hates proof of stake, will we do something about it?",
-      "link": "https://cryptoslate.com/everyone-hates-proof-of-stake-will-we-do-something-about-it/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:16:03 +0000",
-      "excerpt": "The following is a guest post and opinion from Carter Feldman, CEO & Founder of Psy Protocol. When Bitcoin emerged in 2009, it introduced an elegant consensus mechanism called Proof of Work (PoW). ...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
       ]
     }
   ],
@@ -750,6 +732,21 @@
   ],
   "defi": [
     {
+      "id": "b1d80a6f5f22b63e629c1c5f6ec0a190",
+      "title": "Will Trump Family’s WLFI Token Be Available to Purchase for Everyone?",
+      "link": "https://beincrypto.com/world-liberty-financial-token-wlfi-launch-details/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:30:00 +0000",
+      "excerpt": "World Liberty Financial’s WLFI token, a DeFi project publicly backed by the Trump family, will not be available to all buyers at launch.  Despite recent speculation, only a limited group of early p...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
       "id": "e46da582c59ce03e9da2f1326f80ad4c",
       "title": "Defi Protocols Surge To a 3-Year High in TVL – The Ultimate Bull Market Sign?",
       "link": "https://beincrypto.com/defi-protocols-tvl-three-year-high/",
@@ -889,24 +886,6 @@
         "defi"
       ],
       "tags": []
-    },
-    {
-      "id": "1fa92df153f186ca7f343ddb57aced48",
-      "title": "Ethereum attracts record ETF inflows and 39% fee drop in Q2, supporting stronger outlook for Q3",
-      "link": "https://cryptoslate.com/ethereum-attracts-record-etf-inflows-and-39-fee-drop-in-q2-supporting-stronger-outlook-for-q3/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 21:32:09 +0000",
-      "excerpt": "Ethereum (ETH) registered significant improvements in the second quarter, including increased inflows of exchange-traded funds (ETFs), layer-2 activity, and liquidity, which enhance the prospects f...",
-      "categories": [
-        "ethereum",
-        "defi"
-      ],
-      "tags": [
-        "Ethereum",
-        "DeFi",
-        "Regulation"
-      ]
     }
   ],
   "nft": [
@@ -1074,6 +1053,93 @@
     }
   ],
   "all": [
+    {
+      "id": "f1500c894987b53db6239cc3f1a6ec37",
+      "title": "Indian crypto exchange CoinDCX hacked, $44 million drained",
+      "link": "https://cointelegraph.com/news/crypto-exchange-coindcx-hacked-42-million-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 17:37:51 +0100",
+      "excerpt": "The cybersecurity exploit occurred due to a \"sophisticated server breach,\" CoinDCX CEO and co-founder Sumit Gupta announced on Saturday.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "da05c3402b631fd8470c5b7a73fce23d",
+      "title": "CoinDCX Hacked for $44 Million as CEO Confirms Internal Wallet Compromise",
+      "link": "https://beincrypto.com/indian-exchange-coindcx-hacked-internal-wallet/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:01:33 +0000",
+      "excerpt": "CoinDCX suffered a $44.2 million exploit involving a compromised internal wallet. CEO says customer funds are secure; investigation is underway.\nThe post CoinDCX Hacked for $44 Million as CEO Confi...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "b259931b09ab06bd1b4259a47f02bf95",
+      "title": "More than 1,700 Data Breaches Impact 165,745,452 Victims in the US in the First Half of 2025: Identity Theft Resource Center",
+      "link": "https://dailyhodl.com/2025/07/19/more-than-1700-data-breaches-impact-165745452-victims-in-the-us-in-the-first-half-of-2025-identity-theft-resource-center/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:55:36 +0000",
+      "excerpt": "Nearly half of the US population has been impacted by data breaches in the first half of 2025 alone, according to a new report from the Identity Theft Resource Center (ITRC). The ITRC says 1,732 da...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "aa1b3e65560ecd5fd85b037796f5b647",
+      "title": "Woman Receives $501,450,311 in Bank Account, Tells Authorities She Doesn’t Know Where It Came From – Now She’s Facing Prison: Report",
+      "link": "https://dailyhodl.com/2025/07/19/woman-receives-501450311-in-bank-account-tells-authorities-she-doesnt-know-where-it-came-from-now-shes-facing-prison-report/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:48:35 +0000",
+      "excerpt": "A 58-year-old woman is awaiting prison after receiving over half a billion dollars in mysterious and unexplained funds in her bank account. Authorities say Zin Nwe Nyunt of Singapore set up a whole...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e7a2bbdf94f58710f2af504f281c1887",
+      "title": "Early BTC Adopters Move Millions in Bitcoin as Prices Stay Strong",
+      "link": "https://news.bitcoin.com/early-btc-adopters-move-millions-in-bitcoin-as-prices-stay-strong/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:36:52 +0000",
+      "excerpt": "While the crypto world buzzed over the 80,000 bitcoins from 2011 shuffled around by an old-school whale this week, a few other longtime holders quietly joined the action, shifting hefty amounts of ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "b1d80a6f5f22b63e629c1c5f6ec0a190",
+      "title": "Will Trump Family’s WLFI Token Be Available to Purchase for Everyone?",
+      "link": "https://beincrypto.com/world-liberty-financial-token-wlfi-launch-details/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:30:00 +0000",
+      "excerpt": "World Liberty Financial’s WLFI token, a DeFi project publicly backed by the Trump family, will not be available to all buyers at launch.  Despite recent speculation, only a limited group of early p...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
     {
       "id": "1a2ff8437d9386b653221d6505fcb771",
       "title": "Why Bitcoin Price Failed To Break $123,000 In The Past Week — Analyst Explains",
@@ -2850,5 +2916,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-19T16:35:33.008256"
+  "last_updated": "2025-07-19T17:30:23.638684"
 }
