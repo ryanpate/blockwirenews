@@ -1,6 +1,110 @@
 {
   "latest": [
     {
+      "id": "f2331df1519d42cb9e1efc6bba5c0a5c",
+      "title": "Crypto rules for mortgages must reflect self-custody reality",
+      "link": "https://cointelegraph.com/news/fhfa-homebuyers-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 16:00:00 +0100",
+      "excerpt": "The FHFA directive on crypto in mortgage risk assessments risks excluding self-custodied assets, potentially increasing counterparty risk for homebuyers.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "821bed78895712201327574d49dc7278",
+      "title": "Can XRP price reach $20? These charts say ‘full bull’ phase is still ahead",
+      "link": "https://cointelegraph.com/news/can-xrp-price-reach-dollar20-these-charts-full-bull-phase-still-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 15:50:07 +0100",
+      "excerpt": "Multiple chart technicals and indicators suggest that XRP price has the potential to stage a parabolic rally over the next few weeks.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "79ae16ac1641e5c46ed80813c2ce67a4",
+      "title": "Bitcoin Podcaster Peter McCormack Pledges to Fight Crime in Bedford Like a Real-Life Batman",
+      "link": "https://cryptonews.com/news/bitcoin-podcaster-peter-mccormack-pledges-to-fight-crime-in-bedford-like-a-real-life-batman/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:11:00 +0000",
+      "excerpt": "Peter McCormack, well-known Bitcoin podcaster and owner of Real Bedford FC, has announced a plan to tackle rising crime in Bedford, UK.\nThe post Bitcoin Podcaster Peter McCormack Pledges to Fight C...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "795f74763a494fe2e4abaa297d009e5e",
+      "title": "Ethereum Price Prediction: Eyes on $4,000 – ETH’s 20% Weekly Gain Reshapes Market Outlook",
+      "link": "https://cryptonews.com/news/ethereum-price-prediction-eyes-on-4000-eths-20-weekly-gain-reshapes-market-outlook/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:58:17 +0000",
+      "excerpt": "Ethereum has delivered one of the most impressive performances of 2025, surging over 20% in the past seven days as ETH bulls target the $4,000 mark as the next key psychological resistance.\nThe pos...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "b310cbf8b39a11db4ce66a5fade19529",
+      "title": "From $5 Billion to $260 Billion: Stablecoins Mark Massive 5-Year Growth",
+      "link": "https://news.bitcoin.com/from-5-billion-to-260-billion-stablecoins-mark-massive-5-year-growth/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:40:22 +0000",
+      "excerpt": "The stablecoin economy expanded by $3.533 billion over the past week, pushing its total valuation past the $260 billion mark for the first time in history. DeFi and Payments Fuel Stablecoin Growth ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
+      "id": "e58b912ffebefa7a3d779bc9e36af591",
+      "title": "JPMorgan Chase Warns De-Dollarization Underway As Central Banks Ditch USD, Aggressively Stockpile Gold",
+      "link": "https://dailyhodl.com/2025/07/19/jpmorgan-chase-warns-de-dollarization-underway-as-central-banks-ditch-usd-aggressively-stockpile-gold/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:30:14 +0000",
+      "excerpt": "JPMorgan Chase warns de-dollarization is accelerating, as central banks slash USD reserves while aggressively stockpiling gold. In a new note, Meera Chandan, co-head of Global FX Strategy at JPMorg...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3d2de63fc3e51ee10907aaf7548792dc",
+      "title": "Crypto Lawyer Argues GENIUS Act Sets The Stage For DeFi Expansion",
+      "link": "https://bitcoinist.com/crypto-lawyer-argues-genius-act-sets-the-stage-for-defi-expansion/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:30:09 +0000",
+      "excerpt": "In a historic move for the digital asset industry, US President Donald Trump signed the GENIUS Act into law on Friday, marking the first major federal legislation governing cryptocurrency. The bill...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
       "id": "07108c5b190c481757fec1de8c91af7b",
       "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
       "link": "https://cryptopotato.com/eth-treasuries-ditch-digital-gold-model-for-yield-generating-staking-heres-why-it-matters/",
@@ -210,114 +314,41 @@
       "tags": [
         "DeFi"
       ]
-    },
-    {
-      "id": "3c1a19fae91fc56c79ee065732504865",
-      "title": "They trusted a sealed wallet from TikTok, and it cost them $6.9M",
-      "link": "https://cointelegraph.com/explained/they-trusted-a-sealed-wallet-from-tiktok-and-it-cost-them-69m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 12:25:00 +0100",
-      "excerpt": "A fake hardware wallet bought via TikTok led to a $6.9-million crypto theft; hackers are now targeting devices meant to keep funds safe.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "d97dd79b99a960cdcde6aff335a06691",
-      "title": "XRP Price Prediction: After Skyrocketing 24% to New All-Time High This Week – What’s Next?",
-      "link": "https://cryptonews.com/news/xrp-price-prediction-after-skyrocketing-24-to-new-all-time-high-this-week-whats-next/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:17:28 +0000",
-      "excerpt": "XRP has delivered a stunning 24% surge this week, reaching new multi-year highs of $3.27 and pushing its market capitalization past $190 billion for the first time.\nThe post XRP Price Prediction: A...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "c3108a54f1f6f8ac318b25c2ee2e4447",
-      "title": "Everyone hates proof of stake, will we do something about it?",
-      "link": "https://cryptoslate.com/everyone-hates-proof-of-stake-will-we-do-something-about-it/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:16:03 +0000",
-      "excerpt": "The following is a guest post and opinion from Carter Feldman, CEO & Founder of Psy Protocol. When Bitcoin emerged in 2009, it introduced an elegant consensus mechanism called Proof of Work (PoW). ...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "5edb076c66a61c2fa24ad365d74649b6",
-      "title": "Bitcoin Price Watch: Momentum Cools but Uptrend Remains Intact",
-      "link": "https://news.bitcoin.com/bitcoin-price-watch-momentum-cools-but-uptrend-remains-intact/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:15:12 +0000",
-      "excerpt": "Bitcoin traded at $118,434 on July 19, 2025, with a total market capitalization of $2.35 trillion. Over the last 24 hours, it moved within an intraday range of $117,010 to $119,529, generating a tr...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "b28a6814438ce826e8d7bcc47f1e0408",
-      "title": "Streaming Service Handing $3,400,000 To Current and Former Customers To Settle Illegal Data Harvesting Allegations",
-      "link": "https://dailyhodl.com/2025/07/19/streaming-service-handing-3400000-to-current-and-former-customers-to-settle-illegal-data-harvesting-allegations/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 11:45:14 +0000",
-      "excerpt": "A billion-dollar streaming service has agreed to shell out $3.4 million to settle a class action lawsuit alleging the company violated US privacy laws. According to a newly updated settlement porta...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "361b258edaccf8efd2025a405996ba02",
-      "title": "Peter Thiel’s Crypto Bet ‘Bullish’ Targets Wall Street With NYSE Listing",
-      "link": "https://bitcoinist.com/peter-thiels-crypto-bet-bullish-targets-wall-street-with-nyse-listing/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 11:30:52 +0000",
-      "excerpt": "Bullish, the crypto exchange backed by billionaire investor and PayPal co-founder Peter Thiel, is officially heading to Wall Street. In a bold move that underscores growing institutional confidence...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "e6cef4483006f092650197821b81265f",
-      "title": "Bitcoin Miner Sales Surge To Highest Level Since April – Details",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-miner-sales-surge-to-highest-level-since-april-details/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 11:30:37 +0000",
-      "excerpt": "Bitcoin is currently holding above the $115,000 level after setting a new all-time high of approximately $123,000 last Monday. The price structure remains firmly bullish, with buyers still in contr...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "79ae16ac1641e5c46ed80813c2ce67a4",
+      "title": "Bitcoin Podcaster Peter McCormack Pledges to Fight Crime in Bedford Like a Real-Life Batman",
+      "link": "https://cryptonews.com/news/bitcoin-podcaster-peter-mccormack-pledges-to-fight-crime-in-bedford-like-a-real-life-batman/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:11:00 +0000",
+      "excerpt": "Peter McCormack, well-known Bitcoin podcaster and owner of Real Bedford FC, has announced a plan to tackle rising crime in Bedford, UK.\nThe post Bitcoin Podcaster Peter McCormack Pledges to Fight C...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "795f74763a494fe2e4abaa297d009e5e",
+      "title": "Ethereum Price Prediction: Eyes on $4,000 – ETH’s 20% Weekly Gain Reshapes Market Outlook",
+      "link": "https://cryptonews.com/news/ethereum-price-prediction-eyes-on-4000-eths-20-weekly-gain-reshapes-market-outlook/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:58:17 +0000",
+      "excerpt": "Ethereum has delivered one of the most impressive performances of 2025, surging over 20% in the past seven days as ETH bulls target the $4,000 mark as the next key psychological resistance.\nThe pos...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
     {
       "id": "07108c5b190c481757fec1de8c91af7b",
       "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
@@ -370,15 +401,17 @@
         "Trading",
         "Regulation"
       ]
-    },
+    }
+  ],
+  "bitcoin": [
     {
-      "id": "c9b84864f25a4669e885076c30271f9a",
-      "title": "Spot Bitcoin ETFs gains $363M, extend 12-day inflow streak to $6.6B",
-      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:52:16 +0100",
-      "excerpt": "Spot Bitcoin ETFs have attracted over $6.6 billion in 12 days, boosting assets under management to $152.4 billion.",
+      "id": "79ae16ac1641e5c46ed80813c2ce67a4",
+      "title": "Bitcoin Podcaster Peter McCormack Pledges to Fight Crime in Bedford Like a Real-Life Batman",
+      "link": "https://cryptonews.com/news/bitcoin-podcaster-peter-mccormack-pledges-to-fight-crime-in-bedford-like-a-real-life-batman/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:11:00 +0000",
+      "excerpt": "Peter McCormack, well-known Bitcoin podcaster and owner of Real Bedford FC, has announced a plan to tackle rising crime in Bedford, UK.\nThe post Bitcoin Podcaster Peter McCormack Pledges to Fight C...",
       "categories": [
         "bitcoin"
       ],
@@ -386,28 +419,6 @@
         "Bitcoin"
       ]
     },
-    {
-      "id": "aaee25f545b25890bf6fa8934e8ea69d",
-      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
-      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
-      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
-    }
-  ],
-  "bitcoin": [
     {
       "id": "6c52ddf456df5f3b867420b37e355c7d",
       "title": "Here’s what happened in crypto today",
@@ -562,25 +573,26 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "0502c6490e413f9db5a17662f492e096",
-      "title": "4 Signs of a Trillion-Dollar Sea Change in Bitcoin Valuations",
-      "link": "https://cryptopotato.com/4-signs-of-a-trillion-dollar-sea-change-in-bitcoin-valuations/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 11:24:00 +0000",
-      "excerpt": "Bitcoin's ebullient rally to all-time high prices in July might be more proof the cryptocurrency is set to change the world.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "795f74763a494fe2e4abaa297d009e5e",
+      "title": "Ethereum Price Prediction: Eyes on $4,000 – ETH’s 20% Weekly Gain Reshapes Market Outlook",
+      "link": "https://cryptonews.com/news/ethereum-price-prediction-eyes-on-4000-eths-20-weekly-gain-reshapes-market-outlook/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:58:17 +0000",
+      "excerpt": "Ethereum has delivered one of the most impressive performances of 2025, surging over 20% in the past seven days as ETH bulls target the $4,000 mark as the next key psychological resistance.\nThe pos...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
     {
       "id": "07108c5b190c481757fec1de8c91af7b",
       "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
@@ -738,24 +750,39 @@
         "Ethereum",
         "Trading"
       ]
-    },
-    {
-      "id": "e25763c3569f70be528c1a9cdff20780",
-      "title": "Bit Digital Boosts Ethereum Treasury to Over 120,000 ETH",
-      "link": "https://news.bitcoin.com/bit-digital-boosts-ethereum-treasury-to-over-120000-eth/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 05:30:33 +0000",
-      "excerpt": "Bit Digital has expanded its ethereum holdings to over 120,000 ETH, converting recent capital into a long-term bet on ethereum’s role in the evolving digital economy. Bit Digital Converts $67.3 Mil...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
     }
   ],
   "defi": [
+    {
+      "id": "b310cbf8b39a11db4ce66a5fade19529",
+      "title": "From $5 Billion to $260 Billion: Stablecoins Mark Massive 5-Year Growth",
+      "link": "https://news.bitcoin.com/from-5-billion-to-260-billion-stablecoins-mark-massive-5-year-growth/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:40:22 +0000",
+      "excerpt": "The stablecoin economy expanded by $3.533 billion over the past week, pushing its total valuation past the $260 billion mark for the first time in history. DeFi and Payments Fuel Stablecoin Growth ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
+      "id": "3d2de63fc3e51ee10907aaf7548792dc",
+      "title": "Crypto Lawyer Argues GENIUS Act Sets The Stage For DeFi Expansion",
+      "link": "https://bitcoinist.com/crypto-lawyer-argues-genius-act-sets-the-stage-for-defi-expansion/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:30:09 +0000",
+      "excerpt": "In a historic move for the digital asset industry, US President Donald Trump signed the GENIUS Act into law on Friday, marking the first major federal legislation governing cryptocurrency. The bill...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
     {
       "id": "07108c5b190c481757fec1de8c91af7b",
       "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
@@ -896,6 +923,39 @@
   ],
   "analysis": [
     {
+      "id": "821bed78895712201327574d49dc7278",
+      "title": "Can XRP price reach $20? These charts say ‘full bull’ phase is still ahead",
+      "link": "https://cointelegraph.com/news/can-xrp-price-reach-dollar20-these-charts-full-bull-phase-still-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 15:50:07 +0100",
+      "excerpt": "Multiple chart technicals and indicators suggest that XRP price has the potential to stage a parabolic rally over the next few weeks.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "795f74763a494fe2e4abaa297d009e5e",
+      "title": "Ethereum Price Prediction: Eyes on $4,000 – ETH’s 20% Weekly Gain Reshapes Market Outlook",
+      "link": "https://cryptonews.com/news/ethereum-price-prediction-eyes-on-4000-eths-20-weekly-gain-reshapes-market-outlook/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:58:17 +0000",
+      "excerpt": "Ethereum has delivered one of the most impressive performances of 2025, surging over 20% in the past seven days as ETH bulls target the $4,000 mark as the next key psychological resistance.\nThe pos...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
       "id": "aaee25f545b25890bf6fa8934e8ea69d",
       "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
       "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
@@ -1003,6 +1063,110 @@
     }
   ],
   "all": [
+    {
+      "id": "f2331df1519d42cb9e1efc6bba5c0a5c",
+      "title": "Crypto rules for mortgages must reflect self-custody reality",
+      "link": "https://cointelegraph.com/news/fhfa-homebuyers-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 16:00:00 +0100",
+      "excerpt": "The FHFA directive on crypto in mortgage risk assessments risks excluding self-custodied assets, potentially increasing counterparty risk for homebuyers.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "821bed78895712201327574d49dc7278",
+      "title": "Can XRP price reach $20? These charts say ‘full bull’ phase is still ahead",
+      "link": "https://cointelegraph.com/news/can-xrp-price-reach-dollar20-these-charts-full-bull-phase-still-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 15:50:07 +0100",
+      "excerpt": "Multiple chart technicals and indicators suggest that XRP price has the potential to stage a parabolic rally over the next few weeks.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "79ae16ac1641e5c46ed80813c2ce67a4",
+      "title": "Bitcoin Podcaster Peter McCormack Pledges to Fight Crime in Bedford Like a Real-Life Batman",
+      "link": "https://cryptonews.com/news/bitcoin-podcaster-peter-mccormack-pledges-to-fight-crime-in-bedford-like-a-real-life-batman/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:11:00 +0000",
+      "excerpt": "Peter McCormack, well-known Bitcoin podcaster and owner of Real Bedford FC, has announced a plan to tackle rising crime in Bedford, UK.\nThe post Bitcoin Podcaster Peter McCormack Pledges to Fight C...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "795f74763a494fe2e4abaa297d009e5e",
+      "title": "Ethereum Price Prediction: Eyes on $4,000 – ETH’s 20% Weekly Gain Reshapes Market Outlook",
+      "link": "https://cryptonews.com/news/ethereum-price-prediction-eyes-on-4000-eths-20-weekly-gain-reshapes-market-outlook/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:58:17 +0000",
+      "excerpt": "Ethereum has delivered one of the most impressive performances of 2025, surging over 20% in the past seven days as ETH bulls target the $4,000 mark as the next key psychological resistance.\nThe pos...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "b310cbf8b39a11db4ce66a5fade19529",
+      "title": "From $5 Billion to $260 Billion: Stablecoins Mark Massive 5-Year Growth",
+      "link": "https://news.bitcoin.com/from-5-billion-to-260-billion-stablecoins-mark-massive-5-year-growth/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:40:22 +0000",
+      "excerpt": "The stablecoin economy expanded by $3.533 billion over the past week, pushing its total valuation past the $260 billion mark for the first time in history. DeFi and Payments Fuel Stablecoin Growth ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
+      "id": "e58b912ffebefa7a3d779bc9e36af591",
+      "title": "JPMorgan Chase Warns De-Dollarization Underway As Central Banks Ditch USD, Aggressively Stockpile Gold",
+      "link": "https://dailyhodl.com/2025/07/19/jpmorgan-chase-warns-de-dollarization-underway-as-central-banks-ditch-usd-aggressively-stockpile-gold/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:30:14 +0000",
+      "excerpt": "JPMorgan Chase warns de-dollarization is accelerating, as central banks slash USD reserves while aggressively stockpiling gold. In a new note, Meera Chandan, co-head of Global FX Strategy at JPMorg...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "3d2de63fc3e51ee10907aaf7548792dc",
+      "title": "Crypto Lawyer Argues GENIUS Act Sets The Stage For DeFi Expansion",
+      "link": "https://bitcoinist.com/crypto-lawyer-argues-genius-act-sets-the-stage-for-defi-expansion/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 14:30:09 +0000",
+      "excerpt": "In a historic move for the digital asset industry, US President Donald Trump signed the GENIUS Act into law on Friday, marking the first major federal legislation governing cryptocurrency. The bill...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
     {
       "id": "07108c5b190c481757fec1de8c91af7b",
       "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
@@ -2584,5 +2748,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-19T14:29:34.276064"
+  "last_updated": "2025-07-19T15:29:45.149921"
 }
