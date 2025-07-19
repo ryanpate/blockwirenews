@@ -1,6 +1,37 @@
 {
   "latest": [
     {
+      "id": "65ac06e6f60af1de3637853ae064b5c4",
+      "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
+      "link": "https://news.bitcoin.com/ether-etfs-outshine-bitcoin-etfs-for-second-straight-day-with-403-million-in-inflows/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 18:35:58 +0000",
+      "excerpt": "Crypto exchange-traded funds (ETFs) raked in $766 million on Friday, July 18, with ether ETFs once again outpacing their bitcoin counterparts. Fueled by Blackrock’s dominance, ether products contin...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "6250b2e743c535b5565710768bfd0f9d",
+      "title": "Pi Coin is Now 10% From an All-Time Low – Any Chance of Recovery?",
+      "link": "https://beincrypto.com/pi-coin-price-nears-all-time-low/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 18:00:00 +0000",
+      "excerpt": "Pi Coin is dangerously close to its all-time low, but with potential volatility building, the altcoin could either drop further or rebound if key resistance is breached.\nThe post Pi Coin is Now 10%...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "f1500c894987b53db6239cc3f1a6ec37",
       "title": "Indian crypto exchange CoinDCX hacked, $44 million drained",
       "link": "https://cointelegraph.com/news/crypto-exchange-coindcx-hacked-42-million-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -13,6 +44,66 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "8c4c4a9606ffe531b95cbb2cf99f503f",
+      "title": "BNB Chain Says Its Next Evolution Will Match Nasdaq’s Scale and Speed",
+      "link": "https://cryptopotato.com/bnb-chain-says-its-next-evolution-will-match-nasdaqs-scale-and-speed/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:33:13 +0000",
+      "excerpt": "BNB Chain said that its planned improvements will bring throughput and efficiency comparable to Nasdaq’s transaction processing capacity.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a697f341f77d56836def4a24e25377ed",
+      "title": "Today In Crypto: 3 Major Bills Passed In The US House, Here’s What You Should Know",
+      "link": "https://bitcoinist.com/3-major-bills-in-crypto/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:30:26 +0000",
+      "excerpt": "The US House of Representatives passed three significant pieces of legislation this week, hallmarking what many in the crypto industry are calling the most impactful week for crypto policy in recen...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "70d831f5fe4e2ce4057c57c2fda428d6",
+      "title": "Analyst Predicts Bitcoin Price Crash: Rejection From $120K Puts Altcoins At Risk",
+      "link": "https://www.newsbtc.com/news/bitcoin/analyst-predicts-bitcoin-price-crash-rejection-from-120k-puts-altcoins-at-risk/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:30:17 +0000",
+      "excerpt": "Bitcoin’s price action has turned somewhat sluggish after its unprecedented climb to a new all-time high of $122,838 on July 14. The rapid push to that level was preceded by a week of frenzied trad...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "96973f408b0fdf1a803b34f22b1a39d5",
+      "title": "Cryptoquant Reports Surge in Bitcoin, ETH Selling Pressure as Prices Set Records",
+      "link": "https://news.bitcoin.com/cryptoquant-reports-surge-in-bitcoin-eth-selling-pressure-as-prices-set-records/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:30:12 +0000",
+      "excerpt": "Large bitcoin holders and miners significantly increased transfers to exchanges following bitcoin’s climb to a new all-time high near $123,000 last week, according to the latest data from onchain a...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading"
       ]
     },
     {
@@ -206,101 +297,61 @@
       "tags": [
         "Trading"
       ]
+    }
+  ],
+  "featured": [
+    {
+      "id": "65ac06e6f60af1de3637853ae064b5c4",
+      "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
+      "link": "https://news.bitcoin.com/ether-etfs-outshine-bitcoin-etfs-for-second-straight-day-with-403-million-in-inflows/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 18:35:58 +0000",
+      "excerpt": "Crypto exchange-traded funds (ETFs) raked in $766 million on Friday, July 18, with ether ETFs once again outpacing their bitcoin counterparts. Fueled by Blackrock’s dominance, ether products contin...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Regulation"
+      ]
     },
     {
-      "id": "79ae16ac1641e5c46ed80813c2ce67a4",
-      "title": "Bitcoin Podcaster Peter McCormack Pledges to Fight Crime in Bedford Like a Real-Life Batman",
-      "link": "https://cryptonews.com/news/bitcoin-podcaster-peter-mccormack-pledges-to-fight-crime-in-bedford-like-a-real-life-batman/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:11:00 +0000",
-      "excerpt": "Peter McCormack, well-known Bitcoin podcaster and owner of Real Bedford FC, has announced a plan to tackle rising crime in Bedford, UK.\nThe post Bitcoin Podcaster Peter McCormack Pledges to Fight C...",
+      "id": "70d831f5fe4e2ce4057c57c2fda428d6",
+      "title": "Analyst Predicts Bitcoin Price Crash: Rejection From $120K Puts Altcoins At Risk",
+      "link": "https://www.newsbtc.com/news/bitcoin/analyst-predicts-bitcoin-price-crash-rejection-from-120k-puts-altcoins-at-risk/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:30:17 +0000",
+      "excerpt": "Bitcoin’s price action has turned somewhat sluggish after its unprecedented climb to a new all-time high of $122,838 on July 14. The rapid push to that level was preceded by a week of frenzied trad...",
       "categories": [
         "bitcoin"
       ],
       "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "795f74763a494fe2e4abaa297d009e5e",
-      "title": "Ethereum Price Prediction: Eyes on $4,000 – ETH’s 20% Weekly Gain Reshapes Market Outlook",
-      "link": "https://cryptonews.com/news/ethereum-price-prediction-eyes-on-4000-eths-20-weekly-gain-reshapes-market-outlook/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:58:17 +0000",
-      "excerpt": "Ethereum has delivered one of the most impressive performances of 2025, surging over 20% in the past seven days as ETH bulls target the $4,000 mark as the next key psychological resistance.\nThe pos...",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
+        "Bitcoin",
         "Trading"
       ]
     },
     {
-      "id": "b310cbf8b39a11db4ce66a5fade19529",
-      "title": "From $5 Billion to $260 Billion: Stablecoins Mark Massive 5-Year Growth",
-      "link": "https://news.bitcoin.com/from-5-billion-to-260-billion-stablecoins-mark-massive-5-year-growth/",
+      "id": "96973f408b0fdf1a803b34f22b1a39d5",
+      "title": "Cryptoquant Reports Surge in Bitcoin, ETH Selling Pressure as Prices Set Records",
+      "link": "https://news.bitcoin.com/cryptoquant-reports-surge-in-bitcoin-eth-selling-pressure-as-prices-set-records/",
       "source": "Bitcoin.com",
       "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:40:22 +0000",
-      "excerpt": "The stablecoin economy expanded by $3.533 billion over the past week, pushing its total valuation past the $260 billion mark for the first time in history. DeFi and Payments Fuel Stablecoin Growth ...",
+      "timestamp": "Sat, 19 Jul 2025 17:30:12 +0000",
+      "excerpt": "Large bitcoin holders and miners significantly increased transfers to exchanges following bitcoin’s climb to a new all-time high near $123,000 last week, according to the latest data from onchain a...",
       "categories": [
-        "defi"
+        "bitcoin",
+        "ethereum"
       ],
       "tags": [
-        "DeFi"
-      ]
-    },
-    {
-      "id": "e58b912ffebefa7a3d779bc9e36af591",
-      "title": "JPMorgan Chase Warns De-Dollarization Underway As Central Banks Ditch USD, Aggressively Stockpile Gold",
-      "link": "https://dailyhodl.com/2025/07/19/jpmorgan-chase-warns-de-dollarization-underway-as-central-banks-ditch-usd-aggressively-stockpile-gold/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:30:14 +0000",
-      "excerpt": "JPMorgan Chase warns de-dollarization is accelerating, as central banks slash USD reserves while aggressively stockpiling gold. In a new note, Meera Chandan, co-head of Global FX Strategy at JPMorg...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "3d2de63fc3e51ee10907aaf7548792dc",
-      "title": "Crypto Lawyer Argues GENIUS Act Sets The Stage For DeFi Expansion",
-      "link": "https://bitcoinist.com/crypto-lawyer-argues-genius-act-sets-the-stage-for-defi-expansion/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:30:09 +0000",
-      "excerpt": "In a historic move for the digital asset industry, US President Donald Trump signed the GENIUS Act into law on Friday, marking the first major federal legislation governing cryptocurrency. The bill...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi"
-      ]
-    },
-    {
-      "id": "07108c5b190c481757fec1de8c91af7b",
-      "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
-      "link": "https://cryptopotato.com/eth-treasuries-ditch-digital-gold-model-for-yield-generating-staking-heres-why-it-matters/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:19:02 +0000",
-      "excerpt": "Ethereum treasury strategies avoid hype, and focus on productive yield and staking, according to Galaxy Digital.",
-      "categories": [
-        "ethereum",
-        "defi"
-      ],
-      "tags": [
+        "Bitcoin",
         "Ethereum",
-        "DeFi"
+        "Trading"
       ]
-    }
-  ],
-  "featured": [
+    },
     {
       "id": "e7a2bbdf94f58710f2af504f281c1887",
       "title": "Early BTC Adopters Move Millions in Bitcoin as Prices Stay Strong",
@@ -332,57 +383,61 @@
         "Bitcoin",
         "Trading"
       ]
-    },
+    }
+  ],
+  "bitcoin": [
     {
-      "id": "177d58fb2764fa75407f4e01f08211c9",
-      "title": "Bitcoin Flashing ‘Very Bullish Signal’ Right Now, According to Analyst Kevin Svenson – Here’s His Target",
-      "link": "https://dailyhodl.com/2025/07/19/bitcoin-flashing-very-bullish-signal-right-now-according-to-analyst-kevin-svenson-here-are-his-targets/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:45:10 +0000",
-      "excerpt": "Cryptocurrency analyst and trader Kevin Svenson is saying one indicator is signaling major momentum for Bitcoin (BTC). Svenson tells his 83,500 YouTube subscribers that the relative strength index ...",
+      "id": "65ac06e6f60af1de3637853ae064b5c4",
+      "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
+      "link": "https://news.bitcoin.com/ether-etfs-outshine-bitcoin-etfs-for-second-straight-day-with-403-million-in-inflows/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 18:35:58 +0000",
+      "excerpt": "Crypto exchange-traded funds (ETFs) raked in $766 million on Friday, July 18, with ether ETFs once again outpacing their bitcoin counterparts. Fueled by Blackrock’s dominance, ether products contin...",
       "categories": [
         "bitcoin",
-        "defi"
+        "ethereum"
       ],
       "tags": [
-        "Bitcoin"
+        "Bitcoin",
+        "Ethereum",
+        "Regulation"
       ]
     },
     {
-      "id": "79ae16ac1641e5c46ed80813c2ce67a4",
-      "title": "Bitcoin Podcaster Peter McCormack Pledges to Fight Crime in Bedford Like a Real-Life Batman",
-      "link": "https://cryptonews.com/news/bitcoin-podcaster-peter-mccormack-pledges-to-fight-crime-in-bedford-like-a-real-life-batman/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:11:00 +0000",
-      "excerpt": "Peter McCormack, well-known Bitcoin podcaster and owner of Real Bedford FC, has announced a plan to tackle rising crime in Bedford, UK.\nThe post Bitcoin Podcaster Peter McCormack Pledges to Fight C...",
+      "id": "70d831f5fe4e2ce4057c57c2fda428d6",
+      "title": "Analyst Predicts Bitcoin Price Crash: Rejection From $120K Puts Altcoins At Risk",
+      "link": "https://www.newsbtc.com/news/bitcoin/analyst-predicts-bitcoin-price-crash-rejection-from-120k-puts-altcoins-at-risk/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:30:17 +0000",
+      "excerpt": "Bitcoin’s price action has turned somewhat sluggish after its unprecedented climb to a new all-time high of $122,838 on July 14. The rapid push to that level was preceded by a week of frenzied trad...",
       "categories": [
         "bitcoin"
       ],
       "tags": [
-        "Bitcoin"
+        "Bitcoin",
+        "Trading"
       ]
     },
     {
-      "id": "795f74763a494fe2e4abaa297d009e5e",
-      "title": "Ethereum Price Prediction: Eyes on $4,000 – ETH’s 20% Weekly Gain Reshapes Market Outlook",
-      "link": "https://cryptonews.com/news/ethereum-price-prediction-eyes-on-4000-eths-20-weekly-gain-reshapes-market-outlook/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:58:17 +0000",
-      "excerpt": "Ethereum has delivered one of the most impressive performances of 2025, surging over 20% in the past seven days as ETH bulls target the $4,000 mark as the next key psychological resistance.\nThe pos...",
+      "id": "96973f408b0fdf1a803b34f22b1a39d5",
+      "title": "Cryptoquant Reports Surge in Bitcoin, ETH Selling Pressure as Prices Set Records",
+      "link": "https://news.bitcoin.com/cryptoquant-reports-surge-in-bitcoin-eth-selling-pressure-as-prices-set-records/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:30:12 +0000",
+      "excerpt": "Large bitcoin holders and miners significantly increased transfers to exchanges following bitcoin’s climb to a new all-time high near $123,000 last week, according to the latest data from onchain a...",
       "categories": [
-        "ethereum",
-        "analysis"
+        "bitcoin",
+        "ethereum"
       ],
       "tags": [
+        "Bitcoin",
         "Ethereum",
         "Trading"
       ]
-    }
-  ],
-  "bitcoin": [
+    },
     {
       "id": "e7a2bbdf94f58710f2af504f281c1887",
       "title": "Early BTC Adopters Move Millions in Bitcoin as Prices Stay Strong",
@@ -501,47 +556,35 @@
         "Trading",
         "Analysis"
       ]
-    },
+    }
+  ],
+  "ethereum": [
     {
-      "id": "2492d874c2d630b1ec6e27e991659d00",
-      "title": "Will Bitcoin Impede Or Support Altcoin Rally? On-Chain Data Signals Market Uncertainty",
-      "link": "https://www.newsbtc.com/news/bitcoin-impede-or-support-the-altcoin-rally-on-chain-data/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:00:32 +0000",
-      "excerpt": "According to an on-chain analyst on X, Bitcoin has decoupled from other cryptocurrencies or altcoins, which could lead to a severe price downturn within the market over the next day. Why Traders Sh...",
+      "id": "65ac06e6f60af1de3637853ae064b5c4",
+      "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
+      "link": "https://news.bitcoin.com/ether-etfs-outshine-bitcoin-etfs-for-second-straight-day-with-403-million-in-inflows/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 18:35:58 +0000",
+      "excerpt": "Crypto exchange-traded funds (ETFs) raked in $766 million on Friday, July 18, with ether ETFs once again outpacing their bitcoin counterparts. Fueled by Blackrock’s dominance, ether products contin...",
       "categories": [
-        "bitcoin"
+        "bitcoin",
+        "ethereum"
       ],
       "tags": [
         "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "510da46a692fddf6b62a2c51a3fd15fe",
-      "title": "Bitcoin Advocate To Replace Cops With His Own Security In Bedford",
-      "link": "https://bitcoinist.com/bitcoin-advocate-to-replace-cops-with-his-own-security-in-bedford/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:00:24 +0000",
-      "excerpt": "Bitcoin podcaster and Real Bedford FC owner Peter McCormack is taking matters into his own hands in his hometown of Bedford, UK. With rising concerns over public safety, McCormack says he’s steppin...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
+        "Ethereum",
         "Regulation"
       ]
     },
     {
-      "id": "35c0f2c49117e358bc1a9d2b848e3f46",
-      "title": "Financial Giant Charles Schwab Launching Bitcoin and Ethereum Trading, Taking Competition to Coinbase",
-      "link": "https://dailyhodl.com/2025/07/19/financial-services-giant-charles-schwab-to-launch-bitcoin-and-ethereum-trading-sometime-soon-taking-competition-to-coinbase-says-ceo/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:45:02 +0000",
-      "excerpt": "Financial services giant Charles Schwab could soon roll out Bitcoin (BTC) and Ethereum (ETH) trading, according to the firm’s chief executive. Charles Schwab CEO Rick Wurster says in a new intervie...",
+      "id": "96973f408b0fdf1a803b34f22b1a39d5",
+      "title": "Cryptoquant Reports Surge in Bitcoin, ETH Selling Pressure as Prices Set Records",
+      "link": "https://news.bitcoin.com/cryptoquant-reports-surge-in-bitcoin-eth-selling-pressure-as-prices-set-records/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:30:12 +0000",
+      "excerpt": "Large bitcoin holders and miners significantly increased transfers to exchanges following bitcoin’s climb to a new all-time high near $123,000 last week, according to the latest data from onchain a...",
       "categories": [
         "bitcoin",
         "ethereum"
@@ -551,9 +594,7 @@
         "Ethereum",
         "Trading"
       ]
-    }
-  ],
-  "ethereum": [
+    },
     {
       "id": "795f74763a494fe2e4abaa297d009e5e",
       "title": "Ethereum Price Prediction: Eyes on $4,000 – ETH’s 20% Weekly Gain Reshapes Market Outlook",
@@ -691,42 +732,6 @@
         "Ethereum",
         "Trading",
         "Analysis"
-      ]
-    },
-    {
-      "id": "5bbec1fb9b19860ade6bd74d7b2c7ae7",
-      "title": "Charles Schwab plans to launch Bitcoin, Ether spot trading, CEO says",
-      "link": "https://cointelegraph.com/news/charles-schwab-launches-bitcoin-ether-spot-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 10:56:03 +0100",
-      "excerpt": "Charles Schwab plans to offer spot trading for Bitcoin and Ethereum, aiming to attract clients who want to consolidate crypto holdings with their traditional assets.",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "593e8e8e62f960615a3732b78960e1e0",
-      "title": "Ethereum Futures Flip Bitcoin: Volume 50% Higher Than BTC’s",
-      "link": "https://bitcoinist.com/ethereum-futures-bitcoin-volume-50-higher-btcs/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 08:30:06 +0000",
-      "excerpt": "Data shows the Ethereum futures volume has flipped that of Bitcoin, a sign that strong speculative interest is flooding into the asset. Ethereum Futures Volume Has Shot Up Alongside Price Rally Acc...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
       ]
     }
   ],
@@ -1054,6 +1059,37 @@
   ],
   "all": [
     {
+      "id": "65ac06e6f60af1de3637853ae064b5c4",
+      "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
+      "link": "https://news.bitcoin.com/ether-etfs-outshine-bitcoin-etfs-for-second-straight-day-with-403-million-in-inflows/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 18:35:58 +0000",
+      "excerpt": "Crypto exchange-traded funds (ETFs) raked in $766 million on Friday, July 18, with ether ETFs once again outpacing their bitcoin counterparts. Fueled by Blackrock’s dominance, ether products contin...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "6250b2e743c535b5565710768bfd0f9d",
+      "title": "Pi Coin is Now 10% From an All-Time Low – Any Chance of Recovery?",
+      "link": "https://beincrypto.com/pi-coin-price-nears-all-time-low/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 18:00:00 +0000",
+      "excerpt": "Pi Coin is dangerously close to its all-time low, but with potential volatility building, the altcoin could either drop further or rebound if key resistance is breached.\nThe post Pi Coin is Now 10%...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "f1500c894987b53db6239cc3f1a6ec37",
       "title": "Indian crypto exchange CoinDCX hacked, $44 million drained",
       "link": "https://cointelegraph.com/news/crypto-exchange-coindcx-hacked-42-million-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1066,6 +1102,66 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "8c4c4a9606ffe531b95cbb2cf99f503f",
+      "title": "BNB Chain Says Its Next Evolution Will Match Nasdaq’s Scale and Speed",
+      "link": "https://cryptopotato.com/bnb-chain-says-its-next-evolution-will-match-nasdaqs-scale-and-speed/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:33:13 +0000",
+      "excerpt": "BNB Chain said that its planned improvements will bring throughput and efficiency comparable to Nasdaq’s transaction processing capacity.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a697f341f77d56836def4a24e25377ed",
+      "title": "Today In Crypto: 3 Major Bills Passed In The US House, Here’s What You Should Know",
+      "link": "https://bitcoinist.com/3-major-bills-in-crypto/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:30:26 +0000",
+      "excerpt": "The US House of Representatives passed three significant pieces of legislation this week, hallmarking what many in the crypto industry are calling the most impactful week for crypto policy in recen...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "70d831f5fe4e2ce4057c57c2fda428d6",
+      "title": "Analyst Predicts Bitcoin Price Crash: Rejection From $120K Puts Altcoins At Risk",
+      "link": "https://www.newsbtc.com/news/bitcoin/analyst-predicts-bitcoin-price-crash-rejection-from-120k-puts-altcoins-at-risk/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:30:17 +0000",
+      "excerpt": "Bitcoin’s price action has turned somewhat sluggish after its unprecedented climb to a new all-time high of $122,838 on July 14. The rapid push to that level was preceded by a week of frenzied trad...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "96973f408b0fdf1a803b34f22b1a39d5",
+      "title": "Cryptoquant Reports Surge in Bitcoin, ETH Selling Pressure as Prices Set Records",
+      "link": "https://news.bitcoin.com/cryptoquant-reports-surge-in-bitcoin-eth-selling-pressure-as-prices-set-records/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 17:30:12 +0000",
+      "excerpt": "Large bitcoin holders and miners significantly increased transfers to exchanges following bitcoin’s climb to a new all-time high near $123,000 last week, according to the latest data from onchain a...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading"
       ]
     },
     {
@@ -2916,5 +3012,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-19T17:30:23.638684"
+  "last_updated": "2025-07-19T18:38:55.550767"
 }
