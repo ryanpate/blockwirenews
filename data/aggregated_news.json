@@ -1,6 +1,22 @@
 {
   "latest": [
     {
+      "id": "b98d672fc9315ca5302b4339a8c4594f",
+      "title": "XRP Headed For ‘Insane Levels’ — Major Predictions After Hitting 7-Year High",
+      "link": "https://www.newsbtc.com/altcoin/xrp-headed-for-insane-levels-major-predictions-after-hitting-7-year-high/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 23:30:29 +0000",
+      "excerpt": "A new technical analysis by market expert Austin Hilton points to the potential for an explosive surge that could drive XRP to insane price levels. These bullish projections come as XRP hits price ...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
       "id": "a3833e4218fa94fdbe3054ec49518b85",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
@@ -22,6 +38,19 @@
       ]
     },
     {
+      "id": "2d9c7093591fb9247c3e9a93a22487d4",
+      "title": "US Lawmaker sounds alarm on GENIUS bill, says it&#039;s a CBDC Trojan Horse",
+      "link": "https://cointelegraph.com/news/us-lawmaker-alarm-genius-bill-cbdc-trojan-horse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 23:15:24 +0100",
+      "excerpt": "The line between a central bank digital currency and a centrally-managed, government-regulated stablecoin is thin, critics argue.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "91ef38e9cd545013c7de42c2d1707981",
       "title": "US Lawmaker sounds alarm on GENIUS bill, says it&#039;s a CBDC Trojan Horse",
       "link": "https://cointelegraph.com/news/us-lawmaker-alarm-genius-bill-cbdc-trojan-horse?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
@@ -33,6 +62,21 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "2cafdda1beb75ea53f151752eb09ab8a",
+      "title": "Tether Boss: GENIUS Act Positions US for Digital Finance Leadership",
+      "link": "https://news.bitcoin.com/tether-boss-genius-act-positions-us-for-digital-finance-leadership/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 22:30:19 +0000",
+      "excerpt": "Tether CEO Paolo Ardoino hailed the signing of the GENIUS Act by U.S. President Donald Trump on July 18 as a pivotal milestone in creating a transparent regulatory framework for digital assets in t...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
     },
     {
       "id": "084111168833c7313879d476646905e8",
@@ -259,52 +303,6 @@
       "tags": [
         "Regulation"
       ]
-    },
-    {
-      "id": "65ac06e6f60af1de3637853ae064b5c4",
-      "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
-      "link": "https://news.bitcoin.com/ether-etfs-outshine-bitcoin-etfs-for-second-straight-day-with-403-million-in-inflows/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 18:35:58 +0000",
-      "excerpt": "Crypto exchange-traded funds (ETFs) raked in $766 million on Friday, July 18, with ether ETFs once again outpacing their bitcoin counterparts. Fueled by Blackrock’s dominance, ether products contin...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "6250b2e743c535b5565710768bfd0f9d",
-      "title": "Pi Coin is Now 10% From an All-Time Low – Any Chance of Recovery?",
-      "link": "https://beincrypto.com/pi-coin-price-nears-all-time-low/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 18:00:00 +0000",
-      "excerpt": "Pi Coin is dangerously close to its all-time low, but with potential volatility building, the altcoin could either drop further or rebound if key resistance is breached.\nThe post Pi Coin is Now 10%...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "bbfcf040837d5c17bfdae09b6a7411dd",
-      "title": "Indian crypto exchange CoinDCX hacked, $44 million drained",
-      "link": "https://cointelegraph.com/news/crypto-exchange-coindcx-hacked-42-million-drained?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 17:37:51 +0100",
-      "excerpt": "The cybersecurity exploit occurred due to a \"sophisticated server breach,\" CoinDCX CEO and co-founder Sumit Gupta announced on Saturday.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
     }
   ],
   "featured": [
@@ -327,6 +325,21 @@
         "NFT",
         "Trading",
         "Regulation"
+      ]
+    },
+    {
+      "id": "2cafdda1beb75ea53f151752eb09ab8a",
+      "title": "Tether Boss: GENIUS Act Positions US for Digital Finance Leadership",
+      "link": "https://news.bitcoin.com/tether-boss-genius-act-positions-us-for-digital-finance-leadership/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 22:30:19 +0000",
+      "excerpt": "Tether CEO Paolo Ardoino hailed the signing of the GENIUS Act by U.S. President Donald Trump on July 18 as a pivotal milestone in creating a transparent regulatory framework for digital assets in t...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
       ]
     },
     {
@@ -368,21 +381,6 @@
       "sourceUrl": "https://cointelegraph.com/rss",
       "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
       "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "a274c53d9e112e39dec20571abb69e52",
-      "title": "IMF Bombshell: El Salvador Didn’t Buy Bitcoin In 2025 After All",
-      "link": "https://bitcoinist.com/imf-bombshell-el-salvador-didnt-buy-bitcoin-in-2025-after-all/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 20:30:25 +0000",
-      "excerpt": "A new report has shaken up El Salvador’s bold Bitcoin story. All year long, President Nayib Bukele and the National Bitcoin Office promised they were buying one BTC every day. Public trackers even ...",
       "categories": [
         "bitcoin"
       ],
@@ -565,6 +563,21 @@
   ],
   "ethereum": [
     {
+      "id": "2cafdda1beb75ea53f151752eb09ab8a",
+      "title": "Tether Boss: GENIUS Act Positions US for Digital Finance Leadership",
+      "link": "https://news.bitcoin.com/tether-boss-genius-act-positions-us-for-digital-finance-leadership/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 22:30:19 +0000",
+      "excerpt": "Tether CEO Paolo Ardoino hailed the signing of the GENIUS Act by U.S. President Donald Trump on July 18 as a pivotal milestone in creating a transparent regulatory framework for digital assets in t...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
       "id": "63a504d17d223051982e4ee6d7246fe7",
       "title": "Ethereum Price Analysis: ETH Bulls Eye $4,000 But Consolidation Seems More Likely",
       "link": "https://cryptopotato.com/ethereum-price-analysis-eth-bulls-eye-4000-but-consolidation-seems-more-likely/",
@@ -722,24 +735,6 @@
         "Ethereum",
         "Trading",
         "Regulation"
-      ]
-    },
-    {
-      "id": "35c0f2c49117e358bc1a9d2b848e3f46",
-      "title": "Financial Giant Charles Schwab Launching Bitcoin and Ethereum Trading, Taking Competition to Coinbase",
-      "link": "https://dailyhodl.com/2025/07/19/financial-services-giant-charles-schwab-to-launch-bitcoin-and-ethereum-trading-sometime-soon-taking-competition-to-coinbase-says-ceo/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:45:02 +0000",
-      "excerpt": "Financial services giant Charles Schwab could soon roll out Bitcoin (BTC) and Ethereum (ETH) trading, according to the firm’s chief executive. Charles Schwab CEO Rick Wurster says in a new intervie...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
       ]
     }
   ],
@@ -955,6 +950,22 @@
   ],
   "analysis": [
     {
+      "id": "b98d672fc9315ca5302b4339a8c4594f",
+      "title": "XRP Headed For ‘Insane Levels’ — Major Predictions After Hitting 7-Year High",
+      "link": "https://www.newsbtc.com/altcoin/xrp-headed-for-insane-levels-major-predictions-after-hitting-7-year-high/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 23:30:29 +0000",
+      "excerpt": "A new technical analysis by market expert Austin Hilton points to the potential for an explosive surge that could drive XRP to insane price levels. These bullish projections come as XRP hits price ...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
       "id": "f255675a993668ab3fb9b8ee94f4896f",
       "title": "Signal That Sparked 630% XRP Price Rally In 2024 Just Got Triggered Again",
       "link": "https://bitcoinist.com/xrp-price-rally-triggered-again/",
@@ -1109,27 +1120,25 @@
         "Trading",
         "Analysis"
       ]
-    },
-    {
-      "id": "9c68f2d65373eeac2cc370af1d7d7c76",
-      "title": "Ether preps record short squeeze as analysis sees $4K ETH price &#039;soon&#039;",
-      "link": "https://cointelegraph.com/news/ether-preps-record-short-squeeze-analysis-4k-eth-price-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 11:22:31 +0100",
-      "excerpt": "Ether is punishing shorts already, but another 10% ETH price upside will liquidate $1 billion, helping cement $4,000 in the process.",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
     }
   ],
   "all": [
+    {
+      "id": "b98d672fc9315ca5302b4339a8c4594f",
+      "title": "XRP Headed For ‘Insane Levels’ — Major Predictions After Hitting 7-Year High",
+      "link": "https://www.newsbtc.com/altcoin/xrp-headed-for-insane-levels-major-predictions-after-hitting-7-year-high/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 23:30:29 +0000",
+      "excerpt": "A new technical analysis by market expert Austin Hilton points to the potential for an explosive surge that could drive XRP to insane price levels. These bullish projections come as XRP hits price ...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
     {
       "id": "a3833e4218fa94fdbe3054ec49518b85",
       "title": "Here’s what happened in crypto today",
@@ -1152,6 +1161,19 @@
       ]
     },
     {
+      "id": "2d9c7093591fb9247c3e9a93a22487d4",
+      "title": "US Lawmaker sounds alarm on GENIUS bill, says it&#039;s a CBDC Trojan Horse",
+      "link": "https://cointelegraph.com/news/us-lawmaker-alarm-genius-bill-cbdc-trojan-horse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 23:15:24 +0100",
+      "excerpt": "The line between a central bank digital currency and a centrally-managed, government-regulated stablecoin is thin, critics argue.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "91ef38e9cd545013c7de42c2d1707981",
       "title": "US Lawmaker sounds alarm on GENIUS bill, says it&#039;s a CBDC Trojan Horse",
       "link": "https://cointelegraph.com/news/us-lawmaker-alarm-genius-bill-cbdc-trojan-horse?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
@@ -1163,6 +1185,21 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "2cafdda1beb75ea53f151752eb09ab8a",
+      "title": "Tether Boss: GENIUS Act Positions US for Digital Finance Leadership",
+      "link": "https://news.bitcoin.com/tether-boss-genius-act-positions-us-for-digital-finance-leadership/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 22:30:19 +0000",
+      "excerpt": "Tether CEO Paolo Ardoino hailed the signing of the GENIUS Act by U.S. President Donald Trump on July 18 as a pivotal milestone in creating a transparent regulatory framework for digital assets in t...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
     },
     {
       "id": "084111168833c7313879d476646905e8",
@@ -3447,5 +3484,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-19T22:31:11.581671"
+  "last_updated": "2025-07-19T23:30:47.094711"
 }
