@@ -914,21 +914,6 @@
         "Trading",
         "Regulation"
       ]
-    },
-    {
-      "id": "fe5b1176cfe44ee56b5af5308862eaf0",
-      "title": "TRON Ecosystem Poised for Explosive Growth as Binance Alpha Lists NFT, PePe, and SUNDOG",
-      "link": "https://news.bitcoin.com/tron-ecosystem-poised-for-explosive-growth-as-binance-alpha-lists-nft-pepe-and-sundog/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 13:00:17 +0000",
-      "excerpt": "This content is provided by a sponsor. PRESS RELEASE. On July 11th, Binance Alpha officially integrated the TRON network, marking a pivotal milestone in the evolution of both ecosystems. This integ...",
-      "categories": [
-        "nft"
-      ],
-      "tags": [
-        "NFT"
-      ]
     }
   ],
   "analysis": [
@@ -6236,6 +6221,114 @@
       ]
     },
     {
+      "id": "9c68f2d65373eeac2cc370af1d7d7c76",
+      "title": "Ether preps record short squeeze as analysis sees $4K ETH price &#039;soon&#039;",
+      "link": "https://cointelegraph.com/news/ether-preps-record-short-squeeze-analysis-4k-eth-price-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 11:22:31 +0100",
+      "excerpt": "Ether is punishing shorts already, but another 10% ETH price upside will liquidate $1 billion, helping cement $4,000 in the process.",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "5bbec1fb9b19860ade6bd74d7b2c7ae7",
+      "title": "Charles Schwab plans to launch Bitcoin, Ether spot trading, CEO says",
+      "link": "https://cointelegraph.com/news/charles-schwab-launches-bitcoin-ether-spot-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 10:56:03 +0100",
+      "excerpt": "Charles Schwab plans to offer spot trading for Bitcoin and Ethereum, aiming to attract clients who want to consolidate crypto holdings with their traditional assets.",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "51062156241934b1b2c2e1dd4f140877",
+      "title": "Pump.fun Token Dips 22% Post-ICO as LetsBONK Surpasses in Meme Coin Minting",
+      "link": "https://cryptonews.com/news/pump-fun-token-dips-22-post-ico-as-letsbonk-surpasses-in-meme-coin-minting/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sat, 19 Jul 2025 10:28:38 +0000",
+      "excerpt": "Less than a week after its eagerly awaited ICO, Pump.fun’s native token, PUMP, has experienced a notable price setback.\nThe post Pump.fun Token Dips 22% Post-ICO as LetsBONK Surpasses in Meme Coin ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "4570c8f27c959bca2667cc367c49c1f0",
+      "title": "Bitcoin Price Crash Imminent? BTC Could Fall Back To This 4H FVG",
+      "link": "https://bitcoinist.com/bitcoin-price-crash-imminent-2/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 10:00:21 +0000",
+      "excerpt": "While the Bitcoin price has managed to hold close to its all-time high levels, there is still bearish pressure lurking in the background for the digital asset. With the surge to new peaks over the ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "2dfbfb4758e2b15ffdc1c3fd258d1ba7",
+      "title": "Bullish Crypto Exchange Files to Go Public, Aiming to List on NYSE",
+      "link": "https://cryptonews.com/news/bullish-crypto-exchange-files-to-go-public-aiming-to-list-on-nyse/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sat, 19 Jul 2025 09:32:18 +0000",
+      "excerpt": "Bullish, the cryptocurrency exchange backed by Peter Thiel, took a major step toward becoming a publicly traded company by filing for an IPO.\nThe post Bullish Crypto Exchange Files to Go Public, Ai...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ab0f5910f9cd0ff677bcfd0e5d14cf6a",
+      "title": "Mastercard Pushes Stablecoins Closer to Mass Adoption With New Infrastructure",
+      "link": "https://news.bitcoin.com/mastercard-pushes-stablecoins-closer-to-mass-adoption-with-new-infrastructure/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 09:30:02 +0000",
+      "excerpt": "Stablecoins are charging into the financial mainstream as regulatory clarity, institutional infrastructure, and Mastercard-backed tools converge to unlock scalable, secure, and frictionless global ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "1a16b822d809fa25eee9a43f36202d2a",
+      "title": "The World Liberty Financial Paradox: Inside The Risks of WLFI Token Tradability",
+      "link": "https://beincrypto.com/world-liberty-financial-wlfi-token-trade-trump-paradox/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 09:17:14 +0000",
+      "excerpt": "WLFI's move to tradability promises wider access but highlights deep tensions between decentralization ideals and wealth-driven control. With celebrity ties and large investments at play, WLFI’s go...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "bda19f22a04d8be6cbba4de6eb0876da",
       "title": "Bitcoin Could Explode to $136,000 if Demand Remains Resilient, Says Analytics Firm Glassnode – But There’s a Catch",
       "link": "https://dailyhodl.com/2025/07/19/bitcoin-could-explode-to-136000-if-demand-remains-resilient-says-analytics-firm-glassnode-but-theres-a-catch/",
@@ -8478,118 +8571,7 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "fe5b1176cfe44ee56b5af5308862eaf0",
-      "title": "TRON Ecosystem Poised for Explosive Growth as Binance Alpha Lists NFT, PePe, and SUNDOG",
-      "link": "https://news.bitcoin.com/tron-ecosystem-poised-for-explosive-growth-as-binance-alpha-lists-nft-pepe-and-sundog/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 13:00:17 +0000",
-      "excerpt": "This content is provided by a sponsor. PRESS RELEASE. On July 11th, Binance Alpha officially integrated the TRON network, marking a pivotal milestone in the evolution of both ecosystems. This integ...",
-      "categories": [
-        "nft"
-      ],
-      "tags": [
-        "NFT"
-      ]
-    },
-    {
-      "id": "23aaf09af0f69a9faeab48312563859c",
-      "title": "HBAR Price Rallies 20% After $230 Million Inflow from Traders in a Week",
-      "link": "https://beincrypto.com/hbar-price-rallies-after-inflow-from-trader/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 13:00:00 +0000",
-      "excerpt": "HBAR's price surged 20%, bolstered by significant inflows and positive technical indicators. Can the rally continue past key resistance levels?\nThe post HBAR Price Rallies 20% After $230 Million In...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "a21d76514a67e5f422d397d721446d12",
-      "title": "XRP trading volume soars as new ATH attracts deepfake scam targeting investors",
-      "link": "https://cryptoslate.com/xrp-trading-volume-soars-as-new-ath-attracts-deepfake-scam-targeting-investors/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 12:58:16 +0000",
-      "excerpt": "XRP has hit a new all-time high of $3.65, driven largely by a spike in trading activity across South Korea and the United States. Data from CryptoSlate shows that XRP ranked among the top five most...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "0d299659a7e41fecd30f1a1ae698568e",
-      "title": "Polkadot Price Prediction: Can DOT Reach Double-Digit Price In July 2025 as Founder Unveils Proof-of-Personhood Plans?",
-      "link": "https://cryptonews.com/news/polkadot-price-prediction-proof-of-personhood-plans-unveiled/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Fri, 18 Jul 2025 12:57:49 +0000",
-      "excerpt": "With the altcoin market starting to outperform Bitcoin, Polkadot's security improvements and a shift to align more as a store-of-value could eye a double-digit valuation.\nThe post Polkadot Price Pr...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "410b893b57559df837f39153ad94269e",
-      "title": "Ripple Climbs Higher: XRP Is Bigger Than Uber, Boeing, and Guns for Goldman",
-      "link": "https://cryptopotato.com/ripple-climbs-higher-xrp-is-bigger-than-uber-boeing-and-guns-for-goldman/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 12:46:24 +0000",
-      "excerpt": "Ripple's market cap is beyond $200 billion now.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "1bec49c6c4020de8dc0e7aa5157d2d3b",
-      "title": "Grok Picks These 4 Altcoins to 10x Before 2026 – Best Alts to Buy Now",
-      "link": "https://bitcoinist.com/grok-picks-these-4-altcoins-to-10x-before-2026-best-alts-to-buy-now/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 12:32:41 +0000",
-      "excerpt": "Bitcoin’s recent supersonic growth has catapulted the broader crypto market into a full-fledged bullish cycle, which means now might be the perfect time to refresh and restock your crypto portfolio...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "86acdb851584350b6a247ac0a6a37744",
-      "title": "Bitcoin Price Watch: Momentum Stalls as $123K Resistance Looms",
-      "link": "https://news.bitcoin.com/bitcoin-price-watch-momentum-stalls-as-123k-resistance-looms/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 12:30:45 +0000",
-      "excerpt": "Bitcoin traded between $119,057 and $119,368 over the last hour, reflecting minimal intraday movement. With a market capitalization of $2.36 trillion and 24-hour trading volume at $57.83 billion, t...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
     }
   ],
-  "last_updated": "2025-07-19T09:30:03.479639"
+  "last_updated": "2025-07-19T10:33:56.313457"
 }
