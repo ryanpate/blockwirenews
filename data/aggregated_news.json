@@ -6221,6 +6221,24 @@
       ]
     },
     {
+<<<<<<< HEAD
+=======
+      "id": "c9b84864f25a4669e885076c30271f9a",
+      "title": "Spot Bitcoin ETFs gains $363M, extend 12-day inflow streak to $6.6B",
+      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 13:52:16 +0100",
+      "excerpt": "Spot Bitcoin ETFs have attracted over $6.6 billion in 12 days, boosting assets under management to $152.4 billion.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "31c2858fb7dd6c5405316af19e69b0d5",
       "title": "‘Crypto Week’ ushers in big change: What happens now?",
       "link": "https://cointelegraph.com/news/crypto-week-what-happens-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -6454,6 +6472,24 @@
       ]
     },
     {
+<<<<<<< HEAD
+=======
+      "id": "f790ba12d1d18c7ed10f93bf6910290f",
+      "title": "How to use Google Gemini to turn crypto news into trade signals",
+      "link": "https://cointelegraph.com/news/how-to-use-google-gemini-to-turn-crypto-news-into-trade-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 10:51:00 +0100",
+      "excerpt": "Google Gemini could help traders break down the news, track sentiment and turn headlines into actionable crypto trading strategies.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "30d0c9393809b560a5b766df1bb62dd7",
       "title": "Bitcoin Price Prediction: Genius Act Becomes Law After Tumultuous Crypto Week – What’s the BTC Impact?",
       "link": "https://cryptonews.com/news/bitcoin-price-prediction-genius-act-becomes-law-after-tumultuous-crypto-week-whats-the-btc-impact/",
@@ -6752,6 +6788,24 @@
       "tags": []
     },
     {
+<<<<<<< HEAD
+=======
+      "id": "275bbf4988fcb30bf4c409d0bd0e4195",
+      "title": "DOGE Rebounds Hard After Flash Dip, Bulls Target $0.27 Next",
+      "link": "https://www.coindesk.com/markets/2025/07/19/doge-rebounds-hard-after-flash-dip-bulls-target-027-next",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Sat, 19 Jul 2025 06:17:29 +0000",
+      "excerpt": "Institutional flows and ETF speculation trigger sharp reversal as price smashes through $0.25 resistance.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "1d1e7a263c3113ac0df452c873dd0b5c",
       "title": "Bitcoin ‘pausing here for air’ likely, but another July ATH still possible",
       "link": "https://cointelegraph.com/news/bitcoin-price-consolidation-phase-possible-july-highs-forecast-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -6767,6 +6821,22 @@
       ]
     },
     {
+<<<<<<< HEAD
+=======
+      "id": "f95721718211686d56468940570c5372",
+      "title": "XRP Cools After ATH Surge, But Accumulation Zones Signal More Upside",
+      "link": "https://www.coindesk.com/markets/2025/07/19/xrp-cools-after-ath-surge-but-accumulation-zones-signal-more-upside",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Sat, 19 Jul 2025 05:58:21 +0000",
+      "excerpt": "The $3.34 floor remains the key level to hold if short-term bullish sentiment is to stay intact.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "e25763c3569f70be528c1a9cdff20780",
       "title": "Bit Digital Boosts Ethereum Treasury to Over 120,000 ETH",
       "link": "https://news.bitcoin.com/bit-digital-boosts-ethereum-treasury-to-over-120000-eth/",
@@ -6880,6 +6950,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "0d60f2250531884db2511614a6489359",
       "title": "Bitcoin’s first Batman? Peter McCormack plans to buy his own police force",
       "link": "https://cointelegraph.com/news/bitcoin-s-first-batman-peter-mccormack-plans-to-buy-his-own-police-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -6896,6 +6967,8 @@
       ]
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "a427ce8d602a082946baf95119927d40",
       "title": "This Ethereum Metric Called The Bottom Ahead Of Rally, Says Analytics Firm",
       "link": "https://www.newsbtc.com/news/ethereum/ethereum-metric-bottom-ahead-rally-analytics/",
@@ -6961,6 +7034,22 @@
       ]
     },
     {
+<<<<<<< HEAD
+=======
+      "id": "00f6c796ab1d904614e404a8852264f7",
+      "title": "Crypto Exchange Bullish Files for U.S. IPO",
+      "link": "https://www.coindesk.com/business/2025/07/18/crypto-exchange-bullish-files-for-us-ipo",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Sat, 19 Jul 2025 01:15:56 +0000",
+      "excerpt": "The company plans a NYSE listing under the ticker “BLSH.”",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "f500ad4364e921fce038e7e260e0ff97",
       "title": "Michael Saylor Reveals The Only Thing ‘Better Than Bitcoin’ As MSTR Stock Outperforms",
       "link": "https://bitcoinist.com/only-thing-better-than-bitcoin/",
@@ -7007,6 +7096,24 @@
       ]
     },
     {
+<<<<<<< HEAD
+=======
+      "id": "941ab47d8309afbd5a6e928e43d60d8d",
+      "title": "Tether CEO Says He'll Comply With GENIUS to Come to U.S., Circle Says It's Set Now",
+      "link": "https://www.coindesk.com/policy/2025/07/18/tether-ceo-says-he-ll-comply-with-genius-to-come-to-u-s-circle-says-it-s-set-now",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Sat, 19 Jul 2025 00:22:58 +0000",
+      "excerpt": "Paolo Ardoino, Tether's chief, said his firm will come to the U.S., is chasing high-level auditing and will adjust reserves, but Jeremy Allaire said Circle is already compliant.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "c037a2bac159fc208ce5e8cfedcacd1f",
       "title": "Tiger Global Billionaire Abruptly Dumps Nvidia, Pours $334,000,000 Into Surging US Asset",
       "link": "https://dailyhodl.com/2025/07/18/tiger-global-billionaire-abruptly-dumps-nvidia-pours-334000000-into-surging-us-asset/",
@@ -7053,6 +7160,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "9c2ad549fd8de942d2ebdf688bb8ca3f",
       "title": "Hacker reconnaissance work continues on TeleMessage app vulnerability — Report",
       "link": "https://cointelegraph.com/news/hacker-reconnaissance-work-telemessage-vulnerability-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -7064,6 +7172,21 @@
         "crypto"
       ],
       "tags": []
+=======
+      "id": "1bb9baa1174005bcb3b7e613a50a7e87",
+      "title": "Trump Signs GENIUS Act Into Law: The Full Transcript",
+      "link": "https://www.coindesk.com/policy/2025/07/18/trump-signs-genius-act-into-law-the-full-transcript",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Fri, 18 Jul 2025 23:59:10 +0000",
+      "excerpt": "President Trump celebrated the signing of stablecoin legislation in a wide-ranging speech touching on crypto, regulation and political allies.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+>>>>>>> 46029ba (updated news and market scripts)
     },
     {
       "id": "68c28d31579d0f1274ed841a7c393393",
@@ -7081,6 +7204,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "94dd6da7c1dfd80ecf849fa42f731ded",
       "title": "US Retirement System Could See Crypto Shakeup Under President Trump Plan — Here’s How",
       "link": "https://bitcoinist.com/us-retirement-system-could-see-crypto-shakeup/",
@@ -7111,6 +7235,8 @@
       ]
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "6b59308ac3712c0f069b5b12137bef3c",
       "title": "ChatGPT’s 42-Signal Bitcoin Analysis Flags Critical $121K Test After Historic $123K ATH Pullback",
       "link": "https://cryptonews.com/news/chatgpts-42-signal-btc-analysis-flags-critical-121k-test-after-historic-123k-ath-pullback/",
@@ -7143,6 +7269,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "1784f2052d327ec48d0989a1c932e7c1",
       "title": "The rise of ETFs challenges Bitcoin’s self-custody roots",
       "link": "https://cointelegraph.com/news/etfs-challenges-bitcoin-self-custody-roots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -7175,6 +7302,8 @@
       ]
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "78086f57c2bf2747c5e830c02642b3be",
       "title": "Crypto Price Prediction Today 18 July – XRP, Ethereum, Solana",
       "link": "https://cryptonews.com/news/crypto-price-prediction-today-18-july-xrp-ethereum-solana/",
@@ -7253,6 +7382,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "936c74c5abe28e37150ae03a1915928c",
       "title": "Lawsuits piling up against Strategy could take years, go nowhere, lawyer says",
       "link": "https://cointelegraph.com/news/lawsuits-strategy-michael-saylor-bitcoin-lawyer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -7284,6 +7414,8 @@
       ]
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "2e89b939f0ec5beefb521418a8e733fd",
       "title": "Tom Lee Predicts $30,000 Per Ethereum As Treasury Frenzy Begins",
       "link": "https://www.newsbtc.com/news/ethereum/tom-lee-30000-ethereum-treasury-frenzy-begins/",
@@ -7302,6 +7434,25 @@
       ]
     },
     {
+<<<<<<< HEAD
+=======
+      "id": "f4e282be11ff775cdb96fc5305f501d1",
+      "title": "Ether.fi to Expand to HyperLiquid, Introduce ‘beHYPE’ Staking Token",
+      "link": "https://www.coindesk.com/tech/2025/07/18/ether-fi-to-expand-to-hyperliquid-introduce-behype-staking-token",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Fri, 18 Jul 2025 22:00:00 +0000",
+      "excerpt": "The venture will initially offer a multisig-secured vault, preHYPE, that enables early deposits ahead of the full beHYPE rollout.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Regulation"
+      ]
+    },
+    {
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "04f86bbe7572a551203718887402c0f0",
       "title": "Crypto Leaders See GENIUS Act as Turning Point for Regulation",
       "link": "https://cryptonews.com/news/genius-act-crypto-leaders-see-turning-point-regulation/",
@@ -7352,6 +7503,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "9e62f2ebcea1e9d6fcd499df3d69461c",
       "title": "COIN Climbs, MSTR Dips, Miners Dance—A Chaotic Friday Close for Crypto Stocks",
       "link": "https://news.bitcoin.com/coin-climbs-mstr-dips-miners-dance-a-chaotic-friday-close-for-crypto-stocks/",
@@ -7387,6 +7539,15 @@
       "sourceUrl": "https://cointelegraph.com/rss",
       "timestamp": "Fri, 18 Jul 2025 21:00:00 +0100",
       "excerpt": "JPMorgan, Citigroup and Bank of America are all in the early stages of stablecoin development.",
+=======
+      "id": "f3bd6e19ba1984d6c5a499516e8fd440",
+      "title": "The Node: The Mad Journey from Terra to GENIUS",
+      "link": "https://www.coindesk.com/opinion/2025/07/18/the-node-the-mad-journey-from-terra-to-genius",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Fri, 18 Jul 2025 21:05:36 +0000",
+      "excerpt": "It’s bonkers to see how much the industry has changed since our annus horribilis of 2022. Perhaps a recap wouldn’t be amiss.",
+>>>>>>> 46029ba (updated news and market scripts)
       "categories": [
         "crypto"
       ],
@@ -7408,6 +7569,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "0c6843294bd90838a5dd0b2fcbb576da",
       "title": "Donald Trump Signs GENIUS Act Into Law: “They Named It After Me”",
       "link": "https://cryptonews.com/news/donald-trump-signs-genius-act-into-law-they-named-it-after-me/",
@@ -7423,6 +7585,8 @@
       ]
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "91df5c9ee90b0ca2171444643436df10",
       "title": "WLFI token set to trade within eight weeks after 99.94% vote opens transfers",
       "link": "https://cryptoslate.com/wlfi-token-set-to-trade-within-eight-weeks-after-99-94-vote-opens-transfers/",
@@ -7439,6 +7603,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "97db79f1306dcf5debf9b978f3b9432f",
       "title": "Crypto execs center stage as Trump signs stablecoin bill into law",
       "link": "https://cointelegraph.com/news/donald-trump-stablecoin-law-signed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -7452,6 +7617,8 @@
       "tags": []
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "cbadc18e9d8973bf11f2db4f63284388",
       "title": "El Salvador Lied About Buying Bitcoin in 2025, IMF Report Reveals",
       "link": "https://beincrypto.com/el-salvador-bitcoin-purchase-lie-imf-report/",
@@ -7482,6 +7649,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "1342fb8795e23e0150da40275101eedd",
       "title": "Can XRP Flip Ethereum? Crypto Expert Predicts Monster Altcoin Season Is Coming",
       "link": "https://bitcoinist.com/can-xrp-flip-ethereum/",
@@ -7523,6 +7691,8 @@
       "tags": []
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "f6cded1955f3c933bacb8e28ef8bf007",
       "title": "Trump’s Crypto Venture Now Holds $251M in ETH: $26M Profit and Counting",
       "link": "https://cryptopotato.com/trumps-crypto-venture-now-holds-251m-in-eth-26m-profit-and-counting/",
@@ -7538,6 +7708,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "b514d35cb71105e60b42fd0c0b02996d",
       "title": "Senate to consider Trump&#039;s CFTC pick as crypto oversight hangs in the balance",
       "link": "https://cointelegraph.com/news/brian-quintenz-donald-trump-cftc-pick-market-structure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -7551,6 +7722,8 @@
       "tags": []
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "3d930247b1fa7fb340dafc0091b0dceb",
       "title": "Trump signs GENIUS Act into law, activating America’s first regulatory framework for stablecoins",
       "link": "https://cryptoslate.com/trump-signs-genius-act-into-law-activating-americas-first-regulatory-framework-for-stablecoins/",
@@ -7579,6 +7752,7 @@
       "tags": []
     },
     {
+<<<<<<< HEAD
       "id": "7b053edc38e4a9557009785c4576f105",
       "title": "Bitcoin’s rise with Wall Street comes at a potential philosophical cost",
       "link": "https://cointelegraph.com/news/bitcoin-s-rise-with-wall-street-comes-at-a-potential-philosophical-cost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -7596,6 +7770,8 @@
       ]
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "c5df18fffba2b152837b9f25dbdccd1c",
       "title": "This Memecoin Is Primed To Explode 2,600%+ This Cycle and Hit $1,000,000,000,000 Valuation, According to Analyst",
       "link": "https://dailyhodl.com/2025/07/18/this-memecoin-is-primed-to-explode-2600-this-cycle-and-hit-1000000000000-valuation-according-to-analyst/",
@@ -7611,6 +7787,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "0a7cd44afe94ea991b3d3d54435777d8",
       "title": "Ex-Pump.fun Dev Behind $2M Theft Jailed in London for Bail Breach, Faces 7+ Years Prison",
       "link": "https://cryptonews.com/news/ex-pump-fun-dev-behind-2m-theft-jailed-in-london-for-bail-breach-faces-7-years-prison/",
@@ -7624,6 +7801,8 @@
       "tags": []
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "4a1b08430dd58a5a77eeb581707c112e",
       "title": "Trump Signs GENIUS Act Into Law, Jokingly Calls It ‘Named After Me’",
       "link": "https://beincrypto.com/trump-signs-genius-act-into-law/",
@@ -7639,6 +7818,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "e9c4045af8526d4002a0ab61f39b4b15",
       "title": "El Salvador hasn’t bought Bitcoin since signing loan deal, IMF says",
       "link": "https://cointelegraph.com/news/el-salvador-hasn-t-bought-bitcoin-deal-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -7661,10 +7841,20 @@
       "sourceUrl": "https://cointelegraph.com/rss",
       "timestamp": "Fri, 18 Jul 2025 19:25:30 +0100",
       "excerpt": "Google Gemini could help traders break down the news, track sentiment and turn headlines into actionable crypto trading strategies.",
+=======
+      "id": "beb18260f56d3406e9a09aeeea556383",
+      "title": "Trump Signs GENIUS Act Into Law, Elevating First Major Crypto Effort to Become Policy",
+      "link": "https://www.coindesk.com/policy/2025/07/18/trump-signs-genius-act-into-law-elevating-first-major-crypto-effort-to-become-policy",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Fri, 18 Jul 2025 19:26:25 +0000",
+      "excerpt": "President Donald Trump made it official during a White House ceremony, affixing a signature to the stablecoin regulation bill before a crowd of crypto insiders.",
+>>>>>>> 46029ba (updated news and market scripts)
       "categories": [
         "crypto"
       ],
       "tags": [
+<<<<<<< HEAD
         "Trading"
       ]
     },
@@ -7699,6 +7889,9 @@
         "Ethereum",
         "DeFi",
         "Trading"
+=======
+        "Regulation"
+>>>>>>> 46029ba (updated news and market scripts)
       ]
     },
     {
@@ -7715,6 +7908,7 @@
       "tags": []
     },
     {
+<<<<<<< HEAD
       "id": "c981154e53e61313d99e496fbb338440",
       "title": "Bitcoin Goes Mainstream With Massive Accumulations From Public Firms – Here’s How Many",
       "link": "https://bitcoinist.com/bitcoin-goes-mainstream/",
@@ -7806,6 +8000,8 @@
       "tags": []
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "85a46078efb1091f3cf9bec3ea7c3f34",
       "title": "JPMorgan reveals global regulators favor tokenized bank deposits over stablecoins",
       "link": "https://cryptoslate.com/jpmorgan-reveals-global-regulators-favor-tokenized-bank-deposits-over-stablecoins/",
@@ -7819,6 +8015,7 @@
       "tags": []
     },
     {
+<<<<<<< HEAD
       "id": "033606abde30074e6f2f73832fb50c0b",
       "title": "U.S. House of Representatives Sends GENIUS Act to Trump To Sign Into Law, Passes Two Other Bills To Conclude Crypto Week",
       "link": "https://dailyhodl.com/2025/07/18/u-s-house-of-representatives-sends-genius-act-to-trump-to-sign-into-law-passes-two-other-bills-to-conclude-crypto-week/",
@@ -7834,6 +8031,8 @@
       ]
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "161e884b949aa5a4a4ae4afac90735be",
       "title": "Barstool’s Dave Portnoy Sold XRP Early – “I Could’ve Made Millions”",
       "link": "https://beincrypto.com/dave-portnoy-xrp-sale-regret-millions-missed-out/",
@@ -7847,6 +8046,7 @@
       "tags": []
     },
     {
+<<<<<<< HEAD
       "id": "e6d959c9745b05faf9448d0ae13b9789",
       "title": "Bitcoin Treads Water As Dominance Falls to Lowest Level in 4 Months",
       "link": "https://news.bitcoin.com/bitcoin-treads-water-as-dominance-falls-to-lowest-level-in-4-months/",
@@ -7891,6 +8091,8 @@
       "tags": []
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "8b108ba067b79b3a883c81e8ad6d91c1",
       "title": "Charles Schwab CEO says Bitcoin, Ethereum trading coming soon",
       "link": "https://cryptoslate.com/charles-schwab-ceo-says-bitcoin-ethereum-trading-coming-soon/",
@@ -7942,6 +8144,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "8430ffa52e96889aa8a825af71096bd8",
       "title": "Avalanche Bulls Eye Breakout, But Mid-Term Caution Clouds The View",
       "link": "https://www.newsbtc.com/news/avalanche/avalanche-bulls-eye-breakout/",
@@ -7988,6 +8191,22 @@
         "Bitcoin",
         "DeFi",
         "Trading"
+=======
+      "id": "ffd374b09c769b70752007d7c04a596b",
+      "title": "Bitcoin Slips Below $118K, ETH, XRP Pare Big Gains, but Rally Remains on Firm Ground, Says Coinbase",
+      "link": "https://www.coindesk.com/markets/2025/07/18/bitcoin-slips-below-118k-eth-xrp-pare-big-gains-but-rally-remains-on-firm-ground-says-coinbase",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Fri, 18 Jul 2025 17:30:52 +0000",
+      "excerpt": "Expect pullbacks, but there's not yet the type of runaway speculation associated with tops, Coinbase analysts said.",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+>>>>>>> 46029ba (updated news and market scripts)
       ]
     },
     {
@@ -8004,6 +8223,7 @@
       "tags": []
     },
     {
+<<<<<<< HEAD
       "id": "3f995b81ce613eb380f8d2d531b134b3",
       "title": "Xapo Reports 24% Jump in Bitcoin Loans, Surging Stablecoin Use in Emerging Markets",
       "link": "https://news.bitcoin.com/xapo-reports-24-jump-in-bitcoin-loans-surging-stablecoin-use-in-emerging-markets/",
@@ -8143,6 +8363,19 @@
       "tags": [
         "Trading"
       ]
+=======
+      "id": "a51842116ae1f506bd4a3008c17bdd02",
+      "title": "Trump to Sign the Historic GENIUS Act Into Law. What Does It Mean for Crypto?",
+      "link": "https://www.coindesk.com/policy/2025/07/18/trump-is-to-sign-the-historic-genius-act-into-law-what-does-it-mean-for-crypto",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Fri, 18 Jul 2025 16:38:02 +0000",
+      "excerpt": "As 'Crypto Week' comes to an end, here is why the GENIUS bill, which will establish a regulatory framework for stablecoins in the U.S., matters for crypto and the masses.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+>>>>>>> 46029ba (updated news and market scripts)
     },
     {
       "id": "e628fcfcc96ba3a361412168bd0b1410",
@@ -8160,6 +8393,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "28cce72fc74da733bdbf2b3636493e75",
       "title": "How Jack Dorsey’s new app lets you chat without the internet and why it matters",
       "link": "https://cointelegraph.com/explained/how-jack-dorseys-new-app-lets-you-chat-without-the-internet-and-why-it-matters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -8472,6 +8706,8 @@
       ]
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "2c432a22220e8d467f03e01bc5856e5e",
       "title": "TRUMP Token’s $938 Million Unlock Sparks Short-Lived Rally, Price Struggles Below $11",
       "link": "https://beincrypto.com/trump-token-unlock-sparks-short-lived-price-rally/",
@@ -8487,6 +8723,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "id": "3b6ff8ddaed638cd939806b5e1effa26",
       "title": "Stellar’s XLM has &#039;most bullish chart&#039; in crypto, mirroring XRP price",
       "link": "https://cointelegraph.com/news/stellar-xlm-most-bullish-chart-in-crypto-mirroring-xrp-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -8503,6 +8740,8 @@
       ]
     },
     {
+=======
+>>>>>>> 46029ba (updated news and market scripts)
       "id": "0dd75aacd6724d8298866d67548e23e0",
       "title": "DFINITY Opens Early Access to Caffeine: A Tool For Anyone to Build Fully Customized and Secure Apps",
       "link": "https://beincrypto.com/dfinity-caffeine-early-access/",
@@ -8516,6 +8755,7 @@
       "tags": [
         "Regulation"
       ]
+<<<<<<< HEAD
     },
     {
       "id": "7a7ec8d4c0a7b5b880f62dc689094923",
@@ -8578,4 +8818,9 @@
     }
   ],
   "last_updated": "2025-07-19T12:56:03.902355"
+=======
+    }
+  ],
+  "last_updated": "2025-07-19T07:59:10.032700"
+>>>>>>> 46029ba (updated news and market scripts)
 }
