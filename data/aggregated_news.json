@@ -1,6 +1,128 @@
 {
   "latest": [
     {
+      "id": "23ec9107411a26f6f182353867296ec5",
+      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
+      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
+      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "8ddb0944e4140dfeefa25a35bad73d18",
+      "title": "XRP Analyst Sees Clear Path Beyond $100 And Toward $1,000",
+      "link": "https://www.newsbtc.com/altcoin/xrp-analyst-sees-clear-path-beyond-100-and-toward-1000/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:30:49 +0000",
+      "excerpt": "A popular XRP proponent recently projected a clear path for XRP to reach $1,000. Particularly, crypto commentator BarriC laid out a multi-stage price forecast that places the XRP price on a traject...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "7fd06136cf974efa505705f7719f6908",
+      "title": "Indian Exchange Suffers $44M Hack—Solana Hot Wallet Compromised in Sophisticated Attack",
+      "link": "https://news.bitcoin.com/indian-exchange-suffers-44m-hack-solana-hot-wallet-compromised-in-sophisticated-attack/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:30:25 +0000",
+      "excerpt": "According to Cyvers, a hack was detected at the Indian centralized exchange CoinDCX, resulting in the theft of approximately $44.2 million in USDC and USDT from one of its operational wallets on So...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a274c53d9e112e39dec20571abb69e52",
+      "title": "IMF Bombshell: El Salvador Didn’t Buy Bitcoin In 2025 After All",
+      "link": "https://bitcoinist.com/imf-bombshell-el-salvador-didnt-buy-bitcoin-in-2025-after-all/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:30:25 +0000",
+      "excerpt": "A new report has shaken up El Salvador’s bold Bitcoin story. All year long, President Nayib Bukele and the National Bitcoin Office promised they were buying one BTC every day. Public trackers even ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "9f6a2d7fd98b3b5ced1cbee30a0ddfe2",
+      "title": "Bitget Study Uncovers Crypto Usage in Purchases, Gaming, and Travel",
+      "link": "https://cryptopotato.com/bitget-study-uncovers-crypto-usage-in-purchases-gaming-and-travel/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:20:19 +0000",
+      "excerpt": "35% of global crypto users spend on gaming, travel, and daily needs, with Gen X leading in practical use like real estate and bills.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f29b071a711d27369cf92b4885906be0",
+      "title": "JPMorgan Chase CEO Jamie Dimon Defends Plans to Charge Fintech Firms Fees for Customer Data As Stakeholders Voice Opposition",
+      "link": "https://dailyhodl.com/2025/07/19/jpmorgan-chase-ceo-jamie-dimon-defends-plans-to-charge-fintech-firms-fees-for-customer-data-as-stakeholders-voice-opposition/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:00:07 +0000",
+      "excerpt": "JPMorgan Chase CEO Jamie Dimon is defending the bank’s controversial plans to charge fintech companies such as PayPal and Coinbase fees for access to customers’ account information. In an earnings ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "63a504d17d223051982e4ee6d7246fe7",
+      "title": "Ethereum Price Analysis: ETH Bulls Eye $4,000 But Consolidation Seems More Likely",
+      "link": "https://cryptopotato.com/ethereum-price-analysis-eth-bulls-eye-4000-but-consolidation-seems-more-likely/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:56:06 +0000",
+      "excerpt": "Ethereum has reclaimed a crucial resistance region at the $3.5K mark, showcasing notable buying activity. Nevertheless, the price has now reached a critical order block around the $3.7K range, sugg...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "cebc7f19b6345e34583ce993642dece2",
+      "title": "Crypto Weekly Wrap: Bitcoin Hits $123K, XRP and ETH Unleash Chart-Busting Comebacks",
+      "link": "https://news.bitcoin.com/crypto-weekly-wrap-bitcoin-hits-123k-xrp-and-eth-unleash-chart-busting-comebacks/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:31:19 +0000",
+      "excerpt": "The cryptocurrency market experienced a significant week, highlighted by bitcoin surpassing $123,000 on July 14, followed by a surge in altcoins, particularly ethereum, which saw double-digit gains...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
       "id": "07505784d827fc78330632e63db360e8",
       "title": "Bitcoin ETFs Are Booming—But Self-Custody Growth Just Broke 15-Year Streak",
       "link": "https://bitcoinist.com/bitcoin-etfs-market-capture-falling-self-custody/",
@@ -177,129 +299,77 @@
         "crypto"
       ],
       "tags": []
-    },
-    {
-      "id": "aa1b3e65560ecd5fd85b037796f5b647",
-      "title": "Woman Receives $501,450,311 in Bank Account, Tells Authorities She Doesn’t Know Where It Came From – Now She’s Facing Prison: Report",
-      "link": "https://dailyhodl.com/2025/07/19/woman-receives-501450311-in-bank-account-tells-authorities-she-doesnt-know-where-it-came-from-now-shes-facing-prison-report/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 16:48:35 +0000",
-      "excerpt": "A 58-year-old woman is awaiting prison after receiving over half a billion dollars in mysterious and unexplained funds in her bank account. Authorities say Zin Nwe Nyunt of Singapore set up a whole...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "e7a2bbdf94f58710f2af504f281c1887",
-      "title": "Early BTC Adopters Move Millions in Bitcoin as Prices Stay Strong",
-      "link": "https://news.bitcoin.com/early-btc-adopters-move-millions-in-bitcoin-as-prices-stay-strong/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 16:36:52 +0000",
-      "excerpt": "While the crypto world buzzed over the 80,000 bitcoins from 2011 shuffled around by an old-school whale this week, a few other longtime holders quietly joined the action, shifting hefty amounts of ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "b1d80a6f5f22b63e629c1c5f6ec0a190",
-      "title": "Will Trump Family’s WLFI Token Be Available to Purchase for Everyone?",
-      "link": "https://beincrypto.com/world-liberty-financial-token-wlfi-launch-details/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 16:30:00 +0000",
-      "excerpt": "World Liberty Financial’s WLFI token, a DeFi project publicly backed by the Trump family, will not be available to all buyers at launch.  Despite recent speculation, only a limited group of early p...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi"
-      ]
-    },
-    {
-      "id": "1a2ff8437d9386b653221d6505fcb771",
-      "title": "Why Bitcoin Price Failed To Break $123,000 In The Past Week — Analyst Explains",
-      "link": "https://www.newsbtc.com/news/bitcoin/why-bitcoin-price-failed-to-break-123000/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 16:00:55 +0000",
-      "excerpt": "The crypto market was a story of two distinct halves, one of which saw the Bitcoin price soar to multiple all-time highs. After reaching its all-time high of around $122,800, the premier cryptocurr...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "23ca8d971d9312512a8c8d19d0a3a790",
-      "title": "SEC Chair Signals Openness To Including Crypto Investments In Retirement Plan — Details",
-      "link": "https://bitcoinist.com/sec-openness-to-including-crypto-in-retirement-plan/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 16:00:16 +0000",
-      "excerpt": "United States Securities and Exchange Commission (SEC) Chairman Paul Atkins has indicated openness to allow crypto investments in retirement plans. This comes days after a report emerged about Unit...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "f2331df1519d42cb9e1efc6bba5c0a5c",
-      "title": "Crypto rules for mortgages must reflect self-custody reality",
-      "link": "https://cointelegraph.com/news/fhfa-homebuyers-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 16:00:00 +0100",
-      "excerpt": "The FHFA directive on crypto in mortgage risk assessments risks excluding self-custodied assets, potentially increasing counterparty risk for homebuyers.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "e46da582c59ce03e9da2f1326f80ad4c",
-      "title": "Defi Protocols Surge To a 3-Year High in TVL – The Ultimate Bull Market Sign?",
-      "link": "https://beincrypto.com/defi-protocols-tvl-three-year-high/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 16:00:00 +0000",
-      "excerpt": "DeFi TVL rebound is driven by growing interest in lending, staking, and restaking protocols like Aave, Lido, and EigenLayer, alongside renewed attention from institutional players.\nThe post Defi Pr...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi",
-        "Trading"
-      ]
-    },
-    {
-      "id": "821bed78895712201327574d49dc7278",
-      "title": "Can XRP price reach $20? These charts say ‘full bull’ phase is still ahead",
-      "link": "https://cointelegraph.com/news/can-xrp-price-reach-dollar20-these-charts-full-bull-phase-still-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 15:50:07 +0100",
-      "excerpt": "Multiple chart technicals and indicators suggest that XRP price has the potential to stage a parabolic rally over the next few weeks.",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading",
-        "Analysis"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "23ec9107411a26f6f182353867296ec5",
+      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
+      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
+      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "a274c53d9e112e39dec20571abb69e52",
+      "title": "IMF Bombshell: El Salvador Didn’t Buy Bitcoin In 2025 After All",
+      "link": "https://bitcoinist.com/imf-bombshell-el-salvador-didnt-buy-bitcoin-in-2025-after-all/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:30:25 +0000",
+      "excerpt": "A new report has shaken up El Salvador’s bold Bitcoin story. All year long, President Nayib Bukele and the National Bitcoin Office promised they were buying one BTC every day. Public trackers even ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "63a504d17d223051982e4ee6d7246fe7",
+      "title": "Ethereum Price Analysis: ETH Bulls Eye $4,000 But Consolidation Seems More Likely",
+      "link": "https://cryptopotato.com/ethereum-price-analysis-eth-bulls-eye-4000-but-consolidation-seems-more-likely/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:56:06 +0000",
+      "excerpt": "Ethereum has reclaimed a crucial resistance region at the $3.5K mark, showcasing notable buying activity. Nevertheless, the price has now reached a critical order block around the $3.7K range, sugg...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "cebc7f19b6345e34583ce993642dece2",
+      "title": "Crypto Weekly Wrap: Bitcoin Hits $123K, XRP and ETH Unleash Chart-Busting Comebacks",
+      "link": "https://news.bitcoin.com/crypto-weekly-wrap-bitcoin-hits-123k-xrp-and-eth-unleash-chart-busting-comebacks/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:31:19 +0000",
+      "excerpt": "The cryptocurrency market experienced a significant week, highlighted by bitcoin surpassing $123,000 on July 14, followed by a surge in altcoins, particularly ethereum, which saw double-digit gains...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
     {
       "id": "07505784d827fc78330632e63db360e8",
       "title": "Bitcoin ETFs Are Booming—But Self-Custody Growth Just Broke 15-Year Streak",
@@ -315,77 +385,59 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "65ac06e6f60af1de3637853ae064b5c4",
-      "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
-      "link": "https://news.bitcoin.com/ether-etfs-outshine-bitcoin-etfs-for-second-straight-day-with-403-million-in-inflows/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 18:35:58 +0000",
-      "excerpt": "Crypto exchange-traded funds (ETFs) raked in $766 million on Friday, July 18, with ether ETFs once again outpacing their bitcoin counterparts. Fueled by Blackrock’s dominance, ether products contin...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "70d831f5fe4e2ce4057c57c2fda428d6",
-      "title": "Analyst Predicts Bitcoin Price Crash: Rejection From $120K Puts Altcoins At Risk",
-      "link": "https://www.newsbtc.com/news/bitcoin/analyst-predicts-bitcoin-price-crash-rejection-from-120k-puts-altcoins-at-risk/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 17:30:17 +0000",
-      "excerpt": "Bitcoin’s price action has turned somewhat sluggish after its unprecedented climb to a new all-time high of $122,838 on July 14. The rapid push to that level was preceded by a week of frenzied trad...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "96973f408b0fdf1a803b34f22b1a39d5",
-      "title": "Cryptoquant Reports Surge in Bitcoin, ETH Selling Pressure as Prices Set Records",
-      "link": "https://news.bitcoin.com/cryptoquant-reports-surge-in-bitcoin-eth-selling-pressure-as-prices-set-records/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 17:30:12 +0000",
-      "excerpt": "Large bitcoin holders and miners significantly increased transfers to exchanges following bitcoin’s climb to a new all-time high near $123,000 last week, according to the latest data from onchain a...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "e7a2bbdf94f58710f2af504f281c1887",
-      "title": "Early BTC Adopters Move Millions in Bitcoin as Prices Stay Strong",
-      "link": "https://news.bitcoin.com/early-btc-adopters-move-millions-in-bitcoin-as-prices-stay-strong/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 16:36:52 +0000",
-      "excerpt": "While the crypto world buzzed over the 80,000 bitcoins from 2011 shuffled around by an old-school whale this week, a few other longtime holders quietly joined the action, shifting hefty amounts of ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "23ec9107411a26f6f182353867296ec5",
+      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
+      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
+      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "a274c53d9e112e39dec20571abb69e52",
+      "title": "IMF Bombshell: El Salvador Didn’t Buy Bitcoin In 2025 After All",
+      "link": "https://bitcoinist.com/imf-bombshell-el-salvador-didnt-buy-bitcoin-in-2025-after-all/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:30:25 +0000",
+      "excerpt": "A new report has shaken up El Salvador’s bold Bitcoin story. All year long, President Nayib Bukele and the National Bitcoin Office promised they were buying one BTC every day. Public trackers even ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "cebc7f19b6345e34583ce993642dece2",
+      "title": "Crypto Weekly Wrap: Bitcoin Hits $123K, XRP and ETH Unleash Chart-Busting Comebacks",
+      "link": "https://news.bitcoin.com/crypto-weekly-wrap-bitcoin-hits-123k-xrp-and-eth-unleash-chart-busting-comebacks/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:31:19 +0000",
+      "excerpt": "The cryptocurrency market experienced a significant week, highlighted by bitcoin surpassing $123,000 on July 14, followed by a surge in altcoins, particularly ethereum, which saw double-digit gains...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
     {
       "id": "07505784d827fc78330632e63db360e8",
       "title": "Bitcoin ETFs Are Booming—But Self-Custody Growth Just Broke 15-Year Streak",
@@ -501,60 +553,47 @@
       "tags": [
         "Bitcoin"
       ]
-    },
-    {
-      "id": "79ae16ac1641e5c46ed80813c2ce67a4",
-      "title": "Bitcoin Podcaster Peter McCormack Pledges to Fight Crime in Bedford Like a Real-Life Batman",
-      "link": "https://cryptonews.com/news/bitcoin-podcaster-peter-mccormack-pledges-to-fight-crime-in-bedford-like-a-real-life-batman/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:11:00 +0000",
-      "excerpt": "Peter McCormack, well-known Bitcoin podcaster and owner of Real Bedford FC, has announced a plan to tackle rising crime in Bedford, UK.\nThe post Bitcoin Podcaster Peter McCormack Pledges to Fight C...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "6c52ddf456df5f3b867420b37e355c7d",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:55:35 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "c9b84864f25a4669e885076c30271f9a",
-      "title": "Spot Bitcoin ETFs gains $363M, extend 12-day inflow streak to $6.6B",
-      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:52:16 +0100",
-      "excerpt": "Spot Bitcoin ETFs have attracted over $6.6 billion in 12 days, boosting assets under management to $152.4 billion.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "63a504d17d223051982e4ee6d7246fe7",
+      "title": "Ethereum Price Analysis: ETH Bulls Eye $4,000 But Consolidation Seems More Likely",
+      "link": "https://cryptopotato.com/ethereum-price-analysis-eth-bulls-eye-4000-but-consolidation-seems-more-likely/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:56:06 +0000",
+      "excerpt": "Ethereum has reclaimed a crucial resistance region at the $3.5K mark, showcasing notable buying activity. Nevertheless, the price has now reached a critical order block around the $3.7K range, sugg...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "cebc7f19b6345e34583ce993642dece2",
+      "title": "Crypto Weekly Wrap: Bitcoin Hits $123K, XRP and ETH Unleash Chart-Busting Comebacks",
+      "link": "https://news.bitcoin.com/crypto-weekly-wrap-bitcoin-hits-123k-xrp-and-eth-unleash-chart-busting-comebacks/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:31:19 +0000",
+      "excerpt": "The cryptocurrency market experienced a significant week, highlighted by bitcoin surpassing $123,000 on July 14, followed by a surge in altcoins, particularly ethereum, which saw double-digit gains...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
     {
       "id": "65ac06e6f60af1de3637853ae064b5c4",
       "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
@@ -693,41 +732,6 @@
         "Bitcoin",
         "Ethereum",
         "Trading"
-      ]
-    },
-    {
-      "id": "c3108a54f1f6f8ac318b25c2ee2e4447",
-      "title": "Everyone hates proof of stake, will we do something about it?",
-      "link": "https://cryptoslate.com/everyone-hates-proof-of-stake-will-we-do-something-about-it/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:16:03 +0000",
-      "excerpt": "The following is a guest post and opinion from Carter Feldman, CEO & Founder of Psy Protocol. When Bitcoin emerged in 2009, it introduced an elegant consensus mechanism called Proof of Work (PoW). ...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "9c68f2d65373eeac2cc370af1d7d7c76",
-      "title": "Ether preps record short squeeze as analysis sees $4K ETH price &#039;soon&#039;",
-      "link": "https://cointelegraph.com/news/ether-preps-record-short-squeeze-analysis-4k-eth-price-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 11:22:31 +0100",
-      "excerpt": "Ether is punishing shorts already, but another 10% ETH price upside will liquidate $1 billion, helping cement $4,000 in the process.",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Analysis"
       ]
     }
   ],
@@ -914,6 +918,44 @@
   ],
   "analysis": [
     {
+      "id": "63a504d17d223051982e4ee6d7246fe7",
+      "title": "Ethereum Price Analysis: ETH Bulls Eye $4,000 But Consolidation Seems More Likely",
+      "link": "https://cryptopotato.com/ethereum-price-analysis-eth-bulls-eye-4000-but-consolidation-seems-more-likely/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:56:06 +0000",
+      "excerpt": "Ethereum has reclaimed a crucial resistance region at the $3.5K mark, showcasing notable buying activity. Nevertheless, the price has now reached a critical order block around the $3.7K range, sugg...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "cebc7f19b6345e34583ce993642dece2",
+      "title": "Crypto Weekly Wrap: Bitcoin Hits $123K, XRP and ETH Unleash Chart-Busting Comebacks",
+      "link": "https://news.bitcoin.com/crypto-weekly-wrap-bitcoin-hits-123k-xrp-and-eth-unleash-chart-busting-comebacks/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:31:19 +0000",
+      "excerpt": "The cryptocurrency market experienced a significant week, highlighted by bitcoin surpassing $123,000 on July 14, followed by a surge in altcoins, particularly ethereum, which saw double-digit gains...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
       "id": "821bed78895712201327574d49dc7278",
       "title": "Can XRP price reach $20? These charts say ‘full bull’ phase is still ahead",
       "link": "https://cointelegraph.com/news/can-xrp-price-reach-dollar20-these-charts-full-bull-phase-still-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1054,6 +1096,128 @@
     }
   ],
   "all": [
+    {
+      "id": "23ec9107411a26f6f182353867296ec5",
+      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
+      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
+      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "8ddb0944e4140dfeefa25a35bad73d18",
+      "title": "XRP Analyst Sees Clear Path Beyond $100 And Toward $1,000",
+      "link": "https://www.newsbtc.com/altcoin/xrp-analyst-sees-clear-path-beyond-100-and-toward-1000/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:30:49 +0000",
+      "excerpt": "A popular XRP proponent recently projected a clear path for XRP to reach $1,000. Particularly, crypto commentator BarriC laid out a multi-stage price forecast that places the XRP price on a traject...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "7fd06136cf974efa505705f7719f6908",
+      "title": "Indian Exchange Suffers $44M Hack—Solana Hot Wallet Compromised in Sophisticated Attack",
+      "link": "https://news.bitcoin.com/indian-exchange-suffers-44m-hack-solana-hot-wallet-compromised-in-sophisticated-attack/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:30:25 +0000",
+      "excerpt": "According to Cyvers, a hack was detected at the Indian centralized exchange CoinDCX, resulting in the theft of approximately $44.2 million in USDC and USDT from one of its operational wallets on So...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a274c53d9e112e39dec20571abb69e52",
+      "title": "IMF Bombshell: El Salvador Didn’t Buy Bitcoin In 2025 After All",
+      "link": "https://bitcoinist.com/imf-bombshell-el-salvador-didnt-buy-bitcoin-in-2025-after-all/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:30:25 +0000",
+      "excerpt": "A new report has shaken up El Salvador’s bold Bitcoin story. All year long, President Nayib Bukele and the National Bitcoin Office promised they were buying one BTC every day. Public trackers even ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "9f6a2d7fd98b3b5ced1cbee30a0ddfe2",
+      "title": "Bitget Study Uncovers Crypto Usage in Purchases, Gaming, and Travel",
+      "link": "https://cryptopotato.com/bitget-study-uncovers-crypto-usage-in-purchases-gaming-and-travel/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:20:19 +0000",
+      "excerpt": "35% of global crypto users spend on gaming, travel, and daily needs, with Gen X leading in practical use like real estate and bills.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f29b071a711d27369cf92b4885906be0",
+      "title": "JPMorgan Chase CEO Jamie Dimon Defends Plans to Charge Fintech Firms Fees for Customer Data As Stakeholders Voice Opposition",
+      "link": "https://dailyhodl.com/2025/07/19/jpmorgan-chase-ceo-jamie-dimon-defends-plans-to-charge-fintech-firms-fees-for-customer-data-as-stakeholders-voice-opposition/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 20:00:07 +0000",
+      "excerpt": "JPMorgan Chase CEO Jamie Dimon is defending the bank’s controversial plans to charge fintech companies such as PayPal and Coinbase fees for access to customers’ account information. In an earnings ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "63a504d17d223051982e4ee6d7246fe7",
+      "title": "Ethereum Price Analysis: ETH Bulls Eye $4,000 But Consolidation Seems More Likely",
+      "link": "https://cryptopotato.com/ethereum-price-analysis-eth-bulls-eye-4000-but-consolidation-seems-more-likely/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:56:06 +0000",
+      "excerpt": "Ethereum has reclaimed a crucial resistance region at the $3.5K mark, showcasing notable buying activity. Nevertheless, the price has now reached a critical order block around the $3.7K range, sugg...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "cebc7f19b6345e34583ce993642dece2",
+      "title": "Crypto Weekly Wrap: Bitcoin Hits $123K, XRP and ETH Unleash Chart-Busting Comebacks",
+      "link": "https://news.bitcoin.com/crypto-weekly-wrap-bitcoin-hits-123k-xrp-and-eth-unleash-chart-busting-comebacks/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:31:19 +0000",
+      "excerpt": "The cryptocurrency market experienced a significant week, highlighted by bitcoin surpassing $123,000 on July 14, followed by a surge in altcoins, particularly ethereum, which saw double-digit gains...",
+      "categories": [
+        "bitcoin",
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading",
+        "Analysis"
+      ]
+    },
     {
       "id": "07505784d827fc78330632e63db360e8",
       "title": "Bitcoin ETFs Are Booming—But Self-Custody Growth Just Broke 15-Year Streak",
@@ -3052,5 +3216,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-19T19:23:42.052954"
+  "last_updated": "2025-07-19T20:31:19.467390"
 }
