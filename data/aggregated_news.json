@@ -1,6 +1,37 @@
 {
   "latest": [
     {
+      "id": "1a2ff8437d9386b653221d6505fcb771",
+      "title": "Why Bitcoin Price Failed To Break $123,000 In The Past Week — Analyst Explains",
+      "link": "https://www.newsbtc.com/news/bitcoin/why-bitcoin-price-failed-to-break-123000/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:00:55 +0000",
+      "excerpt": "The crypto market was a story of two distinct halves, one of which saw the Bitcoin price soar to multiple all-time highs. After reaching its all-time high of around $122,800, the premier cryptocurr...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "23ca8d971d9312512a8c8d19d0a3a790",
+      "title": "SEC Chair Signals Openness To Including Crypto Investments In Retirement Plan — Details",
+      "link": "https://bitcoinist.com/sec-openness-to-including-crypto-in-retirement-plan/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:00:16 +0000",
+      "excerpt": "United States Securities and Exchange Commission (SEC) Chairman Paul Atkins has indicated openness to allow crypto investments in retirement plans. This comes days after a report emerged about Unit...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
       "id": "f2331df1519d42cb9e1efc6bba5c0a5c",
       "title": "Crypto rules for mortgages must reflect self-custody reality",
       "link": "https://cointelegraph.com/news/fhfa-homebuyers-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -12,6 +43,22 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "e46da582c59ce03e9da2f1326f80ad4c",
+      "title": "Defi Protocols Surge To a 3-Year High in TVL – The Ultimate Bull Market Sign?",
+      "link": "https://beincrypto.com/defi-protocols-tvl-three-year-high/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:00:00 +0000",
+      "excerpt": "DeFi TVL rebound is driven by growing interest in lending, staking, and restaking protocols like Aave, Lido, and EigenLayer, alongside renewed attention from institutional players.\nThe post Defi Pr...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi",
+        "Trading"
+      ]
     },
     {
       "id": "821bed78895712201327574d49dc7278",
@@ -27,6 +74,50 @@
       "tags": [
         "Trading",
         "Analysis"
+      ]
+    },
+    {
+      "id": "177d58fb2764fa75407f4e01f08211c9",
+      "title": "Bitcoin Flashing ‘Very Bullish Signal’ Right Now, According to Analyst Kevin Svenson – Here’s His Target",
+      "link": "https://dailyhodl.com/2025/07/19/bitcoin-flashing-very-bullish-signal-right-now-according-to-analyst-kevin-svenson-here-are-his-targets/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:45:10 +0000",
+      "excerpt": "Cryptocurrency analyst and trader Kevin Svenson is saying one indicator is signaling major momentum for Bitcoin (BTC). Svenson tells his 83,500 YouTube subscribers that the relative strength index ...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "2c1054e49cedf8a5d101bdc933e50f27",
+      "title": "Pump.fun’s PUMP Token Peaks Then Plummets—Is the Party Over?",
+      "link": "https://news.bitcoin.com/pump-funs-pump-token-peaks-then-plummets-is-the-party-over/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:34:48 +0000",
+      "excerpt": "Pump.fun’s freshly minted token, PUMP, has hit a few speed bumps since its debut on July 12. Originally offered at $0.004 during the platform’s initial coin offering (ICO), it’s barely nudged highe...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b64f2daae18801e1d3b221777b69c305",
+      "title": "3 Made in USA Coins to Watch for The Fourth Week of July",
+      "link": "https://beincrypto.com/made-in-usa-coins-watch-july-fourth-week/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:30:00 +0000",
+      "excerpt": "With strong investor support, these three altcoins are poised for potential growth in the fourth week of July, but market shifts could alter their momentum.\nThe post 3 Made in USA Coins to Watch fo...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
       ]
     },
     {
@@ -223,100 +314,41 @@
       "tags": [
         "Trading"
       ]
-    },
-    {
-      "id": "70a5dca1ffece80299aeb8306e609882",
-      "title": "Another Crypto-Affiliated Firm Achieves the S&P 500 Milestone",
-      "link": "https://beincrypto.com/jack-dorseys-block-earns-sp-500-milestone/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:17:02 +0000",
-      "excerpt": "Block Inc., the fintech company founded by Twitter co-creator Jack Dorsey, is set to join the prestigious S&P 500 index on July 23. The announcement, confirmed by S&P Dow Jones Indices on July 18, ...",
-      "categories": [
-        "defi"
-      ],
-      "tags": []
-    },
-    {
-      "id": "2492d874c2d630b1ec6e27e991659d00",
-      "title": "Will Bitcoin Impede Or Support Altcoin Rally? On-Chain Data Signals Market Uncertainty",
-      "link": "https://www.newsbtc.com/news/bitcoin-impede-or-support-the-altcoin-rally-on-chain-data/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:00:32 +0000",
-      "excerpt": "According to an on-chain analyst on X, Bitcoin has decoupled from other cryptocurrencies or altcoins, which could lead to a severe price downturn within the market over the next day. Why Traders Sh...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "510da46a692fddf6b62a2c51a3fd15fe",
-      "title": "Bitcoin Advocate To Replace Cops With His Own Security In Bedford",
-      "link": "https://bitcoinist.com/bitcoin-advocate-to-replace-cops-with-his-own-security-in-bedford/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:00:24 +0000",
-      "excerpt": "Bitcoin podcaster and Real Bedford FC owner Peter McCormack is taking matters into his own hands in his hometown of Bedford, UK. With rising concerns over public safety, McCormack says he’s steppin...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "31c2858fb7dd6c5405316af19e69b0d5",
-      "title": "‘Crypto Week’ ushers in big change: What happens now?",
-      "link": "https://cointelegraph.com/news/crypto-week-what-happens-now?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:00:00 +0100",
-      "excerpt": "Crypto Week in the US ends with some victories for the crypto lobby, with the GENIUS Act headed to Trump’s desk.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "35c0f2c49117e358bc1a9d2b848e3f46",
-      "title": "Financial Giant Charles Schwab Launching Bitcoin and Ethereum Trading, Taking Competition to Coinbase",
-      "link": "https://dailyhodl.com/2025/07/19/financial-services-giant-charles-schwab-to-launch-bitcoin-and-ethereum-trading-sometime-soon-taking-competition-to-coinbase-says-ceo/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:45:02 +0000",
-      "excerpt": "Financial services giant Charles Schwab could soon roll out Bitcoin (BTC) and Ethereum (ETH) trading, according to the firm’s chief executive. Charles Schwab CEO Rick Wurster says in a new intervie...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "de566ced7c362f3c6e30850cd3d1d43b",
-      "title": "Bank of Japan’s quiet dollar liquidity move: warning sign or just the beginning?",
-      "link": "https://cryptoslate.com/bank-of-japans-quiet-dollar-liquidity-move-warning-sign-or-just-the-beginning/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:27:15 +0000",
-      "excerpt": "On July 15, 2025, the Bank of Japan (BOJ) quietly announced that it would begin supplying U.S. dollar funds against pooled collateral, starting on July 17, a move that might seem like standard liqu...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "1a2ff8437d9386b653221d6505fcb771",
+      "title": "Why Bitcoin Price Failed To Break $123,000 In The Past Week — Analyst Explains",
+      "link": "https://www.newsbtc.com/news/bitcoin/why-bitcoin-price-failed-to-break-123000/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:00:55 +0000",
+      "excerpt": "The crypto market was a story of two distinct halves, one of which saw the Bitcoin price soar to multiple all-time highs. After reaching its all-time high of around $122,800, the premier cryptocurr...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "177d58fb2764fa75407f4e01f08211c9",
+      "title": "Bitcoin Flashing ‘Very Bullish Signal’ Right Now, According to Analyst Kevin Svenson – Here’s His Target",
+      "link": "https://dailyhodl.com/2025/07/19/bitcoin-flashing-very-bullish-signal-right-now-according-to-analyst-kevin-svenson-here-are-his-targets/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:45:10 +0000",
+      "excerpt": "Cryptocurrency analyst and trader Kevin Svenson is saying one indicator is signaling major momentum for Bitcoin (BTC). Svenson tells his 83,500 YouTube subscribers that the relative strength index ...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
     {
       "id": "79ae16ac1641e5c46ed80813c2ce67a4",
       "title": "Bitcoin Podcaster Peter McCormack Pledges to Fight Crime in Bedford Like a Real-Life Batman",
@@ -365,45 +397,41 @@
         "Ethereum",
         "DeFi"
       ]
-    },
-    {
-      "id": "342df301606ae20daa3c44af81b29cd2",
-      "title": "Top 3 Altcoins Trending in Nigeria In The Fourth Week Of July",
-      "link": "https://beincrypto.com/trending-altcoins-nigeria-july-fourth-week/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:00:00 +0000",
-      "excerpt": "Ethereum leads the charge in Nigeria, while XRP reaches new highs, and Hedera benefits from institutional backing, signaling continued bullish trends for altcoins.\nThe post Top 3 Altcoins Trending ...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "6c52ddf456df5f3b867420b37e355c7d",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:55:35 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "1a2ff8437d9386b653221d6505fcb771",
+      "title": "Why Bitcoin Price Failed To Break $123,000 In The Past Week — Analyst Explains",
+      "link": "https://www.newsbtc.com/news/bitcoin/why-bitcoin-price-failed-to-break-123000/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:00:55 +0000",
+      "excerpt": "The crypto market was a story of two distinct halves, one of which saw the Bitcoin price soar to multiple all-time highs. After reaching its all-time high of around $122,800, the premier cryptocurr...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "177d58fb2764fa75407f4e01f08211c9",
+      "title": "Bitcoin Flashing ‘Very Bullish Signal’ Right Now, According to Analyst Kevin Svenson – Here’s His Target",
+      "link": "https://dailyhodl.com/2025/07/19/bitcoin-flashing-very-bullish-signal-right-now-according-to-analyst-kevin-svenson-here-are-his-targets/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:45:10 +0000",
+      "excerpt": "Cryptocurrency analyst and trader Kevin Svenson is saying one indicator is signaling major momentum for Bitcoin (BTC). Svenson tells his 83,500 YouTube subscribers that the relative strength index ...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
     {
       "id": "79ae16ac1641e5c46ed80813c2ce67a4",
       "title": "Bitcoin Podcaster Peter McCormack Pledges to Fight Crime in Bedford Like a Real-Life Batman",
@@ -540,38 +568,6 @@
       "tags": [
         "Bitcoin",
         "Ethereum"
-      ]
-    },
-    {
-      "id": "5edb076c66a61c2fa24ad365d74649b6",
-      "title": "Bitcoin Price Watch: Momentum Cools but Uptrend Remains Intact",
-      "link": "https://news.bitcoin.com/bitcoin-price-watch-momentum-cools-but-uptrend-remains-intact/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:15:12 +0000",
-      "excerpt": "Bitcoin traded at $118,434 on July 19, 2025, with a total market capitalization of $2.35 trillion. Over the last 24 hours, it moved within an intraday range of $117,010 to $119,529, generating a tr...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "e6cef4483006f092650197821b81265f",
-      "title": "Bitcoin Miner Sales Surge To Highest Level Since April – Details",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-miner-sales-surge-to-highest-level-since-april-details/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 11:30:37 +0000",
-      "excerpt": "Bitcoin is currently holding above the $115,000 level after setting a new all-time high of approximately $123,000 last Monday. The price structure remains firmly bullish, with buyers still in contr...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
       ]
     }
   ],
@@ -754,6 +750,38 @@
   ],
   "defi": [
     {
+      "id": "e46da582c59ce03e9da2f1326f80ad4c",
+      "title": "Defi Protocols Surge To a 3-Year High in TVL – The Ultimate Bull Market Sign?",
+      "link": "https://beincrypto.com/defi-protocols-tvl-three-year-high/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:00:00 +0000",
+      "excerpt": "DeFi TVL rebound is driven by growing interest in lending, staking, and restaking protocols like Aave, Lido, and EigenLayer, alongside renewed attention from institutional players.\nThe post Defi Pr...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi",
+        "Trading"
+      ]
+    },
+    {
+      "id": "177d58fb2764fa75407f4e01f08211c9",
+      "title": "Bitcoin Flashing ‘Very Bullish Signal’ Right Now, According to Analyst Kevin Svenson – Here’s His Target",
+      "link": "https://dailyhodl.com/2025/07/19/bitcoin-flashing-very-bullish-signal-right-now-according-to-analyst-kevin-svenson-here-are-his-targets/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:45:10 +0000",
+      "excerpt": "Cryptocurrency analyst and trader Kevin Svenson is saying one indicator is signaling major momentum for Bitcoin (BTC). Svenson tells his 83,500 YouTube subscribers that the relative strength index ...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
       "id": "b310cbf8b39a11db4ce66a5fade19529",
       "title": "From $5 Billion to $260 Billion: Stablecoins Mark Massive 5-Year Growth",
       "link": "https://news.bitcoin.com/from-5-billion-to-260-billion-stablecoins-mark-massive-5-year-growth/",
@@ -878,23 +906,6 @@
         "Ethereum",
         "DeFi",
         "Regulation"
-      ]
-    },
-    {
-      "id": "cc9767385c028942d9e82759d004e9a7",
-      "title": "Ethereum Whales Are Back as Coinbase Premium Surge Signals Growing Market Tension",
-      "link": "https://cryptopotato.com/ethereum-whales-are-back-as-coinbase-premium-surge-signals-growing-market-tension/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 17:55:57 +0000",
-      "excerpt": "While there is no reason to worry yet, multiple occurrences of such index movements during the rest of the year could signal overheating.",
-      "categories": [
-        "ethereum",
-        "defi"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
       ]
     }
   ],
@@ -1064,6 +1075,37 @@
   ],
   "all": [
     {
+      "id": "1a2ff8437d9386b653221d6505fcb771",
+      "title": "Why Bitcoin Price Failed To Break $123,000 In The Past Week — Analyst Explains",
+      "link": "https://www.newsbtc.com/news/bitcoin/why-bitcoin-price-failed-to-break-123000/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:00:55 +0000",
+      "excerpt": "The crypto market was a story of two distinct halves, one of which saw the Bitcoin price soar to multiple all-time highs. After reaching its all-time high of around $122,800, the premier cryptocurr...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "23ca8d971d9312512a8c8d19d0a3a790",
+      "title": "SEC Chair Signals Openness To Including Crypto Investments In Retirement Plan — Details",
+      "link": "https://bitcoinist.com/sec-openness-to-including-crypto-in-retirement-plan/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:00:16 +0000",
+      "excerpt": "United States Securities and Exchange Commission (SEC) Chairman Paul Atkins has indicated openness to allow crypto investments in retirement plans. This comes days after a report emerged about Unit...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
       "id": "f2331df1519d42cb9e1efc6bba5c0a5c",
       "title": "Crypto rules for mortgages must reflect self-custody reality",
       "link": "https://cointelegraph.com/news/fhfa-homebuyers-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1075,6 +1117,22 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "e46da582c59ce03e9da2f1326f80ad4c",
+      "title": "Defi Protocols Surge To a 3-Year High in TVL – The Ultimate Bull Market Sign?",
+      "link": "https://beincrypto.com/defi-protocols-tvl-three-year-high/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 16:00:00 +0000",
+      "excerpt": "DeFi TVL rebound is driven by growing interest in lending, staking, and restaking protocols like Aave, Lido, and EigenLayer, alongside renewed attention from institutional players.\nThe post Defi Pr...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi",
+        "Trading"
+      ]
     },
     {
       "id": "821bed78895712201327574d49dc7278",
@@ -1090,6 +1148,50 @@
       "tags": [
         "Trading",
         "Analysis"
+      ]
+    },
+    {
+      "id": "177d58fb2764fa75407f4e01f08211c9",
+      "title": "Bitcoin Flashing ‘Very Bullish Signal’ Right Now, According to Analyst Kevin Svenson – Here’s His Target",
+      "link": "https://dailyhodl.com/2025/07/19/bitcoin-flashing-very-bullish-signal-right-now-according-to-analyst-kevin-svenson-here-are-his-targets/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:45:10 +0000",
+      "excerpt": "Cryptocurrency analyst and trader Kevin Svenson is saying one indicator is signaling major momentum for Bitcoin (BTC). Svenson tells his 83,500 YouTube subscribers that the relative strength index ...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "2c1054e49cedf8a5d101bdc933e50f27",
+      "title": "Pump.fun’s PUMP Token Peaks Then Plummets—Is the Party Over?",
+      "link": "https://news.bitcoin.com/pump-funs-pump-token-peaks-then-plummets-is-the-party-over/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:34:48 +0000",
+      "excerpt": "Pump.fun’s freshly minted token, PUMP, has hit a few speed bumps since its debut on July 12. Originally offered at $0.004 during the platform’s initial coin offering (ICO), it’s barely nudged highe...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b64f2daae18801e1d3b221777b69c305",
+      "title": "3 Made in USA Coins to Watch for The Fourth Week of July",
+      "link": "https://beincrypto.com/made-in-usa-coins-watch-july-fourth-week/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 15:30:00 +0000",
+      "excerpt": "With strong investor support, these three altcoins are poised for potential growth in the fourth week of July, but market shifts could alter their momentum.\nThe post 3 Made in USA Coins to Watch fo...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
       ]
     },
     {
@@ -2748,5 +2850,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-19T15:29:45.149921"
+  "last_updated": "2025-07-19T16:35:33.008256"
 }
