@@ -2,16 +2,37 @@
     <div class="card-content">
         <div class="card-meta">
             <span class="source-badge">{{ .source | default "Aggregated" }}</span>
-            <time>{{ if .timestamp }}{{ .timestamp | truncate 25 "" }}{{ else }}{{ now.Format "Jan 2, 3:04 PM" }}{{ end
-                }}</time>
+            <time>
+                {{ if .timestamp }}
+                {{ if gt (len .timestamp) 25 }}
+                {{ substr .timestamp 0 10 }}
+                {{ else }}
+                {{ .timestamp }}
+                {{ end }}
+                {{ else }}
+                {{ now.Format "Jan 2, 2006" }}
+                {{ end }}
+            </time>
         </div>
         <h3 class="card-title">
-            <a href="{{ .link }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>
+            {{ if .link }}
+            <a href="{{ .link }}" target="_blank" rel="noopener noreferrer">{{ .title | safeHTML }}</a>
+            {{ else }}
+            {{ .title | safeHTML }}
+            {{ end }}
         </h3>
-        <p class="card-excerpt">{{ .excerpt | default (substr .title 0 150) }}</p>
+        <p class="card-excerpt">
+            {{ if .excerpt }}
+            {{ .excerpt | truncate 200 }}
+            {{ else }}
+            {{ .title | truncate 150 }}
+            {{ end }}
+        </p>
         <div class="card-tags">
+            {{ if .tags }}
             {{ range .tags }}
             <span class="tag">{{ . }}</span>
+            {{ end }}
             {{ end }}
         </div>
     </div>
