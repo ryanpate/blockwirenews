@@ -1,6 +1,50 @@
 {
   "latest": [
     {
+      "id": "07505784d827fc78330632e63db360e8",
+      "title": "Bitcoin ETFs Are Booming—But Self-Custody Growth Just Broke 15-Year Streak",
+      "link": "https://bitcoinist.com/bitcoin-etfs-market-capture-falling-self-custody/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:00:30 +0000",
+      "excerpt": "The US-based spot Bitcoin ETFs (exchange-traded funds) have continued to soar after they started trading in January 2024, breaking and setting records in the global ETF market. Recently, BlackRock’...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "a47e920b6c5a76024e4c27113c14cfc9",
+      "title": "XRP Over Everything? Expert Tells New Investors To Go All In",
+      "link": "https://www.newsbtc.com/news/xrp-over-everything-expert-tells-new-investors-to-go-all-in/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:00:26 +0000",
+      "excerpt": "A well‑known commentator in the crypto space has made a bold pitch. According to reports, Crypto Bitlord urged every new investor to put all their money into XRP. Related Reading: XRP To $13 in 40 ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "10af8f2a9232621c84a1bf9080b94897",
+      "title": "Google Takes Legal Action Against ‘BadBox 2.0’ Botnet That Compromised More Than 10,000,000 Devices",
+      "link": "https://dailyhodl.com/2025/07/19/google-takes-legal-action-against-badbox-2-0-botnet-that-compromised-more-than-10000000-devices/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 18:45:39 +0000",
+      "excerpt": "Tech giant Google is taking legal action against a Botnet that exploited over 10 million Internet-of-Things (IoT) Android devices. In a new blog post, Google is announcing that it has filed a lawsu...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
       "id": "65ac06e6f60af1de3637853ae064b5c4",
       "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
       "link": "https://news.bitcoin.com/ether-etfs-outshine-bitcoin-etfs-for-second-straight-day-with-403-million-in-inflows/",
@@ -253,53 +297,25 @@
         "Trading",
         "Analysis"
       ]
-    },
-    {
-      "id": "177d58fb2764fa75407f4e01f08211c9",
-      "title": "Bitcoin Flashing ‘Very Bullish Signal’ Right Now, According to Analyst Kevin Svenson – Here’s His Target",
-      "link": "https://dailyhodl.com/2025/07/19/bitcoin-flashing-very-bullish-signal-right-now-according-to-analyst-kevin-svenson-here-are-his-targets/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:45:10 +0000",
-      "excerpt": "Cryptocurrency analyst and trader Kevin Svenson is saying one indicator is signaling major momentum for Bitcoin (BTC). Svenson tells his 83,500 YouTube subscribers that the relative strength index ...",
-      "categories": [
-        "bitcoin",
-        "defi"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "2c1054e49cedf8a5d101bdc933e50f27",
-      "title": "Pump.fun’s PUMP Token Peaks Then Plummets—Is the Party Over?",
-      "link": "https://news.bitcoin.com/pump-funs-pump-token-peaks-then-plummets-is-the-party-over/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:34:48 +0000",
-      "excerpt": "Pump.fun’s freshly minted token, PUMP, has hit a few speed bumps since its debut on July 12. Originally offered at $0.004 during the platform’s initial coin offering (ICO), it’s barely nudged highe...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "b64f2daae18801e1d3b221777b69c305",
-      "title": "3 Made in USA Coins to Watch for The Fourth Week of July",
-      "link": "https://beincrypto.com/made-in-usa-coins-watch-july-fourth-week/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:30:00 +0000",
-      "excerpt": "With strong investor support, these three altcoins are poised for potential growth in the fourth week of July, but market shifts could alter their momentum.\nThe post 3 Made in USA Coins to Watch fo...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "07505784d827fc78330632e63db360e8",
+      "title": "Bitcoin ETFs Are Booming—But Self-Custody Growth Just Broke 15-Year Streak",
+      "link": "https://bitcoinist.com/bitcoin-etfs-market-capture-falling-self-custody/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:00:30 +0000",
+      "excerpt": "The US-based spot Bitcoin ETFs (exchange-traded funds) have continued to soar after they started trading in January 2024, breaking and setting records in the global ETF market. Recently, BlackRock’...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
     {
       "id": "65ac06e6f60af1de3637853ae064b5c4",
       "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
@@ -367,15 +383,17 @@
         "Bitcoin",
         "Trading"
       ]
-    },
+    }
+  ],
+  "bitcoin": [
     {
-      "id": "1a2ff8437d9386b653221d6505fcb771",
-      "title": "Why Bitcoin Price Failed To Break $123,000 In The Past Week — Analyst Explains",
-      "link": "https://www.newsbtc.com/news/bitcoin/why-bitcoin-price-failed-to-break-123000/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 16:00:55 +0000",
-      "excerpt": "The crypto market was a story of two distinct halves, one of which saw the Bitcoin price soar to multiple all-time highs. After reaching its all-time high of around $122,800, the premier cryptocurr...",
+      "id": "07505784d827fc78330632e63db360e8",
+      "title": "Bitcoin ETFs Are Booming—But Self-Custody Growth Just Broke 15-Year Streak",
+      "link": "https://bitcoinist.com/bitcoin-etfs-market-capture-falling-self-custody/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:00:30 +0000",
+      "excerpt": "The US-based spot Bitcoin ETFs (exchange-traded funds) have continued to soar after they started trading in January 2024, breaking and setting records in the global ETF market. Recently, BlackRock’...",
       "categories": [
         "bitcoin"
       ],
@@ -383,9 +401,7 @@
         "Bitcoin",
         "Trading"
       ]
-    }
-  ],
-  "bitcoin": [
+    },
     {
       "id": "65ac06e6f60af1de3637853ae064b5c4",
       "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
@@ -535,26 +551,6 @@
       ],
       "tags": [
         "Bitcoin"
-      ]
-    },
-    {
-      "id": "aaee25f545b25890bf6fa8934e8ea69d",
-      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
-      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
-      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading",
-        "Analysis"
       ]
     }
   ],
@@ -1058,6 +1054,50 @@
     }
   ],
   "all": [
+    {
+      "id": "07505784d827fc78330632e63db360e8",
+      "title": "Bitcoin ETFs Are Booming—But Self-Custody Growth Just Broke 15-Year Streak",
+      "link": "https://bitcoinist.com/bitcoin-etfs-market-capture-falling-self-custody/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:00:30 +0000",
+      "excerpt": "The US-based spot Bitcoin ETFs (exchange-traded funds) have continued to soar after they started trading in January 2024, breaking and setting records in the global ETF market. Recently, BlackRock’...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "a47e920b6c5a76024e4c27113c14cfc9",
+      "title": "XRP Over Everything? Expert Tells New Investors To Go All In",
+      "link": "https://www.newsbtc.com/news/xrp-over-everything-expert-tells-new-investors-to-go-all-in/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 19:00:26 +0000",
+      "excerpt": "A well‑known commentator in the crypto space has made a bold pitch. According to reports, Crypto Bitlord urged every new investor to put all their money into XRP. Related Reading: XRP To $13 in 40 ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "10af8f2a9232621c84a1bf9080b94897",
+      "title": "Google Takes Legal Action Against ‘BadBox 2.0’ Botnet That Compromised More Than 10,000,000 Devices",
+      "link": "https://dailyhodl.com/2025/07/19/google-takes-legal-action-against-badbox-2-0-botnet-that-compromised-more-than-10000000-devices/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 18:45:39 +0000",
+      "excerpt": "Tech giant Google is taking legal action against a Botnet that exploited over 10 million Internet-of-Things (IoT) Android devices. In a new blog post, Google is announcing that it has filed a lawsu...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
     {
       "id": "65ac06e6f60af1de3637853ae064b5c4",
       "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
@@ -3012,5 +3052,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-19T18:38:55.550767"
+  "last_updated": "2025-07-19T19:23:42.052954"
 }
