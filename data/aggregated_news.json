@@ -1,6 +1,78 @@
 {
   "latest": [
     {
+      "id": "1c3d531a1e91d7bc72be6ea10dc71fb9",
+      "title": "GENIUS Act blocks Big Tech, banks from dominating stablecoins: Circle exec",
+      "link": "https://cointelegraph.com/news/genius-act-clause-limits-big-tech-stablecoin-power?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 08:37:00 +0100",
+      "excerpt": "Circle’s Dante Disparte says the GENIUS Act ensures tech giants and banks can’t dominate the stablecoin market without facing strict structural and regulatory hurdles.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "15d4fc4f03c76e597b5591b1019c1255",
+      "title": "Altseason: 3 Signals Investors Should Watch For – Analyst",
+      "link": "https://www.newsbtc.com/altcoin/altseason-3-signals-investors-should-watch-for-analyst/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:30:47 +0000",
+      "excerpt": "Aside from a new all-time high in the Bitcoin market, the last trading week also heralded some altseason shouts as a slight price decline by the premier cryptocurrency coincided with significant pr...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "aa24140e0322a9c6d9060ce7b0e70243",
+      "title": "Brazil-US Trade Conflict May Escalate, Spurring Mutual Retaliation",
+      "link": "https://news.bitcoin.com/brazil-us-trade-conflict-may-escalate-spurring-mutual-retaliation/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:30:18 +0000",
+      "excerpt": "Reports indicate that both Brazil and the U.S. are exploring ways to retaliate, escalating the trade feud initiated by President Trump when he imposed a 50% tariff on Brazilian imports. The politic...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "37c27dfe58901594deaac3538997cab7",
+      "title": "Bitcoin Growth Rate Indicator Signals Bullish Continuation – Analyst",
+      "link": "https://bitcoinist.com/bitcoin-growth-rate-indicator-signals-bullish-continuation-analyst/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:30:13 +0000",
+      "excerpt": "Bitcoin has entered a consolidation phase after briefly pushing above the $120,000 level, marking a significant milestone in its ongoing bull cycle. Despite the temporary pause in upward momentum, ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "8017c1e2bdac15b5bc94593076e56d84",
+      "title": "Billion-Dollar Bank Loses $107,635 in One Day As Thieves Allegedly Infect ATMs With Malware: Report",
+      "link": "https://dailyhodl.com/2025/07/20/billion-dollar-bank-loses-107635-in-one-day-as-thieves-allegedly-infect-atms-with-malware-report/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:04:17 +0000",
+      "excerpt": "A Michigan-based bank has reportedly lost tens of thousands of dollars in just 24 hours to thieves running an advanced ATM scheme. Authorities are charging Florida residents Robert R. Rosales River...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "428134364761ba69dc44499fd8d8b8a2",
       "title": "Charles Hoskinson says audit report ‘shaping up’ for August release",
       "link": "https://cointelegraph.com/news/cardano-foundation-charles-hoskinson-audit-august-release-iog?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -12,6 +84,22 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "b4206ce2603a24f7783e02c033e4df67",
+      "title": "Here’s Why SEI Bulls Think It Can Outpace Ethereum’s Price Growth In Q3",
+      "link": "https://cryptopotato.com/heres-why-sei-bulls-think-it-can-outpace-ethereums-price-growth-in-q3/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:35:12 +0000",
+      "excerpt": "SEI opened the week with 13% gains for the 7-day window. It was up over 100% for the trailing 30 days. But some altcoin bulls think it's just getting started in July.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
     },
     {
       "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
@@ -26,6 +114,22 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "45ea327b8c79d14a97f294f0c22ea2ff",
+      "title": "Jack Dorsey’s Block Set to Join S&P 500",
+      "link": "https://news.bitcoin.com/jack-dorseys-block-set-to-join-sp-500/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:30:05 +0000",
+      "excerpt": "Block Inc. (NYSE: XYZ) will join the S&P 500 index effective before the market opens on Wednesday, July 23, 2025. This development underscores Block’s growing influence in the financial sector and ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
       ]
     },
     {
@@ -184,108 +288,56 @@
       "tags": [
         "Trading"
       ]
-    },
-    {
-      "id": "20ce94118bd31751466760b1e24a73e3",
-      "title": "Ripple CEO Says Likens GENIUS Act To Major Regulation After 2008 Finanical Crisis",
-      "link": "https://bitcoinist.com/ripple-ceo-on-the-genius-act/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 02:30:36 +0000",
-      "excerpt": "In a landmark moment for both Ripple and the broader crypto industry, US President Donald Trump has officially signed the Guiding and Establishing National Innovation for US Stablecoins Act, or the...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "57c61ffec17dd9366df7badb69824620",
-      "title": "FLOKI Faces Historical Reversal Cues After a 40% Rally",
-      "link": "https://beincrypto.com/floki-price-surge-faces-historical-reversal/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 02:30:00 +0000",
-      "excerpt": "FLOKI’s 40% weekly rally has drawn investor attention, but signs of overheating—like rising open interest and high MVRV—signal a possible reversal.\nThe post FLOKI Faces Historical Reversal Cues Aft...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "209d27c69732230399511c568d15850c",
-      "title": "Billionaire Ray Dalio’s Bridgewater Sells S&P 500, Amasses $1,020,000,000 in Two Major Assets",
-      "link": "https://dailyhodl.com/2025/07/19/billionaire-ray-dalios-bridgewater-sells-sp-500-amasses-1020000000-in-two-major-assets/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 02:23:31 +0000",
-      "excerpt": "Billionaire Ray Dalio’s hedge fund is shedding exposure to the S&P 500 and hedging against the US dollar – while managing to stay on offense. The latest 13F filings show Dalio’s Bridgewater Associa...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "ec27dcec68582f46707dc77eff2015d4",
-      "title": "Robinhood CEO: Crypto Will Reshape Every Industry—And It’s Already Happening",
-      "link": "https://news.bitcoin.com/robinhood-ceo-crypto-will-reshape-every-industry-and-its-already-happening/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 01:30:45 +0000",
-      "excerpt": "The United States just ignited a new era of crypto dominance, with landmark legislation unleashing blockchain and AI to revolutionize finance, healthcare, and the global digital economy. Crypto Tec...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "65c8e78583c4ff99c84bab826607dc45",
-      "title": "DOGE Bullish Pattern Points To $0.42 Target – Analyst",
-      "link": "https://www.newsbtc.com/news/dogecoin/doge-bullish-pattern-points-to-0-42-target-analyst/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 01:00:36 +0000",
-      "excerpt": "Dogecoin (DOGE) prices surged by over 17% in the past week, in line with a bullish altcoin performance, pushing the total crypto market cap to $4 trillion. The prominent altcoin is now facing major...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "9e06ad22abc44df6e388c1221e7f727e",
-      "title": "Steller (XLM) Price Faces Challenge Amid Mounting Outflows",
-      "link": "https://beincrypto.com/stellar-xlm-price-challenge-mounting-outflows/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 01:00:00 +0000",
-      "excerpt": "Stellar struggles to breach $0.50 amidst outflows and weakening momentum. A further drop is possible unless inflows recover, which could drive a price reversal.\nThe post Steller (XLM) Price Faces C...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "d29aafe90e06820be41a2af36d8a3f3d",
-      "title": "XLM&#039;s price to rocket like XRP, Trump’s big crypto nod: Hodler’s Digest, July 13 – 19",
-      "link": "https://cointelegraph.com/news/stellar-xlm-xrp-rally-donald-trump-crypto-sign-bill-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 00:38:07 +0100",
-      "excerpt": "Stellar may be setting up more upside after XRP's recent price surge, US President Donald Trump signed one of the first bills related to crypto, and other news.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "15d4fc4f03c76e597b5591b1019c1255",
+      "title": "Altseason: 3 Signals Investors Should Watch For – Analyst",
+      "link": "https://www.newsbtc.com/altcoin/altseason-3-signals-investors-should-watch-for-analyst/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:30:47 +0000",
+      "excerpt": "Aside from a new all-time high in the Bitcoin market, the last trading week also heralded some altseason shouts as a slight price decline by the premier cryptocurrency coincided with significant pr...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "37c27dfe58901594deaac3538997cab7",
+      "title": "Bitcoin Growth Rate Indicator Signals Bullish Continuation – Analyst",
+      "link": "https://bitcoinist.com/bitcoin-growth-rate-indicator-signals-bullish-continuation-analyst/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:30:13 +0000",
+      "excerpt": "Bitcoin has entered a consolidation phase after briefly pushing above the $120,000 level, marking a significant milestone in its ongoing bull cycle. Despite the temporary pause in upward momentum, ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "b4206ce2603a24f7783e02c033e4df67",
+      "title": "Here’s Why SEI Bulls Think It Can Outpace Ethereum’s Price Growth In Q3",
+      "link": "https://cryptopotato.com/heres-why-sei-bulls-think-it-can-outpace-ethereums-price-growth-in-q3/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:35:12 +0000",
+      "excerpt": "SEI opened the week with 13% gains for the 7-day window. It was up over 100% for the trailing 30 days. But some altcoin bulls think it's just getting started in July.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
     {
       "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
       "title": "Who owns the most Bitcoin in 2025? The rich list revealed",
@@ -316,15 +368,17 @@
         "Ethereum",
         "Trading"
       ]
-    },
+    }
+  ],
+  "bitcoin": [
     {
-      "id": "952526a335d0b849d9bd5fd40bdfa61a",
-      "title": "Litecoin Skyrockets by Double-Digits, Bitcoin Price Stalls at $118K: Weekend Watch",
-      "link": "https://cryptopotato.com/litecoin-skyrockets-by-double-digits-bitcoin-price-stalls-at-118k-weekend-watch/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 06:28:30 +0000",
-      "excerpt": "ENA and XDC are the top gainers today.",
+      "id": "15d4fc4f03c76e597b5591b1019c1255",
+      "title": "Altseason: 3 Signals Investors Should Watch For – Analyst",
+      "link": "https://www.newsbtc.com/altcoin/altseason-3-signals-investors-should-watch-for-analyst/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:30:47 +0000",
+      "excerpt": "Aside from a new all-time high in the Bitcoin market, the last trading week also heralded some altseason shouts as a slight price decline by the premier cryptocurrency coincided with significant pr...",
       "categories": [
         "bitcoin"
       ],
@@ -334,13 +388,13 @@
       ]
     },
     {
-      "id": "af4b61477cde30acfb61454d71aec751",
-      "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
-      "link": "https://cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 04:59:11 +0100",
-      "excerpt": "Santiment says the “historic social dominance spike” may indicate another buying opportunity for Bitcoin in the near term.",
+      "id": "37c27dfe58901594deaac3538997cab7",
+      "title": "Bitcoin Growth Rate Indicator Signals Bullish Continuation – Analyst",
+      "link": "https://bitcoinist.com/bitcoin-growth-rate-indicator-signals-bullish-continuation-analyst/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:30:13 +0000",
+      "excerpt": "Bitcoin has entered a consolidation phase after briefly pushing above the $120,000 level, marking a significant milestone in its ongoing bull cycle. Despite the temporary pause in upward momentum, ...",
       "categories": [
         "bitcoin"
       ],
@@ -348,24 +402,6 @@
         "Bitcoin"
       ]
     },
-    {
-      "id": "7075e7108dac8f412ba8f7c2080e0c0c",
-      "title": "Robert Kiyosaki Reveals When He’ll Buy More Bitcoin—And When He’ll Stop Buying",
-      "link": "https://news.bitcoin.com/robert-kiyosaki-reveals-when-hell-buy-more-bitcoin-and-when-hell-stop-buying/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 00:30:47 +0000",
-      "excerpt": "Bitcoin rockets past key price points as Robert Kiyosaki reveals bold buy-in and strategic stop-buying plan, signaling massive upside potential while eyeing the next major pullback. Robert Kiyosaki...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    }
-  ],
-  "bitcoin": [
     {
       "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
       "title": "Who owns the most Bitcoin in 2025? The rich list revealed",
@@ -500,39 +536,25 @@
       "tags": [
         "Bitcoin"
       ]
-    },
-    {
-      "id": "ab46a880607af97268116b1e7f0712bf",
-      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
-      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
-      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "23ec9107411a26f6f182353867296ec5",
-      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
-      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
-      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "b4206ce2603a24f7783e02c033e4df67",
+      "title": "Here’s Why SEI Bulls Think It Can Outpace Ethereum’s Price Growth In Q3",
+      "link": "https://cryptopotato.com/heres-why-sei-bulls-think-it-can-outpace-ethereums-price-growth-in-q3/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:35:12 +0000",
+      "excerpt": "SEI opened the week with 13% gains for the 7-day window. It was up over 100% for the trailing 30 days. But some altcoin bulls think it's just getting started in July.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
     {
       "id": "72b5511a2e15dd3d92689a1486f00831",
       "title": "Ethereum Open Interest Hits Record $50 Billion – Volatility Incoming?",
@@ -686,24 +708,25 @@
         "Ethereum",
         "DeFi"
       ]
-    },
-    {
-      "id": "342df301606ae20daa3c44af81b29cd2",
-      "title": "Top 3 Altcoins Trending in Nigeria In The Fourth Week Of July",
-      "link": "https://beincrypto.com/trending-altcoins-nigeria-july-fourth-week/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:00:00 +0000",
-      "excerpt": "Ethereum leads the charge in Nigeria, while XRP reaches new highs, and Hedera benefits from institutional backing, signaling continued bullish trends for altcoins.\nThe post Top 3 Altcoins Trending ...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
     }
   ],
   "defi": [
+    {
+      "id": "45ea327b8c79d14a97f294f0c22ea2ff",
+      "title": "Jack Dorsey’s Block Set to Join S&P 500",
+      "link": "https://news.bitcoin.com/jack-dorseys-block-set-to-join-sp-500/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:30:05 +0000",
+      "excerpt": "Block Inc. (NYSE: XYZ) will join the S&P 500 index effective before the market opens on Wednesday, July 23, 2025. This development underscores Block’s growing influence in the financial sector and ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
     {
       "id": "c3c81745bde52df37b4aa6b691e35305",
       "title": "LINK Jumps in Price As Chainlink Labs Joins the SEC’s Crypto Task Force To Discuss Tokenized Assets",
@@ -855,27 +878,6 @@
       "tags": [
         "Ethereum",
         "DeFi"
-      ]
-    },
-    {
-      "id": "6c52ddf456df5f3b867420b37e355c7d",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:55:35 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
       ]
     }
   ],
@@ -1118,6 +1120,78 @@
   ],
   "all": [
     {
+      "id": "1c3d531a1e91d7bc72be6ea10dc71fb9",
+      "title": "GENIUS Act blocks Big Tech, banks from dominating stablecoins: Circle exec",
+      "link": "https://cointelegraph.com/news/genius-act-clause-limits-big-tech-stablecoin-power?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 08:37:00 +0100",
+      "excerpt": "Circle’s Dante Disparte says the GENIUS Act ensures tech giants and banks can’t dominate the stablecoin market without facing strict structural and regulatory hurdles.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "15d4fc4f03c76e597b5591b1019c1255",
+      "title": "Altseason: 3 Signals Investors Should Watch For – Analyst",
+      "link": "https://www.newsbtc.com/altcoin/altseason-3-signals-investors-should-watch-for-analyst/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:30:47 +0000",
+      "excerpt": "Aside from a new all-time high in the Bitcoin market, the last trading week also heralded some altseason shouts as a slight price decline by the premier cryptocurrency coincided with significant pr...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "aa24140e0322a9c6d9060ce7b0e70243",
+      "title": "Brazil-US Trade Conflict May Escalate, Spurring Mutual Retaliation",
+      "link": "https://news.bitcoin.com/brazil-us-trade-conflict-may-escalate-spurring-mutual-retaliation/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:30:18 +0000",
+      "excerpt": "Reports indicate that both Brazil and the U.S. are exploring ways to retaliate, escalating the trade feud initiated by President Trump when he imposed a 50% tariff on Brazilian imports. The politic...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "37c27dfe58901594deaac3538997cab7",
+      "title": "Bitcoin Growth Rate Indicator Signals Bullish Continuation – Analyst",
+      "link": "https://bitcoinist.com/bitcoin-growth-rate-indicator-signals-bullish-continuation-analyst/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:30:13 +0000",
+      "excerpt": "Bitcoin has entered a consolidation phase after briefly pushing above the $120,000 level, marking a significant milestone in its ongoing bull cycle. Despite the temporary pause in upward momentum, ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "8017c1e2bdac15b5bc94593076e56d84",
+      "title": "Billion-Dollar Bank Loses $107,635 in One Day As Thieves Allegedly Infect ATMs With Malware: Report",
+      "link": "https://dailyhodl.com/2025/07/20/billion-dollar-bank-loses-107635-in-one-day-as-thieves-allegedly-infect-atms-with-malware-report/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 08:04:17 +0000",
+      "excerpt": "A Michigan-based bank has reportedly lost tens of thousands of dollars in just 24 hours to thieves running an advanced ATM scheme. Authorities are charging Florida residents Robert R. Rosales River...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "428134364761ba69dc44499fd8d8b8a2",
       "title": "Charles Hoskinson says audit report ‘shaping up’ for August release",
       "link": "https://cointelegraph.com/news/cardano-foundation-charles-hoskinson-audit-august-release-iog?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1129,6 +1203,22 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "b4206ce2603a24f7783e02c033e4df67",
+      "title": "Here’s Why SEI Bulls Think It Can Outpace Ethereum’s Price Growth In Q3",
+      "link": "https://cryptopotato.com/heres-why-sei-bulls-think-it-can-outpace-ethereums-price-growth-in-q3/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:35:12 +0000",
+      "excerpt": "SEI opened the week with 13% gains for the 7-day window. It was up over 100% for the trailing 30 days. But some altcoin bulls think it's just getting started in July.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
     },
     {
       "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
@@ -1143,6 +1233,22 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "45ea327b8c79d14a97f294f0c22ea2ff",
+      "title": "Jack Dorsey’s Block Set to Join S&P 500",
+      "link": "https://news.bitcoin.com/jack-dorseys-block-set-to-join-sp-500/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:30:05 +0000",
+      "excerpt": "Block Inc. (NYSE: XYZ) will join the S&P 500 index effective before the market opens on Wednesday, July 23, 2025. This development underscores Block’s growing influence in the financial sector and ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
       ]
     },
     {
@@ -3987,5 +4093,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T07:27:54.827640"
+  "last_updated": "2025-07-20T08:35:31.051889"
 }
