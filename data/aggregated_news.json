@@ -1,6 +1,64 @@
 {
   "latest": [
     {
+      "id": "8be3c34a39a650956047fc4af71e13cb",
+      "title": "UK government eyes £5 billion seized Bitcoin sale to manage fiscal shortfall",
+      "link": "https://cryptoslate.com/uk-government-eyes-5-billion-seized-bitcoin-sale-to-manage-fiscal-shortfall/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:39:04 +0000",
+      "excerpt": "Britain’s Chancellor Rachel Reeves is considering a large-scale sale of seized Bitcoin in an effort to help address the “black hole” in the country’s public finances, according to the British newsp...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "f9fec79a5929e2a84185ab1fe8396bd3",
+      "title": "Latam Insights: IMF Denies El Salvador’s Bitcoin Purchase Claims; US-Brazil Conflict Set to Escalate",
+      "link": "https://news.bitcoin.com/latam-insights-imf-denies-el-salvadors-bitcoin-purchase-claims-us-brazil-conflict-set-to-escalate/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:30:01 +0000",
+      "excerpt": "Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week. In this week’s edition, the IMF states that El Salvador’s bitcoin purchases are mere...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "42ddfa440e7865813ed40571aa844248",
+      "title": "XRP Futures Hit All-Time High Amid $70 Million Whale Activity",
+      "link": "https://beincrypto.com/xrp-price-rally-unshaken-by-whale-move/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:29:52 +0000",
+      "excerpt": "Institutional interest in XRP is rising, with futures open interest hitting a record $11 billion, signaling strong confidence in the asset’s long-term prospects.\nThe post XRP Futures Hit All-Time H...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5bc4d27012961d39ecb517aad9d3d1ba",
+      "title": "1 Year On: How Have Spot Ethereum ETFs Performed?",
+      "link": "https://cryptopotato.com/1-year-on-how-have-spot-ethereum-etfs-performed/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:21:30 +0000",
+      "excerpt": "Spot Ethereum ETFs have had a challenging journey, especially with ETH underperforming in this cycle.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
       "id": "66d8f5d8c1be406d6da7b27e372a6a8b",
       "title": "Experts say ‘just a starting point’ as Crypto Week ends on a high note",
       "link": "https://cointelegraph.com/news/crypto-week-genius-act-foundation-real-world-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -13,6 +71,71 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "05e4f38b65f3684af00d05162539c08e",
+      "title": "Rare Altcoin Signal Brewing Since 2020 Foreshadowing Parabolic Expansion, According to Crypto Analyst",
+      "link": "https://dailyhodl.com/2025/07/20/rare-altcoin-signal-brewing-since-2020-foreshadowing-parabolic-expansion-according-to-crypto-analyst/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:45:35 +0000",
+      "excerpt": "A crypto analyst known for his charts says that altcoins are flashing a very bullish signal that’s been five years in the making. In a post on the social media platform X, pseudonymous analyst Tech...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Analysis"
+      ]
+    },
+    {
+      "id": "2a0fc9dc066d9cce68141d58fb2e4d94",
+      "title": "Republican Lawmaker Warns GENIUS Act Opens Door To Layered CBDCs",
+      "link": "https://bitcoinist.com/republican-lawmaker-warns-genius-act-opens-door-to-layered-cbdcs/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:30:57 +0000",
+      "excerpt": "On Friday, US President Donald Trump signed the GENIUS Act into law, marking a pivotal moment for stablecoin regulation in the United States. After months of debate and two previous rejections, the...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "b1f72e044c8c11ae826bb0663ff9cb3b",
+      "title": "Ethereum Set To Hit $10,000, Elliott Wave Analysis Predicts",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-set-to-hit-10000-elliott-wave-analysis-predicts/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:30:20 +0000",
+      "excerpt": "Over the past week, the Ethereum (ETH) market recorded a solid positive price performance, reaching as high as $3,600. Notably, the second-largest cryptocurrency, among many altcoins, is experienci...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Regulation",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "18b21a52f1fdaa4b0b144049a7f92ee8",
+      "title": "Bitcoin Price Watch: $117.5K to $118K Consolidation Signals Tension Before Breakout",
+      "link": "https://news.bitcoin.com/bitcoin-price-watch-117-5k-to-118k-consolidation-signals-tension-before-breakout/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:30:13 +0000",
+      "excerpt": "Bitcoin’s price holds steady at $118,000 as it continues to consolidate below key resistance levels. The asset commands a market capitalization of $2.34 trillion with strong 24-hour trading volume ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
       ]
     },
     {
@@ -183,207 +306,137 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "aa24140e0322a9c6d9060ce7b0e70243",
-      "title": "Brazil-US Trade Conflict May Escalate, Spurring Mutual Retaliation",
-      "link": "https://news.bitcoin.com/brazil-us-trade-conflict-may-escalate-spurring-mutual-retaliation/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 08:30:18 +0000",
-      "excerpt": "Reports indicate that both Brazil and the U.S. are exploring ways to retaliate, escalating the trade feud initiated by President Trump when he imposed a 50% tariff on Brazilian imports. The politic...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "37c27dfe58901594deaac3538997cab7",
-      "title": "Bitcoin Growth Rate Indicator Signals Bullish Continuation – Analyst",
-      "link": "https://bitcoinist.com/bitcoin-growth-rate-indicator-signals-bullish-continuation-analyst/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 08:30:13 +0000",
-      "excerpt": "Bitcoin has entered a consolidation phase after briefly pushing above the $120,000 level, marking a significant milestone in its ongoing bull cycle. Despite the temporary pause in upward momentum, ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "8017c1e2bdac15b5bc94593076e56d84",
-      "title": "Billion-Dollar Bank Loses $107,635 in One Day As Thieves Allegedly Infect ATMs With Malware: Report",
-      "link": "https://dailyhodl.com/2025/07/20/billion-dollar-bank-loses-107635-in-one-day-as-thieves-allegedly-infect-atms-with-malware-report/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 08:04:17 +0000",
-      "excerpt": "A Michigan-based bank has reportedly lost tens of thousands of dollars in just 24 hours to thieves running an advanced ATM scheme. Authorities are charging Florida residents Robert R. Rosales River...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "428134364761ba69dc44499fd8d8b8a2",
-      "title": "Charles Hoskinson says audit report ‘shaping up’ for August release",
-      "link": "https://cointelegraph.com/news/cardano-foundation-charles-hoskinson-audit-august-release-iog?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 07:38:10 +0100",
-      "excerpt": "Cardano founder Charles Hoskinson says he will read the full audit report over a livestream when it is released next month.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "b4206ce2603a24f7783e02c033e4df67",
-      "title": "Here’s Why SEI Bulls Think It Can Outpace Ethereum’s Price Growth In Q3",
-      "link": "https://cryptopotato.com/heres-why-sei-bulls-think-it-can-outpace-ethereums-price-growth-in-q3/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 07:35:12 +0000",
-      "excerpt": "SEI opened the week with 13% gains for the 7-day window. It was up over 100% for the trailing 30 days. But some altcoin bulls think it's just getting started in July.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
-      "title": "Who owns the most Bitcoin in 2025? The rich list revealed",
-      "link": "https://cointelegraph.com/news/bitcoin-rich-list-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 07:34:27 +0100",
-      "excerpt": "From exchanges and ETFs to sovereign treasuries and crypto billionaires, Bitcoin’s ownership map in 2025 reveals a mix of concentration and quiet decentralization.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "45ea327b8c79d14a97f294f0c22ea2ff",
-      "title": "Jack Dorsey’s Block Set to Join S&P 500",
-      "link": "https://news.bitcoin.com/jack-dorseys-block-set-to-join-sp-500/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 07:30:05 +0000",
-      "excerpt": "Block Inc. (NYSE: XYZ) will join the S&P 500 index effective before the market opens on Wednesday, July 23, 2025. This development underscores Block’s growing influence in the financial sector and ...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "6326f4dc6b52df9a4e286e6bef4bf7a1",
-      "title": "748,763 Americans Now at Risk of Financial Fraud – Firm Says Hacker May Have Stolen Names, Social Security Numbers, Bank Records, Credit Card Details and More in Massive Data Breach",
-      "link": "https://dailyhodl.com/2025/07/20/748763-americans-now-at-risk-of-financial-fraud-firm-says-hacker-may-have-stolen-names-social-security-numbers-bank-records-credit-card-details-and-more-in-massive-data-breach/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 07:04:27 +0000",
-      "excerpt": "Hundreds of thousands of Americans are now at risk of financial fraud and identity theft following a massive data breach at a substance screening firm. In a notice to the Office of the Maine Attorn...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
     }
   ],
   "featured": [
     {
-      "id": "ccdd2afafd4229915f6e505218209ef5",
-      "title": "Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This Last?",
-      "link": "https://cryptonews.com/news/ethereum-price-prediction-eth-just-hit-180-day-peak-can-this-last/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 10:52:49 +0000",
-      "excerpt": "Ethereum has surged to a dramatic 180-day peak of $3,671, delivering an explosive 152% rally from March lows near $1,392.\nThe post Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This La...",
+      "id": "8be3c34a39a650956047fc4af71e13cb",
+      "title": "UK government eyes £5 billion seized Bitcoin sale to manage fiscal shortfall",
+      "link": "https://cryptoslate.com/uk-government-eyes-5-billion-seized-bitcoin-sale-to-manage-fiscal-shortfall/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:39:04 +0000",
+      "excerpt": "Britain’s Chancellor Rachel Reeves is considering a large-scale sale of seized Bitcoin in an effort to help address the “black hole” in the country’s public finances, according to the British newsp...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "f9fec79a5929e2a84185ab1fe8396bd3",
+      "title": "Latam Insights: IMF Denies El Salvador’s Bitcoin Purchase Claims; US-Brazil Conflict Set to Escalate",
+      "link": "https://news.bitcoin.com/latam-insights-imf-denies-el-salvadors-bitcoin-purchase-claims-us-brazil-conflict-set-to-escalate/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:30:01 +0000",
+      "excerpt": "Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week. In this week’s edition, the IMF states that El Salvador’s bitcoin purchases are mere...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "5bc4d27012961d39ecb517aad9d3d1ba",
+      "title": "1 Year On: How Have Spot Ethereum ETFs Performed?",
+      "link": "https://cryptopotato.com/1-year-on-how-have-spot-ethereum-etfs-performed/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:21:30 +0000",
+      "excerpt": "Spot Ethereum ETFs have had a challenging journey, especially with ETH underperforming in this cycle.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "b1f72e044c8c11ae826bb0663ff9cb3b",
+      "title": "Ethereum Set To Hit $10,000, Elliott Wave Analysis Predicts",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-set-to-hit-10000-elliott-wave-analysis-predicts/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:30:20 +0000",
+      "excerpt": "Over the past week, the Ethereum (ETH) market recorded a solid positive price performance, reaching as high as $3,600. Notably, the second-largest cryptocurrency, among many altcoins, is experienci...",
       "categories": [
         "ethereum",
         "analysis"
       ],
       "tags": [
         "Ethereum",
-        "Trading"
+        "Trading",
+        "Regulation",
+        "Analysis"
       ]
     },
     {
-      "id": "2ae70f637e4a281589e4462bf29146c3",
-      "title": "UK Government Looks To Offload $7 Billion Seized Bitcoin – Details",
-      "link": "https://bitcoinist.com/uk-government-to-offload-7-billion-seized-bitcoin/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 10:00:19 +0000",
-      "excerpt": "The UK government is reportedly planning to sell billions of dollars worth of Bitcoin (BTC) in a bid to support public spending. This development comes following Bitcoin’s latest success in establi...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "4374ce1da1983b34c39055065b2767b7",
-      "title": "UK Home Office Plans to Sell $7 Billion in Seized Bitcoin: The Telegraph",
-      "link": "https://cryptonews.com/news/uk-home-office-plans-to-sell-7-billion-in-seized-bitcoin-the-telegraph/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 09:50:36 +0000",
-      "excerpt": "The UK government is preparing to offload billions of pounds worth of seized Bitcoin, as pressure mounts on Chancellor Rachel Reeves to plug a widening budget gap.\nThe post UK Home Office Plans to ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "ea950f07570f3edbc81722a582b18385",
-      "title": "Bitcoin Forms Golden Cross Again — How High Can BTC Climb?",
-      "link": "https://cryptopotato.com/bitcoin-forms-golden-cross-again-how-high-can-btc-climb/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 09:35:11 +0000",
-      "excerpt": "Not all golden crosses come with positive price trends, but strong Bitcoin fundamentals and favorable macroeconomic factors support this one.",
+      "id": "18b21a52f1fdaa4b0b144049a7f92ee8",
+      "title": "Bitcoin Price Watch: $117.5K to $118K Consolidation Signals Tension Before Breakout",
+      "link": "https://news.bitcoin.com/bitcoin-price-watch-117-5k-to-118k-consolidation-signals-tension-before-breakout/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:30:13 +0000",
+      "excerpt": "Bitcoin’s price holds steady at $118,000 as it continues to consolidate below key resistance levels. The asset commands a market capitalization of $2.34 trillion with strong 24-hour trading volume ...",
       "categories": [
         "bitcoin"
       ],
       "tags": [
         "Bitcoin",
         "Trading"
-      ]
-    },
-    {
-      "id": "959b4483208b545a9af049073dbe1622",
-      "title": "UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Style Mistake",
-      "link": "https://beincrypto.com/uk-plans-to-sell-bitcoin-sparks-backlash/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 09:32:20 +0000",
-      "excerpt": "The UK government is considering selling $6.7 billion worth of seized Bitcoin to help address a £20 billion budget deficit.\nThe post UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Sty...",
-      "categories": [
-        "bitcoin",
-        "defi"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi"
       ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "8be3c34a39a650956047fc4af71e13cb",
+      "title": "UK government eyes £5 billion seized Bitcoin sale to manage fiscal shortfall",
+      "link": "https://cryptoslate.com/uk-government-eyes-5-billion-seized-bitcoin-sale-to-manage-fiscal-shortfall/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:39:04 +0000",
+      "excerpt": "Britain’s Chancellor Rachel Reeves is considering a large-scale sale of seized Bitcoin in an effort to help address the “black hole” in the country’s public finances, according to the British newsp...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "f9fec79a5929e2a84185ab1fe8396bd3",
+      "title": "Latam Insights: IMF Denies El Salvador’s Bitcoin Purchase Claims; US-Brazil Conflict Set to Escalate",
+      "link": "https://news.bitcoin.com/latam-insights-imf-denies-el-salvadors-bitcoin-purchase-claims-us-brazil-conflict-set-to-escalate/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:30:01 +0000",
+      "excerpt": "Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week. In this week’s edition, the IMF states that El Salvador’s bitcoin purchases are mere...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "18b21a52f1fdaa4b0b144049a7f92ee8",
+      "title": "Bitcoin Price Watch: $117.5K to $118K Consolidation Signals Tension Before Breakout",
+      "link": "https://news.bitcoin.com/bitcoin-price-watch-117-5k-to-118k-consolidation-signals-tension-before-breakout/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:30:13 +0000",
+      "excerpt": "Bitcoin’s price holds steady at $118,000 as it continues to consolidate below key resistance levels. The asset commands a market capitalization of $2.34 trillion with strong 24-hour trading volume ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
     {
       "id": "2ae70f637e4a281589e4462bf29146c3",
       "title": "UK Government Looks To Offload $7 Billion Seized Bitcoin – Details",
@@ -492,56 +545,43 @@
       "tags": [
         "Bitcoin"
       ]
-    },
-    {
-      "id": "952526a335d0b849d9bd5fd40bdfa61a",
-      "title": "Litecoin Skyrockets by Double-Digits, Bitcoin Price Stalls at $118K: Weekend Watch",
-      "link": "https://cryptopotato.com/litecoin-skyrockets-by-double-digits-bitcoin-price-stalls-at-118k-weekend-watch/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 06:28:30 +0000",
-      "excerpt": "ENA and XDC are the top gainers today.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "af4b61477cde30acfb61454d71aec751",
-      "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
-      "link": "https://cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 04:59:11 +0100",
-      "excerpt": "Santiment says the “historic social dominance spike” may indicate another buying opportunity for Bitcoin in the near term.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "7075e7108dac8f412ba8f7c2080e0c0c",
-      "title": "Robert Kiyosaki Reveals When He’ll Buy More Bitcoin—And When He’ll Stop Buying",
-      "link": "https://news.bitcoin.com/robert-kiyosaki-reveals-when-hell-buy-more-bitcoin-and-when-hell-stop-buying/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 00:30:47 +0000",
-      "excerpt": "Bitcoin rockets past key price points as Robert Kiyosaki reveals bold buy-in and strategic stop-buying plan, signaling massive upside potential while eyeing the next major pullback. Robert Kiyosaki...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "5bc4d27012961d39ecb517aad9d3d1ba",
+      "title": "1 Year On: How Have Spot Ethereum ETFs Performed?",
+      "link": "https://cryptopotato.com/1-year-on-how-have-spot-ethereum-etfs-performed/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:21:30 +0000",
+      "excerpt": "Spot Ethereum ETFs have had a challenging journey, especially with ETH underperforming in this cycle.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "b1f72e044c8c11ae826bb0663ff9cb3b",
+      "title": "Ethereum Set To Hit $10,000, Elliott Wave Analysis Predicts",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-set-to-hit-10000-elliott-wave-analysis-predicts/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:30:20 +0000",
+      "excerpt": "Over the past week, the Ethereum (ETH) market recorded a solid positive price performance, reaching as high as $3,600. Notably, the second-largest cryptocurrency, among many altcoins, is experienci...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Regulation",
+        "Analysis"
+      ]
+    },
     {
       "id": "ccdd2afafd4229915f6e505218209ef5",
       "title": "Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This Last?",
@@ -675,41 +715,6 @@
         "Bitcoin",
         "Ethereum",
         "Regulation"
-      ]
-    },
-    {
-      "id": "96973f408b0fdf1a803b34f22b1a39d5",
-      "title": "Cryptoquant Reports Surge in Bitcoin, ETH Selling Pressure as Prices Set Records",
-      "link": "https://news.bitcoin.com/cryptoquant-reports-surge-in-bitcoin-eth-selling-pressure-as-prices-set-records/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 17:30:12 +0000",
-      "excerpt": "Large bitcoin holders and miners significantly increased transfers to exchanges following bitcoin’s climb to a new all-time high near $123,000 last week, according to the latest data from onchain a...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "795f74763a494fe2e4abaa297d009e5e",
-      "title": "Ethereum Price Prediction: Eyes on $4,000 – ETH’s 20% Weekly Gain Reshapes Market Outlook",
-      "link": "https://cryptonews.com/news/ethereum-price-prediction-eyes-on-4000-eths-20-weekly-gain-reshapes-market-outlook/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:58:17 +0000",
-      "excerpt": "Ethereum has delivered one of the most impressive performances of 2025, surging over 20% in the past seven days as ETH bulls target the $4,000 mark as the next key psychological resistance.\nThe pos...",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
       ]
     }
   ],
@@ -951,6 +956,40 @@
   ],
   "analysis": [
     {
+      "id": "05e4f38b65f3684af00d05162539c08e",
+      "title": "Rare Altcoin Signal Brewing Since 2020 Foreshadowing Parabolic Expansion, According to Crypto Analyst",
+      "link": "https://dailyhodl.com/2025/07/20/rare-altcoin-signal-brewing-since-2020-foreshadowing-parabolic-expansion-according-to-crypto-analyst/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:45:35 +0000",
+      "excerpt": "A crypto analyst known for his charts says that altcoins are flashing a very bullish signal that’s been five years in the making. In a post on the social media platform X, pseudonymous analyst Tech...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Analysis"
+      ]
+    },
+    {
+      "id": "b1f72e044c8c11ae826bb0663ff9cb3b",
+      "title": "Ethereum Set To Hit $10,000, Elliott Wave Analysis Predicts",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-set-to-hit-10000-elliott-wave-analysis-predicts/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:30:20 +0000",
+      "excerpt": "Over the past week, the Ethereum (ETH) market recorded a solid positive price performance, reaching as high as $3,600. Notably, the second-largest cryptocurrency, among many altcoins, is experienci...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Regulation",
+        "Analysis"
+      ]
+    },
+    {
       "id": "ccdd2afafd4229915f6e505218209ef5",
       "title": "Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This Last?",
       "link": "https://cryptonews.com/news/ethereum-price-prediction-eth-just-hit-180-day-peak-can-this-last/",
@@ -1084,46 +1123,67 @@
         "Trading",
         "Analysis"
       ]
-    },
-    {
-      "id": "795f74763a494fe2e4abaa297d009e5e",
-      "title": "Ethereum Price Prediction: Eyes on $4,000 – ETH’s 20% Weekly Gain Reshapes Market Outlook",
-      "link": "https://cryptonews.com/news/ethereum-price-prediction-eyes-on-4000-eths-20-weekly-gain-reshapes-market-outlook/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:58:17 +0000",
-      "excerpt": "Ethereum has delivered one of the most impressive performances of 2025, surging over 20% in the past seven days as ETH bulls target the $4,000 mark as the next key psychological resistance.\nThe pos...",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "aaee25f545b25890bf6fa8934e8ea69d",
-      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
-      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
-      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
     }
   ],
   "all": [
+    {
+      "id": "8be3c34a39a650956047fc4af71e13cb",
+      "title": "UK government eyes £5 billion seized Bitcoin sale to manage fiscal shortfall",
+      "link": "https://cryptoslate.com/uk-government-eyes-5-billion-seized-bitcoin-sale-to-manage-fiscal-shortfall/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:39:04 +0000",
+      "excerpt": "Britain’s Chancellor Rachel Reeves is considering a large-scale sale of seized Bitcoin in an effort to help address the “black hole” in the country’s public finances, according to the British newsp...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "f9fec79a5929e2a84185ab1fe8396bd3",
+      "title": "Latam Insights: IMF Denies El Salvador’s Bitcoin Purchase Claims; US-Brazil Conflict Set to Escalate",
+      "link": "https://news.bitcoin.com/latam-insights-imf-denies-el-salvadors-bitcoin-purchase-claims-us-brazil-conflict-set-to-escalate/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:30:01 +0000",
+      "excerpt": "Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week. In this week’s edition, the IMF states that El Salvador’s bitcoin purchases are mere...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "42ddfa440e7865813ed40571aa844248",
+      "title": "XRP Futures Hit All-Time High Amid $70 Million Whale Activity",
+      "link": "https://beincrypto.com/xrp-price-rally-unshaken-by-whale-move/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:29:52 +0000",
+      "excerpt": "Institutional interest in XRP is rising, with futures open interest hitting a record $11 billion, signaling strong confidence in the asset’s long-term prospects.\nThe post XRP Futures Hit All-Time H...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5bc4d27012961d39ecb517aad9d3d1ba",
+      "title": "1 Year On: How Have Spot Ethereum ETFs Performed?",
+      "link": "https://cryptopotato.com/1-year-on-how-have-spot-ethereum-etfs-performed/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 12:21:30 +0000",
+      "excerpt": "Spot Ethereum ETFs have had a challenging journey, especially with ETH underperforming in this cycle.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
     {
       "id": "66d8f5d8c1be406d6da7b27e372a6a8b",
       "title": "Experts say ‘just a starting point’ as Crypto Week ends on a high note",
@@ -1137,6 +1197,71 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "05e4f38b65f3684af00d05162539c08e",
+      "title": "Rare Altcoin Signal Brewing Since 2020 Foreshadowing Parabolic Expansion, According to Crypto Analyst",
+      "link": "https://dailyhodl.com/2025/07/20/rare-altcoin-signal-brewing-since-2020-foreshadowing-parabolic-expansion-according-to-crypto-analyst/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:45:35 +0000",
+      "excerpt": "A crypto analyst known for his charts says that altcoins are flashing a very bullish signal that’s been five years in the making. In a post on the social media platform X, pseudonymous analyst Tech...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Analysis"
+      ]
+    },
+    {
+      "id": "2a0fc9dc066d9cce68141d58fb2e4d94",
+      "title": "Republican Lawmaker Warns GENIUS Act Opens Door To Layered CBDCs",
+      "link": "https://bitcoinist.com/republican-lawmaker-warns-genius-act-opens-door-to-layered-cbdcs/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:30:57 +0000",
+      "excerpt": "On Friday, US President Donald Trump signed the GENIUS Act into law, marking a pivotal moment for stablecoin regulation in the United States. After months of debate and two previous rejections, the...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "b1f72e044c8c11ae826bb0663ff9cb3b",
+      "title": "Ethereum Set To Hit $10,000, Elliott Wave Analysis Predicts",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-set-to-hit-10000-elliott-wave-analysis-predicts/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:30:20 +0000",
+      "excerpt": "Over the past week, the Ethereum (ETH) market recorded a solid positive price performance, reaching as high as $3,600. Notably, the second-largest cryptocurrency, among many altcoins, is experienci...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Regulation",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "18b21a52f1fdaa4b0b144049a7f92ee8",
+      "title": "Bitcoin Price Watch: $117.5K to $118K Consolidation Signals Tension Before Breakout",
+      "link": "https://news.bitcoin.com/bitcoin-price-watch-117-5k-to-118k-consolidation-signals-tension-before-breakout/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 11:30:13 +0000",
+      "excerpt": "Bitcoin’s price holds steady at $118,000 as it continues to consolidate below key resistance levels. The asset commands a market capitalization of $2.34 trillion with strong 24-hour trading volume ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
       ]
     },
     {
@@ -4281,5 +4406,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T11:24:48.345588"
+  "last_updated": "2025-07-20T12:56:24.486063"
 }
