@@ -1,6 +1,55 @@
 {
   "latest": [
     {
+      "id": "fde98707f15df0733d2b354c777373a5",
+      "title": "Peter Schiff: Bitcoin Price Record Highlights US Dollar Weakness",
+      "link": "https://cryptopotato.com/peter-schiff-bitcoin-price-record-highlights-us-dollar-weakness/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 22:07:08 +0000",
+      "excerpt": "Bitcoin's price is flying at historic record highs, buoyed by a broad and insatiable demand far above US stock market gains at their own all time highs. But EuroPac chief Peter Schiff says US dolla...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "a6637a348c18b371eb3229e02911c75b",
+      "title": "Bitcoin is becoming infrastructure—not just an asset",
+      "link": "https://cryptoslate.com/bitcoin-is-becoming-infrastructure-not-just-an-asset/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 22:00:25 +0000",
+      "excerpt": "The following is a guest post and opinion from Fabian Dori, Chief Investment Officer at Sygnum Bank. Institutional investors no longer debate Bitcoin’s legitimacy. With spot ETFs surpassing $50 bil...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "668939dba271bee605413ed09d50fa6f",
+      "title": "Ethereum Unveils Symbolic NFT Torch Ahead of 10-Year Anniversary",
+      "link": "https://beincrypto.com/ethereum-nft-torch-ten-year-celebration/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 21:45:08 +0000",
+      "excerpt": "Ethereum’s 10th-anniversary NFT torch reflects the network’s community-driven spirit and milestones. As Ethereum’s NFT market surges, the ecosystem is set to commemorate its legacy with a free NFT ...",
+      "categories": [
+        "ethereum",
+        "nft"
+      ],
+      "tags": [
+        "Ethereum",
+        "NFT",
+        "Trading"
+      ]
+    },
+    {
       "id": "7b78c2faa0b7df5703664d6ddc8b656c",
       "title": "AI and blockchain are already disrupting legacy education system",
       "link": "https://cointelegraph.com/news/ai-blockchain-disrupting-education-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -13,6 +62,23 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "6e0037f209327f8b0d85647b5af7ba58",
+      "title": "ETH Tsunami Incoming: Firms Quietly Amass Mountains of Ethereum",
+      "link": "https://news.bitcoin.com/eth-tsunami-incoming-firms-quietly-amass-mountains-of-ethereum/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 21:30:13 +0000",
+      "excerpt": "Ever since Strategy, previously Microstrategy, began putting bitcoin ( BTC) into its company coffers, a significant number of other businesses have followed suit. Currently, various organizations a...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
       ]
     },
     {
@@ -236,15 +302,33 @@
         "Trading",
         "Regulation"
       ]
+    }
+  ],
+  "featured": [
+    {
+      "id": "fde98707f15df0733d2b354c777373a5",
+      "title": "Peter Schiff: Bitcoin Price Record Highlights US Dollar Weakness",
+      "link": "https://cryptopotato.com/peter-schiff-bitcoin-price-record-highlights-us-dollar-weakness/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 22:07:08 +0000",
+      "excerpt": "Bitcoin's price is flying at historic record highs, buoyed by a broad and insatiable demand far above US stock market gains at their own all time highs. But EuroPac chief Peter Schiff says US dolla...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
     },
     {
-      "id": "872a7fa8ee8ecc6b67ed20292c9432fa",
-      "title": "Bitcoin Won’t Save You—Peter Schiff Says Gold Will Win As Trump Wrecks The Dollar",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-wont-save-you-peter-schiff-says-gold-will-win-as-trump-wrecks-the-dollar/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 17:30:17 +0000",
-      "excerpt": "Gold proponent Peter Schiff hit out at US President Donald Trump’s support for cryptocurrency, calling Bitcoin a “decentralized Ponzi scheme” wrapped in the American flag. He warned that pushing di...",
+      "id": "a6637a348c18b371eb3229e02911c75b",
+      "title": "Bitcoin is becoming infrastructure—not just an asset",
+      "link": "https://cryptoslate.com/bitcoin-is-becoming-infrastructure-not-just-an-asset/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 22:00:25 +0000",
+      "excerpt": "The following is a guest post and opinion from Fabian Dori, Chief Investment Officer at Sygnum Bank. Institutional investors no longer debate Bitcoin’s legitimacy. With spot ETFs surpassing $50 bil...",
       "categories": [
         "bitcoin"
       ],
@@ -253,53 +337,40 @@
       ]
     },
     {
-      "id": "4ae044943e001d2b2af80221025c2bc1",
-      "title": "Litecoin Price Hits 4-Month High, But Whale Selling Could Bring Risks",
-      "link": "https://beincrypto.com/litecoin-price-faces-pressure-from-whale-selling/",
+      "id": "668939dba271bee605413ed09d50fa6f",
+      "title": "Ethereum Unveils Symbolic NFT Torch Ahead of 10-Year Anniversary",
+      "link": "https://beincrypto.com/ethereum-nft-torch-ten-year-celebration/",
       "source": "BeInCrypto",
       "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 17:00:00 +0000",
-      "excerpt": "Litecoin has surged 14% to $116, but a significant whale selloff poses a threat to its rally. If the selloff continues, LTC could face retracement, though long-term holders remain bullish.\nThe post...",
+      "timestamp": "Sun, 20 Jul 2025 21:45:08 +0000",
+      "excerpt": "Ethereum’s 10th-anniversary NFT torch reflects the network’s community-driven spirit and milestones. As Ethereum’s NFT market surges, the ecosystem is set to commemorate its legacy with a free NFT ...",
       "categories": [
-        "crypto"
+        "ethereum",
+        "nft"
       ],
       "tags": [
+        "Ethereum",
+        "NFT",
         "Trading"
       ]
     },
     {
-      "id": "6d555232f1de8a142998fd876311b59f",
-      "title": "Stablecoin Bill Passage Signals Start of New Financial Revolution in America, According to Coinbase CEO Brian Armstrong",
-      "link": "https://dailyhodl.com/2025/07/20/stablecoin-bill-passage-signals-start-of-new-financial-revolution-in-america-according-to-coinbase-ceo-brian-armstrong/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 16:55:49 +0000",
-      "excerpt": "Coinbase chief executive Brian Armstrong believes that the signing of a stablecoin bill into law marks the beginning of a new financial era in the US. On July 18th, President Trump signed the GENIU...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "bcb580648b11a53d7f0f8c469a98f1ea",
-      "title": "Bitcoin gets $125K target as trader sees &#039;big move&#039; next, ETH hits $3750",
-      "link": "https://cointelegraph.com/news/bitcoin-gets-125k-target-trader-big-move-next-eth-hits-3750?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 16:43:44 +0100",
-      "excerpt": "Bitcoin and Ether traders are eyeing price milestones into the weekly close, with a resistance trend line keeping BTC bulls from heading to all-time highs.",
+      "id": "6e0037f209327f8b0d85647b5af7ba58",
+      "title": "ETH Tsunami Incoming: Firms Quietly Amass Mountains of Ethereum",
+      "link": "https://news.bitcoin.com/eth-tsunami-incoming-firms-quietly-amass-mountains-of-ethereum/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 21:30:13 +0000",
+      "excerpt": "Ever since Strategy, previously Microstrategy, began putting bitcoin ( BTC) into its company coffers, a significant number of other businesses have followed suit. Currently, various organizations a...",
       "categories": [
         "bitcoin",
         "ethereum"
       ],
       "tags": [
         "Bitcoin",
-        "Ethereum",
-        "Trading"
+        "Ethereum"
       ]
-    }
-  ],
-  "featured": [
+    },
     {
       "id": "fc75de952edaa0839b1e784c851f232d",
       "title": "Analysts Urge Profit-Taking Strategy As Ethereum Beats Banks",
@@ -315,61 +386,17 @@
         "Ethereum",
         "Trading"
       ]
-    },
+    }
+  ],
+  "bitcoin": [
     {
-      "id": "fe049676ca13dfd1e643280b5a075f20",
-      "title": "Bitcoin Darknet Giant Abacus Vanishes – Was It a Massive Exit Scam?",
-      "link": "https://cryptopotato.com/bitcoin-darknet-giant-abacus-vanishes-was-it-a-massive-exit-scam/",
+      "id": "fde98707f15df0733d2b354c777373a5",
+      "title": "Peter Schiff: Bitcoin Price Record Highlights US Dollar Weakness",
+      "link": "https://cryptopotato.com/peter-schiff-bitcoin-price-record-highlights-us-dollar-weakness/",
       "source": "CryptoPotato",
       "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 20:38:13 +0000",
-      "excerpt": "The vanishing of Abacus leaves users and vendors scrambling for alternatives.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "6a1ac77b681898ef5a8c12f90c9275a6",
-      "title": "US Bitcoin ETFs Record Second Consecutive $2 Billion Inflow Week — Details",
-      "link": "https://bitcoinist.com/bitcoin-etfs-second-2-billion-inflow-in-two-weeks/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 20:30:34 +0000",
-      "excerpt": "The US-based spot Bitcoin ETFs (exchange-traded funds) have been in scintillating form over the past few weeks, seeing an influx of significant capital during this period. This positive trend shoul...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "15a8242acfca72e923bfccd4a26b9f90",
-      "title": "Fed up with the daily grind? Bitcoin researcher says you can retire with less than 1 BTC",
-      "link": "https://cryptoslate.com/fed-up-with-the-daily-grind-bitcoin-researcher-says-you-can-retire-with-less-than-1-btc/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 20:00:35 +0000",
-      "excerpt": "If the stresses and strains of modern life are becoming a little too much, fear not. Those of you who’ve been stacking sats may soon be able to take your foot off the pedal. According to a Bitcoin ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "153b60b3f9345cd89963de8103b3c04b",
-      "title": "Saylor signals Bitcoin buy as Strategy&#039;s stash climbs to over $71B",
-      "link": "https://cointelegraph.com/news/saylor-signals-bitcoin-buy-strategy-stash-71b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 18:50:49 +0100",
-      "excerpt": "Strategy continues accumulating Bitcoin as it hits all-time highs in July, and the total crypto market cap breaches the $4 trillion mark.",
+      "timestamp": "Sun, 20 Jul 2025 22:07:08 +0000",
+      "excerpt": "Bitcoin's price is flying at historic record highs, buoyed by a broad and insatiable demand far above US stock market gains at their own all time highs. But EuroPac chief Peter Schiff says US dolla...",
       "categories": [
         "bitcoin"
       ],
@@ -377,9 +404,39 @@
         "Bitcoin",
         "Trading"
       ]
-    }
-  ],
-  "bitcoin": [
+    },
+    {
+      "id": "a6637a348c18b371eb3229e02911c75b",
+      "title": "Bitcoin is becoming infrastructure—not just an asset",
+      "link": "https://cryptoslate.com/bitcoin-is-becoming-infrastructure-not-just-an-asset/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 22:00:25 +0000",
+      "excerpt": "The following is a guest post and opinion from Fabian Dori, Chief Investment Officer at Sygnum Bank. Institutional investors no longer debate Bitcoin’s legitimacy. With spot ETFs surpassing $50 bil...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "6e0037f209327f8b0d85647b5af7ba58",
+      "title": "ETH Tsunami Incoming: Firms Quietly Amass Mountains of Ethereum",
+      "link": "https://news.bitcoin.com/eth-tsunami-incoming-firms-quietly-amass-mountains-of-ethereum/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 21:30:13 +0000",
+      "excerpt": "Ever since Strategy, previously Microstrategy, began putting bitcoin ( BTC) into its company coffers, a significant number of other businesses have followed suit. Currently, various organizations a...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ]
+    },
     {
       "id": "fe049676ca13dfd1e643280b5a075f20",
       "title": "Bitcoin Darknet Giant Abacus Vanishes – Was It a Massive Exit Scam?",
@@ -490,60 +547,44 @@
         "Trading",
         "Regulation"
       ]
-    },
+    }
+  ],
+  "ethereum": [
     {
-      "id": "872a7fa8ee8ecc6b67ed20292c9432fa",
-      "title": "Bitcoin Won’t Save You—Peter Schiff Says Gold Will Win As Trump Wrecks The Dollar",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-wont-save-you-peter-schiff-says-gold-will-win-as-trump-wrecks-the-dollar/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 17:30:17 +0000",
-      "excerpt": "Gold proponent Peter Schiff hit out at US President Donald Trump’s support for cryptocurrency, calling Bitcoin a “decentralized Ponzi scheme” wrapped in the American flag. He warned that pushing di...",
+      "id": "668939dba271bee605413ed09d50fa6f",
+      "title": "Ethereum Unveils Symbolic NFT Torch Ahead of 10-Year Anniversary",
+      "link": "https://beincrypto.com/ethereum-nft-torch-ten-year-celebration/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 21:45:08 +0000",
+      "excerpt": "Ethereum’s 10th-anniversary NFT torch reflects the network’s community-driven spirit and milestones. As Ethereum’s NFT market surges, the ecosystem is set to commemorate its legacy with a free NFT ...",
       "categories": [
-        "bitcoin"
+        "ethereum",
+        "nft"
       ],
       "tags": [
-        "Bitcoin"
+        "Ethereum",
+        "NFT",
+        "Trading"
       ]
     },
     {
-      "id": "bcb580648b11a53d7f0f8c469a98f1ea",
-      "title": "Bitcoin gets $125K target as trader sees &#039;big move&#039; next, ETH hits $3750",
-      "link": "https://cointelegraph.com/news/bitcoin-gets-125k-target-trader-big-move-next-eth-hits-3750?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 16:43:44 +0100",
-      "excerpt": "Bitcoin and Ether traders are eyeing price milestones into the weekly close, with a resistance trend line keeping BTC bulls from heading to all-time highs.",
+      "id": "6e0037f209327f8b0d85647b5af7ba58",
+      "title": "ETH Tsunami Incoming: Firms Quietly Amass Mountains of Ethereum",
+      "link": "https://news.bitcoin.com/eth-tsunami-incoming-firms-quietly-amass-mountains-of-ethereum/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 21:30:13 +0000",
+      "excerpt": "Ever since Strategy, previously Microstrategy, began putting bitcoin ( BTC) into its company coffers, a significant number of other businesses have followed suit. Currently, various organizations a...",
       "categories": [
         "bitcoin",
         "ethereum"
       ],
       "tags": [
         "Bitcoin",
-        "Ethereum",
-        "Trading"
+        "Ethereum"
       ]
     },
-    {
-      "id": "1674b3d00b8b83232883d7700bac1996",
-      "title": "Bitcoin Price Analysis: BTC Unlikely to Revisit ATH Before Testing $111K Support",
-      "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-unlikely-to-revisit-ath-before-testing-111k-support/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:30:21 +0000",
-      "excerpt": "Bitcoin’s impulsive bullish leg has paused upon reaching the critical $123K level, signaling potential profit-taking and distribution. A corrective move toward the $111K support zone is now expecte...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading",
-        "Analysis"
-      ]
-    }
-  ],
-  "ethereum": [
     {
       "id": "fc75de952edaa0839b1e784c851f232d",
       "title": "Analysts Urge Profit-Taking Strategy As Ethereum Beats Banks",
@@ -671,39 +712,6 @@
         "Trading",
         "Regulation",
         "Analysis"
-      ]
-    },
-    {
-      "id": "ccdd2afafd4229915f6e505218209ef5",
-      "title": "Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This Last?",
-      "link": "https://cryptonews.com/news/ethereum-price-prediction-eth-just-hit-180-day-peak-can-this-last/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 10:52:49 +0000",
-      "excerpt": "Ethereum has surged to a dramatic 180-day peak of $3,671, delivering an explosive 152% rally from March lows near $1,392.\nThe post Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This La...",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "89cc6db4427dbb63b7657be32211d187",
-      "title": "Ethereum Binance Reserves At New High As Dominance Grows — What This Means For Price",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-reserves-at-a-new-high-as-dominance-grows/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 10:00:38 +0000",
-      "excerpt": "Ethereum has revived a long-lost faith in its investors following its recent impressive price action, which saw the altcoin reclaim the $3,000 level. While the ETH token is still a fair distance fr...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
       ]
     }
   ],
@@ -878,6 +886,24 @@
     }
   ],
   "nft": [
+    {
+      "id": "668939dba271bee605413ed09d50fa6f",
+      "title": "Ethereum Unveils Symbolic NFT Torch Ahead of 10-Year Anniversary",
+      "link": "https://beincrypto.com/ethereum-nft-torch-ten-year-celebration/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 21:45:08 +0000",
+      "excerpt": "Ethereum’s 10th-anniversary NFT torch reflects the network’s community-driven spirit and milestones. As Ethereum’s NFT market surges, the ecosystem is set to commemorate its legacy with a free NFT ...",
+      "categories": [
+        "ethereum",
+        "nft"
+      ],
+      "tags": [
+        "Ethereum",
+        "NFT",
+        "Trading"
+      ]
+    },
     {
       "id": "7bdd59709e90dee7b1bc3c5f58553d63",
       "title": "Here’s what happened in crypto today",
@@ -1110,6 +1136,55 @@
   ],
   "all": [
     {
+      "id": "fde98707f15df0733d2b354c777373a5",
+      "title": "Peter Schiff: Bitcoin Price Record Highlights US Dollar Weakness",
+      "link": "https://cryptopotato.com/peter-schiff-bitcoin-price-record-highlights-us-dollar-weakness/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 22:07:08 +0000",
+      "excerpt": "Bitcoin's price is flying at historic record highs, buoyed by a broad and insatiable demand far above US stock market gains at their own all time highs. But EuroPac chief Peter Schiff says US dolla...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "a6637a348c18b371eb3229e02911c75b",
+      "title": "Bitcoin is becoming infrastructure—not just an asset",
+      "link": "https://cryptoslate.com/bitcoin-is-becoming-infrastructure-not-just-an-asset/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 22:00:25 +0000",
+      "excerpt": "The following is a guest post and opinion from Fabian Dori, Chief Investment Officer at Sygnum Bank. Institutional investors no longer debate Bitcoin’s legitimacy. With spot ETFs surpassing $50 bil...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "668939dba271bee605413ed09d50fa6f",
+      "title": "Ethereum Unveils Symbolic NFT Torch Ahead of 10-Year Anniversary",
+      "link": "https://beincrypto.com/ethereum-nft-torch-ten-year-celebration/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 21:45:08 +0000",
+      "excerpt": "Ethereum’s 10th-anniversary NFT torch reflects the network’s community-driven spirit and milestones. As Ethereum’s NFT market surges, the ecosystem is set to commemorate its legacy with a free NFT ...",
+      "categories": [
+        "ethereum",
+        "nft"
+      ],
+      "tags": [
+        "Ethereum",
+        "NFT",
+        "Trading"
+      ]
+    },
+    {
       "id": "7b78c2faa0b7df5703664d6ddc8b656c",
       "title": "AI and blockchain are already disrupting legacy education system",
       "link": "https://cointelegraph.com/news/ai-blockchain-disrupting-education-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1122,6 +1197,23 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "6e0037f209327f8b0d85647b5af7ba58",
+      "title": "ETH Tsunami Incoming: Firms Quietly Amass Mountains of Ethereum",
+      "link": "https://news.bitcoin.com/eth-tsunami-incoming-firms-quietly-amass-mountains-of-ethereum/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 21:30:13 +0000",
+      "excerpt": "Ever since Strategy, previously Microstrategy, began putting bitcoin ( BTC) into its company coffers, a significant number of other businesses have followed suit. Currently, various organizations a...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
       ]
     },
     {
@@ -5091,5 +5183,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T21:27:31.098360"
+  "last_updated": "2025-07-20T22:31:30.076116"
 }
