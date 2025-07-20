@@ -1,6 +1,34 @@
 {
   "latest": [
     {
+      "id": "5a4eb96bc6bcab64a421bb0b1cf4dd62",
+      "title": "Crypto Crooks Take Over Stellar Blade’s X Account, Spread Fake Crypto",
+      "link": "https://bitcoinist.com/crypto-crooks-take-over-stellar-blades-x-account-spread-fake-coin/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 19:00:36 +0000",
+      "excerpt": "According to project insiders, the Stellar Blade X account started posting a “stellarcoin.com” link Sunday morning. It wasn’t part of any roadmap or community update. Related Reading: Wall Street G...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b75c6e921d41c4fac8e2865ed9f630f6",
+      "title": "Litecoin Price Crosses $110 Level After 20% Rally — What’s Next For LTC?",
+      "link": "https://www.newsbtc.com/news/litecoin/litecoin-price-crosses-after-20-rally-next-for-ltc/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 19:00:19 +0000",
+      "excerpt": "The Litecoin price has been on an impressive run over the last few weeks, mirroring the improving climate of the altcoin market in that period. In the past week, the LTC token put out a strong bull...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "153b60b3f9345cd89963de8103b3c04b",
       "title": "Saylor signals Bitcoin buy as Strategy&#039;s stash climbs to over $71B",
       "link": "https://cointelegraph.com/news/saylor-signals-bitcoin-buy-strategy-stash-71b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -14,6 +42,34 @@
       "tags": [
         "Bitcoin",
         "Trading"
+      ]
+    },
+    {
+      "id": "8ea6f134c8f267d068cf5bb5f484910c",
+      "title": "Ken Griffin’s Citadel and Other Hedge Fund Giants Win Big on $53,000,000,000 Takeover of US Energy Company: Report",
+      "link": "https://dailyhodl.com/2025/07/20/ken-griffins-citadel-and-other-hedge-fund-giants-win-big-on-53000000000-takeover-of-us-energy-company-report/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 18:45:21 +0000",
+      "excerpt": "Several hedge funds are profiting big after their bet that gas giant Chevron would successfully acquire competitor Hess Corporation in a $53 billion deal. Firms that specialize in merger arbitrage ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "c3105e796cb7551495cb7a979edf8a12",
+      "title": "Vitalik Buterin Defends Safe Scaling as Ethereum Inches Toward 45 Million Gas Limit",
+      "link": "https://beincrypto.com/ethereum-gas-limit-scaling-buterin/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 18:24:50 +0000",
+      "excerpt": "Vitalik Buterin defends Ethereum's scaling efforts as the network approaches a 45 million gas limit, supported by upgraded infrastructure and client improvements.\nThe post Vitalik Buterin Defends S...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
       ]
     },
     {
@@ -247,64 +303,6 @@
         "Ethereum",
         "Trading"
       ]
-    },
-    {
-      "id": "66246fd64ef4473e219c65fb52353b20",
-      "title": "Solana Price Prediction: SOL Up 10.9% This Week – Is a $185 Breakout Possible?",
-      "link": "https://cryptonews.com/news/solana-price-prediction-sol-up-10-9-this-week-is-a-185-breakout-possible/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:26:29 +0000",
-      "excerpt": "Solana has delivered an impressive 10.9% surge this week, riding the broader cryptocurrency rally to test critical resistance levels around $179.\nThe post Solana Price Prediction: SOL Up 10.9% This...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "89cef1e4a37df797f8cca73a4515920f",
-      "title": "Ethereum Rockets Past $3.7K as Options Traders Eye $12K Moonshot Bets",
-      "link": "https://news.bitcoin.com/ethereum-rockets-past-3-7k-as-options-traders-eye-12k-moonshot-bets/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:05:58 +0000",
-      "excerpt": "Ethereum ( ETH) just hit a new high of $3,772 per coin on Deribit versus the U.S. dollar, and it’s still climbing. Its piece of the $3.9 trillion crypto economy has expanded from 10.9% just three d...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "7054d932ea0a5202498d265349705275",
-      "title": "After 529% YoY Surge and New ATH, XRP Eyes ‘Bonkers Territory:’ $4.50 Next?",
-      "link": "https://cryptopotato.com/after-529-yoy-surge-and-new-ath-xrp-eyes-bonkers-territory-4-50-next/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:04:01 +0000",
-      "excerpt": "XRP hit $3.65 and surged 529% in a year. If support holds at $3, analysts say $4.50 is next. A breakdown, though, could mean $2.60 ahead.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "94000a3804fbd6133e89960c9c5cf883",
-      "title": "The many faces of crypto crime and the relentless cat-and-mouse chase",
-      "link": "https://cryptoslate.com/the-many-faces-of-crypto-crime-and-the-relentless-cat-and-mouse-chase/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:00:36 +0000",
-      "excerpt": "Welcome to Slate Sundays, CryptoSlate’s new weekly feature showcasing in-depth interviews, expert analysis, and thought-provoking op-eds that go beyond the headlines to explore the ideas and voices...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Analysis"
-      ]
     }
   ],
   "featured": [
@@ -322,6 +320,21 @@
       "tags": [
         "Bitcoin",
         "Trading"
+      ]
+    },
+    {
+      "id": "c3105e796cb7551495cb7a979edf8a12",
+      "title": "Vitalik Buterin Defends Safe Scaling as Ethereum Inches Toward 45 Million Gas Limit",
+      "link": "https://beincrypto.com/ethereum-gas-limit-scaling-buterin/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 18:24:50 +0000",
+      "excerpt": "Vitalik Buterin defends Ethereum's scaling efforts as the network approaches a 45 million gas limit, supported by upgraded infrastructure and client improvements.\nThe post Vitalik Buterin Defends S...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
       ]
     },
     {
@@ -371,21 +384,6 @@
         "Bitcoin",
         "Trading",
         "Regulation"
-      ]
-    },
-    {
-      "id": "872a7fa8ee8ecc6b67ed20292c9432fa",
-      "title": "Bitcoin Won’t Save You—Peter Schiff Says Gold Will Win As Trump Wrecks The Dollar",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-wont-save-you-peter-schiff-says-gold-will-win-as-trump-wrecks-the-dollar/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 17:30:17 +0000",
-      "excerpt": "Gold proponent Peter Schiff hit out at US President Donald Trump’s support for cryptocurrency, calling Bitcoin a “decentralized Ponzi scheme” wrapped in the American flag. He warned that pushing di...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
       ]
     }
   ],
@@ -557,6 +555,21 @@
   ],
   "ethereum": [
     {
+      "id": "c3105e796cb7551495cb7a979edf8a12",
+      "title": "Vitalik Buterin Defends Safe Scaling as Ethereum Inches Toward 45 Million Gas Limit",
+      "link": "https://beincrypto.com/ethereum-gas-limit-scaling-buterin/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 18:24:50 +0000",
+      "excerpt": "Vitalik Buterin defends Ethereum's scaling efforts as the network approaches a 45 million gas limit, supported by upgraded infrastructure and client improvements.\nThe post Vitalik Buterin Defends S...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
       "id": "bcb580648b11a53d7f0f8c469a98f1ea",
       "title": "Bitcoin gets $125K target as trader sees &#039;big move&#039; next, ETH hits $3750",
       "link": "https://cointelegraph.com/news/bitcoin-gets-125k-target-trader-big-move-next-eth-hits-3750?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -695,22 +708,6 @@
       "sourceUrl": "https://cryptopotato.com/feed/",
       "timestamp": "Sun, 20 Jul 2025 07:35:12 +0000",
       "excerpt": "SEI opened the week with 13% gains for the 7-day window. It was up over 100% for the trailing 30 days. But some altcoin bulls think it's just getting started in July.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "72b5511a2e15dd3d92689a1486f00831",
-      "title": "Ethereum Open Interest Hits Record $50 Billion – Volatility Incoming?",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-open-interest-hits-record-50b-volatility-incoming/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 07:00:24 +0000",
-      "excerpt": "Ethereum is holding firm above the $3,500 level, a key support reclaimed last Friday, signaling renewed strength in the market. After surging over 70% since late June, ETH appears to have entered a...",
       "categories": [
         "ethereum"
       ],
@@ -1126,6 +1123,34 @@
   ],
   "all": [
     {
+      "id": "5a4eb96bc6bcab64a421bb0b1cf4dd62",
+      "title": "Crypto Crooks Take Over Stellar Blade’s X Account, Spread Fake Crypto",
+      "link": "https://bitcoinist.com/crypto-crooks-take-over-stellar-blades-x-account-spread-fake-coin/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 19:00:36 +0000",
+      "excerpt": "According to project insiders, the Stellar Blade X account started posting a “stellarcoin.com” link Sunday morning. It wasn’t part of any roadmap or community update. Related Reading: Wall Street G...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "b75c6e921d41c4fac8e2865ed9f630f6",
+      "title": "Litecoin Price Crosses $110 Level After 20% Rally — What’s Next For LTC?",
+      "link": "https://www.newsbtc.com/news/litecoin/litecoin-price-crosses-after-20-rally-next-for-ltc/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 19:00:19 +0000",
+      "excerpt": "The Litecoin price has been on an impressive run over the last few weeks, mirroring the improving climate of the altcoin market in that period. In the past week, the LTC token put out a strong bull...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "153b60b3f9345cd89963de8103b3c04b",
       "title": "Saylor signals Bitcoin buy as Strategy&#039;s stash climbs to over $71B",
       "link": "https://cointelegraph.com/news/saylor-signals-bitcoin-buy-strategy-stash-71b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1139,6 +1164,34 @@
       "tags": [
         "Bitcoin",
         "Trading"
+      ]
+    },
+    {
+      "id": "8ea6f134c8f267d068cf5bb5f484910c",
+      "title": "Ken Griffin’s Citadel and Other Hedge Fund Giants Win Big on $53,000,000,000 Takeover of US Energy Company: Report",
+      "link": "https://dailyhodl.com/2025/07/20/ken-griffins-citadel-and-other-hedge-fund-giants-win-big-on-53000000000-takeover-of-us-energy-company-report/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 18:45:21 +0000",
+      "excerpt": "Several hedge funds are profiting big after their bet that gas giant Chevron would successfully acquire competitor Hess Corporation in a $53 billion deal. Firms that specialize in merger arbitrage ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "c3105e796cb7551495cb7a979edf8a12",
+      "title": "Vitalik Buterin Defends Safe Scaling as Ethereum Inches Toward 45 Million Gas Limit",
+      "link": "https://beincrypto.com/ethereum-gas-limit-scaling-buterin/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 18:24:50 +0000",
+      "excerpt": "Vitalik Buterin defends Ethereum's scaling efforts as the network approaches a 45 million gas limit, supported by upgraded infrastructure and client improvements.\nThe post Vitalik Buterin Defends S...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
       ]
     },
     {
@@ -4935,5 +4988,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T18:39:03.200303"
+  "last_updated": "2025-07-20T19:23:47.736725"
 }
