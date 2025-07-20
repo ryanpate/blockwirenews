@@ -1,6 +1,19 @@
 {
   "latest": [
     {
+      "id": "428134364761ba69dc44499fd8d8b8a2",
+      "title": "Charles Hoskinson says audit report ‘shaping up’ for August release",
+      "link": "https://cointelegraph.com/news/cardano-foundation-charles-hoskinson-audit-august-release-iog?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 07:38:10 +0100",
+      "excerpt": "Cardano founder Charles Hoskinson says he will read the full audit report over a livestream when it is released next month.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
       "title": "Who owns the most Bitcoin in 2025? The rich list revealed",
       "link": "https://cointelegraph.com/news/bitcoin-rich-list-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -13,6 +26,37 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "6326f4dc6b52df9a4e286e6bef4bf7a1",
+      "title": "748,763 Americans Now at Risk of Financial Fraud – Firm Says Hacker May Have Stolen Names, Social Security Numbers, Bank Records, Credit Card Details and More in Massive Data Breach",
+      "link": "https://dailyhodl.com/2025/07/20/748763-americans-now-at-risk-of-financial-fraud-firm-says-hacker-may-have-stolen-names-social-security-numbers-bank-records-credit-card-details-and-more-in-massive-data-breach/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:04:27 +0000",
+      "excerpt": "Hundreds of thousands of Americans are now at risk of financial fraud and identity theft following a massive data breach at a substance screening firm. In a notice to the Office of the Maine Attorn...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "72b5511a2e15dd3d92689a1486f00831",
+      "title": "Ethereum Open Interest Hits Record $50 Billion – Volatility Incoming?",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-open-interest-hits-record-50b-volatility-incoming/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:00:24 +0000",
+      "excerpt": "Ethereum is holding firm above the $3,500 level, a key support reclaimed last Friday, signaling renewed strength in the market. After surging over 70% since late June, ETH appears to have entered a...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
       ]
     },
     {
@@ -239,54 +283,6 @@
       "tags": [
         "Trading"
       ]
-    },
-    {
-      "id": "7d7e4362d48517be2279776a4b99030f",
-      "title": "XLM&#039;s price to rocket like XRP, Trump’s big crypto nod: Hodler’s Digest, July 13 – 19",
-      "link": "https://cointelegraph.com/news/stellar-xlm-xrp-rally-donald-trump-crypto-sign-bill-hodlers-digest?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 00:38:07 +0100",
-      "excerpt": "Stellar may be setting up more upside after XRP's recent price surge, US President Donald Trump signed one of the first bills related to crypto, and other news.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "7075e7108dac8f412ba8f7c2080e0c0c",
-      "title": "Robert Kiyosaki Reveals When He’ll Buy More Bitcoin—And When He’ll Stop Buying",
-      "link": "https://news.bitcoin.com/robert-kiyosaki-reveals-when-hell-buy-more-bitcoin-and-when-hell-stop-buying/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 00:30:47 +0000",
-      "excerpt": "Bitcoin rockets past key price points as Robert Kiyosaki reveals bold buy-in and strategic stop-buying plan, signaling massive upside potential while eyeing the next major pullback. Robert Kiyosaki...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "c3c81745bde52df37b4aa6b691e35305",
-      "title": "LINK Jumps in Price As Chainlink Labs Joins the SEC’s Crypto Task Force To Discuss Tokenized Assets",
-      "link": "https://dailyhodl.com/2025/07/19/link-jumps-in-price-as-chainlink-labs-joins-the-secs-crypto-task-force-to-discuss-tokenized-assets/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 00:00:15 +0000",
-      "excerpt": "The decentralized oracle network Chainlink (LINK) defied the overall crypto market dip and witnessed a mild bump in price after Chainlink Labs announced that it had joined the U.S. Securities and E...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi",
-        "Trading",
-        "Regulation"
-      ]
     }
   ],
   "featured": [
@@ -303,6 +299,22 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "72b5511a2e15dd3d92689a1486f00831",
+      "title": "Ethereum Open Interest Hits Record $50 Billion – Volatility Incoming?",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-open-interest-hits-record-50b-volatility-incoming/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:00:24 +0000",
+      "excerpt": "Ethereum is holding firm above the $3,500 level, a key support reclaimed last Friday, signaling renewed strength in the market. After surging over 70% since late June, ETH appears to have entered a...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
       ]
     },
     {
@@ -350,21 +362,6 @@
       "tags": [
         "Bitcoin",
         "Trading"
-      ]
-    },
-    {
-      "id": "da2889e0eff24236359a009d690ac67a",
-      "title": "Tether Eyes $1 Trillion USDT Milestone But Faces Strict New US Rules",
-      "link": "https://beincrypto.com/tether-usdt-scalling-plan-genius-act/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 23:29:00 +0000",
-      "excerpt": "The GENIUS Act grants the Federal Reserve oversight of dollar-backed tokens and imposes strict audit and compliance standards on issuers like Tether.\nThe post Tether Eyes $1 Trillion USDT Milestone...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
       ]
     }
   ],
@@ -537,6 +534,22 @@
   ],
   "ethereum": [
     {
+      "id": "72b5511a2e15dd3d92689a1486f00831",
+      "title": "Ethereum Open Interest Hits Record $50 Billion – Volatility Incoming?",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-open-interest-hits-record-50b-volatility-incoming/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:00:24 +0000",
+      "excerpt": "Ethereum is holding firm above the $3,500 level, a key support reclaimed last Friday, signaling renewed strength in the market. After surging over 70% since late June, ETH appears to have entered a...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
       "id": "da2889e0eff24236359a009d690ac67a",
       "title": "Tether Eyes $1 Trillion USDT Milestone But Faces Strict New US Rules",
       "link": "https://beincrypto.com/tether-usdt-scalling-plan-genius-act/",
@@ -687,26 +700,6 @@
       ],
       "tags": [
         "Ethereum"
-      ]
-    },
-    {
-      "id": "aaee25f545b25890bf6fa8934e8ea69d",
-      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
-      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
-      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading",
-        "Analysis"
       ]
     }
   ],
@@ -1125,6 +1118,19 @@
   ],
   "all": [
     {
+      "id": "428134364761ba69dc44499fd8d8b8a2",
+      "title": "Charles Hoskinson says audit report ‘shaping up’ for August release",
+      "link": "https://cointelegraph.com/news/cardano-foundation-charles-hoskinson-audit-august-release-iog?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 07:38:10 +0100",
+      "excerpt": "Cardano founder Charles Hoskinson says he will read the full audit report over a livestream when it is released next month.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
       "title": "Who owns the most Bitcoin in 2025? The rich list revealed",
       "link": "https://cointelegraph.com/news/bitcoin-rich-list-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1137,6 +1143,37 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "6326f4dc6b52df9a4e286e6bef4bf7a1",
+      "title": "748,763 Americans Now at Risk of Financial Fraud – Firm Says Hacker May Have Stolen Names, Social Security Numbers, Bank Records, Credit Card Details and More in Massive Data Breach",
+      "link": "https://dailyhodl.com/2025/07/20/748763-americans-now-at-risk-of-financial-fraud-firm-says-hacker-may-have-stolen-names-social-security-numbers-bank-records-credit-card-details-and-more-in-massive-data-breach/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:04:27 +0000",
+      "excerpt": "Hundreds of thousands of Americans are now at risk of financial fraud and identity theft following a massive data breach at a substance screening firm. In a notice to the Office of the Maine Attorn...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "72b5511a2e15dd3d92689a1486f00831",
+      "title": "Ethereum Open Interest Hits Record $50 Billion – Volatility Incoming?",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-open-interest-hits-record-50b-volatility-incoming/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 07:00:24 +0000",
+      "excerpt": "Ethereum is holding firm above the $3,500 level, a key support reclaimed last Friday, signaling renewed strength in the market. After surging over 70% since late June, ETH appears to have entered a...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
       ]
     },
     {
@@ -3950,5 +3987,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T06:41:18.785297"
+  "last_updated": "2025-07-20T07:27:54.827640"
 }
