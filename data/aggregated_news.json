@@ -1,6 +1,76 @@
 {
   "latest": [
     {
+      "id": "6a1ac77b681898ef5a8c12f90c9275a6",
+      "title": "US Bitcoin ETFs Record Second Consecutive $2 Billion Inflow Week — Details",
+      "link": "https://bitcoinist.com/bitcoin-etfs-second-2-billion-inflow-in-two-weeks/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:30:34 +0000",
+      "excerpt": "The US-based spot Bitcoin ETFs (exchange-traded funds) have been in scintillating form over the past few weeks, seeing an influx of significant capital during this period. This positive trend shoul...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "15a8242acfca72e923bfccd4a26b9f90",
+      "title": "Fed up with the daily grind? Bitcoin researcher says you can retire with less than 1 BTC",
+      "link": "https://cryptoslate.com/fed-up-with-the-daily-grind-bitcoin-researcher-says-you-can-retire-with-less-than-1-btc/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:00:35 +0000",
+      "excerpt": "If the stresses and strains of modern life are becoming a little too much, fear not. Those of you who’ve been stacking sats may soon be able to take your foot off the pedal. According to a Bitcoin ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "2d138cfe1227840c7cf51f981da5d08b",
+      "title": "VanEck CEO Predicts Rise of ‘Super Apps’ Like Robinhood, Kraken and X Will Put Pressure on TradFi’s Payments System",
+      "link": "https://dailyhodl.com/2025/07/20/vaneck-ceo-predicts-rise-of-super-apps-like-robinhood-kraken-and-x-will-put-pressure-on-tradfis-payments-system/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:00:26 +0000",
+      "excerpt": "The chief executive of exchange-traded fund (ETF) provider VanEck is predicting that “super apps” will challenge traditional finance’s payments system. In a new interview with CNBC Television, VanE...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d13483ae759eb4af9aa6bf98a4b17252",
+      "title": "Cardano’s Charles Hoskinson Preps Explosive August Audit Amid $600 Million ADA Scandal",
+      "link": "https://beincrypto.com/cardano-audit-hoskinson-ada-scandal/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 19:45:30 +0000",
+      "excerpt": "Charles Hoskinson is set to release a full audit in mid-August to refute claims of $600 million ADA theft, boosting Cardano's credibility and fueling a potential bullish breakout for ADA.\nThe post ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "770744b1874c79deee8b387d754a0f33",
+      "title": "Altcoin Season Is Popping: Index Clocks 51 as Hype Hits a Boiling Point",
+      "link": "https://news.bitcoin.com/altcoin-season-is-popping-index-clocks-51-as-hype-hits-a-boiling-point/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 19:30:58 +0000",
+      "excerpt": "Just four days ago, the Altcoin Season Index (ASI) hovered at a modest 39, and as of today, it has climbed even higher to a score of 51 out of a possible 100. For altcoin season to truly kick off, ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": []
+    },
+    {
       "id": "5a4eb96bc6bcab64a421bb0b1cf4dd62",
       "title": "Crypto Crooks Take Over Stellar Blade’s X Account, Spread Fake Crypto",
       "link": "https://bitcoinist.com/crypto-crooks-take-over-stellar-blades-x-account-spread-fake-coin/",
@@ -222,90 +292,40 @@
         "crypto"
       ],
       "tags": []
-    },
-    {
-      "id": "846b30d3720ff2170af8c37d0e308ae9",
-      "title": "XRPL Is Breaking $100M TVL While DeXRP, Has Already Raised Over $100,000,000 In IDO",
-      "link": "https://cryptopotato.com/xrpl-is-breaking-100m-tvl-while-dexrp-has-already-raised-over-100000000-in-ido/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:48:24 +0000",
-      "excerpt": "[PRESS RELEASE – UAE, Abu Dhabi, July 20th, 2025] XRPL has started this year with significant updates for the whole XRP world. While XRP is now trading above $2.98, the token has reclaimed its posi...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "03ae7b1e4b7c1b50c510dc44489ebd3c",
-      "title": "Fed Governor Christopher Waller Says Central Bank Should Cut Rates by Next Meeting Amid Slowdown in GDP",
-      "link": "https://dailyhodl.com/2025/07/20/fed-governor-christopher-waller-says-central-bank-should-cut-rates-by-next-meeting-amid-slowdown-in-gdp/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:45:17 +0000",
-      "excerpt": "A member of the Federal Reserve Board of Governors says the central bank should slash interest rates by the next Federal Open Market Committee (FOMC) meeting, which is scheduled for July 29th. In a...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "1674b3d00b8b83232883d7700bac1996",
-      "title": "Bitcoin Price Analysis: BTC Unlikely to Revisit ATH Before Testing $111K Support",
-      "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-unlikely-to-revisit-ath-before-testing-111k-support/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:30:21 +0000",
-      "excerpt": "Bitcoin’s impulsive bullish leg has paused upon reaching the critical $123K level, signaling potential profit-taking and distribution. A corrective move toward the $111K support zone is now expecte...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "efe900782f6cce8e3d3f616a706cda45",
-      "title": "Bitcoin Price Prediction: BTC’s $123.1K Peak Signals Local Top – Warnings of Pullback",
-      "link": "https://cryptonews.com/news/bitcoin-price-prediction-btcs-123-1k-peak-signals-local-top-warnings-of-pullback/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:30:08 +0000",
-      "excerpt": "Bitcoin's recent peak at $123,100 has triggered warnings of a potential local top as on-chain metrics signal overextension. The cryptocurrency quickly retraced 6% to around $115,700 after hitting t...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "f3a9a870ae2bcdff9006e2d8406da06c",
-      "title": "Ethereum Eyes $4,000 as Whales and ETFs Pour Billions into Market",
-      "link": "https://beincrypto.com/ethereum-whales-price-target-4000/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:30:00 +0000",
-      "excerpt": "With ETH trading at a six-month high and ETF inflows topping $2.2 billion in five days, analysts suggest a potential breakout past $4,000, with projections as high as $10,000 by year-end.\nThe post ...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "6a1ac77b681898ef5a8c12f90c9275a6",
+      "title": "US Bitcoin ETFs Record Second Consecutive $2 Billion Inflow Week — Details",
+      "link": "https://bitcoinist.com/bitcoin-etfs-second-2-billion-inflow-in-two-weeks/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:30:34 +0000",
+      "excerpt": "The US-based spot Bitcoin ETFs (exchange-traded funds) have been in scintillating form over the past few weeks, seeing an influx of significant capital during this period. This positive trend shoul...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "15a8242acfca72e923bfccd4a26b9f90",
+      "title": "Fed up with the daily grind? Bitcoin researcher says you can retire with less than 1 BTC",
+      "link": "https://cryptoslate.com/fed-up-with-the-daily-grind-bitcoin-researcher-says-you-can-retire-with-less-than-1-btc/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:00:35 +0000",
+      "excerpt": "If the stresses and strains of modern life are becoming a little too much, fear not. Those of you who’ve been stacking sats may soon be able to take your foot off the pedal. According to a Bitcoin ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
     {
       "id": "153b60b3f9345cd89963de8103b3c04b",
       "title": "Saylor signals Bitcoin buy as Strategy&#039;s stash climbs to over $71B",
@@ -351,43 +371,40 @@
       "tags": [
         "Bitcoin"
       ]
-    },
+    }
+  ],
+  "bitcoin": [
     {
-      "id": "7c0d3980d9b6e3437a7b3a661ed25cf6",
-      "title": "10 Leading AI Chatbots Predict Bitcoin’s Wild Ride to $1 Million",
-      "link": "https://news.bitcoin.com/10-leading-ai-chatbots-predict-bitcoins-wild-ride-to-1-million/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 17:30:49 +0000",
-      "excerpt": "Last week, we challenged ten artificial intelligence (AI) chatbots to forecast bitcoin’s price at the close of 2025—and most leaned heavily bullish, with one model aiming as high as $225,000. This ...",
+      "id": "6a1ac77b681898ef5a8c12f90c9275a6",
+      "title": "US Bitcoin ETFs Record Second Consecutive $2 Billion Inflow Week — Details",
+      "link": "https://bitcoinist.com/bitcoin-etfs-second-2-billion-inflow-in-two-weeks/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:30:34 +0000",
+      "excerpt": "The US-based spot Bitcoin ETFs (exchange-traded funds) have been in scintillating form over the past few weeks, seeing an influx of significant capital during this period. This positive trend shoul...",
       "categories": [
         "bitcoin"
       ],
       "tags": [
         "Bitcoin",
-        "Trading"
+        "Regulation"
       ]
     },
     {
-      "id": "5c82af36e2821180b52465603e63e848",
-      "title": "How Bitcoin Is Reacting To The Falling S&P 500 Volatility Index: Expert",
-      "link": "https://bitcoinist.com/bitcoin-reacts-to-the-falling-500-volatility-index/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 17:30:27 +0000",
-      "excerpt": "It’s barely weeks into the second half of 2025, and it is fair to say that the Bitcoin and global financial markets have almost seen it all this year. From global trade wars to actual disputes betw...",
+      "id": "15a8242acfca72e923bfccd4a26b9f90",
+      "title": "Fed up with the daily grind? Bitcoin researcher says you can retire with less than 1 BTC",
+      "link": "https://cryptoslate.com/fed-up-with-the-daily-grind-bitcoin-researcher-says-you-can-retire-with-less-than-1-btc/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:00:35 +0000",
+      "excerpt": "If the stresses and strains of modern life are becoming a little too much, fear not. Those of you who’ve been stacking sats may soon be able to take your foot off the pedal. According to a Bitcoin ...",
       "categories": [
-        "bitcoin",
-        "defi"
+        "bitcoin"
       ],
       "tags": [
-        "Bitcoin",
-        "Trading",
-        "Regulation"
+        "Bitcoin"
       ]
-    }
-  ],
-  "bitcoin": [
+    },
     {
       "id": "153b60b3f9345cd89963de8103b3c04b",
       "title": "Saylor signals Bitcoin buy as Strategy&#039;s stash climbs to over $71B",
@@ -515,37 +532,6 @@
       "categories": [
         "bitcoin",
         "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "2467fc77e4f4bd2040b981467720fca0",
-      "title": "Warning Signs Flash As Bitcoin Miners Unload At Record Pace",
-      "link": "https://www.newsbtc.com/news/bitcoin/warning-signs-flash-as-bitcoin-miners-unload-at-record-pace/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 14:30:37 +0000",
-      "excerpt": "Bitcoin’s run above $120,000 has drawn fresh selling from the very people who dug it up. On July 15, miners sent a hefty 16,000 Bitcoin to exchanges—the most in a single day since April—raising que...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "6c11946b0ee430d017353727bb92090c",
-      "title": "Wall Street Goes Bitcoin Shopping: $810M Added To Corporate Reserves",
-      "link": "https://bitcoinist.com/wall-street-goes-bitcoin-shopping-810m-added-to-corporate-reserves/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 14:30:33 +0000",
-      "excerpt": "In the span of just five days, corporate America and beyond made a big splash in the crypto market. Between July 14 and 19, 58 separate Bitcoin treasury updates appeared. Related Reading: Crypto Ad...",
-      "categories": [
-        "bitcoin"
       ],
       "tags": [
         "Bitcoin",
@@ -719,6 +705,19 @@
   ],
   "defi": [
     {
+      "id": "770744b1874c79deee8b387d754a0f33",
+      "title": "Altcoin Season Is Popping: Index Clocks 51 as Hype Hits a Boiling Point",
+      "link": "https://news.bitcoin.com/altcoin-season-is-popping-index-clocks-51-as-hype-hits-a-boiling-point/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 19:30:58 +0000",
+      "excerpt": "Just four days ago, the Altcoin Season Index (ASI) hovered at a modest 39, and as of today, it has climbed even higher to a score of 51 out of a possible 100. For altcoin season to truly kick off, ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": []
+    },
+    {
       "id": "5c82af36e2821180b52465603e63e848",
       "title": "How Bitcoin Is Reacting To The Falling S&P 500 Volatility Index: Expert",
       "link": "https://bitcoinist.com/bitcoin-reacts-to-the-falling-500-volatility-index/",
@@ -871,22 +870,6 @@
       ],
       "tags": [
         "DeFi"
-      ]
-    },
-    {
-      "id": "e46da582c59ce03e9da2f1326f80ad4c",
-      "title": "Defi Protocols Surge To a 3-Year High in TVL – The Ultimate Bull Market Sign?",
-      "link": "https://beincrypto.com/defi-protocols-tvl-three-year-high/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 16:00:00 +0000",
-      "excerpt": "DeFi TVL rebound is driven by growing interest in lending, staking, and restaking protocols like Aave, Lido, and EigenLayer, alongside renewed attention from institutional players.\nThe post Defi Pr...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi",
-        "Trading"
       ]
     }
   ],
@@ -1122,6 +1105,76 @@
     }
   ],
   "all": [
+    {
+      "id": "6a1ac77b681898ef5a8c12f90c9275a6",
+      "title": "US Bitcoin ETFs Record Second Consecutive $2 Billion Inflow Week — Details",
+      "link": "https://bitcoinist.com/bitcoin-etfs-second-2-billion-inflow-in-two-weeks/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:30:34 +0000",
+      "excerpt": "The US-based spot Bitcoin ETFs (exchange-traded funds) have been in scintillating form over the past few weeks, seeing an influx of significant capital during this period. This positive trend shoul...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "15a8242acfca72e923bfccd4a26b9f90",
+      "title": "Fed up with the daily grind? Bitcoin researcher says you can retire with less than 1 BTC",
+      "link": "https://cryptoslate.com/fed-up-with-the-daily-grind-bitcoin-researcher-says-you-can-retire-with-less-than-1-btc/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:00:35 +0000",
+      "excerpt": "If the stresses and strains of modern life are becoming a little too much, fear not. Those of you who’ve been stacking sats may soon be able to take your foot off the pedal. According to a Bitcoin ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "2d138cfe1227840c7cf51f981da5d08b",
+      "title": "VanEck CEO Predicts Rise of ‘Super Apps’ Like Robinhood, Kraken and X Will Put Pressure on TradFi’s Payments System",
+      "link": "https://dailyhodl.com/2025/07/20/vaneck-ceo-predicts-rise-of-super-apps-like-robinhood-kraken-and-x-will-put-pressure-on-tradfis-payments-system/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:00:26 +0000",
+      "excerpt": "The chief executive of exchange-traded fund (ETF) provider VanEck is predicting that “super apps” will challenge traditional finance’s payments system. In a new interview with CNBC Television, VanE...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "d13483ae759eb4af9aa6bf98a4b17252",
+      "title": "Cardano’s Charles Hoskinson Preps Explosive August Audit Amid $600 Million ADA Scandal",
+      "link": "https://beincrypto.com/cardano-audit-hoskinson-ada-scandal/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 19:45:30 +0000",
+      "excerpt": "Charles Hoskinson is set to release a full audit in mid-August to refute claims of $600 million ADA theft, boosting Cardano's credibility and fueling a potential bullish breakout for ADA.\nThe post ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "770744b1874c79deee8b387d754a0f33",
+      "title": "Altcoin Season Is Popping: Index Clocks 51 as Hype Hits a Boiling Point",
+      "link": "https://news.bitcoin.com/altcoin-season-is-popping-index-clocks-51-as-hype-hits-a-boiling-point/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 19:30:58 +0000",
+      "excerpt": "Just four days ago, the Altcoin Season Index (ASI) hovered at a modest 39, and as of today, it has climbed even higher to a score of 51 out of a possible 100. For altcoin season to truly kick off, ...",
+      "categories": [
+        "defi"
+      ],
+      "tags": []
+    },
     {
       "id": "5a4eb96bc6bcab64a421bb0b1cf4dd62",
       "title": "Crypto Crooks Take Over Stellar Blade’s X Account, Spread Fake Crypto",
@@ -4988,5 +5041,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T19:23:47.736725"
+  "last_updated": "2025-07-20T20:31:40.632981"
 }
