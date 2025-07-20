@@ -1,6 +1,63 @@
 {
   "latest": [
     {
+      "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
+      "title": "Who owns the most Bitcoin in 2025? The rich list revealed",
+      "link": "https://cointelegraph.com/news/bitcoin-rich-list-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 07:34:27 +0100",
+      "excerpt": "From exchanges and ETFs to sovereign treasuries and crypto billionaires, Bitcoin’s ownership map in 2025 reveals a mix of concentration and quiet decentralization.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "b82b817ed7c97a826142dea125a07780",
+      "title": "Privacy as Policy: Aleo Protocol Founder Proposes ZKPs as RegTech Game-Changer",
+      "link": "https://news.bitcoin.com/privacy-as-policy-aleo-protocol-founder-proposes-zkps-as-regtech-game-changer/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 06:30:08 +0000",
+      "excerpt": "Although blockchain technology has made considerable strides, bringing these innovations into traditional finance remains a complex endeavor. According to Howard Wu regulatory ambiguity was histori...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "952526a335d0b849d9bd5fd40bdfa61a",
+      "title": "Litecoin Skyrockets by Double-Digits, Bitcoin Price Stalls at $118K: Weekend Watch",
+      "link": "https://cryptopotato.com/litecoin-skyrockets-by-double-digits-bitcoin-price-stalls-at-118k-weekend-watch/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 06:28:30 +0000",
+      "excerpt": "ENA and XDC are the top gainers today.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "a5060a711a12ceba32684d984f23daf5",
+      "title": "Thumzup Backs XRP as It Hits ATH in $250M Crypto Shift",
+      "link": "https://cryptopotato.com/thumzup-backs-xrp-as-it-hits-ath-in-250m-crypto-shift/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 05:40:56 +0000",
+      "excerpt": "Thumzup approves $250M crypto plan including XRP, USDC, and more, as shares surge and the former hits $3.65.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "af4b61477cde30acfb61454d71aec751",
       "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
       "link": "https://cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -53,6 +110,21 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "217ab11a8d5aae33411fb892346c094d",
+      "title": "Chainlink Sees Heavy Accumulation – Whales Add 8M LINK In One Month",
+      "link": "https://www.newsbtc.com/chainlink-news/chainlink-sees-heavy-accumulation-whales-add-8m-link-in-one-month/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 04:00:13 +0000",
+      "excerpt": "Chainlink is entering a pivotal moment in its market cycle, with bullish sentiment returning after a prolonged period of underperformance. Since late June, LINK has surged over 70%, marking its str...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
     },
     {
       "id": "ee1688f16abaa09c7d166879fbad1e3d",
@@ -215,95 +287,40 @@
         "Trading",
         "Regulation"
       ]
-    },
-    {
-      "id": "998423a38eb947b175b8db33afb9d0ab",
-      "title": "Ripple’s RLUSD Ranked No. 1 Stablecoin by Bluechip With ‘A’ Rating",
-      "link": "https://news.bitcoin.com/ripples-rlusd-ranked-no-1-stablecoin-by-bluechip-with-a-rating/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 23:30:33 +0000",
-      "excerpt": "Ripple’s RLUSD rockets to the top as Bluechip’s highest-rated stablecoin, dominating for unmatched stability, elite governance, and rock-solid backing trusted by global institutions. Bluechip Ranks...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "b98d672fc9315ca5302b4339a8c4594f",
-      "title": "XRP Headed For ‘Insane Levels’ — Major Predictions After Hitting 7-Year High",
-      "link": "https://www.newsbtc.com/altcoin/xrp-headed-for-insane-levels-major-predictions-after-hitting-7-year-high/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 23:30:29 +0000",
-      "excerpt": "A new technical analysis by market expert Austin Hilton points to the potential for an explosive surge that could drive XRP to insane price levels. These bullish projections come as XRP hits price ...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "da2889e0eff24236359a009d690ac67a",
-      "title": "Tether Eyes $1 Trillion USDT Milestone But Faces Strict New US Rules",
-      "link": "https://beincrypto.com/tether-usdt-scalling-plan-genius-act/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 23:29:00 +0000",
-      "excerpt": "The GENIUS Act grants the Federal Reserve oversight of dollar-backed tokens and imposes strict audit and compliance standards on issuers like Tether.\nThe post Tether Eyes $1 Trillion USDT Milestone...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "7bdd59709e90dee7b1bc3c5f58553d63",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "a3833e4218fa94fdbe3054ec49518b85",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
+      "title": "Who owns the most Bitcoin in 2025? The rich list revealed",
+      "link": "https://cointelegraph.com/news/bitcoin-rich-list-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 07:34:27 +0100",
+      "excerpt": "From exchanges and ETFs to sovereign treasuries and crypto billionaires, Bitcoin’s ownership map in 2025 reveals a mix of concentration and quiet decentralization.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "952526a335d0b849d9bd5fd40bdfa61a",
+      "title": "Litecoin Skyrockets by Double-Digits, Bitcoin Price Stalls at $118K: Weekend Watch",
+      "link": "https://cryptopotato.com/litecoin-skyrockets-by-double-digits-bitcoin-price-stalls-at-118k-weekend-watch/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 06:28:30 +0000",
+      "excerpt": "ENA and XDC are the top gainers today.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
     {
       "id": "af4b61477cde30acfb61454d71aec751",
       "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
@@ -349,51 +366,40 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "7bdd59709e90dee7b1bc3c5f58553d63",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "a3833e4218fa94fdbe3054ec49518b85",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
+      "title": "Who owns the most Bitcoin in 2025? The rich list revealed",
+      "link": "https://cointelegraph.com/news/bitcoin-rich-list-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 07:34:27 +0100",
+      "excerpt": "From exchanges and ETFs to sovereign treasuries and crypto billionaires, Bitcoin’s ownership map in 2025 reveals a mix of concentration and quiet decentralization.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "952526a335d0b849d9bd5fd40bdfa61a",
+      "title": "Litecoin Skyrockets by Double-Digits, Bitcoin Price Stalls at $118K: Weekend Watch",
+      "link": "https://cryptopotato.com/litecoin-skyrockets-by-double-digits-bitcoin-price-stalls-at-118k-weekend-watch/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 06:28:30 +0000",
+      "excerpt": "ENA and XDC are the top gainers today.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
     {
       "id": "af4b61477cde30acfb61454d71aec751",
       "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
@@ -526,41 +532,6 @@
       ],
       "tags": [
         "Bitcoin"
-      ]
-    },
-    {
-      "id": "a274c53d9e112e39dec20571abb69e52",
-      "title": "IMF Bombshell: El Salvador Didn’t Buy Bitcoin In 2025 After All",
-      "link": "https://bitcoinist.com/imf-bombshell-el-salvador-didnt-buy-bitcoin-in-2025-after-all/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 20:30:25 +0000",
-      "excerpt": "A new report has shaken up El Salvador’s bold Bitcoin story. All year long, President Nayib Bukele and the National Bitcoin Office promised they were buying one BTC every day. Public trackers even ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "cebc7f19b6345e34583ce993642dece2",
-      "title": "Crypto Weekly Wrap: Bitcoin Hits $123K, XRP and ETH Unleash Chart-Busting Comebacks",
-      "link": "https://news.bitcoin.com/crypto-weekly-wrap-bitcoin-hits-123k-xrp-and-eth-unleash-chart-busting-comebacks/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 19:31:19 +0000",
-      "excerpt": "The cryptocurrency market experienced a significant week, highlighted by bitcoin surpassing $123,000 on July 14, followed by a surge in altcoins, particularly ethereum, which saw double-digit gains...",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading",
-        "Analysis"
       ]
     }
   ],
@@ -1154,6 +1125,63 @@
   ],
   "all": [
     {
+      "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
+      "title": "Who owns the most Bitcoin in 2025? The rich list revealed",
+      "link": "https://cointelegraph.com/news/bitcoin-rich-list-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 07:34:27 +0100",
+      "excerpt": "From exchanges and ETFs to sovereign treasuries and crypto billionaires, Bitcoin’s ownership map in 2025 reveals a mix of concentration and quiet decentralization.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "b82b817ed7c97a826142dea125a07780",
+      "title": "Privacy as Policy: Aleo Protocol Founder Proposes ZKPs as RegTech Game-Changer",
+      "link": "https://news.bitcoin.com/privacy-as-policy-aleo-protocol-founder-proposes-zkps-as-regtech-game-changer/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 06:30:08 +0000",
+      "excerpt": "Although blockchain technology has made considerable strides, bringing these innovations into traditional finance remains a complex endeavor. According to Howard Wu regulatory ambiguity was histori...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "952526a335d0b849d9bd5fd40bdfa61a",
+      "title": "Litecoin Skyrockets by Double-Digits, Bitcoin Price Stalls at $118K: Weekend Watch",
+      "link": "https://cryptopotato.com/litecoin-skyrockets-by-double-digits-bitcoin-price-stalls-at-118k-weekend-watch/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 06:28:30 +0000",
+      "excerpt": "ENA and XDC are the top gainers today.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "a5060a711a12ceba32684d984f23daf5",
+      "title": "Thumzup Backs XRP as It Hits ATH in $250M Crypto Shift",
+      "link": "https://cryptopotato.com/thumzup-backs-xrp-as-it-hits-ath-in-250m-crypto-shift/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 05:40:56 +0000",
+      "excerpt": "Thumzup approves $250M crypto plan including XRP, USDC, and more, as shares surge and the former hits $3.65.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "af4b61477cde30acfb61454d71aec751",
       "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
       "link": "https://cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1206,6 +1234,21 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "217ab11a8d5aae33411fb892346c094d",
+      "title": "Chainlink Sees Heavy Accumulation – Whales Add 8M LINK In One Month",
+      "link": "https://www.newsbtc.com/chainlink-news/chainlink-sees-heavy-accumulation-whales-add-8m-link-in-one-month/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 04:00:13 +0000",
+      "excerpt": "Chainlink is entering a pivotal moment in its market cycle, with bullish sentiment returning after a prolonged period of underperformance. Since late June, LINK has surged over 70%, marking its str...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
     },
     {
       "id": "ee1688f16abaa09c7d166879fbad1e3d",
@@ -2262,6 +2305,21 @@
         "NFT",
         "Trading",
         "Regulation"
+      ]
+    },
+    {
+      "id": "d20452ab833fc1144d1b9ead40f0b67d",
+      "title": "Spot Bitcoin ETFs gain $363M, extend 12-day inflow streak to $6.6B",
+      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 13:52:16 +0100",
+      "excerpt": "Spot Bitcoin ETFs have attracted over $6.6 billion in 12 days, boosting assets under management to $152.4 billion.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
       ]
     },
     {
@@ -3892,5 +3950,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T05:36:30.582989"
+  "last_updated": "2025-07-20T06:41:18.785297"
 }
