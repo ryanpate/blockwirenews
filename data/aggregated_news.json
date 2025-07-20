@@ -1,6 +1,34 @@
 {
   "latest": [
     {
+      "id": "4ae044943e001d2b2af80221025c2bc1",
+      "title": "Litecoin Price Hits 4-Month High, But Whale Selling Could Bring Risks",
+      "link": "https://beincrypto.com/litecoin-price-faces-pressure-from-whale-selling/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:00:00 +0000",
+      "excerpt": "Litecoin has surged 14% to $116, but a significant whale selloff poses a threat to its rally. If the selloff continues, LTC could face retracement, though long-term holders remain bullish.\nThe post...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "6d555232f1de8a142998fd876311b59f",
+      "title": "Stablecoin Bill Passage Signals Start of New Financial Revolution in America, According to Coinbase CEO Brian Armstrong",
+      "link": "https://dailyhodl.com/2025/07/20/stablecoin-bill-passage-signals-start-of-new-financial-revolution-in-america-according-to-coinbase-ceo-brian-armstrong/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 16:55:49 +0000",
+      "excerpt": "Coinbase chief executive Brian Armstrong believes that the signing of a stablecoin bill into law marks the beginning of a new financial era in the US. On July 18th, President Trump signed the GENIU...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "bcb580648b11a53d7f0f8c469a98f1ea",
       "title": "Bitcoin gets $125K target as trader sees &#039;big move&#039; next, ETH hits $3750",
       "link": "https://cointelegraph.com/news/bitcoin-gets-125k-target-trader-big-move-next-eth-hits-3750?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -272,34 +300,6 @@
         "crypto"
       ],
       "tags": []
-    },
-    {
-      "id": "943a2c34ba14074a573eaafe359167bd",
-      "title": "HBAR Traders Face $46 Million Liquidation Risk Despite Latest Rally",
-      "link": "https://beincrypto.com/hedera-hbar-traders-face-liquidation-risk/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 14:16:30 +0000",
-      "excerpt": "HBAR is nearing $0.30 after a strong rally, but traders should be cautious as overbought conditions and potential liquidations pose risks to its momentum.\nThe post HBAR Traders Face $46 Million Liq...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "5c1275a2179dee378a44f1a40c5620aa",
-      "title": "High-leverage trader James Wynn opens 25x long on ETH, 10x on PEPE",
-      "link": "https://cointelegraph.com/news/james-wynn-25x-eth-10x-pepe-leverage-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 14:01:12 +0100",
-      "excerpt": "James Wynn has opened high-risk leveraged trades on Ether and PEPE worth over $23 million after a $536,000 USDC deposit into Hyperliquid.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
     }
   ],
   "featured": [
@@ -1120,6 +1120,34 @@
     }
   ],
   "all": [
+    {
+      "id": "4ae044943e001d2b2af80221025c2bc1",
+      "title": "Litecoin Price Hits 4-Month High, But Whale Selling Could Bring Risks",
+      "link": "https://beincrypto.com/litecoin-price-faces-pressure-from-whale-selling/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:00:00 +0000",
+      "excerpt": "Litecoin has surged 14% to $116, but a significant whale selloff poses a threat to its rally. If the selloff continues, LTC could face retracement, though long-term holders remain bullish.\nThe post...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "6d555232f1de8a142998fd876311b59f",
+      "title": "Stablecoin Bill Passage Signals Start of New Financial Revolution in America, According to Coinbase CEO Brian Armstrong",
+      "link": "https://dailyhodl.com/2025/07/20/stablecoin-bill-passage-signals-start-of-new-financial-revolution-in-america-according-to-coinbase-ceo-brian-armstrong/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 16:55:49 +0000",
+      "excerpt": "Coinbase chief executive Brian Armstrong believes that the signing of a stablecoin bill into law marks the beginning of a new financial era in the US. On July 18th, President Trump signed the GENIU...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
     {
       "id": "bcb580648b11a53d7f0f8c469a98f1ea",
       "title": "Bitcoin gets $125K target as trader sees &#039;big move&#039; next, ETH hits $3750",
@@ -4822,5 +4850,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T16:35:21.457092"
+  "last_updated": "2025-07-20T17:28:39.029492"
 }
