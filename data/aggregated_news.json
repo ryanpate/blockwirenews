@@ -1,6 +1,34 @@
 {
   "latest": [
     {
+      "id": "af4b61477cde30acfb61454d71aec751",
+      "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
+      "link": "https://cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 04:59:11 +0100",
+      "excerpt": "Santiment says the “historic social dominance spike” may indicate another buying opportunity for Bitcoin in the near term.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "1a3f2c0ddc9cee76b0b07a09073135fa",
+      "title": "Pump.fun Ex‑Developer Behind $2M Crypto Theft Jailed For Bail Breach",
+      "link": "https://bitcoinist.com/pump-fun-ex%e2%80%91developer-2m-theft-jailed-bail-breach/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 04:00:22 +0000",
+      "excerpt": "Pump.fun former employee Jarett Dunn has been remanded to a London prison after breaching the terms of a bail agreement. The Canadian and popular crypto figure is currently undergoing trial after s...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "ee1688f16abaa09c7d166879fbad1e3d",
       "title": "Crypto Giant Bullish Files for NYSE IPO With Peter Thiel Backing",
       "link": "https://news.bitcoin.com/crypto-giant-bullish-files-for-nyse-ipo-with-peter-thiel-backing/",
@@ -29,6 +57,19 @@
       "tags": [
         "Regulation"
       ]
+    },
+    {
+      "id": "57c61ffec17dd9366df7badb69824620",
+      "title": "FLOKI Faces Historical Reversal Cues After a 40% Rally",
+      "link": "https://beincrypto.com/floki-price-surge-faces-historical-reversal/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 02:30:00 +0000",
+      "excerpt": "FLOKI’s 40% weekly rally has drawn investor attention, but signs of overheating—like rising open interest and high MVRV—signal a possible reversal.\nThe post FLOKI Faces Historical Reversal Cues Aft...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "209d27c69732230399511c568d15850c",
@@ -79,6 +120,21 @@
       "sourceUrl": "https://beincrypto.com/feed/",
       "timestamp": "Sun, 20 Jul 2025 01:00:00 +0000",
       "excerpt": "Stellar struggles to breach $0.50 amidst outflows and weakening momentum. A further drop is possible unless inflows recover, which could drive a price reversal.\nThe post Steller (XLM) Price Faces C...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "d29aafe90e06820be41a2af36d8a3f3d",
+      "title": "XLM&#039;s price to rocket like XRP, Trump’s big crypto nod: Hodler’s Digest, July 13 – 19",
+      "link": "https://cointelegraph.com/news/stellar-xlm-xrp-rally-donald-trump-crypto-sign-bill-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 00:38:07 +0100",
+      "excerpt": "Stellar may be setting up more upside after XRP's recent price surge, US President Donald Trump signed one of the first bills related to crypto, and other news.",
       "categories": [
         "crypto"
       ],
@@ -245,69 +301,24 @@
         "crypto"
       ],
       "tags": []
-    },
+    }
+  ],
+  "featured": [
     {
-      "id": "91ef38e9cd545013c7de42c2d1707981",
-      "title": "US Lawmaker sounds alarm on GENIUS bill, says it&#039;s a CBDC Trojan Horse",
-      "link": "https://cointelegraph.com/news/us-lawmaker-alarm-genius-bill-cbdc-trojan-horse?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
+      "id": "af4b61477cde30acfb61454d71aec751",
+      "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
+      "link": "https://cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "CoinTelegraph",
       "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 23:15:24 +0100",
-      "excerpt": "The line between a central bank digital currency and a centrally-managed, government-regulated stablecoin is thin, critics argue.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "2cafdda1beb75ea53f151752eb09ab8a",
-      "title": "Tether Boss: GENIUS Act Positions US for Digital Finance Leadership",
-      "link": "https://news.bitcoin.com/tether-boss-genius-act-positions-us-for-digital-finance-leadership/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 22:30:19 +0000",
-      "excerpt": "Tether CEO Paolo Ardoino hailed the signing of the GENIUS Act by U.S. President Donald Trump on July 18 as a pivotal milestone in creating a transparent regulatory framework for digital assets in t...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "084111168833c7313879d476646905e8",
-      "title": "Bitcoin Whale Exchange Transfers Spike As Capital Rotation Begins — Latest Altseason Signal?",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-whale-exchange-transfers-spike-as-capital-rotation-begins-latest-altseason-signal/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 22:00:39 +0000",
-      "excerpt": "Over the past week, the Bitcoin (BTC) market recorded a new all-time high at $123,091 on July 14. However, the premier cryptocurrency has experienced a slight price retracement since reaching this ...",
+      "timestamp": "Sun, 20 Jul 2025 04:59:11 +0100",
+      "excerpt": "Santiment says the “historic social dominance spike” may indicate another buying opportunity for Bitcoin in the near term.",
       "categories": [
         "bitcoin"
       ],
       "tags": [
-        "Bitcoin",
-        "Trading"
+        "Bitcoin"
       ]
     },
-    {
-      "id": "f255675a993668ab3fb9b8ee94f4896f",
-      "title": "Signal That Sparked 630% XRP Price Rally In 2024 Just Got Triggered Again",
-      "link": "https://bitcoinist.com/xrp-price-rally-triggered-again/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 22:00:29 +0000",
-      "excerpt": "The XRP price action could be setting up for a major rally as a key bullish signal has just reappeared on the charts. According to crypto analyst Ali Martinez, this historical indicator previously ...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading",
-        "Analysis"
-      ]
-    }
-  ],
-  "featured": [
     {
       "id": "7075e7108dac8f412ba8f7c2080e0c0c",
       "title": "Robert Kiyosaki Reveals When He’ll Buy More Bitcoin—And When He’ll Stop Buying",
@@ -380,24 +391,24 @@
         "Trading",
         "Regulation"
       ]
-    },
-    {
-      "id": "2cafdda1beb75ea53f151752eb09ab8a",
-      "title": "Tether Boss: GENIUS Act Positions US for Digital Finance Leadership",
-      "link": "https://news.bitcoin.com/tether-boss-genius-act-positions-us-for-digital-finance-leadership/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 22:30:19 +0000",
-      "excerpt": "Tether CEO Paolo Ardoino hailed the signing of the GENIUS Act by U.S. President Donald Trump on July 18 as a pivotal milestone in creating a transparent regulatory framework for digital assets in t...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "af4b61477cde30acfb61454d71aec751",
+      "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
+      "link": "https://cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 04:59:11 +0100",
+      "excerpt": "Santiment says the “historic social dominance spike” may indicate another buying opportunity for Bitcoin in the near term.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
     {
       "id": "7075e7108dac8f412ba8f7c2080e0c0c",
       "title": "Robert Kiyosaki Reveals When He’ll Buy More Bitcoin—And When He’ll Stop Buying",
@@ -550,22 +561,6 @@
         "Ethereum",
         "Trading",
         "Analysis"
-      ]
-    },
-    {
-      "id": "07505784d827fc78330632e63db360e8",
-      "title": "Bitcoin ETFs Are Booming—But Self-Custody Growth Just Broke 15-Year Streak",
-      "link": "https://bitcoinist.com/bitcoin-etfs-market-capture-falling-self-custody/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 19:00:30 +0000",
-      "excerpt": "The US-based spot Bitcoin ETFs (exchange-traded funds) have continued to soar after they started trading in January 2024, breaking and setting records in the global ETF market. Recently, BlackRock’...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
       ]
     }
   ],
@@ -1159,6 +1154,34 @@
   ],
   "all": [
     {
+      "id": "af4b61477cde30acfb61454d71aec751",
+      "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
+      "link": "https://cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 04:59:11 +0100",
+      "excerpt": "Santiment says the “historic social dominance spike” may indicate another buying opportunity for Bitcoin in the near term.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "1a3f2c0ddc9cee76b0b07a09073135fa",
+      "title": "Pump.fun Ex‑Developer Behind $2M Crypto Theft Jailed For Bail Breach",
+      "link": "https://bitcoinist.com/pump-fun-ex%e2%80%91developer-2m-theft-jailed-bail-breach/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 04:00:22 +0000",
+      "excerpt": "Pump.fun former employee Jarett Dunn has been remanded to a London prison after breaching the terms of a bail agreement. The Canadian and popular crypto figure is currently undergoing trial after s...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "ee1688f16abaa09c7d166879fbad1e3d",
       "title": "Crypto Giant Bullish Files for NYSE IPO With Peter Thiel Backing",
       "link": "https://news.bitcoin.com/crypto-giant-bullish-files-for-nyse-ipo-with-peter-thiel-backing/",
@@ -1187,6 +1210,19 @@
       "tags": [
         "Regulation"
       ]
+    },
+    {
+      "id": "57c61ffec17dd9366df7badb69824620",
+      "title": "FLOKI Faces Historical Reversal Cues After a 40% Rally",
+      "link": "https://beincrypto.com/floki-price-surge-faces-historical-reversal/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 02:30:00 +0000",
+      "excerpt": "FLOKI’s 40% weekly rally has drawn investor attention, but signs of overheating—like rising open interest and high MVRV—signal a possible reversal.\nThe post FLOKI Faces Historical Reversal Cues Aft...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "209d27c69732230399511c568d15850c",
@@ -1237,6 +1273,21 @@
       "sourceUrl": "https://beincrypto.com/feed/",
       "timestamp": "Sun, 20 Jul 2025 01:00:00 +0000",
       "excerpt": "Stellar struggles to breach $0.50 amidst outflows and weakening momentum. A further drop is possible unless inflows recover, which could drive a price reversal.\nThe post Steller (XLM) Price Faces C...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "d29aafe90e06820be41a2af36d8a3f3d",
+      "title": "XLM&#039;s price to rocket like XRP, Trump’s big crypto nod: Hodler’s Digest, July 13 – 19",
+      "link": "https://cointelegraph.com/news/stellar-xlm-xrp-rally-donald-trump-crypto-sign-bill-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 00:38:07 +0100",
+      "excerpt": "Stellar may be setting up more upside after XRP's recent price surge, US President Donald Trump signed one of the first bills related to crypto, and other news.",
       "categories": [
         "crypto"
       ],
@@ -3815,5 +3866,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T02:36:46.682417"
+  "last_updated": "2025-07-20T04:11:07.643052"
 }
