@@ -1,6 +1,32 @@
 {
   "latest": [
     {
+      "id": "9684804c3342bb65fab9ca251b28f90f",
+      "title": "74-Year-Old California Man Missing; Kidnapping Suspected Over Family Crypto Fortune",
+      "link": "https://cryptonews.com/news/74-year-old-california-man-missing-kidnapping-suspected-over-family-crypto-fortune/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 14:24:00 +0000",
+      "excerpt": "California police are investigating the suspicious disappearance of 74-year-old Naiping Hou, possibly linked to his family's crypto wealth.\nThe post 74-Year-Old California Man Missing; Kidnapping S...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "943a2c34ba14074a573eaafe359167bd",
+      "title": "HBAR Traders Face $46 Million Liquidation Risk Despite Latest Rally",
+      "link": "https://beincrypto.com/hedera-hbar-traders-face-liquidation-risk/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 14:16:30 +0000",
+      "excerpt": "HBAR is nearing $0.30 after a strong rally, but traders should be cautious as overbought conditions and potential liquidations pose risks to its momentum.\nThe post HBAR Traders Face $46 Million Liq...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "5c1275a2179dee378a44f1a40c5620aa",
       "title": "High-leverage trader James Wynn opens 25x long on ETH, 10x on PEPE",
       "link": "https://cointelegraph.com/news/james-wynn-25x-eth-10x-pepe-leverage-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -28,6 +54,22 @@
       ],
       "tags": [
         "DeFi"
+      ]
+    },
+    {
+      "id": "b4a7927c007abf197a1a8bc5df6e9ad0",
+      "title": "Bitcoin Hits All-Time High—And The Internet Can’t Stop Talking About It",
+      "link": "https://bitcoinist.com/bitcoin-hits-all-time-high-and-the-internet-cant-stop-talking-about-it/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 13:00:43 +0000",
+      "excerpt": "Bitcoin chatter took over social media this week as the coin climbed to a fresh high. According to Santiment, Bitcoin’s market value climbed above $123,000 for the first time in its 17-plus year hi...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
       ]
     },
     {
@@ -232,6 +274,22 @@
       ]
     },
     {
+      "id": "89cc6db4427dbb63b7657be32211d187",
+      "title": "Ethereum Binance Reserves At New High As Dominance Grows — What This Means For Price",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-reserves-at-a-new-high-as-dominance-grows/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:00:38 +0000",
+      "excerpt": "Ethereum has revived a long-lost faith in its investors following its recent impressive price action, which saw the altcoin reclaim the $3,000 level. While the ETH token is still a fair distance fr...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
       "id": "2ae70f637e4a281589e4462bf29146c3",
       "title": "UK Government Looks To Offload $7 Billion Seized Bitcoin – Details",
       "link": "https://bitcoinist.com/uk-government-to-offload-7-billion-seized-bitcoin/",
@@ -244,69 +302,6 @@
       ],
       "tags": [
         "Bitcoin"
-      ]
-    },
-    {
-      "id": "4374ce1da1983b34c39055065b2767b7",
-      "title": "UK Home Office Plans to Sell $7 Billion in Seized Bitcoin: The Telegraph",
-      "link": "https://cryptonews.com/news/uk-home-office-plans-to-sell-7-billion-in-seized-bitcoin-the-telegraph/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 09:50:36 +0000",
-      "excerpt": "The UK government is preparing to offload billions of pounds worth of seized Bitcoin, as pressure mounts on Chancellor Rachel Reeves to plug a widening budget gap.\nThe post UK Home Office Plans to ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "fefb309f88039c4d1783db09f23bb46c",
-      "title": "Indian Crypto Exchange CoinDCX Suffers Major Hack, Loses $44 Million in Security Breach",
-      "link": "https://cryptonews.com/news/indian-crypto-exchange-coindcx-suffers-major-hack-loses-44-million-in-security-breach/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 09:35:51 +0000",
-      "excerpt": "Indian crypto exchange CoinDCX has confirmed a major security breach that resulted in the loss of $44 million.\nThe post Indian Crypto Exchange CoinDCX Suffers Major Hack, Loses $44 Million in Secur...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "ea950f07570f3edbc81722a582b18385",
-      "title": "Bitcoin Forms Golden Cross Again — How High Can BTC Climb?",
-      "link": "https://cryptopotato.com/bitcoin-forms-golden-cross-again-how-high-can-btc-climb/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 09:35:11 +0000",
-      "excerpt": "Not all golden crosses come with positive price trends, but strong Bitcoin fundamentals and favorable macroeconomic factors support this one.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "959b4483208b545a9af049073dbe1622",
-      "title": "UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Style Mistake",
-      "link": "https://beincrypto.com/uk-plans-to-sell-bitcoin-sparks-backlash/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 09:32:20 +0000",
-      "excerpt": "The UK government is considering selling $6.7 billion worth of seized Bitcoin to help address a £20 billion budget deficit.\nThe post UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Sty...",
-      "categories": [
-        "bitcoin",
-        "defi"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi"
       ]
     }
   ],
@@ -324,6 +319,22 @@
       ],
       "tags": [
         "Ethereum"
+      ]
+    },
+    {
+      "id": "b4a7927c007abf197a1a8bc5df6e9ad0",
+      "title": "Bitcoin Hits All-Time High—And The Internet Can’t Stop Talking About It",
+      "link": "https://bitcoinist.com/bitcoin-hits-all-time-high-and-the-internet-cant-stop-talking-about-it/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 13:00:43 +0000",
+      "excerpt": "Bitcoin chatter took over social media this week as the coin climbed to a fresh high. According to Santiment, Bitcoin’s market value climbed above $123,000 for the first time in its 17-plus year hi...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
       ]
     },
     {
@@ -371,24 +382,25 @@
       "tags": [
         "Bitcoin"
       ]
-    },
-    {
-      "id": "5bc4d27012961d39ecb517aad9d3d1ba",
-      "title": "1 Year On: How Have Spot Ethereum ETFs Performed?",
-      "link": "https://cryptopotato.com/1-year-on-how-have-spot-ethereum-etfs-performed/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 12:21:30 +0000",
-      "excerpt": "Spot Ethereum ETFs have had a challenging journey, especially with ETH underperforming in this cycle.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "b4a7927c007abf197a1a8bc5df6e9ad0",
+      "title": "Bitcoin Hits All-Time High—And The Internet Can’t Stop Talking About It",
+      "link": "https://bitcoinist.com/bitcoin-hits-all-time-high-and-the-internet-cant-stop-talking-about-it/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 13:00:43 +0000",
+      "excerpt": "Bitcoin chatter took over social media this week as the coin climbed to a fresh high. According to Santiment, Bitcoin’s market value climbed above $123,000 for the first time in its 17-plus year hi...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
     {
       "id": "69c5b293fe98947d35b186b2dfb7f8a2",
       "title": "Bitcoin Re-Enters Profit Zone As Greed Rises, But Rally To $200,000 Still Possible",
@@ -529,21 +541,6 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "37c27dfe58901594deaac3538997cab7",
-      "title": "Bitcoin Growth Rate Indicator Signals Bullish Continuation – Analyst",
-      "link": "https://bitcoinist.com/bitcoin-growth-rate-indicator-signals-bullish-continuation-analyst/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 08:30:13 +0000",
-      "excerpt": "Bitcoin has entered a consolidation phase after briefly pushing above the $120,000 level, marking a significant milestone in its ongoing bull cycle. Despite the temporary pause in upward momentum, ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
     }
   ],
   "ethereum": [
@@ -607,6 +604,22 @@
       "categories": [
         "ethereum",
         "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "89cc6db4427dbb63b7657be32211d187",
+      "title": "Ethereum Binance Reserves At New High As Dominance Grows — What This Means For Price",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-reserves-at-a-new-high-as-dominance-grows/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:00:38 +0000",
+      "excerpt": "Ethereum has revived a long-lost faith in its investors following its recent impressive price action, which saw the altcoin reclaim the $3,000 level. While the ETH token is still a fair distance fr...",
+      "categories": [
+        "ethereum"
       ],
       "tags": [
         "Ethereum",
@@ -688,26 +701,6 @@
         "analysis"
       ],
       "tags": [
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "cebc7f19b6345e34583ce993642dece2",
-      "title": "Crypto Weekly Wrap: Bitcoin Hits $123K, XRP and ETH Unleash Chart-Busting Comebacks",
-      "link": "https://news.bitcoin.com/crypto-weekly-wrap-bitcoin-hits-123k-xrp-and-eth-unleash-chart-busting-comebacks/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 19:31:19 +0000",
-      "excerpt": "The cryptocurrency market experienced a significant week, highlighted by bitcoin surpassing $123,000 on July 14, followed by a surge in altcoins, particularly ethereum, which saw double-digit gains...",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
         "Ethereum",
         "Trading",
         "Analysis"
@@ -1123,6 +1116,32 @@
   ],
   "all": [
     {
+      "id": "9684804c3342bb65fab9ca251b28f90f",
+      "title": "74-Year-Old California Man Missing; Kidnapping Suspected Over Family Crypto Fortune",
+      "link": "https://cryptonews.com/news/74-year-old-california-man-missing-kidnapping-suspected-over-family-crypto-fortune/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 14:24:00 +0000",
+      "excerpt": "California police are investigating the suspicious disappearance of 74-year-old Naiping Hou, possibly linked to his family's crypto wealth.\nThe post 74-Year-Old California Man Missing; Kidnapping S...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "943a2c34ba14074a573eaafe359167bd",
+      "title": "HBAR Traders Face $46 Million Liquidation Risk Despite Latest Rally",
+      "link": "https://beincrypto.com/hedera-hbar-traders-face-liquidation-risk/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 14:16:30 +0000",
+      "excerpt": "HBAR is nearing $0.30 after a strong rally, but traders should be cautious as overbought conditions and potential liquidations pose risks to its momentum.\nThe post HBAR Traders Face $46 Million Liq...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "5c1275a2179dee378a44f1a40c5620aa",
       "title": "High-leverage trader James Wynn opens 25x long on ETH, 10x on PEPE",
       "link": "https://cointelegraph.com/news/james-wynn-25x-eth-10x-pepe-leverage-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1150,6 +1169,22 @@
       ],
       "tags": [
         "DeFi"
+      ]
+    },
+    {
+      "id": "b4a7927c007abf197a1a8bc5df6e9ad0",
+      "title": "Bitcoin Hits All-Time High—And The Internet Can’t Stop Talking About It",
+      "link": "https://bitcoinist.com/bitcoin-hits-all-time-high-and-the-internet-cant-stop-talking-about-it/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 13:00:43 +0000",
+      "excerpt": "Bitcoin chatter took over social media this week as the coin climbed to a fresh high. According to Santiment, Bitcoin’s market value climbed above $123,000 for the first time in its 17-plus year hi...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
       ]
     },
     {
@@ -1351,6 +1386,22 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "89cc6db4427dbb63b7657be32211d187",
+      "title": "Ethereum Binance Reserves At New High As Dominance Grows — What This Means For Price",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-reserves-at-a-new-high-as-dominance-grows/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:00:38 +0000",
+      "excerpt": "Ethereum has revived a long-lost faith in its investors following its recent impressive price action, which saw the altcoin reclaim the $3,000 level. While the ETH token is still a fair distance fr...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
       ]
     },
     {
@@ -1680,6 +1731,21 @@
       ]
     },
     {
+      "id": "7e4b123f2b0fa71522eef254a5dc88c1",
+      "title": "Bitcoin 43% social chat dominance suggests ‘key entry point’ ahead",
+      "link": "https://cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 04:59:11 +0100",
+      "excerpt": "Santiment says the “historic social dominance spike” may indicate another buying opportunity for Bitcoin soon.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
       "id": "af4b61477cde30acfb61454d71aec751",
       "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
       "link": "https://cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1863,6 +1929,21 @@
       ]
     },
     {
+      "id": "7a05da6ffbf22d045af3471f570f4629",
+      "title": "XLM’s price to rocket like XRP, Trump’s big crypto nod: Hodler’s Digest, July 13 – 19",
+      "link": "https://cointelegraph.com/news/stellar-xlm-xrp-rally-donald-trump-crypto-sign-bill-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 00:38:07 +0100",
+      "excerpt": "Stellar may be setting up for more upside after XRP's recent price surge, US President Donald Trump signed one of the first bills related to crypto of his adminstration, and other news.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "d29aafe90e06820be41a2af36d8a3f3d",
       "title": "XLM&#039;s price to rocket like XRP, Trump’s big crypto nod: Hodler’s Digest, July 13 – 19",
       "link": "https://cointelegraph.com/news/stellar-xlm-xrp-rally-donald-trump-crypto-sign-bill-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -2010,6 +2091,19 @@
         "Trading",
         "Regulation"
       ]
+    },
+    {
+      "id": "2f6f76caca1f7995bea3d0ff2b11f0b8",
+      "title": "US Lawmaker sounds alarm on GENIUS bill, says it’s a CBDC Trojan Horse",
+      "link": "https://cointelegraph.com/news/us-lawmaker-alarm-genius-bill-cbdc-trojan-horse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 23:15:24 +0100",
+      "excerpt": "The line between a central bank digital currency and a centrally-managed, government-regulated stablecoin is thin, critics argue.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "89f6875ef47189ccc4ec955776d2f9d5",
@@ -4463,5 +4557,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T13:38:22.865854"
+  "last_updated": "2025-07-20T14:29:33.253280"
 }
