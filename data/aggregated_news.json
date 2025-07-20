@@ -1,6 +1,67 @@
 {
   "latest": [
     {
+      "id": "5c1275a2179dee378a44f1a40c5620aa",
+      "title": "High-leverage trader James Wynn opens 25x long on ETH, 10x on PEPE",
+      "link": "https://cointelegraph.com/news/james-wynn-25x-eth-10x-pepe-leverage-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 14:01:12 +0100",
+      "excerpt": "James Wynn has opened high-risk leveraged trades on Ether and PEPE worth over $23 million after a $536,000 USDC deposit into Hyperliquid.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "f71b93bdf3559b7dd95b7e8838e39f23",
+      "title": "High yields, hidden hazards? The truth about staking in crypto",
+      "link": "https://cryptoslate.com/high-yields-hidden-hazards-the-truth-about-staking-in-crypto/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 13:00:51 +0000",
+      "excerpt": "The following is a guest post and opinion of Vitaliy Shtyrkin, Chief Product Officer at B2BINPAY. Staking has quickly become crypto’s “poster child” for easy rewards. According to on-chain data, ov...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
+      "id": "bf29d5eb6012e33fc6bce07a27b93411",
+      "title": "Crypto Exchange CoinDCX Falls Victim To $44 Million Hack – Details",
+      "link": "https://bitcoinist.com/crypto-exchange-coindcx-falls-to-44-million-hack/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 13:00:43 +0000",
+      "excerpt": "Indian exchange CoinDCX has suffered a cybersecurity attack, resulting in the loss of $44 million. This incident comes exactly one year after Indian exchange WazirX suffered a $235 million hack. Re...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "69c5b293fe98947d35b186b2dfb7f8a2",
+      "title": "Bitcoin Re-Enters Profit Zone As Greed Rises, But Rally To $200,000 Still Possible",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-re-enters-profit-zone-as-greed-rises-but-rally-to-200000-still-possible/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 13:00:08 +0000",
+      "excerpt": "Bitcoin reached a new all-time high of $122,838 on July 14, but has since slipped into a phase of consolidation around the $118,000 level. The recent pause in upward momentum hasn’t dampened market...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
       "id": "8be3c34a39a650956047fc4af71e13cb",
       "title": "UK government eyes £5 billion seized Bitcoin sale to manage fiscal shortfall",
       "link": "https://cryptoslate.com/uk-government-eyes-5-billion-seized-bitcoin-sale-to-manage-fiscal-shortfall/",
@@ -247,58 +308,32 @@
         "Bitcoin",
         "DeFi"
       ]
-    },
+    }
+  ],
+  "featured": [
     {
-      "id": "335ec88e15687abc9cd76f3299dc45e4",
-      "title": "Next-Gen AI Model Achieves New Milestone in General Intelligence",
-      "link": "https://news.bitcoin.com/next-gen-ai-model-achieves-new-milestone-in-general-intelligence/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 09:30:48 +0000",
-      "excerpt": "Alexander Wei, a member of Openai’s Large Language Model (LLM) and reasoning research team, reported that a next-generation artificial intelligence (AI) experimental reasoning model achieved gold m...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "77ef6b7009ff42a8a344e4ffbc8869be",
-      "title": "Treasury Secretary Scott Bessent Says US Dollar Coming On-Chain As Landmark Stablecoin Bill Becomes Law",
-      "link": "https://dailyhodl.com/2025/07/20/treasury-secretary-scott-bessent-says-us-dollar-coming-on-chain-as-landmark-stablecoin-bill-becomes-law/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 09:15:29 +0000",
-      "excerpt": "The secretary of the Department of the Treasury says the dollar will now be integrated into blockchains as the US passes a landmark bill creating a regulatory framework for stablecoins. In a post o...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "1c3d531a1e91d7bc72be6ea10dc71fb9",
-      "title": "GENIUS Act blocks Big Tech, banks from dominating stablecoins: Circle exec",
-      "link": "https://cointelegraph.com/news/genius-act-clause-limits-big-tech-stablecoin-power?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "id": "5c1275a2179dee378a44f1a40c5620aa",
+      "title": "High-leverage trader James Wynn opens 25x long on ETH, 10x on PEPE",
+      "link": "https://cointelegraph.com/news/james-wynn-25x-eth-10x-pepe-leverage-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "CoinTelegraph",
       "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 08:37:00 +0100",
-      "excerpt": "Circle’s Dante Disparte says the GENIUS Act ensures tech giants and banks can’t dominate the stablecoin market without facing strict structural and regulatory hurdles.",
+      "timestamp": "Sun, 20 Jul 2025 14:01:12 +0100",
+      "excerpt": "James Wynn has opened high-risk leveraged trades on Ether and PEPE worth over $23 million after a $536,000 USDC deposit into Hyperliquid.",
       "categories": [
-        "crypto"
+        "ethereum"
       ],
       "tags": [
-        "Trading"
+        "Ethereum"
       ]
     },
     {
-      "id": "15d4fc4f03c76e597b5591b1019c1255",
-      "title": "Altseason: 3 Signals Investors Should Watch For – Analyst",
-      "link": "https://www.newsbtc.com/altcoin/altseason-3-signals-investors-should-watch-for-analyst/",
+      "id": "69c5b293fe98947d35b186b2dfb7f8a2",
+      "title": "Bitcoin Re-Enters Profit Zone As Greed Rises, But Rally To $200,000 Still Possible",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-re-enters-profit-zone-as-greed-rises-but-rally-to-200000-still-possible/",
       "source": "NewsBTC",
       "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 08:30:47 +0000",
-      "excerpt": "Aside from a new all-time high in the Bitcoin market, the last trading week also heralded some altseason shouts as a slight price decline by the premier cryptocurrency coincided with significant pr...",
+      "timestamp": "Sun, 20 Jul 2025 13:00:08 +0000",
+      "excerpt": "Bitcoin reached a new all-time high of $122,838 on July 14, but has since slipped into a phase of consolidation around the $118,000 level. The recent pause in upward momentum hasn’t dampened market...",
       "categories": [
         "bitcoin"
       ],
@@ -306,9 +341,7 @@
         "Bitcoin",
         "Trading"
       ]
-    }
-  ],
-  "featured": [
+    },
     {
       "id": "8be3c34a39a650956047fc4af71e13cb",
       "title": "UK government eyes £5 billion seized Bitcoin sale to manage fiscal shortfall",
@@ -353,34 +386,17 @@
       "tags": [
         "Ethereum"
       ]
-    },
+    }
+  ],
+  "bitcoin": [
     {
-      "id": "b1f72e044c8c11ae826bb0663ff9cb3b",
-      "title": "Ethereum Set To Hit $10,000, Elliott Wave Analysis Predicts",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-set-to-hit-10000-elliott-wave-analysis-predicts/",
+      "id": "69c5b293fe98947d35b186b2dfb7f8a2",
+      "title": "Bitcoin Re-Enters Profit Zone As Greed Rises, But Rally To $200,000 Still Possible",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-re-enters-profit-zone-as-greed-rises-but-rally-to-200000-still-possible/",
       "source": "NewsBTC",
       "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 11:30:20 +0000",
-      "excerpt": "Over the past week, the Ethereum (ETH) market recorded a solid positive price performance, reaching as high as $3,600. Notably, the second-largest cryptocurrency, among many altcoins, is experienci...",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Regulation",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "18b21a52f1fdaa4b0b144049a7f92ee8",
-      "title": "Bitcoin Price Watch: $117.5K to $118K Consolidation Signals Tension Before Breakout",
-      "link": "https://news.bitcoin.com/bitcoin-price-watch-117-5k-to-118k-consolidation-signals-tension-before-breakout/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 11:30:13 +0000",
-      "excerpt": "Bitcoin’s price holds steady at $118,000 as it continues to consolidate below key resistance levels. The asset commands a market capitalization of $2.34 trillion with strong 24-hour trading volume ...",
+      "timestamp": "Sun, 20 Jul 2025 13:00:08 +0000",
+      "excerpt": "Bitcoin reached a new all-time high of $122,838 on July 14, but has since slipped into a phase of consolidation around the $118,000 level. The recent pause in upward momentum hasn’t dampened market...",
       "categories": [
         "bitcoin"
       ],
@@ -388,9 +404,7 @@
         "Bitcoin",
         "Trading"
       ]
-    }
-  ],
-  "bitcoin": [
+    },
     {
       "id": "8be3c34a39a650956047fc4af71e13cb",
       "title": "UK government eyes £5 billion seized Bitcoin sale to manage fiscal shortfall",
@@ -530,24 +544,24 @@
       "tags": [
         "Bitcoin"
       ]
-    },
-    {
-      "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
-      "title": "Who owns the most Bitcoin in 2025? The rich list revealed",
-      "link": "https://cointelegraph.com/news/bitcoin-rich-list-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 07:34:27 +0100",
-      "excerpt": "From exchanges and ETFs to sovereign treasuries and crypto billionaires, Bitcoin’s ownership map in 2025 reveals a mix of concentration and quiet decentralization.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "5c1275a2179dee378a44f1a40c5620aa",
+      "title": "High-leverage trader James Wynn opens 25x long on ETH, 10x on PEPE",
+      "link": "https://cointelegraph.com/news/james-wynn-25x-eth-10x-pepe-leverage-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 14:01:12 +0100",
+      "excerpt": "James Wynn has opened high-risk leveraged trades on Ether and PEPE worth over $23 million after a $536,000 USDC deposit into Hyperliquid.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
     {
       "id": "5bc4d27012961d39ecb517aad9d3d1ba",
       "title": "1 Year On: How Have Spot Ethereum ETFs Performed?",
@@ -698,27 +712,24 @@
         "Trading",
         "Analysis"
       ]
-    },
-    {
-      "id": "65ac06e6f60af1de3637853ae064b5c4",
-      "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
-      "link": "https://news.bitcoin.com/ether-etfs-outshine-bitcoin-etfs-for-second-straight-day-with-403-million-in-inflows/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 18:35:58 +0000",
-      "excerpt": "Crypto exchange-traded funds (ETFs) raked in $766 million on Friday, July 18, with ether ETFs once again outpacing their bitcoin counterparts. Fueled by Blackrock’s dominance, ether products contin...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Regulation"
-      ]
     }
   ],
   "defi": [
+    {
+      "id": "f71b93bdf3559b7dd95b7e8838e39f23",
+      "title": "High yields, hidden hazards? The truth about staking in crypto",
+      "link": "https://cryptoslate.com/high-yields-hidden-hazards-the-truth-about-staking-in-crypto/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 13:00:51 +0000",
+      "excerpt": "The following is a guest post and opinion of Vitaliy Shtyrkin, Chief Product Officer at B2BINPAY. Staking has quickly become crypto’s “poster child” for easy rewards. According to on-chain data, ov...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
     {
       "id": "959b4483208b545a9af049073dbe1622",
       "title": "UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Style Mistake",
@@ -866,21 +877,6 @@
       "sourceUrl": "https://news.bitcoin.com/feed/",
       "timestamp": "Sat, 19 Jul 2025 14:40:22 +0000",
       "excerpt": "The stablecoin economy expanded by $3.533 billion over the past week, pushing its total valuation past the $260 billion mark for the first time in history. DeFi and Payments Fuel Stablecoin Growth ...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi"
-      ]
-    },
-    {
-      "id": "3d2de63fc3e51ee10907aaf7548792dc",
-      "title": "Crypto Lawyer Argues GENIUS Act Sets The Stage For DeFi Expansion",
-      "link": "https://bitcoinist.com/crypto-lawyer-argues-genius-act-sets-the-stage-for-defi-expansion/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:30:09 +0000",
-      "excerpt": "In a historic move for the digital asset industry, US President Donald Trump signed the GENIUS Act into law on Friday, marking the first major federal legislation governing cryptocurrency. The bill...",
       "categories": [
         "defi"
       ],
@@ -1126,6 +1122,67 @@
     }
   ],
   "all": [
+    {
+      "id": "5c1275a2179dee378a44f1a40c5620aa",
+      "title": "High-leverage trader James Wynn opens 25x long on ETH, 10x on PEPE",
+      "link": "https://cointelegraph.com/news/james-wynn-25x-eth-10x-pepe-leverage-trade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 14:01:12 +0100",
+      "excerpt": "James Wynn has opened high-risk leveraged trades on Ether and PEPE worth over $23 million after a $536,000 USDC deposit into Hyperliquid.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "f71b93bdf3559b7dd95b7e8838e39f23",
+      "title": "High yields, hidden hazards? The truth about staking in crypto",
+      "link": "https://cryptoslate.com/high-yields-hidden-hazards-the-truth-about-staking-in-crypto/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 13:00:51 +0000",
+      "excerpt": "The following is a guest post and opinion of Vitaliy Shtyrkin, Chief Product Officer at B2BINPAY. Staking has quickly become crypto’s “poster child” for easy rewards. According to on-chain data, ov...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
+    {
+      "id": "bf29d5eb6012e33fc6bce07a27b93411",
+      "title": "Crypto Exchange CoinDCX Falls Victim To $44 Million Hack – Details",
+      "link": "https://bitcoinist.com/crypto-exchange-coindcx-falls-to-44-million-hack/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 13:00:43 +0000",
+      "excerpt": "Indian exchange CoinDCX has suffered a cybersecurity attack, resulting in the loss of $44 million. This incident comes exactly one year after Indian exchange WazirX suffered a $235 million hack. Re...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "69c5b293fe98947d35b186b2dfb7f8a2",
+      "title": "Bitcoin Re-Enters Profit Zone As Greed Rises, But Rally To $200,000 Still Possible",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-re-enters-profit-zone-as-greed-rises-but-rally-to-200000-still-possible/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 13:00:08 +0000",
+      "excerpt": "Bitcoin reached a new all-time high of $122,838 on July 14, but has since slipped into a phase of consolidation around the $118,000 level. The recent pause in upward momentum hasn’t dampened market...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
     {
       "id": "8be3c34a39a650956047fc4af71e13cb",
       "title": "UK government eyes £5 billion seized Bitcoin sale to manage fiscal shortfall",
@@ -4406,5 +4463,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T12:56:24.486063"
+  "last_updated": "2025-07-20T13:38:22.865854"
 }
