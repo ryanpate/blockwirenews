@@ -1,6 +1,38 @@
 {
   "latest": [
     {
+      "id": "66d8f5d8c1be406d6da7b27e372a6a8b",
+      "title": "Experts say ‘just a starting point’ as Crypto Week ends on a high note",
+      "link": "https://cointelegraph.com/news/crypto-week-genius-act-foundation-real-world-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 12:04:17 +0100",
+      "excerpt": "The GENIUS Act marks a turning point for crypto regulation, but experts say true integration with finance and identity systems is only beginning.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ccdd2afafd4229915f6e505218209ef5",
+      "title": "Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This Last?",
+      "link": "https://cryptonews.com/news/ethereum-price-prediction-eth-just-hit-180-day-peak-can-this-last/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:52:49 +0000",
+      "excerpt": "Ethereum has surged to a dramatic 180-day peak of $3,671, delivering an explosive 152% rally from March lows near $1,392.\nThe post Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This La...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
       "id": "cbb0d596aca5f870a63b4a1df0dd5c7b",
       "title": "Hackers Hit Centers for Medicare & Medicaid Services – 103,000 Americans Warned Names, Addresses, Provider Records and Other Sensitive Data at Risk",
       "link": "https://dailyhodl.com/2025/07/20/hackers-hit-centers-for-medicare-medicaid-services-103000-americans-warned-names-addresses-provider-records-and-other-sensitive-data-at-risk/",
@@ -267,38 +299,26 @@
       "tags": [
         "Regulation"
       ]
-    },
+    }
+  ],
+  "featured": [
     {
-      "id": "72b5511a2e15dd3d92689a1486f00831",
-      "title": "Ethereum Open Interest Hits Record $50 Billion – Volatility Incoming?",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-open-interest-hits-record-50b-volatility-incoming/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 07:00:24 +0000",
-      "excerpt": "Ethereum is holding firm above the $3,500 level, a key support reclaimed last Friday, signaling renewed strength in the market. After surging over 70% since late June, ETH appears to have entered a...",
+      "id": "ccdd2afafd4229915f6e505218209ef5",
+      "title": "Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This Last?",
+      "link": "https://cryptonews.com/news/ethereum-price-prediction-eth-just-hit-180-day-peak-can-this-last/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:52:49 +0000",
+      "excerpt": "Ethereum has surged to a dramatic 180-day peak of $3,671, delivering an explosive 152% rally from March lows near $1,392.\nThe post Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This La...",
       "categories": [
-        "ethereum"
+        "ethereum",
+        "analysis"
       ],
       "tags": [
         "Ethereum",
         "Trading"
       ]
     },
-    {
-      "id": "b82b817ed7c97a826142dea125a07780",
-      "title": "Privacy as Policy: Aleo Protocol Founder Proposes ZKPs as RegTech Game-Changer",
-      "link": "https://news.bitcoin.com/privacy-as-policy-aleo-protocol-founder-proposes-zkps-as-regtech-game-changer/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 06:30:08 +0000",
-      "excerpt": "Although blockchain technology has made considerable strides, bringing these innovations into traditional finance remains a complex endeavor. According to Howard Wu regulatory ambiguity was histori...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    }
-  ],
-  "featured": [
     {
       "id": "2ae70f637e4a281589e4462bf29146c3",
       "title": "UK Government Looks To Offload $7 Billion Seized Bitcoin – Details",
@@ -360,22 +380,6 @@
       "tags": [
         "Bitcoin",
         "DeFi"
-      ]
-    },
-    {
-      "id": "15d4fc4f03c76e597b5591b1019c1255",
-      "title": "Altseason: 3 Signals Investors Should Watch For – Analyst",
-      "link": "https://www.newsbtc.com/altcoin/altseason-3-signals-investors-should-watch-for-analyst/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 08:30:47 +0000",
-      "excerpt": "Aside from a new all-time high in the Bitcoin market, the last trading week also heralded some altseason shouts as a slight price decline by the premier cryptocurrency coincided with significant pr...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
       ]
     }
   ],
@@ -539,6 +543,23 @@
   ],
   "ethereum": [
     {
+      "id": "ccdd2afafd4229915f6e505218209ef5",
+      "title": "Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This Last?",
+      "link": "https://cryptonews.com/news/ethereum-price-prediction-eth-just-hit-180-day-peak-can-this-last/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:52:49 +0000",
+      "excerpt": "Ethereum has surged to a dramatic 180-day peak of $3,671, delivering an explosive 152% rally from March lows near $1,392.\nThe post Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This La...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
       "id": "b4206ce2603a24f7783e02c033e4df67",
       "title": "Here’s Why SEI Bulls Think It Can Outpace Ethereum’s Price Growth In Q3",
       "link": "https://cryptopotato.com/heres-why-sei-bulls-think-it-can-outpace-ethereums-price-growth-in-q3/",
@@ -689,23 +710,6 @@
       "tags": [
         "Ethereum",
         "Trading"
-      ]
-    },
-    {
-      "id": "07108c5b190c481757fec1de8c91af7b",
-      "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
-      "link": "https://cryptopotato.com/eth-treasuries-ditch-digital-gold-model-for-yield-generating-staking-heres-why-it-matters/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:19:02 +0000",
-      "excerpt": "Ethereum treasury strategies avoid hype, and focus on productive yield and staking, according to Galaxy Digital.",
-      "categories": [
-        "ethereum",
-        "defi"
-      ],
-      "tags": [
-        "Ethereum",
-        "DeFi"
       ]
     }
   ],
@@ -947,6 +951,23 @@
   ],
   "analysis": [
     {
+      "id": "ccdd2afafd4229915f6e505218209ef5",
+      "title": "Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This Last?",
+      "link": "https://cryptonews.com/news/ethereum-price-prediction-eth-just-hit-180-day-peak-can-this-last/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:52:49 +0000",
+      "excerpt": "Ethereum has surged to a dramatic 180-day peak of $3,671, delivering an explosive 152% rally from March lows near $1,392.\nThe post Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This La...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
       "id": "b98d672fc9315ca5302b4339a8c4594f",
       "title": "XRP Headed For ‘Insane Levels’ — Major Predictions After Hitting 7-Year High",
       "link": "https://www.newsbtc.com/altcoin/xrp-headed-for-insane-levels-major-predictions-after-hitting-7-year-high/",
@@ -1100,24 +1121,41 @@
         "Trading",
         "Analysis"
       ]
-    },
-    {
-      "id": "d97dd79b99a960cdcde6aff335a06691",
-      "title": "XRP Price Prediction: After Skyrocketing 24% to New All-Time High This Week – What’s Next?",
-      "link": "https://cryptonews.com/news/xrp-price-prediction-after-skyrocketing-24-to-new-all-time-high-this-week-whats-next/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:17:28 +0000",
-      "excerpt": "XRP has delivered a stunning 24% surge this week, reaching new multi-year highs of $3.27 and pushing its market capitalization past $190 billion for the first time.\nThe post XRP Price Prediction: A...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading"
-      ]
     }
   ],
   "all": [
+    {
+      "id": "66d8f5d8c1be406d6da7b27e372a6a8b",
+      "title": "Experts say ‘just a starting point’ as Crypto Week ends on a high note",
+      "link": "https://cointelegraph.com/news/crypto-week-genius-act-foundation-real-world-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 12:04:17 +0100",
+      "excerpt": "The GENIUS Act marks a turning point for crypto regulation, but experts say true integration with finance and identity systems is only beginning.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ccdd2afafd4229915f6e505218209ef5",
+      "title": "Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This Last?",
+      "link": "https://cryptonews.com/news/ethereum-price-prediction-eth-just-hit-180-day-peak-can-this-last/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:52:49 +0000",
+      "excerpt": "Ethereum has surged to a dramatic 180-day peak of $3,671, delivering an explosive 152% rally from March lows near $1,392.\nThe post Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This La...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
     {
       "id": "cbb0d596aca5f870a63b4a1df0dd5c7b",
       "title": "Hackers Hit Centers for Medicare & Medicaid Services – 103,000 Americans Warned Names, Addresses, Provider Records and Other Sensitive Data at Risk",
@@ -4243,5 +4281,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T10:34:39.461637"
+  "last_updated": "2025-07-20T11:24:48.345588"
 }
