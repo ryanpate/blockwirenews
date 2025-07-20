@@ -1,6 +1,86 @@
 {
   "latest": [
     {
+      "id": "153b60b3f9345cd89963de8103b3c04b",
+      "title": "Saylor signals Bitcoin buy as Strategy&#039;s stash climbs to over $71B",
+      "link": "https://cointelegraph.com/news/saylor-signals-bitcoin-buy-strategy-stash-71b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 18:50:49 +0100",
+      "excerpt": "Strategy continues accumulating Bitcoin as it hits all-time highs in July, and the total crypto market cap breaches the $4 trillion mark.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "b206cb563566dd550e7ac5f4913a2748",
+      "title": "US Marshals Report Holding 28,988 BTC, Challenging Third-Party Crypto Estimates",
+      "link": "https://cryptopotato.com/us-marshals-report-holding-28988-btc-challenging-third-party-crypto-estimates/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:55:58 +0000",
+      "excerpt": "A FOIA request reveals the U.S. Marshals Service holds 28,988 BTC, just 15% of prior estimates, raising questions about undisclosed BTC sales.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "7c0d3980d9b6e3437a7b3a661ed25cf6",
+      "title": "10 Leading AI Chatbots Predict Bitcoin’s Wild Ride to $1 Million",
+      "link": "https://news.bitcoin.com/10-leading-ai-chatbots-predict-bitcoins-wild-ride-to-1-million/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:49 +0000",
+      "excerpt": "Last week, we challenged ten artificial intelligence (AI) chatbots to forecast bitcoin’s price at the close of 2025—and most leaned heavily bullish, with one model aiming as high as $225,000. This ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "5c82af36e2821180b52465603e63e848",
+      "title": "How Bitcoin Is Reacting To The Falling S&P 500 Volatility Index: Expert",
+      "link": "https://bitcoinist.com/bitcoin-reacts-to-the-falling-500-volatility-index/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:27 +0000",
+      "excerpt": "It’s barely weeks into the second half of 2025, and it is fair to say that the Bitcoin and global financial markets have almost seen it all this year. From global trade wars to actual disputes betw...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "872a7fa8ee8ecc6b67ed20292c9432fa",
+      "title": "Bitcoin Won’t Save You—Peter Schiff Says Gold Will Win As Trump Wrecks The Dollar",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-wont-save-you-peter-schiff-says-gold-will-win-as-trump-wrecks-the-dollar/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:17 +0000",
+      "excerpt": "Gold proponent Peter Schiff hit out at US President Donald Trump’s support for cryptocurrency, calling Bitcoin a “decentralized Ponzi scheme” wrapped in the American flag. He warned that pushing di...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
       "id": "4ae044943e001d2b2af80221025c2bc1",
       "title": "Litecoin Price Hits 4-Month High, But Whale Selling Could Bring Risks",
       "link": "https://beincrypto.com/litecoin-price-faces-pressure-from-whale-selling/",
@@ -225,171 +305,172 @@
       "tags": [
         "Analysis"
       ]
-    },
+    }
+  ],
+  "featured": [
     {
-      "id": "57adbf8f836fd10a52580cd3ab3b5592",
-      "title": "Bettors Bet Big on Vance and Newsom: 2028 US Election Race Heats up Before It Even Starts",
-      "link": "https://news.bitcoin.com/bettors-bet-big-on-vance-and-newsom-2028-us-election-race-heats-up-before-it-even-starts/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 14:30:44 +0000",
-      "excerpt": "Even with the 2028 election still more than three years off, prediction markets are already brimming with wagers. Currently, Polymarket participants are placing their bets on J.D. Vance to secure t...",
+      "id": "153b60b3f9345cd89963de8103b3c04b",
+      "title": "Saylor signals Bitcoin buy as Strategy&#039;s stash climbs to over $71B",
+      "link": "https://cointelegraph.com/news/saylor-signals-bitcoin-buy-strategy-stash-71b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 18:50:49 +0100",
+      "excerpt": "Strategy continues accumulating Bitcoin as it hits all-time highs in July, and the total crypto market cap breaches the $4 trillion mark.",
       "categories": [
-        "analysis"
+        "bitcoin"
       ],
       "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "b206cb563566dd550e7ac5f4913a2748",
+      "title": "US Marshals Report Holding 28,988 BTC, Challenging Third-Party Crypto Estimates",
+      "link": "https://cryptopotato.com/us-marshals-report-holding-28988-btc-challenging-third-party-crypto-estimates/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:55:58 +0000",
+      "excerpt": "A FOIA request reveals the U.S. Marshals Service holds 28,988 BTC, just 15% of prior estimates, raising questions about undisclosed BTC sales.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "7c0d3980d9b6e3437a7b3a661ed25cf6",
+      "title": "10 Leading AI Chatbots Predict Bitcoin’s Wild Ride to $1 Million",
+      "link": "https://news.bitcoin.com/10-leading-ai-chatbots-predict-bitcoins-wild-ride-to-1-million/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:49 +0000",
+      "excerpt": "Last week, we challenged ten artificial intelligence (AI) chatbots to forecast bitcoin’s price at the close of 2025—and most leaned heavily bullish, with one model aiming as high as $225,000. This ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "5c82af36e2821180b52465603e63e848",
+      "title": "How Bitcoin Is Reacting To The Falling S&P 500 Volatility Index: Expert",
+      "link": "https://bitcoinist.com/bitcoin-reacts-to-the-falling-500-volatility-index/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:27 +0000",
+      "excerpt": "It’s barely weeks into the second half of 2025, and it is fair to say that the Bitcoin and global financial markets have almost seen it all this year. From global trade wars to actual disputes betw...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
         "Trading",
         "Regulation"
       ]
     },
     {
-      "id": "2467fc77e4f4bd2040b981467720fca0",
-      "title": "Warning Signs Flash As Bitcoin Miners Unload At Record Pace",
-      "link": "https://www.newsbtc.com/news/bitcoin/warning-signs-flash-as-bitcoin-miners-unload-at-record-pace/",
+      "id": "872a7fa8ee8ecc6b67ed20292c9432fa",
+      "title": "Bitcoin Won’t Save You—Peter Schiff Says Gold Will Win As Trump Wrecks The Dollar",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-wont-save-you-peter-schiff-says-gold-will-win-as-trump-wrecks-the-dollar/",
       "source": "NewsBTC",
       "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 14:30:37 +0000",
-      "excerpt": "Bitcoin’s run above $120,000 has drawn fresh selling from the very people who dug it up. On July 15, miners sent a hefty 16,000 Bitcoin to exchanges—the most in a single day since April—raising que...",
+      "timestamp": "Sun, 20 Jul 2025 17:30:17 +0000",
+      "excerpt": "Gold proponent Peter Schiff hit out at US President Donald Trump’s support for cryptocurrency, calling Bitcoin a “decentralized Ponzi scheme” wrapped in the American flag. He warned that pushing di...",
       "categories": [
         "bitcoin"
       ],
       "tags": [
         "Bitcoin"
-      ]
-    },
-    {
-      "id": "6c11946b0ee430d017353727bb92090c",
-      "title": "Wall Street Goes Bitcoin Shopping: $810M Added To Corporate Reserves",
-      "link": "https://bitcoinist.com/wall-street-goes-bitcoin-shopping-810m-added-to-corporate-reserves/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 14:30:33 +0000",
-      "excerpt": "In the span of just five days, corporate America and beyond made a big splash in the crypto market. Between July 14 and 19, 58 separate Bitcoin treasury updates appeared. Related Reading: Crypto Ad...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "186bf5a936d239f7ae59305d50c0f831",
-      "title": "$48,000,000,000 Wealth Management Firm Sees S&P 500 Heading to Massive Price Target Triggered by AI Adoption, Disinflation and More",
-      "link": "https://dailyhodl.com/2025/07/20/48000000000-wealth-management-firm-sees-sp-500-heading-to-massive-price-target-triggered-by-ai-adoption-disinflation-and-more/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 14:30:22 +0000",
-      "excerpt": "A wealth management firm overseeing $48 billion in assets believes that the S&P 500 will end the year at a much higher level. In a new CNBC interview, the Indianapolis-based Sanctuary Wealth says c...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "9684804c3342bb65fab9ca251b28f90f",
-      "title": "74-Year-Old California Man Missing; Kidnapping Suspected Over Family Crypto Fortune",
-      "link": "https://cryptonews.com/news/74-year-old-california-man-missing-kidnapping-suspected-over-family-crypto-fortune/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 14:24:00 +0000",
-      "excerpt": "California police are investigating the suspicious disappearance of 74-year-old Naiping Hou, possibly linked to his family's crypto wealth.\nThe post 74-Year-Old California Man Missing; Kidnapping S...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    }
-  ],
-  "featured": [
-    {
-      "id": "bcb580648b11a53d7f0f8c469a98f1ea",
-      "title": "Bitcoin gets $125K target as trader sees &#039;big move&#039; next, ETH hits $3750",
-      "link": "https://cointelegraph.com/news/bitcoin-gets-125k-target-trader-big-move-next-eth-hits-3750?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 16:43:44 +0100",
-      "excerpt": "Bitcoin and Ether traders are eyeing price milestones into the weekly close, with a resistance trend line keeping BTC bulls from heading to all-time highs.",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "1674b3d00b8b83232883d7700bac1996",
-      "title": "Bitcoin Price Analysis: BTC Unlikely to Revisit ATH Before Testing $111K Support",
-      "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-unlikely-to-revisit-ath-before-testing-111k-support/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:30:21 +0000",
-      "excerpt": "Bitcoin’s impulsive bullish leg has paused upon reaching the critical $123K level, signaling potential profit-taking and distribution. A corrective move toward the $111K support zone is now expecte...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "efe900782f6cce8e3d3f616a706cda45",
-      "title": "Bitcoin Price Prediction: BTC’s $123.1K Peak Signals Local Top – Warnings of Pullback",
-      "link": "https://cryptonews.com/news/bitcoin-price-prediction-btcs-123-1k-peak-signals-local-top-warnings-of-pullback/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:30:08 +0000",
-      "excerpt": "Bitcoin's recent peak at $123,100 has triggered warnings of a potential local top as on-chain metrics signal overextension. The cryptocurrency quickly retraced 6% to around $115,700 after hitting t...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "f3a9a870ae2bcdff9006e2d8406da06c",
-      "title": "Ethereum Eyes $4,000 as Whales and ETFs Pour Billions into Market",
-      "link": "https://beincrypto.com/ethereum-whales-price-target-4000/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:30:00 +0000",
-      "excerpt": "With ETH trading at a six-month high and ETF inflows topping $2.2 billion in five days, analysts suggest a potential breakout past $4,000, with projections as high as $10,000 by year-end.\nThe post ...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "89cef1e4a37df797f8cca73a4515920f",
-      "title": "Ethereum Rockets Past $3.7K as Options Traders Eye $12K Moonshot Bets",
-      "link": "https://news.bitcoin.com/ethereum-rockets-past-3-7k-as-options-traders-eye-12k-moonshot-bets/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:05:58 +0000",
-      "excerpt": "Ethereum ( ETH) just hit a new high of $3,772 per coin on Deribit versus the U.S. dollar, and it’s still climbing. Its piece of the $3.9 trillion crypto economy has expanded from 10.9% just three d...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
       ]
     }
   ],
   "bitcoin": [
     {
+      "id": "153b60b3f9345cd89963de8103b3c04b",
+      "title": "Saylor signals Bitcoin buy as Strategy&#039;s stash climbs to over $71B",
+      "link": "https://cointelegraph.com/news/saylor-signals-bitcoin-buy-strategy-stash-71b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 18:50:49 +0100",
+      "excerpt": "Strategy continues accumulating Bitcoin as it hits all-time highs in July, and the total crypto market cap breaches the $4 trillion mark.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "b206cb563566dd550e7ac5f4913a2748",
+      "title": "US Marshals Report Holding 28,988 BTC, Challenging Third-Party Crypto Estimates",
+      "link": "https://cryptopotato.com/us-marshals-report-holding-28988-btc-challenging-third-party-crypto-estimates/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:55:58 +0000",
+      "excerpt": "A FOIA request reveals the U.S. Marshals Service holds 28,988 BTC, just 15% of prior estimates, raising questions about undisclosed BTC sales.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "7c0d3980d9b6e3437a7b3a661ed25cf6",
+      "title": "10 Leading AI Chatbots Predict Bitcoin’s Wild Ride to $1 Million",
+      "link": "https://news.bitcoin.com/10-leading-ai-chatbots-predict-bitcoins-wild-ride-to-1-million/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:49 +0000",
+      "excerpt": "Last week, we challenged ten artificial intelligence (AI) chatbots to forecast bitcoin’s price at the close of 2025—and most leaned heavily bullish, with one model aiming as high as $225,000. This ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "5c82af36e2821180b52465603e63e848",
+      "title": "How Bitcoin Is Reacting To The Falling S&P 500 Volatility Index: Expert",
+      "link": "https://bitcoinist.com/bitcoin-reacts-to-the-falling-500-volatility-index/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:27 +0000",
+      "excerpt": "It’s barely weeks into the second half of 2025, and it is fair to say that the Bitcoin and global financial markets have almost seen it all this year. From global trade wars to actual disputes betw...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "872a7fa8ee8ecc6b67ed20292c9432fa",
+      "title": "Bitcoin Won’t Save You—Peter Schiff Says Gold Will Win As Trump Wrecks The Dollar",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-wont-save-you-peter-schiff-says-gold-will-win-as-trump-wrecks-the-dollar/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:17 +0000",
+      "excerpt": "Gold proponent Peter Schiff hit out at US President Donald Trump’s support for cryptocurrency, calling Bitcoin a “decentralized Ponzi scheme” wrapped in the American flag. He warned that pushing di...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
       "id": "bcb580648b11a53d7f0f8c469a98f1ea",
       "title": "Bitcoin gets $125K target as trader sees &#039;big move&#039; next, ETH hits $3750",
       "link": "https://cointelegraph.com/news/bitcoin-gets-125k-target-trader-big-move-next-eth-hits-3750?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -465,84 +546,6 @@
       "sourceUrl": "https://bitcoinist.com/feed/",
       "timestamp": "Sun, 20 Jul 2025 14:30:33 +0000",
       "excerpt": "In the span of just five days, corporate America and beyond made a big splash in the crypto market. Between July 14 and 19, 58 separate Bitcoin treasury updates appeared. Related Reading: Crypto Ad...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "b4a7927c007abf197a1a8bc5df6e9ad0",
-      "title": "Bitcoin Hits All-Time High—And The Internet Can’t Stop Talking About It",
-      "link": "https://bitcoinist.com/bitcoin-hits-all-time-high-and-the-internet-cant-stop-talking-about-it/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 13:00:43 +0000",
-      "excerpt": "Bitcoin chatter took over social media this week as the coin climbed to a fresh high. According to Santiment, Bitcoin’s market value climbed above $123,000 for the first time in its 17-plus year hi...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "69c5b293fe98947d35b186b2dfb7f8a2",
-      "title": "Bitcoin Re-Enters Profit Zone As Greed Rises, But Rally To $200,000 Still Possible",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-re-enters-profit-zone-as-greed-rises-but-rally-to-200000-still-possible/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 13:00:08 +0000",
-      "excerpt": "Bitcoin reached a new all-time high of $122,838 on July 14, but has since slipped into a phase of consolidation around the $118,000 level. The recent pause in upward momentum hasn’t dampened market...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "8be3c34a39a650956047fc4af71e13cb",
-      "title": "UK government eyes £5 billion seized Bitcoin sale to manage fiscal shortfall",
-      "link": "https://cryptoslate.com/uk-government-eyes-5-billion-seized-bitcoin-sale-to-manage-fiscal-shortfall/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 12:39:04 +0000",
-      "excerpt": "Britain’s Chancellor Rachel Reeves is considering a large-scale sale of seized Bitcoin in an effort to help address the “black hole” in the country’s public finances, according to the British newsp...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "f9fec79a5929e2a84185ab1fe8396bd3",
-      "title": "Latam Insights: IMF Denies El Salvador’s Bitcoin Purchase Claims; US-Brazil Conflict Set to Escalate",
-      "link": "https://news.bitcoin.com/latam-insights-imf-denies-el-salvadors-bitcoin-purchase-claims-us-brazil-conflict-set-to-escalate/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 12:30:01 +0000",
-      "excerpt": "Welcome to Latam Insights, a compilation of the most relevant crypto news from Latin America over the past week. In this week’s edition, the IMF states that El Salvador’s bitcoin purchases are mere...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "18b21a52f1fdaa4b0b144049a7f92ee8",
-      "title": "Bitcoin Price Watch: $117.5K to $118K Consolidation Signals Tension Before Breakout",
-      "link": "https://news.bitcoin.com/bitcoin-price-watch-117-5k-to-118k-consolidation-signals-tension-before-breakout/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 11:30:13 +0000",
-      "excerpt": "Bitcoin’s price holds steady at $118,000 as it continues to consolidate below key resistance levels. The asset commands a market capitalization of $2.34 trillion with strong 24-hour trading volume ...",
       "categories": [
         "bitcoin"
       ],
@@ -719,6 +722,24 @@
   ],
   "defi": [
     {
+      "id": "5c82af36e2821180b52465603e63e848",
+      "title": "How Bitcoin Is Reacting To The Falling S&P 500 Volatility Index: Expert",
+      "link": "https://bitcoinist.com/bitcoin-reacts-to-the-falling-500-volatility-index/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:27 +0000",
+      "excerpt": "It’s barely weeks into the second half of 2025, and it is fair to say that the Bitcoin and global financial markets have almost seen it all this year. From global trade wars to actual disputes betw...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
       "id": "846b30d3720ff2170af8c37d0e308ae9",
       "title": "XRPL Is Breaking $100M TVL While DeXRP, Has Already Raised Over $100,000,000 In IDO",
       "link": "https://cryptopotato.com/xrpl-is-breaking-100m-tvl-while-dexrp-has-already-raised-over-100000000-in-ido/",
@@ -869,22 +890,6 @@
       "tags": [
         "DeFi",
         "Trading"
-      ]
-    },
-    {
-      "id": "177d58fb2764fa75407f4e01f08211c9",
-      "title": "Bitcoin Flashing ‘Very Bullish Signal’ Right Now, According to Analyst Kevin Svenson – Here’s His Target",
-      "link": "https://dailyhodl.com/2025/07/19/bitcoin-flashing-very-bullish-signal-right-now-according-to-analyst-kevin-svenson-here-are-his-targets/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:45:10 +0000",
-      "excerpt": "Cryptocurrency analyst and trader Kevin Svenson is saying one indicator is signaling major momentum for Bitcoin (BTC). Svenson tells his 83,500 YouTube subscribers that the relative strength index ...",
-      "categories": [
-        "bitcoin",
-        "defi"
-      ],
-      "tags": [
-        "Bitcoin"
       ]
     }
   ],
@@ -1120,6 +1125,86 @@
     }
   ],
   "all": [
+    {
+      "id": "153b60b3f9345cd89963de8103b3c04b",
+      "title": "Saylor signals Bitcoin buy as Strategy&#039;s stash climbs to over $71B",
+      "link": "https://cointelegraph.com/news/saylor-signals-bitcoin-buy-strategy-stash-71b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 18:50:49 +0100",
+      "excerpt": "Strategy continues accumulating Bitcoin as it hits all-time highs in July, and the total crypto market cap breaches the $4 trillion mark.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "b206cb563566dd550e7ac5f4913a2748",
+      "title": "US Marshals Report Holding 28,988 BTC, Challenging Third-Party Crypto Estimates",
+      "link": "https://cryptopotato.com/us-marshals-report-holding-28988-btc-challenging-third-party-crypto-estimates/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:55:58 +0000",
+      "excerpt": "A FOIA request reveals the U.S. Marshals Service holds 28,988 BTC, just 15% of prior estimates, raising questions about undisclosed BTC sales.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "7c0d3980d9b6e3437a7b3a661ed25cf6",
+      "title": "10 Leading AI Chatbots Predict Bitcoin’s Wild Ride to $1 Million",
+      "link": "https://news.bitcoin.com/10-leading-ai-chatbots-predict-bitcoins-wild-ride-to-1-million/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:49 +0000",
+      "excerpt": "Last week, we challenged ten artificial intelligence (AI) chatbots to forecast bitcoin’s price at the close of 2025—and most leaned heavily bullish, with one model aiming as high as $225,000. This ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "5c82af36e2821180b52465603e63e848",
+      "title": "How Bitcoin Is Reacting To The Falling S&P 500 Volatility Index: Expert",
+      "link": "https://bitcoinist.com/bitcoin-reacts-to-the-falling-500-volatility-index/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:27 +0000",
+      "excerpt": "It’s barely weeks into the second half of 2025, and it is fair to say that the Bitcoin and global financial markets have almost seen it all this year. From global trade wars to actual disputes betw...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "872a7fa8ee8ecc6b67ed20292c9432fa",
+      "title": "Bitcoin Won’t Save You—Peter Schiff Says Gold Will Win As Trump Wrecks The Dollar",
+      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-wont-save-you-peter-schiff-says-gold-will-win-as-trump-wrecks-the-dollar/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 17:30:17 +0000",
+      "excerpt": "Gold proponent Peter Schiff hit out at US President Donald Trump’s support for cryptocurrency, calling Bitcoin a “decentralized Ponzi scheme” wrapped in the American flag. He warned that pushing di...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
     {
       "id": "4ae044943e001d2b2af80221025c2bc1",
       "title": "Litecoin Price Hits 4-Month High, But Whale Selling Could Bring Risks",
@@ -4850,5 +4935,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T17:28:39.029492"
+  "last_updated": "2025-07-20T18:39:03.200303"
 }
