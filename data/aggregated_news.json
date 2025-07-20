@@ -1,6 +1,21 @@
 {
   "latest": [
     {
+      "id": "77ef6b7009ff42a8a344e4ffbc8869be",
+      "title": "Treasury Secretary Scott Bessent Says US Dollar Coming On-Chain As Landmark Stablecoin Bill Becomes Law",
+      "link": "https://dailyhodl.com/2025/07/20/treasury-secretary-scott-bessent-says-us-dollar-coming-on-chain-as-landmark-stablecoin-bill-becomes-law/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:15:29 +0000",
+      "excerpt": "The secretary of the Department of the Treasury says the dollar will now be integrated into blockchains as the US passes a landmark bill creating a regulatory framework for stablecoins. In a post o...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
       "id": "1c3d531a1e91d7bc72be6ea10dc71fb9",
       "title": "GENIUS Act blocks Big Tech, banks from dominating stablecoins: Circle exec",
       "link": "https://cointelegraph.com/news/genius-act-clause-limits-big-tech-stablecoin-power?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -267,21 +282,6 @@
       "sourceUrl": "https://www.newsbtc.com/feed/",
       "timestamp": "Sun, 20 Jul 2025 04:00:13 +0000",
       "excerpt": "Chainlink is entering a pivotal moment in its market cycle, with bullish sentiment returning after a prolonged period of underperformance. Since late June, LINK has surged over 70%, marking its str...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "ee1688f16abaa09c7d166879fbad1e3d",
-      "title": "Crypto Giant Bullish Files for NYSE IPO With Peter Thiel Backing",
-      "link": "https://news.bitcoin.com/crypto-giant-bullish-files-for-nyse-ipo-with-peter-thiel-backing/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 02:30:43 +0000",
-      "excerpt": "Bullish is charging into the public markets with a bold NYSE bid, signaling massive momentum for institutional crypto as investor appetite reignites and global ambitions scale fast. Thiel-Backed Bu...",
       "categories": [
         "crypto"
       ],
@@ -1120,6 +1120,21 @@
   ],
   "all": [
     {
+      "id": "77ef6b7009ff42a8a344e4ffbc8869be",
+      "title": "Treasury Secretary Scott Bessent Says US Dollar Coming On-Chain As Landmark Stablecoin Bill Becomes Law",
+      "link": "https://dailyhodl.com/2025/07/20/treasury-secretary-scott-bessent-says-us-dollar-coming-on-chain-as-landmark-stablecoin-bill-becomes-law/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:15:29 +0000",
+      "excerpt": "The secretary of the Department of the Treasury says the dollar will now be integrated into blockchains as the US passes a landmark bill creating a regulatory framework for stablecoins. In a post o...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
       "id": "1c3d531a1e91d7bc72be6ea10dc71fb9",
       "title": "GENIUS Act blocks Big Tech, banks from dominating stablecoins: Circle exec",
       "link": "https://cointelegraph.com/news/genius-act-clause-limits-big-tech-stablecoin-power?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1470,6 +1485,21 @@
       "sourceUrl": "https://www.newsbtc.com/feed/",
       "timestamp": "Sun, 20 Jul 2025 01:00:36 +0000",
       "excerpt": "Dogecoin (DOGE) prices surged by over 17% in the past week, in line with a bullish altcoin performance, pushing the total crypto market cap to $4 trillion. The prominent altcoin is now facing major...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "3b91830685735f94a14d60b355572614",
+      "title": "Stellar (XLM) Price Faces Challenge Amid Mounting Outflows",
+      "link": "https://beincrypto.com/stellar-xlm-price-challenge-mounting-outflows/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 01:00:00 +0000",
+      "excerpt": "Stellar struggles to breach $0.50 amidst outflows and weakening momentum. A further drop is possible unless inflows recover, which could drive a price reversal.\nThe post Stellar (XLM) Price Faces C...",
       "categories": [
         "crypto"
       ],
@@ -4093,5 +4123,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T08:35:31.051889"
+  "last_updated": "2025-07-20T09:30:13.645451"
 }
