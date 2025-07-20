@@ -16,6 +16,32 @@
       ]
     },
     {
+      "id": "8166581701f0368978ece88596a8b49d",
+      "title": "Solana and BNB Chain Lead The Biggest Blockchain Week: Details",
+      "link": "https://cryptopotato.com/solana-and-bnb-chain-lead-the-biggest-blockchain-week-details/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 04:54:01 +0000",
+      "excerpt": "Over the past week, the number of transactions across public blockchains and Layer-2 networks has reached levels not seen before.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "fec1c6524c18de614eb66ad714f79e7a",
+      "title": "Trump–Backed World Liberty Financial Clarifies WLFI Launch—No Pre-Sale, No Insider Edge",
+      "link": "https://news.bitcoin.com/trump-backed-world-liberty-financial-clarifies-wlfi-launch-no-pre-sale-no-insider-edge/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 04:30:56 +0000",
+      "excerpt": "World Liberty Financial moves to calm investor concerns with a token unlock plan, delaying insider access, rejecting new pre-sales, and putting community trust at the forefront. WLFI Clarifies Toke...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "1a3f2c0ddc9cee76b0b07a09073135fa",
       "title": "Pump.fun Ex‑Developer Behind $2M Crypto Theft Jailed For Bail Breach",
       "link": "https://bitcoinist.com/pump-fun-ex%e2%80%91developer-2m-theft-jailed-bail-breach/",
@@ -275,32 +301,6 @@
         "Trading",
         "Regulation"
       ]
-    },
-    {
-      "id": "89f6875ef47189ccc4ec955776d2f9d5",
-      "title": "US Lawmaker sounds alarm on GENIUS bill, says it&#039;s a CBDC Trojan Horse",
-      "link": "https://cointelegraph.com/news/us-lawmaker-alarm-genius-bill-cbdc-trojan-horse?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 23:15:24 +0100",
-      "excerpt": "The line between a central bank digital currency and a centrally-managed, government-regulated stablecoin is thin, critics argue.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "2d9c7093591fb9247c3e9a93a22487d4",
-      "title": "US Lawmaker sounds alarm on GENIUS bill, says it&#039;s a CBDC Trojan Horse",
-      "link": "https://cointelegraph.com/news/us-lawmaker-alarm-genius-bill-cbdc-trojan-horse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 23:15:24 +0100",
-      "excerpt": "The line between a central bank digital currency and a centrally-managed, government-regulated stablecoin is thin, critics argue.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
     }
   ],
   "featured": [
@@ -1167,6 +1167,32 @@
       "tags": [
         "Bitcoin"
       ]
+    },
+    {
+      "id": "8166581701f0368978ece88596a8b49d",
+      "title": "Solana and BNB Chain Lead The Biggest Blockchain Week: Details",
+      "link": "https://cryptopotato.com/solana-and-bnb-chain-lead-the-biggest-blockchain-week-details/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 04:54:01 +0000",
+      "excerpt": "Over the past week, the number of transactions across public blockchains and Layer-2 networks has reached levels not seen before.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "fec1c6524c18de614eb66ad714f79e7a",
+      "title": "Trump–Backed World Liberty Financial Clarifies WLFI Launch—No Pre-Sale, No Insider Edge",
+      "link": "https://news.bitcoin.com/trump-backed-world-liberty-financial-clarifies-wlfi-launch-no-pre-sale-no-insider-edge/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 04:30:56 +0000",
+      "excerpt": "World Liberty Financial moves to calm investor concerns with a token unlock plan, delaying insider access, rejecting new pre-sales, and putting community trust at the forefront. WLFI Clarifies Toke...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "1a3f2c0ddc9cee76b0b07a09073135fa",
@@ -3866,5 +3892,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T04:11:07.643052"
+  "last_updated": "2025-07-20T05:36:30.582989"
 }
