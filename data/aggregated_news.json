@@ -1,6 +1,153 @@
 {
   "latest": [
     {
+      "id": "ee1688f16abaa09c7d166879fbad1e3d",
+      "title": "Crypto Giant Bullish Files for NYSE IPO With Peter Thiel Backing",
+      "link": "https://news.bitcoin.com/crypto-giant-bullish-files-for-nyse-ipo-with-peter-thiel-backing/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 02:30:43 +0000",
+      "excerpt": "Bullish is charging into the public markets with a bold NYSE bid, signaling massive momentum for institutional crypto as investor appetite reignites and global ambitions scale fast. Thiel-Backed Bu...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "20ce94118bd31751466760b1e24a73e3",
+      "title": "Ripple CEO Says Likens GENIUS Act To Major Regulation After 2008 Finanical Crisis",
+      "link": "https://bitcoinist.com/ripple-ceo-on-the-genius-act/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 02:30:36 +0000",
+      "excerpt": "In a landmark moment for both Ripple and the broader crypto industry, US President Donald Trump has officially signed the Guiding and Establishing National Innovation for US Stablecoins Act, or the...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "209d27c69732230399511c568d15850c",
+      "title": "Billionaire Ray Dalio’s Bridgewater Sells S&P 500, Amasses $1,020,000,000 in Two Major Assets",
+      "link": "https://dailyhodl.com/2025/07/19/billionaire-ray-dalios-bridgewater-sells-sp-500-amasses-1020000000-in-two-major-assets/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 02:23:31 +0000",
+      "excerpt": "Billionaire Ray Dalio’s hedge fund is shedding exposure to the S&P 500 and hedging against the US dollar – while managing to stay on offense. The latest 13F filings show Dalio’s Bridgewater Associa...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ec27dcec68582f46707dc77eff2015d4",
+      "title": "Robinhood CEO: Crypto Will Reshape Every Industry—And It’s Already Happening",
+      "link": "https://news.bitcoin.com/robinhood-ceo-crypto-will-reshape-every-industry-and-its-already-happening/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 01:30:45 +0000",
+      "excerpt": "The United States just ignited a new era of crypto dominance, with landmark legislation unleashing blockchain and AI to revolutionize finance, healthcare, and the global digital economy. Crypto Tec...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "65c8e78583c4ff99c84bab826607dc45",
+      "title": "DOGE Bullish Pattern Points To $0.42 Target – Analyst",
+      "link": "https://www.newsbtc.com/news/dogecoin/doge-bullish-pattern-points-to-0-42-target-analyst/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 01:00:36 +0000",
+      "excerpt": "Dogecoin (DOGE) prices surged by over 17% in the past week, in line with a bullish altcoin performance, pushing the total crypto market cap to $4 trillion. The prominent altcoin is now facing major...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "9e06ad22abc44df6e388c1221e7f727e",
+      "title": "Steller (XLM) Price Faces Challenge Amid Mounting Outflows",
+      "link": "https://beincrypto.com/stellar-xlm-price-challenge-mounting-outflows/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 01:00:00 +0000",
+      "excerpt": "Stellar struggles to breach $0.50 amidst outflows and weakening momentum. A further drop is possible unless inflows recover, which could drive a price reversal.\nThe post Steller (XLM) Price Faces C...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "7d7e4362d48517be2279776a4b99030f",
+      "title": "XLM&#039;s price to rocket like XRP, Trump’s big crypto nod: Hodler’s Digest, July 13 – 19",
+      "link": "https://cointelegraph.com/news/stellar-xlm-xrp-rally-donald-trump-crypto-sign-bill-hodlers-digest?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 00:38:07 +0100",
+      "excerpt": "Stellar may be setting up more upside after XRP's recent price surge, US President Donald Trump signed one of the first bills related to crypto, and other news.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "7075e7108dac8f412ba8f7c2080e0c0c",
+      "title": "Robert Kiyosaki Reveals When He’ll Buy More Bitcoin—And When He’ll Stop Buying",
+      "link": "https://news.bitcoin.com/robert-kiyosaki-reveals-when-hell-buy-more-bitcoin-and-when-hell-stop-buying/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 00:30:47 +0000",
+      "excerpt": "Bitcoin rockets past key price points as Robert Kiyosaki reveals bold buy-in and strategic stop-buying plan, signaling massive upside potential while eyeing the next major pullback. Robert Kiyosaki...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "c3c81745bde52df37b4aa6b691e35305",
+      "title": "LINK Jumps in Price As Chainlink Labs Joins the SEC’s Crypto Task Force To Discuss Tokenized Assets",
+      "link": "https://dailyhodl.com/2025/07/19/link-jumps-in-price-as-chainlink-labs-joins-the-secs-crypto-task-force-to-discuss-tokenized-assets/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 00:00:15 +0000",
+      "excerpt": "The decentralized oracle network Chainlink (LINK) defied the overall crypto market dip and witnessed a mild bump in price after Chainlink Labs announced that it had joined the U.S. Securities and E...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi",
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "998423a38eb947b175b8db33afb9d0ab",
+      "title": "Ripple’s RLUSD Ranked No. 1 Stablecoin by Bluechip With ‘A’ Rating",
+      "link": "https://news.bitcoin.com/ripples-rlusd-ranked-no-1-stablecoin-by-bluechip-with-a-rating/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 23:30:33 +0000",
+      "excerpt": "Ripple’s RLUSD rockets to the top as Bluechip’s highest-rated stablecoin, dominating for unmatched stability, elite governance, and rock-solid backing trusted by global institutions. Bluechip Ranks...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "b98d672fc9315ca5302b4339a8c4594f",
       "title": "XRP Headed For ‘Insane Levels’ — Major Predictions After Hitting 7-Year High",
       "link": "https://www.newsbtc.com/altcoin/xrp-headed-for-insane-levels-major-predictions-after-hitting-7-year-high/",
@@ -14,6 +161,42 @@
       "tags": [
         "Trading",
         "Analysis"
+      ]
+    },
+    {
+      "id": "da2889e0eff24236359a009d690ac67a",
+      "title": "Tether Eyes $1 Trillion USDT Milestone But Faces Strict New US Rules",
+      "link": "https://beincrypto.com/tether-usdt-scalling-plan-genius-act/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 23:29:00 +0000",
+      "excerpt": "The GENIUS Act grants the Federal Reserve oversight of dollar-backed tokens and imposes strict audit and compliance standards on issuers like Tether.\nThe post Tether Eyes $1 Trillion USDT Milestone...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "7bdd59709e90dee7b1bc3c5f58553d63",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "categories": [
+        "bitcoin",
+        "defi",
+        "nft"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi",
+        "NFT",
+        "Trading",
+        "Regulation"
       ]
     },
     {
@@ -36,6 +219,19 @@
         "Trading",
         "Regulation"
       ]
+    },
+    {
+      "id": "89f6875ef47189ccc4ec955776d2f9d5",
+      "title": "US Lawmaker sounds alarm on GENIUS bill, says it&#039;s a CBDC Trojan Horse",
+      "link": "https://cointelegraph.com/news/us-lawmaker-alarm-genius-bill-cbdc-trojan-horse?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 23:15:24 +0100",
+      "excerpt": "The line between a central bank digital currency and a centrally-managed, government-regulated stablecoin is thin, critics argue.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "2d9c7093591fb9247c3e9a93a22487d4",
@@ -109,203 +305,61 @@
         "Trading",
         "Analysis"
       ]
-    },
-    {
-      "id": "571b68cbebe13800c294e282fbb3d28a",
-      "title": "Murray Rothbard’s 1963 Text Foreshadows Modern ‘Hidden Tax’ of Inflation, Expert Claims",
-      "link": "https://news.bitcoin.com/murray-rothbards-1963-text-foreshadows-modern-hidden-tax-of-inflation-expert-claims/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 21:30:46 +0000",
-      "excerpt": "Financial analyst Taylor Kenney warns that current government monetary policies are accelerating a massive, hidden transfer of wealth to economic elites while creating a deceptive “illusion of pros...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "ab46a880607af97268116b1e7f0712bf",
-      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
-      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
-      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "23ec9107411a26f6f182353867296ec5",
-      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
-      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
-      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "8ddb0944e4140dfeefa25a35bad73d18",
-      "title": "XRP Analyst Sees Clear Path Beyond $100 And Toward $1,000",
-      "link": "https://www.newsbtc.com/altcoin/xrp-analyst-sees-clear-path-beyond-100-and-toward-1000/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 20:30:49 +0000",
-      "excerpt": "A popular XRP proponent recently projected a clear path for XRP to reach $1,000. Particularly, crypto commentator BarriC laid out a multi-stage price forecast that places the XRP price on a traject...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "7fd06136cf974efa505705f7719f6908",
-      "title": "Indian Exchange Suffers $44M Hack—Solana Hot Wallet Compromised in Sophisticated Attack",
-      "link": "https://news.bitcoin.com/indian-exchange-suffers-44m-hack-solana-hot-wallet-compromised-in-sophisticated-attack/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 20:30:25 +0000",
-      "excerpt": "According to Cyvers, a hack was detected at the Indian centralized exchange CoinDCX, resulting in the theft of approximately $44.2 million in USDC and USDT from one of its operational wallets on So...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "a274c53d9e112e39dec20571abb69e52",
-      "title": "IMF Bombshell: El Salvador Didn’t Buy Bitcoin In 2025 After All",
-      "link": "https://bitcoinist.com/imf-bombshell-el-salvador-didnt-buy-bitcoin-in-2025-after-all/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 20:30:25 +0000",
-      "excerpt": "A new report has shaken up El Salvador’s bold Bitcoin story. All year long, President Nayib Bukele and the National Bitcoin Office promised they were buying one BTC every day. Public trackers even ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "9f6a2d7fd98b3b5ced1cbee30a0ddfe2",
-      "title": "Bitget Study Uncovers Crypto Usage in Purchases, Gaming, and Travel",
-      "link": "https://cryptopotato.com/bitget-study-uncovers-crypto-usage-in-purchases-gaming-and-travel/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 20:20:19 +0000",
-      "excerpt": "35% of global crypto users spend on gaming, travel, and daily needs, with Gen X leading in practical use like real estate and bills.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "f29b071a711d27369cf92b4885906be0",
-      "title": "JPMorgan Chase CEO Jamie Dimon Defends Plans to Charge Fintech Firms Fees for Customer Data As Stakeholders Voice Opposition",
-      "link": "https://dailyhodl.com/2025/07/19/jpmorgan-chase-ceo-jamie-dimon-defends-plans-to-charge-fintech-firms-fees-for-customer-data-as-stakeholders-voice-opposition/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 20:00:07 +0000",
-      "excerpt": "JPMorgan Chase CEO Jamie Dimon is defending the bank’s controversial plans to charge fintech companies such as PayPal and Coinbase fees for access to customers’ account information. In an earnings ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "63a504d17d223051982e4ee6d7246fe7",
-      "title": "Ethereum Price Analysis: ETH Bulls Eye $4,000 But Consolidation Seems More Likely",
-      "link": "https://cryptopotato.com/ethereum-price-analysis-eth-bulls-eye-4000-but-consolidation-seems-more-likely/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 19:56:06 +0000",
-      "excerpt": "Ethereum has reclaimed a crucial resistance region at the $3.5K mark, showcasing notable buying activity. Nevertheless, the price has now reached a critical order block around the $3.7K range, sugg...",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "cebc7f19b6345e34583ce993642dece2",
-      "title": "Crypto Weekly Wrap: Bitcoin Hits $123K, XRP and ETH Unleash Chart-Busting Comebacks",
-      "link": "https://news.bitcoin.com/crypto-weekly-wrap-bitcoin-hits-123k-xrp-and-eth-unleash-chart-busting-comebacks/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 19:31:19 +0000",
-      "excerpt": "The cryptocurrency market experienced a significant week, highlighted by bitcoin surpassing $123,000 on July 14, followed by a surge in altcoins, particularly ethereum, which saw double-digit gains...",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "07505784d827fc78330632e63db360e8",
-      "title": "Bitcoin ETFs Are Booming—But Self-Custody Growth Just Broke 15-Year Streak",
-      "link": "https://bitcoinist.com/bitcoin-etfs-market-capture-falling-self-custody/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 19:00:30 +0000",
-      "excerpt": "The US-based spot Bitcoin ETFs (exchange-traded funds) have continued to soar after they started trading in January 2024, breaking and setting records in the global ETF market. Recently, BlackRock’...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "a47e920b6c5a76024e4c27113c14cfc9",
-      "title": "XRP Over Everything? Expert Tells New Investors To Go All In",
-      "link": "https://www.newsbtc.com/news/xrp-over-everything-expert-tells-new-investors-to-go-all-in/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 19:00:26 +0000",
-      "excerpt": "A well‑known commentator in the crypto space has made a bold pitch. According to reports, Crypto Bitlord urged every new investor to put all their money into XRP. Related Reading: XRP To $13 in 40 ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "10af8f2a9232621c84a1bf9080b94897",
-      "title": "Google Takes Legal Action Against ‘BadBox 2.0’ Botnet That Compromised More Than 10,000,000 Devices",
-      "link": "https://dailyhodl.com/2025/07/19/google-takes-legal-action-against-badbox-2-0-botnet-that-compromised-more-than-10000000-devices/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 18:45:39 +0000",
-      "excerpt": "Tech giant Google is taking legal action against a Botnet that exploited over 10 million Internet-of-Things (IoT) Android devices. In a new blog post, Google is announcing that it has filed a lawsu...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "7075e7108dac8f412ba8f7c2080e0c0c",
+      "title": "Robert Kiyosaki Reveals When He’ll Buy More Bitcoin—And When He’ll Stop Buying",
+      "link": "https://news.bitcoin.com/robert-kiyosaki-reveals-when-hell-buy-more-bitcoin-and-when-hell-stop-buying/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 00:30:47 +0000",
+      "excerpt": "Bitcoin rockets past key price points as Robert Kiyosaki reveals bold buy-in and strategic stop-buying plan, signaling massive upside potential while eyeing the next major pullback. Robert Kiyosaki...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "da2889e0eff24236359a009d690ac67a",
+      "title": "Tether Eyes $1 Trillion USDT Milestone But Faces Strict New US Rules",
+      "link": "https://beincrypto.com/tether-usdt-scalling-plan-genius-act/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 23:29:00 +0000",
+      "excerpt": "The GENIUS Act grants the Federal Reserve oversight of dollar-backed tokens and imposes strict audit and compliance standards on issuers like Tether.\nThe post Tether Eyes $1 Trillion USDT Milestone...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "7bdd59709e90dee7b1bc3c5f58553d63",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "categories": [
+        "bitcoin",
+        "defi",
+        "nft"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi",
+        "NFT",
+        "Trading",
+        "Regulation"
+      ]
+    },
     {
       "id": "a3833e4218fa94fdbe3054ec49518b85",
       "title": "Here’s what happened in crypto today",
@@ -341,15 +395,17 @@
       "tags": [
         "Ethereum"
       ]
-    },
+    }
+  ],
+  "bitcoin": [
     {
-      "id": "084111168833c7313879d476646905e8",
-      "title": "Bitcoin Whale Exchange Transfers Spike As Capital Rotation Begins — Latest Altseason Signal?",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-whale-exchange-transfers-spike-as-capital-rotation-begins-latest-altseason-signal/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 22:00:39 +0000",
-      "excerpt": "Over the past week, the Bitcoin (BTC) market recorded a new all-time high at $123,091 on July 14. However, the premier cryptocurrency has experienced a slight price retracement since reaching this ...",
+      "id": "7075e7108dac8f412ba8f7c2080e0c0c",
+      "title": "Robert Kiyosaki Reveals When He’ll Buy More Bitcoin—And When He’ll Stop Buying",
+      "link": "https://news.bitcoin.com/robert-kiyosaki-reveals-when-hell-buy-more-bitcoin-and-when-hell-stop-buying/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 00:30:47 +0000",
+      "excerpt": "Bitcoin rockets past key price points as Robert Kiyosaki reveals bold buy-in and strategic stop-buying plan, signaling massive upside potential while eyeing the next major pullback. Robert Kiyosaki...",
       "categories": [
         "bitcoin"
       ],
@@ -359,37 +415,26 @@
       ]
     },
     {
-      "id": "ab46a880607af97268116b1e7f0712bf",
-      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
-      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
+      "id": "7bdd59709e90dee7b1bc3c5f58553d63",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
       "source": "CoinTelegraph",
       "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
-      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
+      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
       "categories": [
-        "bitcoin"
+        "bitcoin",
+        "defi",
+        "nft"
       ],
       "tags": [
-        "Bitcoin"
+        "Bitcoin",
+        "DeFi",
+        "NFT",
+        "Trading",
+        "Regulation"
       ]
     },
-    {
-      "id": "23ec9107411a26f6f182353867296ec5",
-      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
-      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
-      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    }
-  ],
-  "bitcoin": [
     {
       "id": "a3833e4218fa94fdbe3054ec49518b85",
       "title": "Here’s what happened in crypto today",
@@ -425,6 +470,21 @@
       "tags": [
         "Bitcoin",
         "Trading"
+      ]
+    },
+    {
+      "id": "fa112009d0279197c41a6e4b960a3a07",
+      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
+      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
+      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
       ]
     },
     {
@@ -507,61 +567,24 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "65ac06e6f60af1de3637853ae064b5c4",
-      "title": "Ether ETFs Outshine Bitcoin ETFs for Second Straight Day With $403 Million in Inflows",
-      "link": "https://news.bitcoin.com/ether-etfs-outshine-bitcoin-etfs-for-second-straight-day-with-403-million-in-inflows/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 18:35:58 +0000",
-      "excerpt": "Crypto exchange-traded funds (ETFs) raked in $766 million on Friday, July 18, with ether ETFs once again outpacing their bitcoin counterparts. Fueled by Blackrock’s dominance, ether products contin...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "70d831f5fe4e2ce4057c57c2fda428d6",
-      "title": "Analyst Predicts Bitcoin Price Crash: Rejection From $120K Puts Altcoins At Risk",
-      "link": "https://www.newsbtc.com/news/bitcoin/analyst-predicts-bitcoin-price-crash-rejection-from-120k-puts-altcoins-at-risk/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 17:30:17 +0000",
-      "excerpt": "Bitcoin’s price action has turned somewhat sluggish after its unprecedented climb to a new all-time high of $122,838 on July 14. The rapid push to that level was preceded by a week of frenzied trad...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "96973f408b0fdf1a803b34f22b1a39d5",
-      "title": "Cryptoquant Reports Surge in Bitcoin, ETH Selling Pressure as Prices Set Records",
-      "link": "https://news.bitcoin.com/cryptoquant-reports-surge-in-bitcoin-eth-selling-pressure-as-prices-set-records/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 17:30:12 +0000",
-      "excerpt": "Large bitcoin holders and miners significantly increased transfers to exchanges following bitcoin’s climb to a new all-time high near $123,000 last week, according to the latest data from onchain a...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "da2889e0eff24236359a009d690ac67a",
+      "title": "Tether Eyes $1 Trillion USDT Milestone But Faces Strict New US Rules",
+      "link": "https://beincrypto.com/tether-usdt-scalling-plan-genius-act/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 23:29:00 +0000",
+      "excerpt": "The GENIUS Act grants the Federal Reserve oversight of dollar-backed tokens and imposes strict audit and compliance standards on issuers like Tether.\nThe post Tether Eyes $1 Trillion USDT Milestone...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
     {
       "id": "2cafdda1beb75ea53f151752eb09ab8a",
       "title": "Tether Boss: GENIUS Act Positions US for Digital Finance Leadership",
@@ -719,26 +742,47 @@
         "Trading",
         "Analysis"
       ]
-    },
-    {
-      "id": "6c636a54f96bfdb87a636e1380e8591e",
-      "title": "Traders are bullish on ETH as price begins to catch up with the tech",
-      "link": "https://cryptoslate.com/traders-are-bullish-on-eth-as-price-begins-to-catch-up-with-the-tech/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:30:52 +0000",
-      "excerpt": "Ethereum (ETH), the world’s second-largest crypto by market cap, may finally be poised for a breakout after years of underwhelming performance. With both traders and the broader community expressin...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Regulation"
-      ]
     }
   ],
   "defi": [
+    {
+      "id": "c3c81745bde52df37b4aa6b691e35305",
+      "title": "LINK Jumps in Price As Chainlink Labs Joins the SEC’s Crypto Task Force To Discuss Tokenized Assets",
+      "link": "https://dailyhodl.com/2025/07/19/link-jumps-in-price-as-chainlink-labs-joins-the-secs-crypto-task-force-to-discuss-tokenized-assets/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 00:00:15 +0000",
+      "excerpt": "The decentralized oracle network Chainlink (LINK) defied the overall crypto market dip and witnessed a mild bump in price after Chainlink Labs announced that it had joined the U.S. Securities and E...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi",
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "7bdd59709e90dee7b1bc3c5f58553d63",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "categories": [
+        "bitcoin",
+        "defi",
+        "nft"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi",
+        "NFT",
+        "Trading",
+        "Regulation"
+      ]
+    },
     {
       "id": "a3833e4218fa94fdbe3054ec49518b85",
       "title": "Here’s what happened in crypto today",
@@ -874,37 +918,30 @@
         "Trading",
         "Regulation"
       ]
-    },
-    {
-      "id": "70a5dca1ffece80299aeb8306e609882",
-      "title": "Another Crypto-Affiliated Firm Achieves the S&P 500 Milestone",
-      "link": "https://beincrypto.com/jack-dorseys-block-earns-sp-500-milestone/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:17:02 +0000",
-      "excerpt": "Block Inc., the fintech company founded by Twitter co-creator Jack Dorsey, is set to join the prestigious S&P 500 index on July 23. The announcement, confirmed by S&P Dow Jones Indices on July 18, ...",
-      "categories": [
-        "defi"
-      ],
-      "tags": []
-    },
-    {
-      "id": "de566ced7c362f3c6e30850cd3d1d43b",
-      "title": "Bank of Japan’s quiet dollar liquidity move: warning sign or just the beginning?",
-      "link": "https://cryptoslate.com/bank-of-japans-quiet-dollar-liquidity-move-warning-sign-or-just-the-beginning/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 12:27:15 +0000",
-      "excerpt": "On July 15, 2025, the Bank of Japan (BOJ) quietly announced that it would begin supplying U.S. dollar funds against pooled collateral, starting on July 17, a move that might seem like standard liqu...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi"
-      ]
     }
   ],
   "nft": [
+    {
+      "id": "7bdd59709e90dee7b1bc3c5f58553d63",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "categories": [
+        "bitcoin",
+        "defi",
+        "nft"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi",
+        "NFT",
+        "Trading",
+        "Regulation"
+      ]
+    },
     {
       "id": "a3833e4218fa94fdbe3054ec49518b85",
       "title": "Here’s what happened in crypto today",
@@ -1020,6 +1057,22 @@
       ]
     },
     {
+      "id": "4734344381a086127c931de06ec46fd8",
+      "title": "Can XRP price reach $20? These charts say ‘full bull’ phase is still ahead",
+      "link": "https://cointelegraph.com/news/can-xrp-price-reach-dollar20-these-charts-full-bull-phase-still-ahead?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 15:50:07 +0100",
+      "excerpt": "Multiple chart technicals and indicators suggest that XRP price has the potential to stage a parabolic rally over the next few weeks.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
       "id": "c6c6013943de64b494a31903f711aa7a",
       "title": "Can XRP price reach $20? These charts say ‘full bull’ phase is still ahead",
       "link": "https://cointelegraph.com/news/can-xrp-price-reach-dollar20-these-charts-full-bull-phase-still-ahead?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
@@ -1102,27 +1155,156 @@
       "tags": [
         "Trading"
       ]
-    },
-    {
-      "id": "d1d62bf41c830de38c3e523ea4285f23",
-      "title": "Ether preps record short squeeze as analysis sees $4K ETH price &#039;soon&#039;",
-      "link": "https://cointelegraph.com/news/ether-preps-record-short-squeeze-analysis-4k-eth-price-soon?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 11:22:31 +0100",
-      "excerpt": "Ether is punishing shorts already, but another 10% ETH price upside will liquidate $1 billion, helping cement $4,000 in the process.",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
     }
   ],
   "all": [
+    {
+      "id": "ee1688f16abaa09c7d166879fbad1e3d",
+      "title": "Crypto Giant Bullish Files for NYSE IPO With Peter Thiel Backing",
+      "link": "https://news.bitcoin.com/crypto-giant-bullish-files-for-nyse-ipo-with-peter-thiel-backing/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 02:30:43 +0000",
+      "excerpt": "Bullish is charging into the public markets with a bold NYSE bid, signaling massive momentum for institutional crypto as investor appetite reignites and global ambitions scale fast. Thiel-Backed Bu...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "20ce94118bd31751466760b1e24a73e3",
+      "title": "Ripple CEO Says Likens GENIUS Act To Major Regulation After 2008 Finanical Crisis",
+      "link": "https://bitcoinist.com/ripple-ceo-on-the-genius-act/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 02:30:36 +0000",
+      "excerpt": "In a landmark moment for both Ripple and the broader crypto industry, US President Donald Trump has officially signed the Guiding and Establishing National Innovation for US Stablecoins Act, or the...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "209d27c69732230399511c568d15850c",
+      "title": "Billionaire Ray Dalio’s Bridgewater Sells S&P 500, Amasses $1,020,000,000 in Two Major Assets",
+      "link": "https://dailyhodl.com/2025/07/19/billionaire-ray-dalios-bridgewater-sells-sp-500-amasses-1020000000-in-two-major-assets/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 02:23:31 +0000",
+      "excerpt": "Billionaire Ray Dalio’s hedge fund is shedding exposure to the S&P 500 and hedging against the US dollar – while managing to stay on offense. The latest 13F filings show Dalio’s Bridgewater Associa...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "ec27dcec68582f46707dc77eff2015d4",
+      "title": "Robinhood CEO: Crypto Will Reshape Every Industry—And It’s Already Happening",
+      "link": "https://news.bitcoin.com/robinhood-ceo-crypto-will-reshape-every-industry-and-its-already-happening/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 01:30:45 +0000",
+      "excerpt": "The United States just ignited a new era of crypto dominance, with landmark legislation unleashing blockchain and AI to revolutionize finance, healthcare, and the global digital economy. Crypto Tec...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "65c8e78583c4ff99c84bab826607dc45",
+      "title": "DOGE Bullish Pattern Points To $0.42 Target – Analyst",
+      "link": "https://www.newsbtc.com/news/dogecoin/doge-bullish-pattern-points-to-0-42-target-analyst/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 01:00:36 +0000",
+      "excerpt": "Dogecoin (DOGE) prices surged by over 17% in the past week, in line with a bullish altcoin performance, pushing the total crypto market cap to $4 trillion. The prominent altcoin is now facing major...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "9e06ad22abc44df6e388c1221e7f727e",
+      "title": "Steller (XLM) Price Faces Challenge Amid Mounting Outflows",
+      "link": "https://beincrypto.com/stellar-xlm-price-challenge-mounting-outflows/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 01:00:00 +0000",
+      "excerpt": "Stellar struggles to breach $0.50 amidst outflows and weakening momentum. A further drop is possible unless inflows recover, which could drive a price reversal.\nThe post Steller (XLM) Price Faces C...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "7d7e4362d48517be2279776a4b99030f",
+      "title": "XLM&#039;s price to rocket like XRP, Trump’s big crypto nod: Hodler’s Digest, July 13 – 19",
+      "link": "https://cointelegraph.com/news/stellar-xlm-xrp-rally-donald-trump-crypto-sign-bill-hodlers-digest?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 00:38:07 +0100",
+      "excerpt": "Stellar may be setting up more upside after XRP's recent price surge, US President Donald Trump signed one of the first bills related to crypto, and other news.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "7075e7108dac8f412ba8f7c2080e0c0c",
+      "title": "Robert Kiyosaki Reveals When He’ll Buy More Bitcoin—And When He’ll Stop Buying",
+      "link": "https://news.bitcoin.com/robert-kiyosaki-reveals-when-hell-buy-more-bitcoin-and-when-hell-stop-buying/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 00:30:47 +0000",
+      "excerpt": "Bitcoin rockets past key price points as Robert Kiyosaki reveals bold buy-in and strategic stop-buying plan, signaling massive upside potential while eyeing the next major pullback. Robert Kiyosaki...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "c3c81745bde52df37b4aa6b691e35305",
+      "title": "LINK Jumps in Price As Chainlink Labs Joins the SEC’s Crypto Task Force To Discuss Tokenized Assets",
+      "link": "https://dailyhodl.com/2025/07/19/link-jumps-in-price-as-chainlink-labs-joins-the-secs-crypto-task-force-to-discuss-tokenized-assets/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 00:00:15 +0000",
+      "excerpt": "The decentralized oracle network Chainlink (LINK) defied the overall crypto market dip and witnessed a mild bump in price after Chainlink Labs announced that it had joined the U.S. Securities and E...",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi",
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "998423a38eb947b175b8db33afb9d0ab",
+      "title": "Ripple’s RLUSD Ranked No. 1 Stablecoin by Bluechip With ‘A’ Rating",
+      "link": "https://news.bitcoin.com/ripples-rlusd-ranked-no-1-stablecoin-by-bluechip-with-a-rating/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 23:30:33 +0000",
+      "excerpt": "Ripple’s RLUSD rockets to the top as Bluechip’s highest-rated stablecoin, dominating for unmatched stability, elite governance, and rock-solid backing trusted by global institutions. Bluechip Ranks...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
     {
       "id": "b98d672fc9315ca5302b4339a8c4594f",
       "title": "XRP Headed For ‘Insane Levels’ — Major Predictions After Hitting 7-Year High",
@@ -1137,6 +1319,42 @@
       "tags": [
         "Trading",
         "Analysis"
+      ]
+    },
+    {
+      "id": "da2889e0eff24236359a009d690ac67a",
+      "title": "Tether Eyes $1 Trillion USDT Milestone But Faces Strict New US Rules",
+      "link": "https://beincrypto.com/tether-usdt-scalling-plan-genius-act/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sat, 19 Jul 2025 23:29:00 +0000",
+      "excerpt": "The GENIUS Act grants the Federal Reserve oversight of dollar-backed tokens and imposes strict audit and compliance standards on issuers like Tether.\nThe post Tether Eyes $1 Trillion USDT Milestone...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "7bdd59709e90dee7b1bc3c5f58553d63",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
+      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "categories": [
+        "bitcoin",
+        "defi",
+        "nft"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi",
+        "NFT",
+        "Trading",
+        "Regulation"
       ]
     },
     {
@@ -1159,6 +1377,19 @@
         "Trading",
         "Regulation"
       ]
+    },
+    {
+      "id": "89f6875ef47189ccc4ec955776d2f9d5",
+      "title": "US Lawmaker sounds alarm on GENIUS bill, says it&#039;s a CBDC Trojan Horse",
+      "link": "https://cointelegraph.com/news/us-lawmaker-alarm-genius-bill-cbdc-trojan-horse?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 23:15:24 +0100",
+      "excerpt": "The line between a central bank digital currency and a centrally-managed, government-regulated stablecoin is thin, critics argue.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "2d9c7093591fb9247c3e9a93a22487d4",
@@ -1245,6 +1476,21 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "fa112009d0279197c41a6e4b960a3a07",
+      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
+      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
+      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
     },
     {
       "id": "ab46a880607af97268116b1e7f0712bf",
@@ -1459,6 +1705,21 @@
       "tags": []
     },
     {
+      "id": "934227f35a8e640670e3425753de8291",
+      "title": "Indian crypto exchange CoinDCX hacked, $44 million drained",
+      "link": "https://cointelegraph.com/news/crypto-exchange-coindcx-hacked-42-million-drained?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 17:37:51 +0100",
+      "excerpt": "The cybersecurity exploit occurred due to a \"sophisticated server breach,\" CoinDCX CEO and co-founder Sumit Gupta announced on Saturday.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
       "id": "bbfcf040837d5c17bfdae09b6a7411dd",
       "title": "Indian crypto exchange CoinDCX hacked, $44 million drained",
       "link": "https://cointelegraph.com/news/crypto-exchange-coindcx-hacked-42-million-drained?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
@@ -1652,6 +1913,19 @@
       ]
     },
     {
+      "id": "52dd03aee29ba8bd8fbcbec4d20e72cb",
+      "title": "Crypto rules for mortgages must reflect self-custody reality",
+      "link": "https://cointelegraph.com/news/fhfa-homebuyers-risk?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 16:00:00 +0100",
+      "excerpt": "The FHFA directive on crypto in mortgage risk assessments risks excluding self-custodied assets, potentially increasing counterparty risk for homebuyers.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "8a27e5ca15257d062dd5cf16a087e843",
       "title": "Crypto rules for mortgages must reflect self-custody reality",
       "link": "https://cointelegraph.com/news/fhfa-homebuyers-risk?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
@@ -1691,6 +1965,22 @@
       "tags": [
         "DeFi",
         "Trading"
+      ]
+    },
+    {
+      "id": "4734344381a086127c931de06ec46fd8",
+      "title": "Can XRP price reach $20? These charts say ‘full bull’ phase is still ahead",
+      "link": "https://cointelegraph.com/news/can-xrp-price-reach-dollar20-these-charts-full-bull-phase-still-ahead?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 15:50:07 +0100",
+      "excerpt": "Multiple chart technicals and indicators suggest that XRP price has the potential to stage a parabolic rally over the next few weeks.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
       ]
     },
     {
@@ -1898,6 +2188,21 @@
       ]
     },
     {
+      "id": "320036e38177d0afbc377247b0d5733f",
+      "title": "Spot Bitcoin ETFs gains $363M, extend 12-day inflow streak to $6.6B",
+      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 13:52:16 +0100",
+      "excerpt": "Spot Bitcoin ETFs have attracted over $6.6 billion in 12 days, boosting assets under management to $152.4 billion.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
       "id": "d2dabb95a8ec755e695bf235ca4d8e08",
       "title": "Spot Bitcoin ETFs gains $363M, extend 12-day inflow streak to $6.6B",
       "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
@@ -2025,6 +2330,19 @@
       ]
     },
     {
+      "id": "35844d9340a1efa4bddbfb2d1cb9d1e6",
+      "title": "‘Crypto Week’ ushers in big change: What happens now?",
+      "link": "https://cointelegraph.com/news/crypto-week-what-happens-now?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 13:00:00 +0100",
+      "excerpt": "Crypto Week in the US ends with some victories for the crypto lobby, with the GENIUS Act headed to Trump’s desk.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "f5c9e9d5f23b21447e4af7bbc3dc8ec7",
       "title": "‘Crypto Week’ ushers in big change: What happens now?",
       "link": "https://cointelegraph.com/news/crypto-week-what-happens-now?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
@@ -2082,6 +2400,19 @@
       "tags": [
         "DeFi"
       ]
+    },
+    {
+      "id": "8986ce15fc8e8a6f24b814eadf0aafe8",
+      "title": "They trusted a sealed wallet from TikTok, and it cost them $6.9M",
+      "link": "https://cointelegraph.com/explained/they-trusted-a-sealed-wallet-from-tiktok-and-it-cost-them-69m?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sat, 19 Jul 2025 12:25:00 +0100",
+      "excerpt": "A fake hardware wallet bought via TikTok led to a $6.9-million crypto theft; hackers are now targeting devices meant to keep funds safe.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "c475958ccaf7ea1cf00b4b57c0de655e",
@@ -3484,5 +3815,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-19T23:30:47.094711"
+  "last_updated": "2025-07-20T02:36:46.682417"
 }
