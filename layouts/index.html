@@ -22,7 +22,7 @@
     <div class="featured-section">
         <h2 class="section-title">🔥 Trending Now</h2>
         <div class="news-grid">
-            {{ $aggregatedNews := .site.data.aggregated_news }}
+            {{ $aggregatedNews := .Site.Sata.aggregated_news }}
             {{ if $aggregatedNews }}
             {{ if $aggregatedNews.featured }}
             {{ range first 2 $aggregatedNews.featured }}
@@ -67,7 +67,7 @@
     </div>
 
     <div class="news-grid">
-        {{ $aggregatedNews := .site.data.aggregated_news }}
+        {{ $aggregatedNews := .Site.Data.aggregated_news }}
         {{ if and $aggregatedNews $aggregatedNews.latest }}
         {{ range first 6 $aggregatedNews.latest }}
         {{ partial "news-card.html" . }}
