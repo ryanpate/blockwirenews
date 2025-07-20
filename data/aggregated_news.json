@@ -1,6 +1,52 @@
 {
   "latest": [
     {
+      "id": "7b78c2faa0b7df5703664d6ddc8b656c",
+      "title": "AI and blockchain are already disrupting legacy education system",
+      "link": "https://cointelegraph.com/news/ai-blockchain-disrupting-education-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 21:32:59 +0100",
+      "excerpt": "Projects across multiple educational sectors are leveraging AI and blockchain to provide more accessible alternatives to students.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "fc75de952edaa0839b1e784c851f232d",
+      "title": "Analysts Urge Profit-Taking Strategy As Ethereum Beats Banks",
+      "link": "https://beincrypto.com/ethereum-surpasses-banks-altcoin-cycle-top/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:48:25 +0000",
+      "excerpt": "Ethereum’s price rally has pushed it above major financial institutions, but analysts warn that the altcoin market could soon face a correction, urging caution despite the ongoing growth.\nThe post ...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "fe049676ca13dfd1e643280b5a075f20",
+      "title": "Bitcoin Darknet Giant Abacus Vanishes – Was It a Massive Exit Scam?",
+      "link": "https://cryptopotato.com/bitcoin-darknet-giant-abacus-vanishes-was-it-a-massive-exit-scam/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:38:13 +0000",
+      "excerpt": "The vanishing of Abacus leaves users and vendors scrambling for alternatives.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
       "id": "6a1ac77b681898ef5a8c12f90c9275a6",
       "title": "US Bitcoin ETFs Record Second Consecutive $2 Billion Inflow Week — Details",
       "link": "https://bitcoinist.com/bitcoin-etfs-second-2-billion-inflow-in-two-weeks/",
@@ -251,50 +297,40 @@
         "Ethereum",
         "Trading"
       ]
-    },
+    }
+  ],
+  "featured": [
     {
-      "id": "9059291b1424966cd086daf9cb86879d",
-      "title": "Proponent Suggests the XRP Price Can 6x From Here, But is it Realistic?",
-      "link": "https://cryptopotato.com/proponent-suggests-the-xrp-price-can-6x-from-here-but-is-it-realistic/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 16:12:28 +0000",
-      "excerpt": "Can XRP realistically achieve 6x gains from its current price point?",
+      "id": "fc75de952edaa0839b1e784c851f232d",
+      "title": "Analysts Urge Profit-Taking Strategy As Ethereum Beats Banks",
+      "link": "https://beincrypto.com/ethereum-surpasses-banks-altcoin-cycle-top/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:48:25 +0000",
+      "excerpt": "Ethereum’s price rally has pushed it above major financial institutions, but analysts warn that the altcoin market could soon face a correction, urging caution despite the ongoing growth.\nThe post ...",
       "categories": [
-        "crypto"
+        "ethereum"
       ],
       "tags": [
+        "Ethereum",
         "Trading"
       ]
     },
     {
-      "id": "bb184e3d484fcce66bfc6526766ce639",
-      "title": "Dogecoin Whale Bets $21 Million After $2.14M Profit – What’s Going On?",
-      "link": "https://www.newsbtc.com/altcoin/dogecoin-whale-bets-21-million-after-2-14m-profit-whats-going-on/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 16:00:33 +0000",
-      "excerpt": "A major Dogecoin whale is making a bold $21.24 million leveraged bet just days after locking in a multi-million-dollar profit. The move, which was revealed by Lookonchain, sparked interest among cr...",
+      "id": "fe049676ca13dfd1e643280b5a075f20",
+      "title": "Bitcoin Darknet Giant Abacus Vanishes – Was It a Massive Exit Scam?",
+      "link": "https://cryptopotato.com/bitcoin-darknet-giant-abacus-vanishes-was-it-a-massive-exit-scam/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:38:13 +0000",
+      "excerpt": "The vanishing of Abacus leaves users and vendors scrambling for alternatives.",
       "categories": [
-        "crypto"
+        "bitcoin"
       ],
-      "tags": []
+      "tags": [
+        "Bitcoin"
+      ]
     },
-    {
-      "id": "186d3c386fe14b16e9c761f3fcdd0583",
-      "title": "Embedding human rights into crypto isn’t optional, it’s foundational",
-      "link": "https://cointelegraph.com/news/human-rights-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 16:00:00 +0100",
-      "excerpt": "Embedding human rights into crypto systems is a necessity. Self-custody, privacy-by-default, and censorship-resistant personhood must be core design principles for any technology. The future of di...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    }
-  ],
-  "featured": [
     {
       "id": "6a1ac77b681898ef5a8c12f90c9275a6",
       "title": "US Bitcoin ETFs Record Second Consecutive $2 Billion Inflow Week — Details",
@@ -341,39 +377,24 @@
         "Bitcoin",
         "Trading"
       ]
-    },
+    }
+  ],
+  "bitcoin": [
     {
-      "id": "c3105e796cb7551495cb7a979edf8a12",
-      "title": "Vitalik Buterin Defends Safe Scaling as Ethereum Inches Toward 45 Million Gas Limit",
-      "link": "https://beincrypto.com/ethereum-gas-limit-scaling-buterin/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 18:24:50 +0000",
-      "excerpt": "Vitalik Buterin defends Ethereum's scaling efforts as the network approaches a 45 million gas limit, supported by upgraded infrastructure and client improvements.\nThe post Vitalik Buterin Defends S...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "b206cb563566dd550e7ac5f4913a2748",
-      "title": "US Marshals Report Holding 28,988 BTC, Challenging Third-Party Crypto Estimates",
-      "link": "https://cryptopotato.com/us-marshals-report-holding-28988-btc-challenging-third-party-crypto-estimates/",
+      "id": "fe049676ca13dfd1e643280b5a075f20",
+      "title": "Bitcoin Darknet Giant Abacus Vanishes – Was It a Massive Exit Scam?",
+      "link": "https://cryptopotato.com/bitcoin-darknet-giant-abacus-vanishes-was-it-a-massive-exit-scam/",
       "source": "CryptoPotato",
       "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 17:55:58 +0000",
-      "excerpt": "A FOIA request reveals the U.S. Marshals Service holds 28,988 BTC, just 15% of prior estimates, raising questions about undisclosed BTC sales.",
+      "timestamp": "Sun, 20 Jul 2025 20:38:13 +0000",
+      "excerpt": "The vanishing of Abacus leaves users and vendors scrambling for alternatives.",
       "categories": [
         "bitcoin"
       ],
       "tags": [
         "Bitcoin"
       ]
-    }
-  ],
-  "bitcoin": [
+    },
     {
       "id": "6a1ac77b681898ef5a8c12f90c9275a6",
       "title": "US Bitcoin ETFs Record Second Consecutive $2 Billion Inflow Week — Details",
@@ -520,26 +541,25 @@
         "Trading",
         "Analysis"
       ]
-    },
-    {
-      "id": "efe900782f6cce8e3d3f616a706cda45",
-      "title": "Bitcoin Price Prediction: BTC’s $123.1K Peak Signals Local Top – Warnings of Pullback",
-      "link": "https://cryptonews.com/news/bitcoin-price-prediction-btcs-123-1k-peak-signals-local-top-warnings-of-pullback/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:30:08 +0000",
-      "excerpt": "Bitcoin's recent peak at $123,100 has triggered warnings of a potential local top as on-chain metrics signal overextension. The cryptocurrency quickly retraced 6% to around $115,700 after hitting t...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "fc75de952edaa0839b1e784c851f232d",
+      "title": "Analysts Urge Profit-Taking Strategy As Ethereum Beats Banks",
+      "link": "https://beincrypto.com/ethereum-surpasses-banks-altcoin-cycle-top/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:48:25 +0000",
+      "excerpt": "Ethereum’s price rally has pushed it above major financial institutions, but analysts warn that the altcoin market could soon face a correction, urging caution despite the ongoing growth.\nThe post ...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
     {
       "id": "c3105e796cb7551495cb7a979edf8a12",
       "title": "Vitalik Buterin Defends Safe Scaling as Ethereum Inches Toward 45 Million Gas Limit",
@@ -678,22 +698,6 @@
       "sourceUrl": "https://www.newsbtc.com/feed/",
       "timestamp": "Sun, 20 Jul 2025 10:00:38 +0000",
       "excerpt": "Ethereum has revived a long-lost faith in its investors following its recent impressive price action, which saw the altcoin reclaim the $3,000 level. While the ETH token is still a fair distance fr...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "b4206ce2603a24f7783e02c033e4df67",
-      "title": "Here’s Why SEI Bulls Think It Can Outpace Ethereum’s Price Growth In Q3",
-      "link": "https://cryptopotato.com/heres-why-sei-bulls-think-it-can-outpace-ethereums-price-growth-in-q3/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 07:35:12 +0000",
-      "excerpt": "SEI opened the week with 13% gains for the 7-day window. It was up over 100% for the trailing 30 days. But some altcoin bulls think it's just getting started in July.",
       "categories": [
         "ethereum"
       ],
@@ -1105,6 +1109,52 @@
     }
   ],
   "all": [
+    {
+      "id": "7b78c2faa0b7df5703664d6ddc8b656c",
+      "title": "AI and blockchain are already disrupting legacy education system",
+      "link": "https://cointelegraph.com/news/ai-blockchain-disrupting-education-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Sun, 20 Jul 2025 21:32:59 +0100",
+      "excerpt": "Projects across multiple educational sectors are leveraging AI and blockchain to provide more accessible alternatives to students.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "fc75de952edaa0839b1e784c851f232d",
+      "title": "Analysts Urge Profit-Taking Strategy As Ethereum Beats Banks",
+      "link": "https://beincrypto.com/ethereum-surpasses-banks-altcoin-cycle-top/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:48:25 +0000",
+      "excerpt": "Ethereum’s price rally has pushed it above major financial institutions, but analysts warn that the altcoin market could soon face a correction, urging caution despite the ongoing growth.\nThe post ...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "fe049676ca13dfd1e643280b5a075f20",
+      "title": "Bitcoin Darknet Giant Abacus Vanishes – Was It a Massive Exit Scam?",
+      "link": "https://cryptopotato.com/bitcoin-darknet-giant-abacus-vanishes-was-it-a-massive-exit-scam/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 20:38:13 +0000",
+      "excerpt": "The vanishing of Abacus leaves users and vendors scrambling for alternatives.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
     {
       "id": "6a1ac77b681898ef5a8c12f90c9275a6",
       "title": "US Bitcoin ETFs Record Second Consecutive $2 Billion Inflow Week — Details",
@@ -5041,5 +5091,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T20:31:40.632981"
+  "last_updated": "2025-07-20T21:27:31.098360"
 }
