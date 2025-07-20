@@ -1,6 +1,112 @@
 {
   "latest": [
     {
+      "id": "cbb0d596aca5f870a63b4a1df0dd5c7b",
+      "title": "Hackers Hit Centers for Medicare & Medicaid Services – 103,000 Americans Warned Names, Addresses, Provider Records and Other Sensitive Data at Risk",
+      "link": "https://dailyhodl.com/2025/07/20/hackers-hit-centers-for-medicare-medicaid-services-103000-americans-warned-names-addresses-provider-records-and-other-sensitive-data-at-risk/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:15:03 +0000",
+      "excerpt": "A major cybersecurity incident has exposed sensitive personal and health records of tens of thousands of Americans. In a notice, the Centers for Medicare & Medicaid Services (CMS) says 103,000 indi...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "2ae70f637e4a281589e4462bf29146c3",
+      "title": "UK Government Looks To Offload $7 Billion Seized Bitcoin – Details",
+      "link": "https://bitcoinist.com/uk-government-to-offload-7-billion-seized-bitcoin/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:00:19 +0000",
+      "excerpt": "The UK government is reportedly planning to sell billions of dollars worth of Bitcoin (BTC) in a bid to support public spending. This development comes following Bitcoin’s latest success in establi...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "4374ce1da1983b34c39055065b2767b7",
+      "title": "UK Home Office Plans to Sell $7 Billion in Seized Bitcoin: The Telegraph",
+      "link": "https://cryptonews.com/news/uk-home-office-plans-to-sell-7-billion-in-seized-bitcoin-the-telegraph/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:50:36 +0000",
+      "excerpt": "The UK government is preparing to offload billions of pounds worth of seized Bitcoin, as pressure mounts on Chancellor Rachel Reeves to plug a widening budget gap.\nThe post UK Home Office Plans to ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "fefb309f88039c4d1783db09f23bb46c",
+      "title": "Indian Crypto Exchange CoinDCX Suffers Major Hack, Loses $44 Million in Security Breach",
+      "link": "https://cryptonews.com/news/indian-crypto-exchange-coindcx-suffers-major-hack-loses-44-million-in-security-breach/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:35:51 +0000",
+      "excerpt": "Indian crypto exchange CoinDCX has confirmed a major security breach that resulted in the loss of $44 million.\nThe post Indian Crypto Exchange CoinDCX Suffers Major Hack, Loses $44 Million in Secur...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ea950f07570f3edbc81722a582b18385",
+      "title": "Bitcoin Forms Golden Cross Again — How High Can BTC Climb?",
+      "link": "https://cryptopotato.com/bitcoin-forms-golden-cross-again-how-high-can-btc-climb/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:35:11 +0000",
+      "excerpt": "Not all golden crosses come with positive price trends, but strong Bitcoin fundamentals and favorable macroeconomic factors support this one.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "959b4483208b545a9af049073dbe1622",
+      "title": "UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Style Mistake",
+      "link": "https://beincrypto.com/uk-plans-to-sell-bitcoin-sparks-backlash/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:32:20 +0000",
+      "excerpt": "The UK government is considering selling $6.7 billion worth of seized Bitcoin to help address a £20 billion budget deficit.\nThe post UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Sty...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi"
+      ]
+    },
+    {
+      "id": "335ec88e15687abc9cd76f3299dc45e4",
+      "title": "Next-Gen AI Model Achieves New Milestone in General Intelligence",
+      "link": "https://news.bitcoin.com/next-gen-ai-model-achieves-new-milestone-in-general-intelligence/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:30:48 +0000",
+      "excerpt": "Alexander Wei, a member of Openai’s Large Language Model (LLM) and reasoning research team, reported that a next-generation artificial intelligence (AI) experimental reasoning model achieved gold m...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "77ef6b7009ff42a8a344e4ffbc8869be",
       "title": "Treasury Secretary Scott Bessent Says US Dollar Coming On-Chain As Landmark Stablecoin Bill Becomes Law",
       "link": "https://dailyhodl.com/2025/07/20/treasury-secretary-scott-bessent-says-us-dollar-coming-on-chain-as-landmark-stablecoin-bill-becomes-law/",
@@ -190,15 +296,47 @@
         "crypto"
       ],
       "tags": []
+    }
+  ],
+  "featured": [
+    {
+      "id": "2ae70f637e4a281589e4462bf29146c3",
+      "title": "UK Government Looks To Offload $7 Billion Seized Bitcoin – Details",
+      "link": "https://bitcoinist.com/uk-government-to-offload-7-billion-seized-bitcoin/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:00:19 +0000",
+      "excerpt": "The UK government is reportedly planning to sell billions of dollars worth of Bitcoin (BTC) in a bid to support public spending. This development comes following Bitcoin’s latest success in establi...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
     },
     {
-      "id": "952526a335d0b849d9bd5fd40bdfa61a",
-      "title": "Litecoin Skyrockets by Double-Digits, Bitcoin Price Stalls at $118K: Weekend Watch",
-      "link": "https://cryptopotato.com/litecoin-skyrockets-by-double-digits-bitcoin-price-stalls-at-118k-weekend-watch/",
+      "id": "4374ce1da1983b34c39055065b2767b7",
+      "title": "UK Home Office Plans to Sell $7 Billion in Seized Bitcoin: The Telegraph",
+      "link": "https://cryptonews.com/news/uk-home-office-plans-to-sell-7-billion-in-seized-bitcoin-the-telegraph/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:50:36 +0000",
+      "excerpt": "The UK government is preparing to offload billions of pounds worth of seized Bitcoin, as pressure mounts on Chancellor Rachel Reeves to plug a widening budget gap.\nThe post UK Home Office Plans to ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "ea950f07570f3edbc81722a582b18385",
+      "title": "Bitcoin Forms Golden Cross Again — How High Can BTC Climb?",
+      "link": "https://cryptopotato.com/bitcoin-forms-golden-cross-again-how-high-can-btc-climb/",
       "source": "CryptoPotato",
       "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 06:28:30 +0000",
-      "excerpt": "ENA and XDC are the top gainers today.",
+      "timestamp": "Sun, 20 Jul 2025 09:35:11 +0000",
+      "excerpt": "Not all golden crosses come with positive price trends, but strong Bitcoin fundamentals and favorable macroeconomic factors support this one.",
       "categories": [
         "bitcoin"
       ],
@@ -208,89 +346,22 @@
       ]
     },
     {
-      "id": "a5060a711a12ceba32684d984f23daf5",
-      "title": "Thumzup Backs XRP as It Hits ATH in $250M Crypto Shift",
-      "link": "https://cryptopotato.com/thumzup-backs-xrp-as-it-hits-ath-in-250m-crypto-shift/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 05:40:56 +0000",
-      "excerpt": "Thumzup approves $250M crypto plan including XRP, USDC, and more, as shares surge and the former hits $3.65.",
+      "id": "959b4483208b545a9af049073dbe1622",
+      "title": "UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Style Mistake",
+      "link": "https://beincrypto.com/uk-plans-to-sell-bitcoin-sparks-backlash/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:32:20 +0000",
+      "excerpt": "The UK government is considering selling $6.7 billion worth of seized Bitcoin to help address a £20 billion budget deficit.\nThe post UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Sty...",
       "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "af4b61477cde30acfb61454d71aec751",
-      "title": "Bitcoin 43% social chat dominance suggests &#039;key entry point&#039; ahead",
-      "link": "https://cointelegraph.com/news/bitcoin-social-dominance-spikes-local-top-btc-price-buying-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 04:59:11 +0100",
-      "excerpt": "Santiment says the “historic social dominance spike” may indicate another buying opportunity for Bitcoin in the near term.",
-      "categories": [
-        "bitcoin"
+        "bitcoin",
+        "defi"
       ],
       "tags": [
-        "Bitcoin"
+        "Bitcoin",
+        "DeFi"
       ]
     },
-    {
-      "id": "8166581701f0368978ece88596a8b49d",
-      "title": "Solana and BNB Chain Lead The Biggest Blockchain Week: Details",
-      "link": "https://cryptopotato.com/solana-and-bnb-chain-lead-the-biggest-blockchain-week-details/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 04:54:01 +0000",
-      "excerpt": "Over the past week, the number of transactions across public blockchains and Layer-2 networks has reached levels not seen before.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "fec1c6524c18de614eb66ad714f79e7a",
-      "title": "Trump–Backed World Liberty Financial Clarifies WLFI Launch—No Pre-Sale, No Insider Edge",
-      "link": "https://news.bitcoin.com/trump-backed-world-liberty-financial-clarifies-wlfi-launch-no-pre-sale-no-insider-edge/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 04:30:56 +0000",
-      "excerpt": "World Liberty Financial moves to calm investor concerns with a token unlock plan, delaying insider access, rejecting new pre-sales, and putting community trust at the forefront. WLFI Clarifies Toke...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "1a3f2c0ddc9cee76b0b07a09073135fa",
-      "title": "Pump.fun Ex‑Developer Behind $2M Crypto Theft Jailed For Bail Breach",
-      "link": "https://bitcoinist.com/pump-fun-ex%e2%80%91developer-2m-theft-jailed-bail-breach/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 04:00:22 +0000",
-      "excerpt": "Pump.fun former employee Jarett Dunn has been remanded to a London prison after breaching the terms of a bail agreement. The Canadian and popular crypto figure is currently undergoing trial after s...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "217ab11a8d5aae33411fb892346c094d",
-      "title": "Chainlink Sees Heavy Accumulation – Whales Add 8M LINK In One Month",
-      "link": "https://www.newsbtc.com/chainlink-news/chainlink-sees-heavy-accumulation-whales-add-8m-link-in-one-month/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 04:00:13 +0000",
-      "excerpt": "Chainlink is entering a pivotal moment in its market cycle, with bullish sentiment returning after a prolonged period of underperformance. Since late June, LINK has surged over 70%, marking its str...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    }
-  ],
-  "featured": [
     {
       "id": "15d4fc4f03c76e597b5591b1019c1255",
       "title": "Altseason: 3 Signals Investors Should Watch For – Analyst",
@@ -306,71 +377,72 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "37c27dfe58901594deaac3538997cab7",
-      "title": "Bitcoin Growth Rate Indicator Signals Bullish Continuation – Analyst",
-      "link": "https://bitcoinist.com/bitcoin-growth-rate-indicator-signals-bullish-continuation-analyst/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 08:30:13 +0000",
-      "excerpt": "Bitcoin has entered a consolidation phase after briefly pushing above the $120,000 level, marking a significant milestone in its ongoing bull cycle. Despite the temporary pause in upward momentum, ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "b4206ce2603a24f7783e02c033e4df67",
-      "title": "Here’s Why SEI Bulls Think It Can Outpace Ethereum’s Price Growth In Q3",
-      "link": "https://cryptopotato.com/heres-why-sei-bulls-think-it-can-outpace-ethereums-price-growth-in-q3/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 07:35:12 +0000",
-      "excerpt": "SEI opened the week with 13% gains for the 7-day window. It was up over 100% for the trailing 30 days. But some altcoin bulls think it's just getting started in July.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "fe0b3a12081c58bfb858e5e0ca7a7eb1",
-      "title": "Who owns the most Bitcoin in 2025? The rich list revealed",
-      "link": "https://cointelegraph.com/news/bitcoin-rich-list-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 07:34:27 +0100",
-      "excerpt": "From exchanges and ETFs to sovereign treasuries and crypto billionaires, Bitcoin’s ownership map in 2025 reveals a mix of concentration and quiet decentralization.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "72b5511a2e15dd3d92689a1486f00831",
-      "title": "Ethereum Open Interest Hits Record $50 Billion – Volatility Incoming?",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-open-interest-hits-record-50b-volatility-incoming/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 07:00:24 +0000",
-      "excerpt": "Ethereum is holding firm above the $3,500 level, a key support reclaimed last Friday, signaling renewed strength in the market. After surging over 70% since late June, ETH appears to have entered a...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "2ae70f637e4a281589e4462bf29146c3",
+      "title": "UK Government Looks To Offload $7 Billion Seized Bitcoin – Details",
+      "link": "https://bitcoinist.com/uk-government-to-offload-7-billion-seized-bitcoin/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:00:19 +0000",
+      "excerpt": "The UK government is reportedly planning to sell billions of dollars worth of Bitcoin (BTC) in a bid to support public spending. This development comes following Bitcoin’s latest success in establi...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "4374ce1da1983b34c39055065b2767b7",
+      "title": "UK Home Office Plans to Sell $7 Billion in Seized Bitcoin: The Telegraph",
+      "link": "https://cryptonews.com/news/uk-home-office-plans-to-sell-7-billion-in-seized-bitcoin-the-telegraph/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:50:36 +0000",
+      "excerpt": "The UK government is preparing to offload billions of pounds worth of seized Bitcoin, as pressure mounts on Chancellor Rachel Reeves to plug a widening budget gap.\nThe post UK Home Office Plans to ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "ea950f07570f3edbc81722a582b18385",
+      "title": "Bitcoin Forms Golden Cross Again — How High Can BTC Climb?",
+      "link": "https://cryptopotato.com/bitcoin-forms-golden-cross-again-how-high-can-btc-climb/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:35:11 +0000",
+      "excerpt": "Not all golden crosses come with positive price trends, but strong Bitcoin fundamentals and favorable macroeconomic factors support this one.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "959b4483208b545a9af049073dbe1622",
+      "title": "UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Style Mistake",
+      "link": "https://beincrypto.com/uk-plans-to-sell-bitcoin-sparks-backlash/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:32:20 +0000",
+      "excerpt": "The UK government is considering selling $6.7 billion worth of seized Bitcoin to help address a £20 billion budget deficit.\nThe post UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Sty...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi"
+      ]
+    },
     {
       "id": "15d4fc4f03c76e597b5591b1019c1255",
       "title": "Altseason: 3 Signals Investors Should Watch For – Analyst",
@@ -462,79 +534,6 @@
       "tags": [
         "Bitcoin",
         "Trading"
-      ]
-    },
-    {
-      "id": "7bdd59709e90dee7b1bc3c5f58553d63",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "a3833e4218fa94fdbe3054ec49518b85",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 23:28:55 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "084111168833c7313879d476646905e8",
-      "title": "Bitcoin Whale Exchange Transfers Spike As Capital Rotation Begins — Latest Altseason Signal?",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-whale-exchange-transfers-spike-as-capital-rotation-begins-latest-altseason-signal/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 22:00:39 +0000",
-      "excerpt": "Over the past week, the Bitcoin (BTC) market recorded a new all-time high at $123,091 on July 14. However, the premier cryptocurrency has experienced a slight price retracement since reaching this ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "fa112009d0279197c41a6e4b960a3a07",
-      "title": "Macro drivers will dampen Bitcoin’s halving cycle — Tim Draper",
-      "link": "https://cointelegraph.com/news/macro-factors-dampen-bitcoin-halving-tim-draper?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 20:52:39 +0100",
-      "excerpt": "The decline of the US dollar and the loss of purchasing power due to fiat currency inflation will drive global demand for Bitcoin.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
       ]
     }
   ],
@@ -712,6 +711,23 @@
   ],
   "defi": [
     {
+      "id": "959b4483208b545a9af049073dbe1622",
+      "title": "UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Style Mistake",
+      "link": "https://beincrypto.com/uk-plans-to-sell-bitcoin-sparks-backlash/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:32:20 +0000",
+      "excerpt": "The UK government is considering selling $6.7 billion worth of seized Bitcoin to help address a £20 billion budget deficit.\nThe post UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Sty...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi"
+      ]
+    },
+    {
       "id": "45ea327b8c79d14a97f294f0c22ea2ff",
       "title": "Jack Dorsey’s Block Set to Join S&P 500",
       "link": "https://news.bitcoin.com/jack-dorseys-block-set-to-join-sp-500/",
@@ -860,23 +876,6 @@
         "defi"
       ],
       "tags": [
-        "DeFi"
-      ]
-    },
-    {
-      "id": "07108c5b190c481757fec1de8c91af7b",
-      "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
-      "link": "https://cryptopotato.com/eth-treasuries-ditch-digital-gold-model-for-yield-generating-staking-heres-why-it-matters/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:19:02 +0000",
-      "excerpt": "Ethereum treasury strategies avoid hype, and focus on productive yield and staking, according to Galaxy Digital.",
-      "categories": [
-        "ethereum",
-        "defi"
-      ],
-      "tags": [
-        "Ethereum",
         "DeFi"
       ]
     }
@@ -1120,6 +1119,112 @@
   ],
   "all": [
     {
+      "id": "cbb0d596aca5f870a63b4a1df0dd5c7b",
+      "title": "Hackers Hit Centers for Medicare & Medicaid Services – 103,000 Americans Warned Names, Addresses, Provider Records and Other Sensitive Data at Risk",
+      "link": "https://dailyhodl.com/2025/07/20/hackers-hit-centers-for-medicare-medicaid-services-103000-americans-warned-names-addresses-provider-records-and-other-sensitive-data-at-risk/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:15:03 +0000",
+      "excerpt": "A major cybersecurity incident has exposed sensitive personal and health records of tens of thousands of Americans. In a notice, the Centers for Medicare & Medicaid Services (CMS) says 103,000 indi...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "2ae70f637e4a281589e4462bf29146c3",
+      "title": "UK Government Looks To Offload $7 Billion Seized Bitcoin – Details",
+      "link": "https://bitcoinist.com/uk-government-to-offload-7-billion-seized-bitcoin/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 10:00:19 +0000",
+      "excerpt": "The UK government is reportedly planning to sell billions of dollars worth of Bitcoin (BTC) in a bid to support public spending. This development comes following Bitcoin’s latest success in establi...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "4374ce1da1983b34c39055065b2767b7",
+      "title": "UK Home Office Plans to Sell $7 Billion in Seized Bitcoin: The Telegraph",
+      "link": "https://cryptonews.com/news/uk-home-office-plans-to-sell-7-billion-in-seized-bitcoin-the-telegraph/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:50:36 +0000",
+      "excerpt": "The UK government is preparing to offload billions of pounds worth of seized Bitcoin, as pressure mounts on Chancellor Rachel Reeves to plug a widening budget gap.\nThe post UK Home Office Plans to ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "fefb309f88039c4d1783db09f23bb46c",
+      "title": "Indian Crypto Exchange CoinDCX Suffers Major Hack, Loses $44 Million in Security Breach",
+      "link": "https://cryptonews.com/news/indian-crypto-exchange-coindcx-suffers-major-hack-loses-44-million-in-security-breach/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:35:51 +0000",
+      "excerpt": "Indian crypto exchange CoinDCX has confirmed a major security breach that resulted in the loss of $44 million.\nThe post Indian Crypto Exchange CoinDCX Suffers Major Hack, Loses $44 Million in Secur...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ea950f07570f3edbc81722a582b18385",
+      "title": "Bitcoin Forms Golden Cross Again — How High Can BTC Climb?",
+      "link": "https://cryptopotato.com/bitcoin-forms-golden-cross-again-how-high-can-btc-climb/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:35:11 +0000",
+      "excerpt": "Not all golden crosses come with positive price trends, but strong Bitcoin fundamentals and favorable macroeconomic factors support this one.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "959b4483208b545a9af049073dbe1622",
+      "title": "UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Style Mistake",
+      "link": "https://beincrypto.com/uk-plans-to-sell-bitcoin-sparks-backlash/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:32:20 +0000",
+      "excerpt": "The UK government is considering selling $6.7 billion worth of seized Bitcoin to help address a £20 billion budget deficit.\nThe post UK Wants to Sell Its Bitcoin as Critics Warn of Gordon Brown-Sty...",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin",
+        "DeFi"
+      ]
+    },
+    {
+      "id": "335ec88e15687abc9cd76f3299dc45e4",
+      "title": "Next-Gen AI Model Achieves New Milestone in General Intelligence",
+      "link": "https://news.bitcoin.com/next-gen-ai-model-achieves-new-milestone-in-general-intelligence/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 09:30:48 +0000",
+      "excerpt": "Alexander Wei, a member of Openai’s Large Language Model (LLM) and reasoning research team, reported that a next-generation artificial intelligence (AI) experimental reasoning model achieved gold m...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "77ef6b7009ff42a8a344e4ffbc8869be",
       "title": "Treasury Secretary Scott Bessent Says US Dollar Coming On-Chain As Landmark Stablecoin Bill Becomes Law",
       "link": "https://dailyhodl.com/2025/07/20/treasury-secretary-scott-bessent-says-us-dollar-coming-on-chain-as-landmark-stablecoin-bill-becomes-law/",
@@ -1338,6 +1443,21 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "32e7cdac926cd5fe7804739dee0d104d",
+      "title": "XRP Hits New ATH, But $3.12 Retest Still In Play",
+      "link": "https://www.newsbtc.com/altcoin/xrp-hits-new-ath-but-3-12-retest-still-in-play/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Sun, 20 Jul 2025 05:30:52 +0000",
+      "excerpt": "After years of trading below its previous all-time high from 2018, XRP finally broke through the $3.40 ceiling to hit a fresh record of $3.65 on Friday, July 18. The move capped off a rally that ha...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
     },
     {
       "id": "af4b61477cde30acfb61454d71aec751",
@@ -4123,5 +4243,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-20T09:30:13.645451"
+  "last_updated": "2025-07-20T10:34:39.461637"
 }
