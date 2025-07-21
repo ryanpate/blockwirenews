@@ -4776,6 +4776,53 @@
       ]
     },
     {
+      "id": "d7274152a0eeb0a29ebb59b2a3f94a73",
+      "title": "StablecoinX to go public via SPAC merger, raising $360M for ENA treasury",
+      "link": "https://cointelegraph.com/news/stablecoinx-spac-merger-ena-treasury-ethena?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Mon, 21 Jul 2025 21:56:25 +0100",
+      "excerpt": "The new entity will manage a crypto corporate reserve powered by the ENA token, with investors including Pantera, Galaxy Digital and the Ethena Foundation.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "5928a6da4c1801e7f6cba8134fbbbd2a",
+      "title": "Roman Storm’s defense hints at mistrial after agents fail to trace funds stolen from witness to Tornado Cash",
+      "link": "https://cryptoslate.com/roman-storms-defense-hints-at-mistrial-after-agents-fail-to-trace-funds-stolen-from-witness-to-tornado-cash/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Mon, 21 Jul 2025 21:00:28 +0000",
+      "excerpt": "Roman Storm’s defense team raised the prospect of a mistrial on July 21 after an FBI agent failed to confirm that the stolen assets from the prosecution’s first witness in his trial had passed thro...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "bd7b886a51d9641b39f0cf987df075ca",
+      "title": "Ethereum ETF Inflows Surge $2.18B In A Week – ‘FOMO Just Getting Started’",
+      "link": "https://bitcoinist.com/ethereum-etf-inflows-surge-2-18b-in-a-week-fomo-just-getting-started/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Mon, 21 Jul 2025 21:00:25 +0000",
+      "excerpt": "Ethereum is pushing above the $3,800 level, showing a level of strength not seen since early 2024. The second-largest cryptocurrency by market cap has now gained over 50% since late June without a ...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
       "id": "27e7b4bf6ecd1b7817c6fe30ea38a84c",
       "title": "To the moon? Justin Sun to be launched into space after $28M bid",
       "link": "https://cointelegraph.com/news/justin-sun-blue-origin-space-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -4787,6 +4834,22 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "71245441356ff18f709adc1ed8f0ef08",
+      "title": "Bitcoin To Pass 125k This Month, Polymarket Bettors Predict",
+      "link": "https://cryptonews.com/news/bitcoin-to-pass-125k-this-month-polymarket-bettors-predict/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Mon, 21 Jul 2025 20:46:36 +0000",
+      "excerpt": "Polymarket bettors have indicated 34% odds that Bitcoin will finish July above $125,000, versus 11% seeing $130,000+, as the token has reached a $123,000 record amid passage of the GENIUS Act and a...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
     },
     {
       "id": "0d0e76e432760402436655fd6e7d88c7",
@@ -4848,6 +4911,19 @@
         "Bitcoin",
         "Ethereum"
       ]
+    },
+    {
+      "id": "84f361e7d0756a950ae6f04d7a5e4b7b",
+      "title": "What Crypto Whales Are Buying After Successful US Crypto Week",
+      "link": "https://beincrypto.com/what-crypto-whales-are-buying-after-successful-us-crypto-week/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Mon, 21 Jul 2025 20:30:00 +0000",
+      "excerpt": "The U.S. just passed landmark crypto bills; GENIUS is now law, CLARITY is advancing. As the dust settles, crypto whales are loading up on Lido, FLOKI, and Book of Meme. Here’s what on-chain data sh...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "84d08c8aba8b656ccd46c6a39399c2b2",
@@ -8516,5 +8592,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-21T20:33:26.499113"
+  "last_updated": "2025-07-21T21:29:15.792964"
 }
