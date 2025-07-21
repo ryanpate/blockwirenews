@@ -4666,6 +4666,52 @@
       ]
     },
     {
+      "id": "6a816df4d7bac4dfa4191ae35dd17820",
+      "title": "UK working to sell $7B in seized Bitcoin to boost budget: Report",
+      "link": "https://cointelegraph.com/news/uk-eyes-sale-7-billion-seized-bitcoin-boost-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Mon, 21 Jul 2025 04:40:34 +0100",
+      "excerpt": "A new report suggests the UK Treasury is working to sell up to $7 billion worth of seized Bitcoin, but one person has slammed the report as “sensationalism” amid a crypto bull run.",
+      "categories": [
+        "bitcoin",
+        "defi"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "23019dba33ab2d2d5f4089067c720615",
+      "title": "Goldman Trader Notes Market Strength, Crypto Ascent to $4T Amid Warning on Shifting Risk/Reward",
+      "link": "https://news.bitcoin.com/goldman-trader-notes-market-strength-crypto-ascent-to-4t-amid-warning-on-shifting-risk-reward/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Mon, 21 Jul 2025 03:30:28 +0000",
+      "excerpt": "Goldman Sachs’ top trader, Tony Pasquarello, sees the U.S. stock rally holding its pace but flags a shifting risk and reward dynamic as summer approaches—especially with the crypto market balloonin...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "e3726535f5da48162b27a016f320eb71",
+      "title": "XRP Price Faces Reversal Risk Amid Sell-Off Concerns From New Investors",
+      "link": "https://beincrypto.com/xrp-sell-off-price-faces-reversal-risk/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Mon, 21 Jul 2025 03:30:00 +0000",
+      "excerpt": "XRP's recent surge to a new ATH hits a roadblock as investor sentiment cools. A decline in new wallets and long-term holders' selling suggests a potential correction ahead.\nThe post XRP Price Faces...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "665f2cbada49f748e3a857fc80774a14",
       "title": "Fix incoming for MetaMask bug that’s slowly killing solid-state drives",
       "link": "https://cointelegraph.com/news/metamask-bug-wearing-out-solid-state-drives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -4677,6 +4723,21 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "84315601ae0fc642acf69f3ff93e6808",
+      "title": "Bitcoin Dominance Slides, Japan Election Reform and More",
+      "link": "https://beincrypto.com/bitcoin-dominance-japan-election-block-sp500/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Mon, 21 Jul 2025 02:25:10 +0000",
+      "excerpt": "Bitcoin's dominance temporarily slides below the critical 60% threshold, signaling renewed altcoin momentum. Japan's historic electoral outcome creates unprecedented opportunities for cryptocurrenc...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
     },
     {
       "id": "0692d6c4273aa85b205b3bb398853749",
@@ -5269,5 +5330,5 @@
       ]
     }
   ],
-  "last_updated": "2025-07-21T02:33:18.634908"
+  "last_updated": "2025-07-21T04:10:30.545279"
 }
