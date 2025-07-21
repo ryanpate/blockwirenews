@@ -4776,6 +4776,19 @@
       ]
     },
     {
+      "id": "fb0dc96c33c62d5ea1f0786e1076cd4e",
+      "title": "Crypto ATMs seized in the UK amid growing scrutiny of kiosk-based exchanges",
+      "link": "https://cointelegraph.com/news/cypto-atms-seized-uk-scrutiny-kiosk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Mon, 21 Jul 2025 23:34:32 +0100",
+      "excerpt": "Crypto ATM arrests in London come as US states like Wisconsin move to limit daily transactions and mandate fraud warnings.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "802cdcab0da3c0569aed1b56948e2e1d",
       "title": "Judge allows testimony on ‘feasible’ Tornado Cash code changes",
       "link": "https://cointelegraph.com/news/roman-storm-trial-witness-tornado-cash-modifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -4818,6 +4831,22 @@
       ],
       "tags": [
         "Trading"
+      ]
+    },
+    {
+      "id": "520d39308768ef9941c01e43cd29759a",
+      "title": "BitGo joins flurry of crypto firms eyeing IPOs",
+      "link": "https://cryptoslate.com/bitgo-joins-flurry-of-crypto-firms-eyeing-ipos/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Mon, 21 Jul 2025 22:33:46 +0000",
+      "excerpt": "BitGo has filed confidential paperwork with the U.S. Securities and Exchange Commission (SEC) for a potential initial public offering, signaling its intent to enter public markets amid renewed mome...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
       ]
     },
     {
@@ -8791,35 +8820,7 @@
         "crypto"
       ],
       "tags": []
-    },
-    {
-      "id": "a51842116ae1f506bd4a3008c17bdd02",
-      "title": "Trump to Sign the Historic GENIUS Act Into Law. What Does It Mean for Crypto?",
-      "link": "https://www.coindesk.com/policy/2025/07/18/trump-is-to-sign-the-historic-genius-act-into-law-what-does-it-mean-for-crypto",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Fri, 18 Jul 2025 16:38:02 +0000",
-      "excerpt": "As 'Crypto Week' comes to an end, here is why the GENIUS bill, which will establish a regulatory framework for stablecoins in the U.S., matters for crypto and the masses.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "e628fcfcc96ba3a361412168bd0b1410",
-      "title": "Could Satoshi Nakamoto Become the Richest Person on Earth by the End of 2025?",
-      "link": "https://beincrypto.com/satoshi-nakamoto-richest-person-alive-2025/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Fri, 18 Jul 2025 16:00:00 +0000",
-      "excerpt": "Satoshi Nakamoto’s Bitcoin holdings could surpass $350 billion by 2025, potentially making him the richest person alive, if Bitcoin reaches the $320,000 mark.\nThe post Could Satoshi Nakamoto Become...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
     }
   ],
-  "last_updated": "2025-07-21T22:32:33.548688"
+  "last_updated": "2025-07-21T23:29:32.505231"
 }
