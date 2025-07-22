@@ -1,6 +1,37 @@
 {
   "latest": [
     {
+      "id": "459c3c54cf44fb30f1ef06dfb9d55afe",
+      "title": "XRP price breaks out: These charts predict rally toward $6",
+      "link": "https://cointelegraph.com/news/these-xrp-price-charts-rally-toward-6-dollars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 11:46:03 +0100",
+      "excerpt": "Multiple technical and onchain indicators suggest a potential XRP price rally toward the $6 milestone before the end of 2025.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "18cdf6c71df83e6c72a8e00ca44ffa4d",
+      "title": "Genius Group cites GENIUS Act as it boosts Bitcoin stash to 200 BTC",
+      "link": "https://cointelegraph.com/news/genius-group-cites-genius-act-as-it-doubles-bitcoin-stash-to-200-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 11:26:44 +0100",
+      "excerpt": "Singapore-based AI edtech firm Genius Group doubled its Bitcoin holdings to 200 BTC in July while expanding its crypto initiatives under the newly passed GENIUS Act.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
       "id": "847b2aa179c12f78fd3e39c823bef185",
       "title": "Genius Group cites GENIUS Act as it doubles Bitcoin stash to 200 BTC",
       "link": "https://cointelegraph.com/news/genius-group-cites-genius-act-as-it-doubles-bitcoin-stash-to-200-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -28,6 +59,36 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "98ebf6bb91456af14f1ebc21badf04fd",
+      "title": "Ark Invest swaps Coinbase, Robinhood stakes for major $175M Ethereum play with BitMine Immersion",
+      "link": "https://cryptoslate.com/ark-invest-swaps-coinbase-robinhood-stakes-for-major-175m-ethereum-play-with-bitmine-immersion/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:50:47 +0000",
+      "excerpt": "Cathie Wood’s Ark Invest has shifted its crypto-focused investment strategy, reducing its holdings in Coinbase, Robinhood, and Block in favor of BitMine Immersion, an Ethereum-focused treasury firm...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "aa30c806f75dfa590112261712c88938",
+      "title": "3 Altcoins at Risk of Major Liquidations This Week",
+      "link": "https://beincrypto.com/altcoins-at-risk-of-major-liquidations/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:47:32 +0000",
+      "excerpt": "As crypto markets heat up, XRP, DOGE, and ADA stand at a tipping point, with rising leverage and Open Interest exposing them to steep liquidations. Traders should brace for volatile price moves in ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
       ]
     },
     {
@@ -85,6 +146,22 @@
       "tags": []
     },
     {
+      "id": "87fd790f0823744877afd12571843280",
+      "title": "Between Rolex, Benner, and Buffett: What is the Crypto Market Trying to Tell Us?",
+      "link": "https://beincrypto.com/crypto-market-rolex-indicator/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:21:11 +0000",
+      "excerpt": "With Bitcoin soaring to new heights, analysts are turning to behavioral indicators like the Rolex Indicator and historical models such as the Benner Cycle to predict the next crypto market shift. H...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
       "id": "ef5b9af818d618b07cf6fd491d4c92ca",
       "title": "MultiBank Group’s MBG Token TGE Is Live on MexC, Gate.io, Uniswap and Multibank.io.",
       "link": "https://dailyhodl.com/2025/07/22/multibank-groups-mbg-token-tge-is-live-on-mexc-gate-io-uniswap-and-multibank-io/",
@@ -98,6 +175,23 @@
       "tags": []
     },
     {
+      "id": "c6c713093bfa2e878b397af6a1206450",
+      "title": "ETHSofia 2025 Unveils Key Sponsors and First Speakers for This September’s Conference",
+      "link": "https://beincrypto.com/ethsofia-2025-sponsors-speakers-september/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:19:46 +0000",
+      "excerpt": "ETHSofia, Bulgaria’s flagship Ethereum event, returns this September 24-25th at Sofia Tech Park, uniting some of the sharpest minds in Web3 for three days of deep technical content and meaningful c...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Analysis"
+      ]
+    },
+    {
       "id": "692117b853ff52736f3add24997ceb66",
       "title": "Mercurity Fintech Claims $200M Solana Ventures Deal – But Solana Says No Such Agreement Exists",
       "link": "https://cryptonews.com/news/mercurity-fintech-claims-200m-solana-ventures-deal-but-solana-says-no-such-agreement-exists/",
@@ -105,6 +199,19 @@
       "sourceUrl": "https://cryptonews.com/news/feed/",
       "timestamp": "Tue, 22 Jul 2025 10:14:01 +0000",
       "excerpt": "Nasdaq-listed Mercurity Fintech announced a $200 million Equity Line of Credit Agreement with Solana Ventures to launch a Solana-based treasury strategy, but Solana Ventures immediately denied any ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4ebf584131e53625696750fdca3c1225",
+      "title": "FUNToken Burns 12 Million $FUN in Deflationary Power Move",
+      "link": "https://beincrypto.com/funtoken-burns-12-million-defi-deflationary-move/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:13:15 +0000",
+      "excerpt": "FUNToken has executed a significant supply-reduction initiative by burning 12,000,000 FUNTokens, reinforcing its commitment to long-term deflationary economics and community-driven value creation. ...",
       "categories": [
         "crypto"
       ],
@@ -183,116 +290,24 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "0174358253f053bdf7a0efd8420592ff",
-      "title": "Analyst Says XRP Investors Are Getting Ripped Off — Here’s Why",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-investors-ripped-off/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 10:00:51 +0000",
-      "excerpt": "Over the last few weeks, XRP has creeped up slowly but surely to become one of the most talked-about cryptocurrencies in the space. Its price has also risen steadily through this time, beating the ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "fe5c2a9d6deadf797b603d02376d1418",
-      "title": "Best Meme Coins Live News Today: Latest Opportunities & Updates (July 22)",
-      "link": "https://bitcoinist.com/meme-coins-live-news-july-22-2025/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 10:00:07 +0000",
-      "excerpt": "Get Early Alpha with Our Immediate Analysis of Today’s Best Meme Coins Check out our Live Update Coverage on the Best Meme Coins for July 22, 2025! With Bitcoin merrily skipping past the $123K ATH,...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "a9abbaa067bfad4d09807c00c846e99b",
-      "title": "Crypto Presales Live News Today: Latest Opportunities & Updates (July 22)",
-      "link": "https://bitcoinist.com/crypto-presales-live-news-july-22-2025/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 10:00:04 +0000",
-      "excerpt": "Stay Ahead with Our Immediate Analysis of Today’s Best Crypto Presales Check out our Live Update Coverage on the Best Crypto Presales for July 22, 2025! As Bitcoin broke through a historical $123K ...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "9f7a23c14a60ac2bd4bb3cb37ae9ce00",
-      "title": "Cardano (ADA) Price Under Pressure as $34 Million Liquidation Risk Looms",
-      "link": "https://beincrypto.com/cardano-price-liquidation-risk-34-million-downside/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 10:00:00 +0000",
-      "excerpt": "Cardano’s price is under pressure as $34 million in long liquidation clusters form below $0.749. Overheated RSI and rising MVRV suggest that short-term holders may start exiting, exposing ADA to a ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "0011df3bf03c08e8854ee390ca5d949f",
-      "title": "Strategy’s Bitcoin-backed Stretch stock could lure capital from $7T traditional funds",
-      "link": "https://cryptoslate.com/strategys-bitcoin-backed-stretch-stock-could-lure-capital-from-7t-traditional-funds/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 09:50:43 +0000",
-      "excerpt": "Bitcoin-focused treasury firm Strategy has introduced a new class of perpetual preferred shares, the Series A Variable Rate Stretch Preferred Stock (STRC), according to a July 21 statement. Accordi...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "f58850d725703070a2fe7abaf6c94ed7",
-      "title": "More Public Companies Turn to Bitcoin This Week As Corporate Adoption Rises",
-      "link": "https://beincrypto.com/corporate-bitcoin-adoption-rises/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 09:44:40 +0000",
-      "excerpt": "Global corporations are embracing Bitcoin as a treasury asset, with billion-dollar moves signaling a strategic shift toward digital reserves.\nThe post More Public Companies Turn to Bitcoin This Wee...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "dc3fcfd2ebfefee6fd5c8eb29987ed02",
-      "title": "JPMorgan Reportedly Explores Lending Against Clients’ Cryptocurrency Holdings",
-      "link": "https://news.bitcoin.com/jpmorgan-reportedly-explores-lending-against-clients-cryptocurrency-holdings/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 09:30:47 +0000",
-      "excerpt": "JPMorgan Chase is reportedly exploring the possibility of lending against clients’ cryptocurrency holdings, marking a significant shift in the bank’s stance on digital assets, according to the FT. ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
     }
   ],
   "featured": [
+    {
+      "id": "18cdf6c71df83e6c72a8e00ca44ffa4d",
+      "title": "Genius Group cites GENIUS Act as it boosts Bitcoin stash to 200 BTC",
+      "link": "https://cointelegraph.com/news/genius-group-cites-genius-act-as-it-doubles-bitcoin-stash-to-200-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 11:26:44 +0100",
+      "excerpt": "Singapore-based AI edtech firm Genius Group doubled its Bitcoin holdings to 200 BTC in July while expanding its crypto initiatives under the newly passed GENIUS Act.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
     {
       "id": "847b2aa179c12f78fd3e39c823bef185",
       "title": "Genius Group cites GENIUS Act as it doubles Bitcoin stash to 200 BTC",
@@ -324,28 +339,13 @@
       ]
     },
     {
-      "id": "d5b3e549d0c2fd46fbe2fb55ab8c803d",
-      "title": "Trump Media Announces Bitcoin Treasury Holdings Reached $2 Billion – Details",
-      "link": "https://bitcoinist.com/trump-media-announces-bitcoin-treasury-holdings-reached-2-billion-details/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 10:30:07 +0000",
-      "excerpt": "US President Donald Trump’s social media company, Trump Media, has revealed its multi-billion Bitcoin (BTC) holdings as part of its crypto treasury strategy. The news follows the President’s recent...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "fa2557cb4bcf8104d1486745697135a3",
-      "title": "Ethereum (ETH) Slips as Whales Hunt Overleveraged Longs Below $3.7K",
-      "link": "https://cryptopotato.com/ethereum-eth-slips-as-whales-hunt-overleveraged-longs-below-3-7k/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 10:11:14 +0000",
-      "excerpt": "Ethereum dips below $3,700 as whales eye long liquidations; traders watch $3,600 and $4,000 for key moves.",
+      "id": "98ebf6bb91456af14f1ebc21badf04fd",
+      "title": "Ark Invest swaps Coinbase, Robinhood stakes for major $175M Ethereum play with BitMine Immersion",
+      "link": "https://cryptoslate.com/ark-invest-swaps-coinbase-robinhood-stakes-for-major-175m-ethereum-play-with-bitmine-immersion/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:50:47 +0000",
+      "excerpt": "Cathie Wood’s Ark Invest has shifted its crypto-focused investment strategy, reducing its holdings in Coinbase, Robinhood, and Block in favor of BitMine Immersion, an Ethereum-focused treasury firm...",
       "categories": [
         "ethereum"
       ],
@@ -354,23 +354,37 @@
       ]
     },
     {
-      "id": "786c4d83a09734825f46a1de68489fc6",
-      "title": "Elon Musk’s SpaceX Moves $153 Million in Bitcoin Ahead of Tesla Earnings",
-      "link": "https://beincrypto.com/elon-musk-spacex-bitcoin-tesla-earnings/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 10:08:46 +0000",
-      "excerpt": "SpaceX’s sudden move of $153 million in Bitcoin has reignited speculation around Elon Musk’s crypto strategy, coinciding with the anticipation of Tesla's Q2 earnings report. Markets are bracing for...",
+      "id": "d5b3e549d0c2fd46fbe2fb55ab8c803d",
+      "title": "Trump Media Announces Bitcoin Treasury Holdings Reached $2 Billion – Details",
+      "link": "https://bitcoinist.com/trump-media-announces-bitcoin-treasury-holdings-reached-2-billion-details/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:30:07 +0000",
+      "excerpt": "US President Donald Trump’s social media company, Trump Media, has revealed its multi-billion Bitcoin (BTC) holdings as part of its crypto treasury strategy. The news follows the President’s recent...",
       "categories": [
         "bitcoin"
       ],
       "tags": [
-        "Bitcoin",
-        "Trading"
+        "Bitcoin"
       ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "18cdf6c71df83e6c72a8e00ca44ffa4d",
+      "title": "Genius Group cites GENIUS Act as it boosts Bitcoin stash to 200 BTC",
+      "link": "https://cointelegraph.com/news/genius-group-cites-genius-act-as-it-doubles-bitcoin-stash-to-200-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 11:26:44 +0100",
+      "excerpt": "Singapore-based AI edtech firm Genius Group doubled its Bitcoin holdings to 200 BTC in July while expanding its crypto initiatives under the newly passed GENIUS Act.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
     {
       "id": "847b2aa179c12f78fd3e39c823bef185",
       "title": "Genius Group cites GENIUS Act as it doubles Bitcoin stash to 200 BTC",
@@ -414,6 +428,22 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "87fd790f0823744877afd12571843280",
+      "title": "Between Rolex, Benner, and Buffett: What is the Crypto Market Trying to Tell Us?",
+      "link": "https://beincrypto.com/crypto-market-rolex-indicator/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:21:11 +0000",
+      "excerpt": "With Bitcoin soaring to new heights, analysts are turning to behavioral indicators like the Rolex Indicator and historical models such as the Benner Cycle to predict the next crypto market shift. H...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
       ]
     },
     {
@@ -495,42 +525,41 @@
       "tags": [
         "Bitcoin"
       ]
-    },
-    {
-      "id": "f58850d725703070a2fe7abaf6c94ed7",
-      "title": "More Public Companies Turn to Bitcoin This Week As Corporate Adoption Rises",
-      "link": "https://beincrypto.com/corporate-bitcoin-adoption-rises/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 09:44:40 +0000",
-      "excerpt": "Global corporations are embracing Bitcoin as a treasury asset, with billion-dollar moves signaling a strategic shift toward digital reserves.\nThe post More Public Companies Turn to Bitcoin This Wee...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "48dd72c3cbcf927b955a889ca8f696f6",
-      "title": "Pi Network’s PI Token Defies Altcoin Correction, Bitcoin Stopped at $120K: Market Watch",
-      "link": "https://cryptopotato.com/pi-networks-pi-token-defies-altcoin-correction-bitcoin-stopped-at-120k-market-watch/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 08:52:22 +0000",
-      "excerpt": "PI is among the few altcoins in the green today.",
-      "categories": [
-        "bitcoin",
-        "defi"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "Trading"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "98ebf6bb91456af14f1ebc21badf04fd",
+      "title": "Ark Invest swaps Coinbase, Robinhood stakes for major $175M Ethereum play with BitMine Immersion",
+      "link": "https://cryptoslate.com/ark-invest-swaps-coinbase-robinhood-stakes-for-major-175m-ethereum-play-with-bitmine-immersion/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:50:47 +0000",
+      "excerpt": "Cathie Wood’s Ark Invest has shifted its crypto-focused investment strategy, reducing its holdings in Coinbase, Robinhood, and Block in favor of BitMine Immersion, an Ethereum-focused treasury firm...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "c6c713093bfa2e878b397af6a1206450",
+      "title": "ETHSofia 2025 Unveils Key Sponsors and First Speakers for This September’s Conference",
+      "link": "https://beincrypto.com/ethsofia-2025-sponsors-speakers-september/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:19:46 +0000",
+      "excerpt": "ETHSofia, Bulgaria’s flagship Ethereum event, returns this September 24-25th at Sofia Tech Park, uniting some of the sharpest minds in Web3 for three days of deep technical content and meaningful c...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Analysis"
+      ]
+    },
     {
       "id": "fa2557cb4bcf8104d1486745697135a3",
       "title": "Ethereum (ETH) Slips as Whales Hunt Overleveraged Longs Below $3.7K",
@@ -660,36 +689,6 @@
         "Bitcoin",
         "Ethereum",
         "Regulation"
-      ]
-    },
-    {
-      "id": "f8e9c3ef291581cc1c5427c4a4df54d8",
-      "title": "Cathie Wood sells Coinbase, Roblox shares for Tom Lee’s ETH firm",
-      "link": "https://cointelegraph.com/news/cathie-wood-sells-coinbase-roblox-shares-for-eth-treasury-firm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 07:30:45 +0100",
-      "excerpt": "ARK Invest has restructured three ETFs, selling Coinbase and Roblox shares to buy 1.5% stakes in Ethereum treasury firm Bitmine across its portfolios.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "99a844008f5ce00402c93bc351ca30c1",
-      "title": "Eric Trump takes victory lap 5 months after telling everyone to buy ETH",
-      "link": "https://cointelegraph.com/news/eric-trump-takes-victory-lap-5-months-after-telling-everyone-buy-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 07:20:26 +0100",
-      "excerpt": "Investors who bought ETH when Eric Trump made his Feb. 4 post are sitting on an unrealized gain of 30% despite a drawdown earlier this year.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
       ]
     }
   ],
@@ -1049,6 +1048,39 @@
   ],
   "analysis": [
     {
+      "id": "459c3c54cf44fb30f1ef06dfb9d55afe",
+      "title": "XRP price breaks out: These charts predict rally toward $6",
+      "link": "https://cointelegraph.com/news/these-xrp-price-charts-rally-toward-6-dollars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 11:46:03 +0100",
+      "excerpt": "Multiple technical and onchain indicators suggest a potential XRP price rally toward the $6 milestone before the end of 2025.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "c6c713093bfa2e878b397af6a1206450",
+      "title": "ETHSofia 2025 Unveils Key Sponsors and First Speakers for This September’s Conference",
+      "link": "https://beincrypto.com/ethsofia-2025-sponsors-speakers-september/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:19:46 +0000",
+      "excerpt": "ETHSofia, Bulgaria’s flagship Ethereum event, returns this September 24-25th at Sofia Tech Park, uniting some of the sharpest minds in Web3 for three days of deep technical content and meaningful c...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Analysis"
+      ]
+    },
+    {
       "id": "fe5c2a9d6deadf797b603d02376d1418",
       "title": "Best Meme Coins Live News Today: Latest Opportunities & Updates (July 22)",
       "link": "https://bitcoinist.com/meme-coins-live-news-july-22-2025/",
@@ -1179,44 +1211,40 @@
       "tags": [
         "Trading"
       ]
-    },
+    }
+  ],
+  "all": [
     {
-      "id": "1674b3d00b8b83232883d7700bac1996",
-      "title": "Bitcoin Price Analysis: BTC Unlikely to Revisit ATH Before Testing $111K Support",
-      "link": "https://cryptopotato.com/bitcoin-price-analysis-btc-unlikely-to-revisit-ath-before-testing-111k-support/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:30:21 +0000",
-      "excerpt": "Bitcoin’s impulsive bullish leg has paused upon reaching the critical $123K level, signaling potential profit-taking and distribution. A corrective move toward the $111K support zone is now expecte...",
+      "id": "459c3c54cf44fb30f1ef06dfb9d55afe",
+      "title": "XRP price breaks out: These charts predict rally toward $6",
+      "link": "https://cointelegraph.com/news/these-xrp-price-charts-rally-toward-6-dollars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 11:46:03 +0100",
+      "excerpt": "Multiple technical and onchain indicators suggest a potential XRP price rally toward the $6 milestone before the end of 2025.",
       "categories": [
-        "bitcoin",
         "analysis"
       ],
       "tags": [
-        "Bitcoin",
         "Trading",
         "Analysis"
       ]
     },
     {
-      "id": "efe900782f6cce8e3d3f616a706cda45",
-      "title": "Bitcoin Price Prediction: BTC’s $123.1K Peak Signals Local Top – Warnings of Pullback",
-      "link": "https://cryptonews.com/news/bitcoin-price-prediction-btcs-123-1k-peak-signals-local-top-warnings-of-pullback/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 15:30:08 +0000",
-      "excerpt": "Bitcoin's recent peak at $123,100 has triggered warnings of a potential local top as on-chain metrics signal overextension. The cryptocurrency quickly retraced 6% to around $115,700 after hitting t...",
+      "id": "18cdf6c71df83e6c72a8e00ca44ffa4d",
+      "title": "Genius Group cites GENIUS Act as it boosts Bitcoin stash to 200 BTC",
+      "link": "https://cointelegraph.com/news/genius-group-cites-genius-act-as-it-doubles-bitcoin-stash-to-200-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 11:26:44 +0100",
+      "excerpt": "Singapore-based AI edtech firm Genius Group doubled its Bitcoin holdings to 200 BTC in July while expanding its crypto initiatives under the newly passed GENIUS Act.",
       "categories": [
-        "bitcoin",
-        "analysis"
+        "bitcoin"
       ],
       "tags": [
-        "Bitcoin",
-        "Trading"
+        "Bitcoin"
       ]
-    }
-  ],
-  "all": [
+    },
     {
       "id": "847b2aa179c12f78fd3e39c823bef185",
       "title": "Genius Group cites GENIUS Act as it doubles Bitcoin stash to 200 BTC",
@@ -1245,6 +1273,36 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "98ebf6bb91456af14f1ebc21badf04fd",
+      "title": "Ark Invest swaps Coinbase, Robinhood stakes for major $175M Ethereum play with BitMine Immersion",
+      "link": "https://cryptoslate.com/ark-invest-swaps-coinbase-robinhood-stakes-for-major-175m-ethereum-play-with-bitmine-immersion/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:50:47 +0000",
+      "excerpt": "Cathie Wood’s Ark Invest has shifted its crypto-focused investment strategy, reducing its holdings in Coinbase, Robinhood, and Block in favor of BitMine Immersion, an Ethereum-focused treasury firm...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "aa30c806f75dfa590112261712c88938",
+      "title": "3 Altcoins at Risk of Major Liquidations This Week",
+      "link": "https://beincrypto.com/altcoins-at-risk-of-major-liquidations/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:47:32 +0000",
+      "excerpt": "As crypto markets heat up, XRP, DOGE, and ADA stand at a tipping point, with rising leverage and Open Interest exposing them to steep liquidations. Traders should brace for volatile price moves in ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
       ]
     },
     {
@@ -1302,6 +1360,22 @@
       "tags": []
     },
     {
+      "id": "87fd790f0823744877afd12571843280",
+      "title": "Between Rolex, Benner, and Buffett: What is the Crypto Market Trying to Tell Us?",
+      "link": "https://beincrypto.com/crypto-market-rolex-indicator/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:21:11 +0000",
+      "excerpt": "With Bitcoin soaring to new heights, analysts are turning to behavioral indicators like the Rolex Indicator and historical models such as the Benner Cycle to predict the next crypto market shift. H...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
       "id": "ef5b9af818d618b07cf6fd491d4c92ca",
       "title": "MultiBank Group’s MBG Token TGE Is Live on MexC, Gate.io, Uniswap and Multibank.io.",
       "link": "https://dailyhodl.com/2025/07/22/multibank-groups-mbg-token-tge-is-live-on-mexc-gate-io-uniswap-and-multibank-io/",
@@ -1315,6 +1389,23 @@
       "tags": []
     },
     {
+      "id": "c6c713093bfa2e878b397af6a1206450",
+      "title": "ETHSofia 2025 Unveils Key Sponsors and First Speakers for This September’s Conference",
+      "link": "https://beincrypto.com/ethsofia-2025-sponsors-speakers-september/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:19:46 +0000",
+      "excerpt": "ETHSofia, Bulgaria’s flagship Ethereum event, returns this September 24-25th at Sofia Tech Park, uniting some of the sharpest minds in Web3 for three days of deep technical content and meaningful c...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Analysis"
+      ]
+    },
+    {
       "id": "692117b853ff52736f3add24997ceb66",
       "title": "Mercurity Fintech Claims $200M Solana Ventures Deal – But Solana Says No Such Agreement Exists",
       "link": "https://cryptonews.com/news/mercurity-fintech-claims-200m-solana-ventures-deal-but-solana-says-no-such-agreement-exists/",
@@ -1322,6 +1413,19 @@
       "sourceUrl": "https://cryptonews.com/news/feed/",
       "timestamp": "Tue, 22 Jul 2025 10:14:01 +0000",
       "excerpt": "Nasdaq-listed Mercurity Fintech announced a $200 million Equity Line of Credit Agreement with Solana Ventures to launch a Solana-based treasury strategy, but Solana Ventures immediately denied any ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "4ebf584131e53625696750fdca3c1225",
+      "title": "FUNToken Burns 12 Million $FUN in Deflationary Power Move",
+      "link": "https://beincrypto.com/funtoken-burns-12-million-defi-deflationary-move/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 10:13:15 +0000",
+      "excerpt": "FUNToken has executed a significant supply-reduction initiative by burning 12,000,000 FUNTokens, reinforcing its commitment to long-term deflationary economics and community-driven value creation. ...",
       "categories": [
         "crypto"
       ],
@@ -8685,103 +8789,7 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "4059d59b5293c389a0a72e837ab1ab3e",
-      "title": "MoonPay Launches TRON Wallet for Seamless TRX and USDT Access",
-      "link": "https://news.bitcoin.com/moonpay-launches-tron-wallet-for-seamless-trx-and-usdt-access/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 11:00:07 +0000",
-      "excerpt": "This content is provided by a sponsor. PRESS RELEASE. Geneva, Switzerland, July 21, 2025 – TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet throug...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "8f4073d3b81af48ec5f7b6328419cbc2",
-      "title": "Dogecoin Rallies to February Highs Even as Long-Term Holders Exit Quietly",
-      "link": "https://beincrypto.com/doge-price-holds-firm/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 10:57:34 +0000",
-      "excerpt": "Dogecoin is surging amid a broader meme coin rally, and bullish indicators point to further upside despite long-term holders selling.\nThe post Dogecoin Rallies to February Highs Even as Long-Term H...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "d67a1020082c42ba96a8afc1c03c2384",
-      "title": "Blockchain compliance tools can slash TradFi costs: Chainlink co-founder",
-      "link": "https://cointelegraph.com/news/chainlink-blockchain-compliance-ace-tradfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Mon, 21 Jul 2025 10:56:54 +0100",
-      "excerpt": "Institutional investors will increasingly adopt blockchain-based compliance solutions and tokenized RWAs, Chainlink’s co-founder Sergey Nazarov told Cointelegraph.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "9cdd63fcd7d19e8367049a78a8f0ce4e",
-      "title": "Pantera-Backed Ether Machine to Go Public With 400,000 ETH Worth $1.5 Billion",
-      "link": "https://cryptopotato.com/pantera-backed-ether-machine-to-go-public-with-400000-eth-worth-1-5-billion/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 10:48:22 +0000",
-      "excerpt": "Another company is jumping on the ETH bandwago, this time with a play worth a whopping $1.5 billion.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "99b35c892fa59b4b722311650f50da3c",
-      "title": "Top 3 Crypto Airdrops for the Fourth Week of July",
-      "link": "https://beincrypto.com/crypto-airdrops-fourth-week-july/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 10:40:04 +0000",
-      "excerpt": "Nexus, Common, and Try Your Best lead this week’s top crypto airdrops, giving users early access to rewards through content, quests, and community tasks.\nThe post Top 3 Crypto Airdrops for the Four...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "340fafa2b1ada627c3fa4555246914fa",
-      "title": "SEC explores Ethereum token standard for compliant securities",
-      "link": "https://cointelegraph.com/news/sec-ethereum-tokenized-securities-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Mon, 21 Jul 2025 10:38:02 +0100",
-      "excerpt": "ERC-3643 Association president Dennis O’Connell told Cointelegraph the SEC showed “a noticeable shift in tone” and openness to blockchain standards.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "1b0b4366b3b9d5354007af29c030d929",
-      "title": "Crypto Funds Hit Record $4.39B Weekly Inflows – Biggest Rally Coming Soon?",
-      "link": "https://cryptonews.com/news/crypto-funds-hit-record-4-39b-weekly-inflows-biggest-rally-coming-soon/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Mon, 21 Jul 2025 10:36:33 +0000",
-      "excerpt": "Digital asset investment products recorded an all-time high in weekly inflows of $4.39 billion, surpassing the previous record and pushing total assets under management to a historic $220 billion.\n...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
     }
   ],
-  "last_updated": "2025-07-22T10:36:39.334227"
+  "last_updated": "2025-07-22T11:27:27.155017"
 }
