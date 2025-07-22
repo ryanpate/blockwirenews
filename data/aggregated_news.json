@@ -1,6 +1,100 @@
 {
   "latest": [
     {
+      "id": "ebaa7da004c853a184d51cb794821902",
+      "title": "Ether Machine founder claims ETH outperformed BTC over past 10 years",
+      "link": "https://cointelegraph.com/news/ether-machine-founder-claims-eth-outperformed-btc-over-past-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 05:35:57 +0100",
+      "excerpt": "Ether Machine founder said he’s an Ethereum maxi and doesn’t own Bitcoin — he’d “rather have an iPhone than a landline.”",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "60c9545159f1a25d48c9d129d7850844",
+      "title": "Lazarus Group Behind $44M CoinDCX Heist, Experts Find Same Exploit Pattern as WazirX",
+      "link": "https://cryptonews.com/news/lazarus-group-behind-44m-coindcx-heist-cyvers/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:39:44 +0000",
+      "excerpt": "Cybersecurity experts from Cyvers said the speed, precision, and cross-chain sophistication of the CoinDCX hack were “alarming.”\nThe post Lazarus Group Behind $44M CoinDCX Heist, Experts Find Same ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "3d61d0b4c4d9d9b5840d6b6dcd450e60",
+      "title": "Bitcoin (BTC) Price Risks 12% Drop as Long-Term Holders Book Profits",
+      "link": "https://beincrypto.com/bitcoin-price-risks-12-drop-as-long-term-holders-book-profits/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:38:44 +0000",
+      "excerpt": "Bitcoin is trading around $117,500, but rising whale activity and long-term holder profit-taking raise the risk of a correction. If $116,456 breaks, price could slide toward $103,355. Only a breako...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "b047f3fb1afa60feb40f6e11504c67fa",
+      "title": "Arthur Hayes: BOJ’s Subtle Shift Could Explode Bitcoin Price",
+      "link": "https://news.bitcoin.com/arthur-hayes-bojs-subtle-shift-could-explode-bitcoin-price/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:30:56 +0000",
+      "excerpt": "As a discreet financial maneuver takes shape in Japan, Arthur Hayes says this subtle central bank shift could be the catalyst behind bitcoin’s next explosive surge. On July 19, Hayes highlighted re...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "dff8fdc5976df3bc94aeb6492cfdbab9",
+      "title": "Crypto Graveyard Grows: Coinbase Says $3.4B In ETH Is Irrecoverable",
+      "link": "https://bitcoinist.com/crypto-graveyard-grows-coinbase-says-3-4b-in-eth-is-irrecoverable/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:30:11 +0000",
+      "excerpt": "Ethereum is seeing a growing chunk of its coins slip out of reach. According to Coinbase head of product, Conor Grogan, 913,111 ETH—about 0.76 % of the nearly 121 million coins in circulation—are n...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "3b49a293730f89b463a127427c6dc157",
+      "title": "[LIVE] Crypto News Today: Latest Updates for July 22, 2025 – SOL Jumps Above $200, XRP Holds $3.5 as Altcoins Continue to Dominate",
+      "link": "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-july-22-2025/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:20:29 +0000",
+      "excerpt": "Follow up to the hour updates on what is happening in crypto today, July 22. Market movements, crypto news, and more!\nThe post [LIVE] Crypto News Today: Latest Updates for July 22, 2025 – SOL Jumps...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "04fcca9ce762cc5942d85521e64cbe95",
       "title": "Bitcoin Reserves On Exchanges Hit Highest Level Since June 25 – Is BTC In Danger?",
       "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-reserves-on-exchanges-hit-highest-level-since-june-25-is-btc-in-danger/",
@@ -207,100 +301,73 @@
       "tags": [
         "Bitcoin"
       ]
-    },
-    {
-      "id": "0679c1bd98da8b0d1e26c83cf82b1ffc",
-      "title": "Cynthia Lummis Calls for Powell to Resign",
-      "link": "https://news.bitcoin.com/cynthia-lummis-calls-for-powell-to-resign/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 01:30:14 +0000",
-      "excerpt": "Wyoming’s Republican Senator has criticized the U.S. Federal Reserve Bank over its role in Operation Choke Point 2.0, and now she’s calling for the Fed Chairman to step down. Lummis Ramps Up Pressu...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "603da68f3ce8c7e267a480a5dcce9556",
-      "title": "Ethereum Marks Milestone With Digital Torch Relay And Old Token Burns",
-      "link": "https://bitcoinist.com/ethereum-marks-milestone-with-digital-torch-relay-and-burns-old-token/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 01:30:00 +0000",
-      "excerpt": "Ethereum has just marked 10 years since its launch. It rolled out a symbolic NFT called “The Ethereum Torch” to honor its community. The token will travel from one wallet to another day by day. The...",
-      "categories": [
-        "ethereum",
-        "nft"
-      ],
-      "tags": [
-        "Ethereum",
-        "NFT"
-      ]
-    },
-    {
-      "id": "768cce3735591b5eeababd4f9e94adc3",
-      "title": "Adam Levine of Fireblocks: How Institutional Adoption and Interoperability Are Transforming Crypto",
-      "link": "https://beincrypto.com/adam-levine-fireblocks-institutional-defi-tokenization/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 01:30:00 +0000",
-      "excerpt": "Adam Levine of Fireblocks shares insights on institutional DeFi growth, tokenization use cases, interoperability issues, and evolving crypto regulations.\nThe post Adam Levine of Fireblocks: How Ins...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "fddde70fa535f1bd58b5b5b4faa1ebe8",
-      "title": "Ethereum Open Interest Explodes To $28 Billion—Altcoin Rotation Begins: QCP",
-      "link": "https://www.newsbtc.com/news/ethereum-oi-28-billion-altcoin-rotation-begins-qcp/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 01:00:24 +0000",
-      "excerpt": "Ethereum’s derivatives market has erupted in the past seven days, and the trading desk at Singapore-based QCP Capital argues it is the clearest evidence yet that a long-anticipated altcoin season i...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "3abb77ff56f0344577b9b68f72865da7",
-      "title": "High Profile Trader Portnoy Ditches XRP at $2.40—Misses Millions After 60% Surge",
-      "link": "https://news.bitcoin.com/high-profile-trader-portnoy-ditches-xrp-at-2-40-misses-millions-after-60-surge/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 00:30:02 +0000",
-      "excerpt": "High-profile trader Dave Portnoy recently revealed that he sold his XRP holdings at $2.40 just two weeks before the asset reached a new all-time high of $3.66. The Circle Factor Dave Portnoy, the f...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "b0a0c8bfe92db18ebcb5e77a8a44670f",
-      "title": "Over $3.4 billion in Ethereum lost forever due to user mistakes and contract bugs",
-      "link": "https://cryptoslate.com/insights/over-3-4-billion-in-ethereum-lost-forever-due-to-user-mistakes-and-contract-bugs/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 00:15:29 +0000",
-      "excerpt": "More than 913,111 ETH has been permanently lost due to user and contract-related errors, according to Conor Grogan, a director at Coinbase. At current prices, that amounts to approximately $3.43 bi...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "ebaa7da004c853a184d51cb794821902",
+      "title": "Ether Machine founder claims ETH outperformed BTC over past 10 years",
+      "link": "https://cointelegraph.com/news/ether-machine-founder-claims-eth-outperformed-btc-over-past-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 05:35:57 +0100",
+      "excerpt": "Ether Machine founder said he’s an Ethereum maxi and doesn’t own Bitcoin — he’d “rather have an iPhone than a landline.”",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "3d61d0b4c4d9d9b5840d6b6dcd450e60",
+      "title": "Bitcoin (BTC) Price Risks 12% Drop as Long-Term Holders Book Profits",
+      "link": "https://beincrypto.com/bitcoin-price-risks-12-drop-as-long-term-holders-book-profits/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:38:44 +0000",
+      "excerpt": "Bitcoin is trading around $117,500, but rising whale activity and long-term holder profit-taking raise the risk of a correction. If $116,456 breaks, price could slide toward $103,355. Only a breako...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "b047f3fb1afa60feb40f6e11504c67fa",
+      "title": "Arthur Hayes: BOJ’s Subtle Shift Could Explode Bitcoin Price",
+      "link": "https://news.bitcoin.com/arthur-hayes-bojs-subtle-shift-could-explode-bitcoin-price/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:30:56 +0000",
+      "excerpt": "As a discreet financial maneuver takes shape in Japan, Arthur Hayes says this subtle central bank shift could be the catalyst behind bitcoin’s next explosive surge. On July 19, Hayes highlighted re...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "dff8fdc5976df3bc94aeb6492cfdbab9",
+      "title": "Crypto Graveyard Grows: Coinbase Says $3.4B In ETH Is Irrecoverable",
+      "link": "https://bitcoinist.com/crypto-graveyard-grows-coinbase-says-3-4b-in-eth-is-irrecoverable/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:30:11 +0000",
+      "excerpt": "Ethereum is seeing a growing chunk of its coins slip out of reach. According to Coinbase head of product, Conor Grogan, 913,111 ETH—about 0.76 % of the nearly 121 million coins in circulation—are n...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
     {
       "id": "04fcca9ce762cc5942d85521e64cbe95",
       "title": "Bitcoin Reserves On Exchanges Hit Highest Level Since June 25 – Is BTC In Danger?",
@@ -316,31 +383,34 @@
         "Bitcoin",
         "Trading"
       ]
-    },
+    }
+  ],
+  "bitcoin": [
     {
-      "id": "c8a7f6f2ca4018f2f75c08863164ea6d",
-      "title": "Ethereum Price Momentum Explodes—Is the Path to $4K Wide Open?",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-momentum-explodes-4k/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 03:48:19 +0000",
-      "excerpt": "Ethereum price started a fresh increase above the $3,750 zone. ETH is now showing bullish signs and might continue to rise toward the $3,950 zone. Ethereum started a fresh increase above the $3,750...",
+      "id": "ebaa7da004c853a184d51cb794821902",
+      "title": "Ether Machine founder claims ETH outperformed BTC over past 10 years",
+      "link": "https://cointelegraph.com/news/ether-machine-founder-claims-eth-outperformed-btc-over-past-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 05:35:57 +0100",
+      "excerpt": "Ether Machine founder said he’s an Ethereum maxi and doesn’t own Bitcoin — he’d “rather have an iPhone than a landline.”",
       "categories": [
+        "bitcoin",
         "ethereum"
       ],
       "tags": [
-        "Ethereum",
-        "Trading"
+        "Bitcoin",
+        "Ethereum"
       ]
     },
     {
-      "id": "7390a9712381361b19451177307eebfd",
-      "title": "Bitcoin Price Consolidates—Is a Downside Correction on the Horizon?",
-      "link": "https://www.newsbtc.com/analysis/btc/bitcoin-price-consolidates-119k/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 03:19:10 +0000",
-      "excerpt": "Bitcoin price is consolidating gains below the $118,000 resistance. BTC could start a downside correction if it breaks the $116,200 support zone. Bitcoin started a fresh decline after it failed to ...",
+      "id": "3d61d0b4c4d9d9b5840d6b6dcd450e60",
+      "title": "Bitcoin (BTC) Price Risks 12% Drop as Long-Term Holders Book Profits",
+      "link": "https://beincrypto.com/bitcoin-price-risks-12-drop-as-long-term-holders-book-profits/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:38:44 +0000",
+      "excerpt": "Bitcoin is trading around $117,500, but rising whale activity and long-term holder profit-taking raise the risk of a correction. If $116,456 breaks, price could slide toward $103,355. Only a breako...",
       "categories": [
         "bitcoin"
       ],
@@ -350,41 +420,21 @@
       ]
     },
     {
-      "id": "f9c3e68eeeaba94eb1bd309dc181cbf6",
-      "title": "DeFi Development SOL Milestone, Korea Stablecoin Push and More",
-      "link": "https://beincrypto.com/apac_morning_brief_0722/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 02:55:32 +0000",
-      "excerpt": "DeFi Development reaches a major Solana milestone with $181 million in holdings, while The Ether Machine plans a $220 billion ETH public debut. Meanwhile, South Korea pushes ahead with legislation ...",
-      "categories": [
-        "ethereum",
-        "defi"
-      ],
-      "tags": [
-        "Ethereum",
-        "DeFi"
-      ]
-    },
-    {
-      "id": "7dbf98e6cd4689fa6feb4dd58b63a5e0",
-      "title": "Peter Schiff Says Sell Ether and Buy Bitcoin",
-      "link": "https://news.bitcoin.com/peter-schiff-says-sell-ether-and-buy-bitcoin/",
+      "id": "b047f3fb1afa60feb40f6e11504c67fa",
+      "title": "Arthur Hayes: BOJ’s Subtle Shift Could Explode Bitcoin Price",
+      "link": "https://news.bitcoin.com/arthur-hayes-bojs-subtle-shift-could-explode-bitcoin-price/",
       "source": "Bitcoin.com",
       "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 02:30:46 +0000",
-      "excerpt": "Infamous bitcoin sceptic and proud gold bug Peter Schiff posted a curious message to his 1.1 million X followers on Monday afternoon, urging them to sell ether ( ETH) and use the proceeds to buy bi...",
+      "timestamp": "Tue, 22 Jul 2025 04:30:56 +0000",
+      "excerpt": "As a discreet financial maneuver takes shape in Japan, Arthur Hayes says this subtle central bank shift could be the catalyst behind bitcoin’s next explosive surge. On July 19, Hayes highlighted re...",
       "categories": [
-        "bitcoin",
-        "ethereum"
+        "bitcoin"
       ],
       "tags": [
         "Bitcoin",
-        "Ethereum"
+        "Trading"
       ]
-    }
-  ],
-  "bitcoin": [
+    },
     {
       "id": "04fcca9ce762cc5942d85521e64cbe95",
       "title": "Bitcoin Reserves On Exchanges Hit Highest Level Since June 25 – Is BTC In Danger?",
@@ -499,46 +549,17 @@
         "Bitcoin",
         "Ethereum"
       ]
-    },
+    }
+  ],
+  "ethereum": [
     {
-      "id": "fde98707f15df0733d2b354c777373a5",
-      "title": "Peter Schiff: Bitcoin Price Record Highlights US Dollar Weakness",
-      "link": "https://cryptopotato.com/peter-schiff-bitcoin-price-record-highlights-us-dollar-weakness/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 22:07:08 +0000",
-      "excerpt": "Bitcoin's price is flying at historic record highs, buoyed by a broad and insatiable demand far above US stock market gains at their own all time highs. But EuroPac chief Peter Schiff says US dolla...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "a6637a348c18b371eb3229e02911c75b",
-      "title": "Bitcoin is becoming infrastructure—not just an asset",
-      "link": "https://cryptoslate.com/bitcoin-is-becoming-infrastructure-not-just-an-asset/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 22:00:25 +0000",
-      "excerpt": "The following is a guest post and opinion from Fabian Dori, Chief Investment Officer at Sygnum Bank. Institutional investors no longer debate Bitcoin’s legitimacy. With spot ETFs surpassing $50 bil...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "6e0037f209327f8b0d85647b5af7ba58",
-      "title": "ETH Tsunami Incoming: Firms Quietly Amass Mountains of Ethereum",
-      "link": "https://news.bitcoin.com/eth-tsunami-incoming-firms-quietly-amass-mountains-of-ethereum/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 21:30:13 +0000",
-      "excerpt": "Ever since Strategy, previously Microstrategy, began putting bitcoin ( BTC) into its company coffers, a significant number of other businesses have followed suit. Currently, various organizations a...",
+      "id": "ebaa7da004c853a184d51cb794821902",
+      "title": "Ether Machine founder claims ETH outperformed BTC over past 10 years",
+      "link": "https://cointelegraph.com/news/ether-machine-founder-claims-eth-outperformed-btc-over-past-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 05:35:57 +0100",
+      "excerpt": "Ether Machine founder said he’s an Ethereum maxi and doesn’t own Bitcoin — he’d “rather have an iPhone than a landline.”",
       "categories": [
         "bitcoin",
         "ethereum"
@@ -547,9 +568,22 @@
         "Bitcoin",
         "Ethereum"
       ]
-    }
-  ],
-  "ethereum": [
+    },
+    {
+      "id": "dff8fdc5976df3bc94aeb6492cfdbab9",
+      "title": "Crypto Graveyard Grows: Coinbase Says $3.4B In ETH Is Irrecoverable",
+      "link": "https://bitcoinist.com/crypto-graveyard-grows-coinbase-says-3-4b-in-eth-is-irrecoverable/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:30:11 +0000",
+      "excerpt": "Ethereum is seeing a growing chunk of its coins slip out of reach. According to Coinbase head of product, Conor Grogan, 913,111 ETH—about 0.76 % of the nearly 121 million coins in circulation—are n...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
     {
       "id": "c8a7f6f2ca4018f2f75c08863164ea6d",
       "title": "Ethereum Price Momentum Explodes—Is the Path to $4K Wide Open?",
@@ -675,41 +709,6 @@
       "sourceUrl": "https://cryptonews.com/news/feed/",
       "timestamp": "Sun, 20 Jul 2025 23:30:00 +0000",
       "excerpt": "Most Japanese say they would buy more Bitcoin (BTC), Ethereum (ETH), and altcoins if the government agrees to reform the nation’s strict crypto tax rules.\nThe post Japanese Would Buy More BTC if Go...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "668939dba271bee605413ed09d50fa6f",
-      "title": "Ethereum Unveils Symbolic NFT Torch Ahead of 10-Year Anniversary",
-      "link": "https://beincrypto.com/ethereum-nft-torch-ten-year-celebration/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 21:45:08 +0000",
-      "excerpt": "Ethereum’s 10th-anniversary NFT torch reflects the network’s community-driven spirit and milestones. As Ethereum’s NFT market surges, the ecosystem is set to commemorate its legacy with a free NFT ...",
-      "categories": [
-        "ethereum",
-        "nft"
-      ],
-      "tags": [
-        "Ethereum",
-        "NFT",
-        "Trading"
-      ]
-    },
-    {
-      "id": "6e0037f209327f8b0d85647b5af7ba58",
-      "title": "ETH Tsunami Incoming: Firms Quietly Amass Mountains of Ethereum",
-      "link": "https://news.bitcoin.com/eth-tsunami-incoming-firms-quietly-amass-mountains-of-ethereum/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 21:30:13 +0000",
-      "excerpt": "Ever since Strategy, previously Microstrategy, began putting bitcoin ( BTC) into its company coffers, a significant number of other businesses have followed suit. Currently, various organizations a...",
       "categories": [
         "bitcoin",
         "ethereum"
@@ -1243,6 +1242,100 @@
     }
   ],
   "all": [
+    {
+      "id": "ebaa7da004c853a184d51cb794821902",
+      "title": "Ether Machine founder claims ETH outperformed BTC over past 10 years",
+      "link": "https://cointelegraph.com/news/ether-machine-founder-claims-eth-outperformed-btc-over-past-10-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 05:35:57 +0100",
+      "excerpt": "Ether Machine founder said he’s an Ethereum maxi and doesn’t own Bitcoin — he’d “rather have an iPhone than a landline.”",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "60c9545159f1a25d48c9d129d7850844",
+      "title": "Lazarus Group Behind $44M CoinDCX Heist, Experts Find Same Exploit Pattern as WazirX",
+      "link": "https://cryptonews.com/news/lazarus-group-behind-44m-coindcx-heist-cyvers/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:39:44 +0000",
+      "excerpt": "Cybersecurity experts from Cyvers said the speed, precision, and cross-chain sophistication of the CoinDCX hack were “alarming.”\nThe post Lazarus Group Behind $44M CoinDCX Heist, Experts Find Same ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "3d61d0b4c4d9d9b5840d6b6dcd450e60",
+      "title": "Bitcoin (BTC) Price Risks 12% Drop as Long-Term Holders Book Profits",
+      "link": "https://beincrypto.com/bitcoin-price-risks-12-drop-as-long-term-holders-book-profits/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:38:44 +0000",
+      "excerpt": "Bitcoin is trading around $117,500, but rising whale activity and long-term holder profit-taking raise the risk of a correction. If $116,456 breaks, price could slide toward $103,355. Only a breako...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "b047f3fb1afa60feb40f6e11504c67fa",
+      "title": "Arthur Hayes: BOJ’s Subtle Shift Could Explode Bitcoin Price",
+      "link": "https://news.bitcoin.com/arthur-hayes-bojs-subtle-shift-could-explode-bitcoin-price/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:30:56 +0000",
+      "excerpt": "As a discreet financial maneuver takes shape in Japan, Arthur Hayes says this subtle central bank shift could be the catalyst behind bitcoin’s next explosive surge. On July 19, Hayes highlighted re...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "dff8fdc5976df3bc94aeb6492cfdbab9",
+      "title": "Crypto Graveyard Grows: Coinbase Says $3.4B In ETH Is Irrecoverable",
+      "link": "https://bitcoinist.com/crypto-graveyard-grows-coinbase-says-3-4b-in-eth-is-irrecoverable/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:30:11 +0000",
+      "excerpt": "Ethereum is seeing a growing chunk of its coins slip out of reach. According to Coinbase head of product, Conor Grogan, 913,111 ETH—about 0.76 % of the nearly 121 million coins in circulation—are n...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "3b49a293730f89b463a127427c6dc157",
+      "title": "[LIVE] Crypto News Today: Latest Updates for July 22, 2025 – SOL Jumps Above $200, XRP Holds $3.5 as Altcoins Continue to Dominate",
+      "link": "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-july-22-2025/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:20:29 +0000",
+      "excerpt": "Follow up to the hour updates on what is happening in crypto today, July 22. Market movements, crypto news, and more!\nThe post [LIVE] Crypto News Today: Latest Updates for July 22, 2025 – SOL Jumps...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
     {
       "id": "04fcca9ce762cc5942d85521e64cbe95",
       "title": "Bitcoin Reserves On Exchanges Hit Highest Level Since June 25 – Is BTC In Danger?",
@@ -8717,104 +8810,7 @@
       "tags": [
         "DeFi"
       ]
-    },
-    {
-      "id": "e764074a703beab3e746c8c5680ffc0c",
-      "title": "Bitcoin’s Dominance Falls To 4-Month Low: Altcoin Season Imminent?",
-      "link": "https://beincrypto.com/altcoin-season-near-bitcoin-dominance-crashes/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 05:00:00 +0000",
-      "excerpt": "Bitcoin's dominance falls, indicating a shift toward altcoins. As Ethereum rallies, altcoin season could soon take off if this trend continues.\nThe post Bitcoin’s Dominance Falls To 4-Month Low: Al...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "f58b1943b617ff330ac0168a91c800f9",
-      "title": "Ethereum (ETH) Price Eyes All-Time High as A Key Ratio Indicates 40% Rally",
-      "link": "https://beincrypto.com/ethereum-price-40-percent-rally-key-ratio/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 04:57:44 +0000",
-      "excerpt": "Ethereum price is showing signs of a major breakout. With no sell pressure from long-term holders and a key ratio surging, a 40% rally may be in play.\nThe post Ethereum (ETH) Price Eyes All-Time Hi...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "d08db9ad0db4da7b92f303c92f243165",
-      "title": "Bitcoin’s Minor Pullback from $123K ATH, Bullish Pennant Indicates $137K Target in Line",
-      "link": "https://cryptonews.com/news/btc-bullish-pennant-indicates-137k-target-in-line/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Mon, 21 Jul 2025 04:54:21 +0000",
-      "excerpt": "Bitcoin (BTC) has displayed a bullish pennant pattern following a strong vertical rally to $123K.\nThe post Bitcoin’s Minor Pullback from $123K ATH, Bullish Pennant Indicates $137K Target in Line ap...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "6a816df4d7bac4dfa4191ae35dd17820",
-      "title": "UK working to sell $7B in seized Bitcoin to boost budget: Report",
-      "link": "https://cointelegraph.com/news/uk-eyes-sale-7-billion-seized-bitcoin-boost-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Mon, 21 Jul 2025 04:40:34 +0100",
-      "excerpt": "A new report suggests the UK Treasury is working to sell up to $7 billion worth of seized Bitcoin, but one person has slammed the report as “sensationalism” amid a crypto bull run.",
-      "categories": [
-        "bitcoin",
-        "defi"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "311cef97fc175bd83cfec72b95cf3fa7",
-      "title": "[LIVE] Crypto News Today: Latest Updates for July 21, 2025 – Bitcoin Holds $118.5K, ETH Tops $3.7K as Bullish Momentum Spills into Altcoins",
-      "link": "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-july-21-2025/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Mon, 21 Jul 2025 04:22:54 +0000",
-      "excerpt": "Follow up to the hour updates on what is happening in crypto today, July 21. Market movements, crypto news, and more!\nThe post [LIVE] Crypto News Today: Latest Updates for July 21, 2025 – Bitcoin H...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "23019dba33ab2d2d5f4089067c720615",
-      "title": "Goldman Trader Notes Market Strength, Crypto Ascent to $4T Amid Warning on Shifting Risk/Reward",
-      "link": "https://news.bitcoin.com/goldman-trader-notes-market-strength-crypto-ascent-to-4t-amid-warning-on-shifting-risk-reward/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 03:30:28 +0000",
-      "excerpt": "Goldman Sachs’ top trader, Tony Pasquarello, sees the U.S. stock rally holding its pace but flags a shifting risk and reward dynamic as summer approaches—especially with the crypto market balloonin...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
     }
   ],
-  "last_updated": "2025-07-22T04:04:50.368447"
+  "last_updated": "2025-07-22T04:50:36.791027"
 }
