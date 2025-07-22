@@ -18,6 +18,53 @@
       ]
     },
     {
+      "id": "4be3dee51e636ebd704850164875c7c9",
+      "title": "Cross-Chain Crisis? Why Wrapped BTC Might Be Bitcoin’s Weakest Link",
+      "link": "https://news.bitcoin.com/cross-chain-crisis-why-wrapped-btc-might-be-bitcoins-weakest-link/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 05:30:49 +0000",
+      "excerpt": "Marvin Bertin has raised concerns about the security risks posed by bridges and wrapped assets. He warned that these solutions introduce vulnerabilities that compromise Bitcoin’s security model. Be...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "6d32aead2f84839217cf5240f22e5d00",
+      "title": "Bitcoin Holders Are Taking Profits—But Is the Top Still Far Away?",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-holders-are-taking-profits-but-is-the-top-still-far-away/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 05:30:10 +0000",
+      "excerpt": "Bitcoin’s recent price movement reflects a pause in the broader uptrend, with the asset trading at $117,901 following a near 5% weekly decline. While the current downturn may signal a cooling of in...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "dc913e7a733efa740f4a5ee4f23719b6",
+      "title": "Ethereum Buying Pressure Surges Amid New Treasury Wave and ETF Inflows",
+      "link": "https://cryptopotato.com/ethereum-buying-pressure-surges-amid-new-treasury-wave-and-etf-inflows/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 05:10:20 +0000",
+      "excerpt": "Buying pressure on Ethereum over the next year is mounting up as more corporate treasury firms emerge and institutional funds continue to hoover up the asset.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
       "id": "60c9545159f1a25d48c9d129d7850844",
       "title": "Lazarus Group Behind $44M CoinDCX Heist, Experts Find Same Exploit Pattern as WazirX",
       "link": "https://cryptonews.com/news/lazarus-group-behind-44m-coindcx-heist-cyvers/",
@@ -253,54 +300,6 @@
         "Ethereum",
         "DeFi"
       ]
-    },
-    {
-      "id": "7dbf98e6cd4689fa6feb4dd58b63a5e0",
-      "title": "Peter Schiff Says Sell Ether and Buy Bitcoin",
-      "link": "https://news.bitcoin.com/peter-schiff-says-sell-ether-and-buy-bitcoin/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 02:30:46 +0000",
-      "excerpt": "Infamous bitcoin sceptic and proud gold bug Peter Schiff posted a curious message to his 1.1 million X followers on Monday afternoon, urging them to sell ether ( ETH) and use the proceeds to buy bi...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "0a0532fc03c85f2e46e847162df549a3",
-      "title": "Bitcoin’s UTXO Count Falls Sharply — Are Whales Prepping for a Big Move?",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoins-utxo-count-falls-sharply-are-whales-prepping-for-a-big-move/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 02:30:37 +0000",
-      "excerpt": "Bitcoin’s upward price trajectory has slightly cooled, with the asset now trading just below the $119,000 mark, reflecting a 3% decline over the past week. The dip follows a sustained upward trend ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "08d517a8ecd1f1442ad90c7853fc37e9",
-      "title": "The Hard Road’s Behind Us, the Easy Is Ahead",
-      "link": "https://news.bitcoin.com/the-hard-roads-behind-us-the-easy-is-ahead/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 02:00:30 +0000",
-      "excerpt": "Last week bitcoin didn’t just tiptoe past its former highs, it obliterated them, surging to an unprecedented $118,000 and triggering over $1 billion in short liquidations. With psychological resist...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
     }
   ],
   "featured": [
@@ -322,29 +321,29 @@
       ]
     },
     {
-      "id": "3d61d0b4c4d9d9b5840d6b6dcd450e60",
-      "title": "Bitcoin (BTC) Price Risks 12% Drop as Long-Term Holders Book Profits",
-      "link": "https://beincrypto.com/bitcoin-price-risks-12-drop-as-long-term-holders-book-profits/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 04:38:44 +0000",
-      "excerpt": "Bitcoin is trading around $117,500, but rising whale activity and long-term holder profit-taking raise the risk of a correction. If $116,456 breaks, price could slide toward $103,355. Only a breako...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "b047f3fb1afa60feb40f6e11504c67fa",
-      "title": "Arthur Hayes: BOJ’s Subtle Shift Could Explode Bitcoin Price",
-      "link": "https://news.bitcoin.com/arthur-hayes-bojs-subtle-shift-could-explode-bitcoin-price/",
+      "id": "4be3dee51e636ebd704850164875c7c9",
+      "title": "Cross-Chain Crisis? Why Wrapped BTC Might Be Bitcoin’s Weakest Link",
+      "link": "https://news.bitcoin.com/cross-chain-crisis-why-wrapped-btc-might-be-bitcoins-weakest-link/",
       "source": "Bitcoin.com",
       "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 04:30:56 +0000",
-      "excerpt": "As a discreet financial maneuver takes shape in Japan, Arthur Hayes says this subtle central bank shift could be the catalyst behind bitcoin’s next explosive surge. On July 19, Hayes highlighted re...",
+      "timestamp": "Tue, 22 Jul 2025 05:30:49 +0000",
+      "excerpt": "Marvin Bertin has raised concerns about the security risks posed by bridges and wrapped assets. He warned that these solutions introduce vulnerabilities that compromise Bitcoin’s security model. Be...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "6d32aead2f84839217cf5240f22e5d00",
+      "title": "Bitcoin Holders Are Taking Profits—But Is the Top Still Far Away?",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-holders-are-taking-profits-but-is-the-top-still-far-away/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 05:30:10 +0000",
+      "excerpt": "Bitcoin’s recent price movement reflects a pause in the broader uptrend, with the asset trading at $117,901 following a near 5% weekly decline. While the current downturn may signal a cooling of in...",
       "categories": [
         "bitcoin"
       ],
@@ -354,13 +353,13 @@
       ]
     },
     {
-      "id": "dff8fdc5976df3bc94aeb6492cfdbab9",
-      "title": "Crypto Graveyard Grows: Coinbase Says $3.4B In ETH Is Irrecoverable",
-      "link": "https://bitcoinist.com/crypto-graveyard-grows-coinbase-says-3-4b-in-eth-is-irrecoverable/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 04:30:11 +0000",
-      "excerpt": "Ethereum is seeing a growing chunk of its coins slip out of reach. According to Coinbase head of product, Conor Grogan, 913,111 ETH—about 0.76 % of the nearly 121 million coins in circulation—are n...",
+      "id": "dc913e7a733efa740f4a5ee4f23719b6",
+      "title": "Ethereum Buying Pressure Surges Amid New Treasury Wave and ETF Inflows",
+      "link": "https://cryptopotato.com/ethereum-buying-pressure-surges-amid-new-treasury-wave-and-etf-inflows/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 05:10:20 +0000",
+      "excerpt": "Buying pressure on Ethereum over the next year is mounting up as more corporate treasury firms emerge and institutional funds continue to hoover up the asset.",
       "categories": [
         "ethereum"
       ],
@@ -369,13 +368,13 @@
       ]
     },
     {
-      "id": "04fcca9ce762cc5942d85521e64cbe95",
-      "title": "Bitcoin Reserves On Exchanges Hit Highest Level Since June 25 – Is BTC In Danger?",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-reserves-on-exchanges-hit-highest-level-since-june-25-is-btc-in-danger/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 04:00:41 +0000",
-      "excerpt": "As Bitcoin (BTC) continues to hover in the high $110,000 range, on-chain data suggests that a short-term price pullback may be imminent. That said, the broader market structure remains firmly bulli...",
+      "id": "3d61d0b4c4d9d9b5840d6b6dcd450e60",
+      "title": "Bitcoin (BTC) Price Risks 12% Drop as Long-Term Holders Book Profits",
+      "link": "https://beincrypto.com/bitcoin-price-risks-12-drop-as-long-term-holders-book-profits/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 04:38:44 +0000",
+      "excerpt": "Bitcoin is trading around $117,500, but rising whale activity and long-term holder profit-taking raise the risk of a correction. If $116,456 breaks, price could slide toward $103,355. Only a breako...",
       "categories": [
         "bitcoin"
       ],
@@ -401,6 +400,38 @@
       "tags": [
         "Bitcoin",
         "Ethereum"
+      ]
+    },
+    {
+      "id": "4be3dee51e636ebd704850164875c7c9",
+      "title": "Cross-Chain Crisis? Why Wrapped BTC Might Be Bitcoin’s Weakest Link",
+      "link": "https://news.bitcoin.com/cross-chain-crisis-why-wrapped-btc-might-be-bitcoins-weakest-link/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 05:30:49 +0000",
+      "excerpt": "Marvin Bertin has raised concerns about the security risks posed by bridges and wrapped assets. He warned that these solutions introduce vulnerabilities that compromise Bitcoin’s security model. Be...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "6d32aead2f84839217cf5240f22e5d00",
+      "title": "Bitcoin Holders Are Taking Profits—But Is the Top Still Far Away?",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-holders-are-taking-profits-but-is-the-top-still-far-away/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 05:30:10 +0000",
+      "excerpt": "Bitcoin’s recent price movement reflects a pause in the broader uptrend, with the asset trading at $117,901 following a near 5% weekly decline. While the current downturn may signal a cooling of in...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
       ]
     },
     {
@@ -514,41 +545,6 @@
       "tags": [
         "Bitcoin"
       ]
-    },
-    {
-      "id": "302d7ddf0a0c946edd97bc348746cb44",
-      "title": "Analyst Benjamin Cowen Issues Altcoin Warning, Predicts Alts Will Now ‘Bleed’ Against Ethereum",
-      "link": "https://dailyhodl.com/2025/07/21/analyst-benjamin-cowen-issues-altcoin-warning-predicts-alts-will-now-bleed-against-ethereum/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 00:00:46 +0000",
-      "excerpt": "A closely followed analyst who accurately called that the crypto bull market will be focused on Bitcoin (BTC) now believes that it’s time for Ethereum (ETH) to shine. In November of 2024, analyst B...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "a95c46ee7c063444036dc8b68b0f210f",
-      "title": "Japanese Would Buy More BTC if Gov’t Made Crypto Tax Reforms – Survey",
-      "link": "https://cryptonews.com/news/japanese-would-buy-more-btc-if-govt-made-crypto-tax-reforms-survey/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 23:30:00 +0000",
-      "excerpt": "Most Japanese say they would buy more Bitcoin (BTC), Ethereum (ETH), and altcoins if the government agrees to reform the nation’s strict crypto tax rules.\nThe post Japanese Would Buy More BTC if Go...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ]
     }
   ],
   "ethereum": [
@@ -566,6 +562,21 @@
       ],
       "tags": [
         "Bitcoin",
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "dc913e7a733efa740f4a5ee4f23719b6",
+      "title": "Ethereum Buying Pressure Surges Amid New Treasury Wave and ETF Inflows",
+      "link": "https://cryptopotato.com/ethereum-buying-pressure-surges-amid-new-treasury-wave-and-etf-inflows/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 05:10:20 +0000",
+      "excerpt": "Buying pressure on Ethereum over the next year is mounting up as more corporate treasury firms emerge and institutional funds continue to hoover up the asset.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
         "Ethereum"
       ]
     },
@@ -699,23 +710,6 @@
         "Bitcoin",
         "Ethereum",
         "Trading"
-      ]
-    },
-    {
-      "id": "a95c46ee7c063444036dc8b68b0f210f",
-      "title": "Japanese Would Buy More BTC if Gov’t Made Crypto Tax Reforms – Survey",
-      "link": "https://cryptonews.com/news/japanese-would-buy-more-btc-if-govt-made-crypto-tax-reforms-survey/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 23:30:00 +0000",
-      "excerpt": "Most Japanese say they would buy more Bitcoin (BTC), Ethereum (ETH), and altcoins if the government agrees to reform the nation’s strict crypto tax rules.\nThe post Japanese Would Buy More BTC if Go...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
       ]
     }
   ],
@@ -1256,6 +1250,53 @@
       ],
       "tags": [
         "Bitcoin",
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "4be3dee51e636ebd704850164875c7c9",
+      "title": "Cross-Chain Crisis? Why Wrapped BTC Might Be Bitcoin’s Weakest Link",
+      "link": "https://news.bitcoin.com/cross-chain-crisis-why-wrapped-btc-might-be-bitcoins-weakest-link/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 05:30:49 +0000",
+      "excerpt": "Marvin Bertin has raised concerns about the security risks posed by bridges and wrapped assets. He warned that these solutions introduce vulnerabilities that compromise Bitcoin’s security model. Be...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "6d32aead2f84839217cf5240f22e5d00",
+      "title": "Bitcoin Holders Are Taking Profits—But Is the Top Still Far Away?",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-holders-are-taking-profits-but-is-the-top-still-far-away/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 05:30:10 +0000",
+      "excerpt": "Bitcoin’s recent price movement reflects a pause in the broader uptrend, with the asset trading at $117,901 following a near 5% weekly decline. While the current downturn may signal a cooling of in...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "dc913e7a733efa740f4a5ee4f23719b6",
+      "title": "Ethereum Buying Pressure Surges Amid New Treasury Wave and ETF Inflows",
+      "link": "https://cryptopotato.com/ethereum-buying-pressure-surges-amid-new-treasury-wave-and-etf-inflows/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 05:10:20 +0000",
+      "excerpt": "Buying pressure on Ethereum over the next year is mounting up as more corporate treasury firms emerge and institutional funds continue to hoover up the asset.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
         "Ethereum"
       ]
     },
@@ -8765,52 +8806,7 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "a0ba4be3d5ee786ca3560b8867c71b69",
-      "title": "Crypto Exchange Tokenize Pulls Out of Singapore Over Licensing Roadblock",
-      "link": "https://cryptonews.com/news/tokenize-crypto-exchange-pulls-out-singapore-license-roadblock/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Mon, 21 Jul 2025 05:06:42 +0000",
-      "excerpt": "Tokenize Xchange will exit Singapore by Sept 30 after failing to secure a digital payment token licence from the MAS, a year after raising $11.5m.\nThe post Crypto Exchange Tokenize Pulls Out of Sin...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "f07a0154fa94d60e5c34bb074fd0abc6",
-      "title": "The Final Bitcoin Act: Here’s What To Expect As BTC Trends Sideways",
-      "link": "https://www.newsbtc.com/news/bitcoin/the-final-bitcoin-act/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 05:00:42 +0000",
-      "excerpt": "Bitcoin has already shown a lot of strength in recent times, pushing as high as $123,000 before trailing back down toward $117,000. So far, it looks like the digital asset has hit a roadblock and i...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "d9a70ccb30529721e427509c565f8010",
-      "title": "Is verification the new ‘Decentralized’?",
-      "link": "https://cryptoslate.com/is-verification-the-new-decentralized/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 05:00:27 +0000",
-      "excerpt": "For years, decentralization was crypto’s talisman. It stood for resilience, neutrality, and openness — a system immune to capture or control. But it was overused, underdefined, and has now diluted ...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi"
-      ]
     }
   ],
-  "last_updated": "2025-07-22T04:50:36.791027"
+  "last_updated": "2025-07-22T05:36:50.531289"
 }
