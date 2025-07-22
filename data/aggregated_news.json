@@ -1,6 +1,34 @@
 {
   "latest": [
     {
+      "id": "a6f73fef5de7316df121816e30792da6",
+      "title": "Opendoor’s 500% surge signals return of meme stock mania",
+      "link": "https://cointelegraph.com/news/opendoor-stock-rally-meme-mania-crypto-market-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 20:04:10 +0100",
+      "excerpt": "Meme stocks are rallying in lockstep with crypto and the broader stock market, with gains reminiscent of the pandemic era.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "d942f017f02c3220d8333cc30534f534",
+      "title": "Microsoft publishes emergency patches for its SharePoint software amid attacks",
+      "link": "https://cointelegraph.com/news/microsoft-emergency-patches-sharepoint-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 19:45:00 +0100",
+      "excerpt": "SharePoint’s cloud-based platform remains unaffected, with the vulnerabilities limited to on-premises installations, Microsoft said.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "5eeadb9fe822f34da6b47b4c43d1a31e",
       "title": "US Senate Republicans release draft bill for crypto market structure",
       "link": "https://cointelegraph.com/news/crypto-market-structure-draft-senate-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -28,6 +56,114 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "6a0471e203447e38141dc0f104537ae2",
+      "title": "Senate Shakes Up Crypto With Major New Market Structure Draft",
+      "link": "https://cryptonews.com/news/senate-crypto-framework-tokens-commodities-catch/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:02:52 +0000",
+      "excerpt": "The Senate Banking Committee has released the Responsible Financial Innovation Act draft, extending crypto reforms by classifying most digital assets as commodities, updating SEC disclosure, offeri...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ba054e1b556a061937a8f24c2ede554c",
+      "title": "Major US Bank Launching Bitcoin and Crypto Wallet ‘For Any Coin’ in New Coinbase Partnership",
+      "link": "https://dailyhodl.com/2025/07/22/major-us-bank-launching-bitcoin-and-crypto-wallets-for-any-coin-in-new-coinbase-partnership/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:01:24 +0000",
+      "excerpt": "The sixth-largest bank in the US just announced a strategic partnership with Coinbase in a push to massively expand digital asset access for banking clients and institutional investors. PNC says it...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "76ccb8be0aeb6a40e8371ac3b64e3471",
+      "title": "Polymarket Finds Path Back To US Following Offshore Move",
+      "link": "https://bitcoinist.com/polymarket-finds-path-back-to-us/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:00:29 +0000",
+      "excerpt": "Crypto-based predictions marketplace Polymarket, has secured a deal to return to the US market shortly after federal regulators concluded their investigation into the company.  The New York-based p...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "3bcc3d61092129d87febc3c79506f689",
+      "title": "Tron Outpaces Ethereum In Fee Revenue – TRX Burn Accelerates",
+      "link": "https://www.newsbtc.com/news/tron-trx/tron-outpaces-ethereum-in-fee-revenue-trx-burn-accelerates/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:00:20 +0000",
+      "excerpt": "Tron (TRX) hit a fresh yearly high last Friday, climbing to $0.3344 for the first time since early December 2024. The price surge reflects growing market confidence, with bulls firmly in control an...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "cb312be0bce58497ca1bf6688883dfc1",
+      "title": "PNC taps Coinbase to bring crypto trading into client accounts",
+      "link": "https://cryptoslate.com/pnc-taps-coinbase-to-bring-crypto-trading-into-client-accounts/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:00:09 +0000",
+      "excerpt": "PNC Financial Services Group has formed a partnership with Coinbase to let the bank’s customers access crypto services, as Bloomberg News reported on July 22. According to PNC’s head of treasury ma...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "b5ade1496ddc55efadc09fabf8c8fd8f",
+      "title": "Why Stellar’s XLM Could Be on the Verge of Another Massive Rally",
+      "link": "https://beincrypto.com/xlm-price-builds-bullish-momentum/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:00:00 +0000",
+      "excerpt": "XLM is showing signs of further bullish momentum, with a bullish pennant pattern and positive funding rate suggesting a breakout could push prices up to $0.75.\nThe post Why Stellar’s XLM Could Be o...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "f8eddff76c0311540f295ecbd937a209",
+      "title": "US Banking Lobby Asks Regulators To Halt Charter Applications From Companies Like Ripple, Fidelity and Others",
+      "link": "https://dailyhodl.com/2025/07/22/us-banking-lobby-asks-regulators-to-halt-charter-applications-from-companies-like-ripple-fidelity-and-others/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 18:45:24 +0000",
+      "excerpt": "Traditional banks want the US banking regulator to pump the brakes on approving charter applications from digital asset firms like Ripple, Circle and Fidelity. A group of banking and credit union l...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Analysis"
       ]
     },
     {
@@ -158,141 +294,6 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "2502b6c6b9b81d91aeabaf71b6076476",
-      "title": "The dead don’t spend Bitcoin: How to set up a crypto inheritance plan (before it’s too late)",
-      "link": "https://cointelegraph.com/news/how-to-set-up-a-crypto-inheritance-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 18:01:56 +0100",
-      "excerpt": "It is essential to secure your BTC, altcoins and NFTs with a crypto inheritance plan that safeguards keys and simplifies wealth transfer for heirs.",
-      "categories": [
-        "bitcoin",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "NFT",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "a5637724ffa9480d2ea22e5e6c0ce133",
-      "title": "‘XRP Is The End Game’ — Pundit Reveals Why It’s Better Than Bitcoin",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-is-the-end-game/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 18:00:42 +0000",
-      "excerpt": "A provocative post from crypto commentator Vincent Van Code suggests that Bitcoin was simply the experiment, while XRP represents the final form of money. In a detailed post on the social media pla...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "932e5ab8838534bc594789ed9736910e",
-      "title": "$125K Bitcoin Incoming? Polymarket Crowd Thinks It’s Likely",
-      "link": "https://bitcoinist.com/125k-bitcoin-incoming-polymarket-crowd-thinks-its-likely/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 18:00:32 +0000",
-      "excerpt": "Traders on a decentralized platform are putting real money on Bitcoin’s path this month. According to a new Polymarket poll, 36% of bettors believe Bitcoin will top $125,000 by July 31. Related Rea...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "24127d143c60a7f33e4778e58771abf7",
-      "title": "Wall Street is Warming Up to Rate Cuts—Will Crypto Be the Biggest Winner?",
-      "link": "https://beincrypto.com/trump-fed-rate-cut-crypto-bull-run/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 17:58:52 +0000",
-      "excerpt": "Trump demands a 3-point rate cut. Wall Street eyes September. Could crypto markets explode if the Fed finally pivots?\nThe post Wall Street is Warming Up to Rate Cuts—Will Crypto Be the Biggest Winn...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "761ba2d1afeedd4deb5e17c892428a9f",
-      "title": "Citadel warns SEC: Tokenization must deliver real innovation, not regulatory loopholes",
-      "link": "https://cointelegraph.com/news/citadel-sec-tokenization-warning-innovation-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 17:54:49 +0100",
-      "excerpt": "As the US regulator explores streamlined rules for securities tokenization, Citadel Securities urges a focus on meaningful innovation.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "db4e88565f032bfe8cc65a23d4eeae24",
-      "title": "Whales Abandon $PUMP; 17B Tokens Hit Exchanges, Threatening Fresh Lows",
-      "link": "https://cryptonews.com/news/whales-abandon-pump-17b-tokens-dumped-price-tests-lows/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 17:52:21 +0000",
-      "excerpt": "$PUMP has plunged 34% in 24 hours as early investors have unloaded vast holdings across Kraken and Bybit. Pump.fun, which has generated over $700M in revenue and launched $11M tokens, has responded...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "727b228f84f7a2604ebf0358e156b351",
-      "title": "Tokenized Stocks Expose a Major Tax Reporting Gap in Crypto—Robin Singh",
-      "link": "https://www.coindesk.com/opinion/2025/07/22/tokenized-stocks-expose-a-major-tax-reporting-gap-in-cryptorobin-singh",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Tue, 22 Jul 2025 17:39:17 +0000",
-      "excerpt": "As platforms like Robinhood and Gemini roll out tokenized stocks, will crypto tax reporting finally catch up with TradFi? Koinly’s Robin Singh says a day of reckoning is coming.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "1ceb84e81855517646bf43a0a633c7e3",
-      "title": "Stablecoin Market Hits $252B as CertiK Flags Rising Risks and $2.47B in Losses",
-      "link": "https://cryptonews.com/news/stablecoin-market-hits-252b-as-certik-flags-rising-risks-and-2-47b-in-losses/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 17:37:31 +0000",
-      "excerpt": "CertiK has detailed a surge in stablecoin supply to $252 bn during H1 2025, alongside record monthly settlements of $1.39 tn. The same period has seen $2.47 bn in losses, chiefly from private-key b...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "10817411ed8e07d950164149aba3120e",
-      "title": "Privacy Is Key to the Next Phase of Ethereum",
-      "link": "https://www.coindesk.com/opinion/2025/07/22/privacy-is-key-to-the-next-phase-of-ethereum",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Tue, 22 Jul 2025 17:34:09 +0000",
-      "excerpt": "As Ethereum celebrates its 10th anniversary this month, it must double-down on its original commitment to privacy, say Zac Williamson, Co-founder and CEO of Aztec Labs, and Sam Richards, Lead of PS...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
     }
   ],
   "featured": [
@@ -309,6 +310,37 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "ba054e1b556a061937a8f24c2ede554c",
+      "title": "Major US Bank Launching Bitcoin and Crypto Wallet ‘For Any Coin’ in New Coinbase Partnership",
+      "link": "https://dailyhodl.com/2025/07/22/major-us-bank-launching-bitcoin-and-crypto-wallets-for-any-coin-in-new-coinbase-partnership/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:01:24 +0000",
+      "excerpt": "The sixth-largest bank in the US just announced a strategic partnership with Coinbase in a push to massively expand digital asset access for banking clients and institutional investors. PNC says it...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "3bcc3d61092129d87febc3c79506f689",
+      "title": "Tron Outpaces Ethereum In Fee Revenue – TRX Burn Accelerates",
+      "link": "https://www.newsbtc.com/news/tron-trx/tron-outpaces-ethereum-in-fee-revenue-trx-burn-accelerates/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:00:20 +0000",
+      "excerpt": "Tron (TRX) hit a fresh yearly high last Friday, climbing to $0.3344 for the first time since early December 2024. The price surge reflects growing market confidence, with bulls firmly in control an...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
       ]
     },
     {
@@ -342,39 +374,6 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "d69c83c4a720b4957ee2f3244d05a0d3",
-      "title": "Cathie Wood Takes $182,000,000 Bet on Ethereum (ETH) Treasury Company BitMine Amid Sudden Portfolio Shuffle",
-      "link": "https://dailyhodl.com/2025/07/22/cathie-wood-takes-182000000-bet-on-ethereum-eth-treasury-company-bitmine-amid-sudden-portfolio-shuffle/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 18:05:52 +0000",
-      "excerpt": "Hedge fund manager Cathie Wood has allocated $182 million in capital to a newly launched Ethereum (ETH) treasury company. According to ARK Invest’s fund page, the firm has invested in BitMine Immer...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "2502b6c6b9b81d91aeabaf71b6076476",
-      "title": "The dead don’t spend Bitcoin: How to set up a crypto inheritance plan (before it’s too late)",
-      "link": "https://cointelegraph.com/news/how-to-set-up-a-crypto-inheritance-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 18:01:56 +0100",
-      "excerpt": "It is essential to secure your BTC, altcoins and NFTs with a crypto inheritance plan that safeguards keys and simplifies wealth transfer for heirs.",
-      "categories": [
-        "bitcoin",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "NFT",
-        "Regulation"
-      ]
     }
   ],
   "bitcoin": [
@@ -386,6 +385,21 @@
       "sourceUrl": "https://cointelegraph.com/rss",
       "timestamp": "Tue, 22 Jul 2025 19:09:12 +0100",
       "excerpt": "SpaceX transferred $153 million in Bitcoin as political tensions rise and the Pentagon opens defense contracts to new bidders.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "ba054e1b556a061937a8f24c2ede554c",
+      "title": "Major US Bank Launching Bitcoin and Crypto Wallet ‘For Any Coin’ in New Coinbase Partnership",
+      "link": "https://dailyhodl.com/2025/07/22/major-us-bank-launching-bitcoin-and-crypto-wallets-for-any-coin-in-new-coinbase-partnership/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:01:24 +0000",
+      "excerpt": "The sixth-largest bank in the US just announced a strategic partnership with Coinbase in a push to massively expand digital asset access for banking clients and institutional investors. PNC says it...",
       "categories": [
         "bitcoin"
       ],
@@ -524,25 +538,25 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "3f8d78e29f40a981528fee594ccc1aa3",
-      "title": "Bitcoin Miner Mawson Fires CEO, Files Fraud Lawsuit – What’s Going On?",
-      "link": "https://cryptonews.com/news/bitcoin-miner-mawson-fires-ceo-files-fraud-lawsuit/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 16:48:38 +0000",
-      "excerpt": "Bitcoin Miner Mawson has removed CEO Rahul Mewawalla, citing fiduciary and fraud violations, and has sued to recoup a multimillion-dollar pay package. The case is Mawson’s second 2025 dispute, unfo...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Regulation"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "3bcc3d61092129d87febc3c79506f689",
+      "title": "Tron Outpaces Ethereum In Fee Revenue – TRX Burn Accelerates",
+      "link": "https://www.newsbtc.com/news/tron-trx/tron-outpaces-ethereum-in-fee-revenue-trx-burn-accelerates/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:00:20 +0000",
+      "excerpt": "Tron (TRX) hit a fresh yearly high last Friday, climbing to $0.3344 for the first time since early December 2024. The price surge reflects growing market confidence, with bulls firmly in control an...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
     {
       "id": "6d5d5244d3dcb2af5b9874b809e2978a",
       "title": "Coinbase Opens CFTC-Regulated Perp Futures to US Traders",
@@ -683,22 +697,6 @@
       ],
       "tags": [
         "Ethereum"
-      ]
-    },
-    {
-      "id": "0dd6091e07b7985703de44955cfa5dc7",
-      "title": "Conflux ($CFX) Dumps 15% Overnight as RSI Nears Oversold – Bounce or Breakdown Ahead?",
-      "link": "https://cryptonews.com/news/conflux-cfx-dumps-15-percent-overnight/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 16:38:38 +0000",
-      "excerpt": "Conflux ($CFX) has dropped 15% after a vertiginous 91% weekly climb fuelled by its coming Tree-Graph 3.0 upgrade and the axCNH yuan-pegged stablecoin partner push. Market focus now rests on whether...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
       ]
     }
   ],
@@ -1051,6 +1049,37 @@
   ],
   "analysis": [
     {
+      "id": "76ccb8be0aeb6a40e8371ac3b64e3471",
+      "title": "Polymarket Finds Path Back To US Following Offshore Move",
+      "link": "https://bitcoinist.com/polymarket-finds-path-back-to-us/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:00:29 +0000",
+      "excerpt": "Crypto-based predictions marketplace Polymarket, has secured a deal to return to the US market shortly after federal regulators concluded their investigation into the company.  The New York-based p...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "f8eddff76c0311540f295ecbd937a209",
+      "title": "US Banking Lobby Asks Regulators To Halt Charter Applications From Companies Like Ripple, Fidelity and Others",
+      "link": "https://dailyhodl.com/2025/07/22/us-banking-lobby-asks-regulators-to-halt-charter-applications-from-companies-like-ripple-fidelity-and-others/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 18:45:24 +0000",
+      "excerpt": "Traditional banks want the US banking regulator to pump the brakes on approving charter applications from digital asset firms like Ripple, Circle and Fidelity. A group of banking and credit union l...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Analysis"
+      ]
+    },
+    {
       "id": "25bac1b67ecb0d34f38c9d3902946781",
       "title": "Bitcoin Price Prediction: Trump’s Media Company Buys $2B in BTC – Parabolic Bull Market Starting?",
       "link": "https://cryptonews.com/news/bitcoin-price-prediction-trumps-media-company-buys-2b-in-btc-parabolic-bull-market-starting/",
@@ -1178,43 +1207,37 @@
       "tags": [
         "Analysis"
       ]
-    },
-    {
-      "id": "fecb7d110f114a8df5ba2b6519d25c21",
-      "title": "Bitcoin Price Analysis: Key Factors Point to a BTC Correction Ahead",
-      "link": "https://cryptopotato.com/bitcoin-price-analysis-key-factors-point-to-a-btc-correction-ahead/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 13:10:02 +0000",
-      "excerpt": "Bitcoin has entered a sideways corrective phase, with investors taking profits and rotating capital into the altcoin market. As BTC cools off, the stage may be set for a potential altcoin rally in ...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "51d63a98e19cc4202ce922649fec6869",
-      "title": "Ripple Price Analysis: Will XRP Dip Before Rocketing Past $4?",
-      "link": "https://cryptopotato.com/ripple-price-analysis-will-xrp-dip-before-rocketing-past-4/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 13:05:06 +0000",
-      "excerpt": "Ripple has maintained strong bullish momentum, breaking above its previous peak and printing a new all-time high at $3.66. However, a short-term corrective retracement is anticipated before the pri...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading",
-        "Analysis"
-      ]
     }
   ],
   "all": [
+    {
+      "id": "a6f73fef5de7316df121816e30792da6",
+      "title": "Opendoor’s 500% surge signals return of meme stock mania",
+      "link": "https://cointelegraph.com/news/opendoor-stock-rally-meme-mania-crypto-market-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 20:04:10 +0100",
+      "excerpt": "Meme stocks are rallying in lockstep with crypto and the broader stock market, with gains reminiscent of the pandemic era.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "d942f017f02c3220d8333cc30534f534",
+      "title": "Microsoft publishes emergency patches for its SharePoint software amid attacks",
+      "link": "https://cointelegraph.com/news/microsoft-emergency-patches-sharepoint-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 19:45:00 +0100",
+      "excerpt": "SharePoint’s cloud-based platform remains unaffected, with the vulnerabilities limited to on-premises installations, Microsoft said.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
     {
       "id": "5eeadb9fe822f34da6b47b4c43d1a31e",
       "title": "US Senate Republicans release draft bill for crypto market structure",
@@ -1243,6 +1266,114 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "6a0471e203447e38141dc0f104537ae2",
+      "title": "Senate Shakes Up Crypto With Major New Market Structure Draft",
+      "link": "https://cryptonews.com/news/senate-crypto-framework-tokens-commodities-catch/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:02:52 +0000",
+      "excerpt": "The Senate Banking Committee has released the Responsible Financial Innovation Act draft, extending crypto reforms by classifying most digital assets as commodities, updating SEC disclosure, offeri...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ba054e1b556a061937a8f24c2ede554c",
+      "title": "Major US Bank Launching Bitcoin and Crypto Wallet ‘For Any Coin’ in New Coinbase Partnership",
+      "link": "https://dailyhodl.com/2025/07/22/major-us-bank-launching-bitcoin-and-crypto-wallets-for-any-coin-in-new-coinbase-partnership/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:01:24 +0000",
+      "excerpt": "The sixth-largest bank in the US just announced a strategic partnership with Coinbase in a push to massively expand digital asset access for banking clients and institutional investors. PNC says it...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "76ccb8be0aeb6a40e8371ac3b64e3471",
+      "title": "Polymarket Finds Path Back To US Following Offshore Move",
+      "link": "https://bitcoinist.com/polymarket-finds-path-back-to-us/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:00:29 +0000",
+      "excerpt": "Crypto-based predictions marketplace Polymarket, has secured a deal to return to the US market shortly after federal regulators concluded their investigation into the company.  The New York-based p...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "3bcc3d61092129d87febc3c79506f689",
+      "title": "Tron Outpaces Ethereum In Fee Revenue – TRX Burn Accelerates",
+      "link": "https://www.newsbtc.com/news/tron-trx/tron-outpaces-ethereum-in-fee-revenue-trx-burn-accelerates/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:00:20 +0000",
+      "excerpt": "Tron (TRX) hit a fresh yearly high last Friday, climbing to $0.3344 for the first time since early December 2024. The price surge reflects growing market confidence, with bulls firmly in control an...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "cb312be0bce58497ca1bf6688883dfc1",
+      "title": "PNC taps Coinbase to bring crypto trading into client accounts",
+      "link": "https://cryptoslate.com/pnc-taps-coinbase-to-bring-crypto-trading-into-client-accounts/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:00:09 +0000",
+      "excerpt": "PNC Financial Services Group has formed a partnership with Coinbase to let the bank’s customers access crypto services, as Bloomberg News reported on July 22. According to PNC’s head of treasury ma...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "b5ade1496ddc55efadc09fabf8c8fd8f",
+      "title": "Why Stellar’s XLM Could Be on the Verge of Another Massive Rally",
+      "link": "https://beincrypto.com/xlm-price-builds-bullish-momentum/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 19:00:00 +0000",
+      "excerpt": "XLM is showing signs of further bullish momentum, with a bullish pennant pattern and positive funding rate suggesting a breakout could push prices up to $0.75.\nThe post Why Stellar’s XLM Could Be o...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "f8eddff76c0311540f295ecbd937a209",
+      "title": "US Banking Lobby Asks Regulators To Halt Charter Applications From Companies Like Ripple, Fidelity and Others",
+      "link": "https://dailyhodl.com/2025/07/22/us-banking-lobby-asks-regulators-to-halt-charter-applications-from-companies-like-ripple-fidelity-and-others/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 18:45:24 +0000",
+      "excerpt": "Traditional banks want the US banking regulator to pump the brakes on approving charter applications from digital asset firms like Ripple, Circle and Fidelity. A group of banking and credit union l...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Analysis"
       ]
     },
     {
@@ -8601,141 +8732,7 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "b44f5ecd9d0738211cc6ed5ccb437ea6",
-      "title": "Venture Capital Firms Launch $360,000,000 Crypto Treasury Company Focused on Arthur Hayes-Backed Ethena (ENA)",
-      "link": "https://dailyhodl.com/2025/07/21/venture-capitalist-firm-launches-360000000-crypto-treasury-company-focused-on-arthur-hayes-backed-ethena-ena/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 22:01:46 +0000",
-      "excerpt": "Venture capitalists are forming a new firm based on accumulating stablecoin-focused crypto project Ethena (ENA). Special purpose acquisition company TLGY Acquisition, announced early on Monday that...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "29b463fd433a1903e92223fed229aa3a",
-      "title": "Tron Founder Justin Sun Becomes Latest To Board Bezos’ Blue Origin Rocket",
-      "link": "https://cryptonews.com/news/tron-founder-justin-sun-becomes-latest-to-board-bezos-blue-origin-rocket/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Mon, 21 Jul 2025 22:00:31 +0000",
-      "excerpt": "Justin Sun has been announced for Blue Origin’s upcoming NS-34 flight, joining others on a date yet to be confirmed. The TRON founder earlier paid $28 million for a seat and has since boosted stake...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "65a9b380b68dc07a8e21550bfd63a7d6",
-      "title": "Institutional Demand Surges As Ethereum Sets New Inflow Records",
-      "link": "https://www.newsbtc.com/ethereum-news/institutional-demand-surges-as-ethereum-sets-new-inflow-records/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 22:00:23 +0000",
-      "excerpt": "Ethereum is once again in the spotlight as institutional capital continues to flood into the market at an unprecedented pace. This surge in demand reflects institutional investors who are increasin...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "fe6b999aa2bef825164e7dfca8744135",
-      "title": "3 Altcoins That Could Hit All-Time Highs in The Fourth Week Of July 2025",
-      "link": "https://beincrypto.com/altcoins-that-could-hit-all-time-highs-in-the-fourth-week-of-july/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 22:00:00 +0000",
-      "excerpt": "These three altcoins are on the verge of setting new all-time highs, fueled by technical strength and strong investor momentum.\nThe post 3 Altcoins That Could Hit All-Time Highs in The Fourth Week ...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Analysis"
-      ]
-    },
-    {
-      "id": "cb206bc122c66b3d8c434d31edbf97a0",
-      "title": "StablecoinX to go public via SPAC merger, raising $360M for ENA treasury",
-      "link": "https://cointelegraph.com/news/stablecoinx-spac-merger-ena-treasury-ethena?utm_source=rss_feed&utm_medium=rss%3F_nocache%3D1753151144251%26_q%3D1753151144251&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Mon, 21 Jul 2025 21:56:25 +0100",
-      "excerpt": "The new entity will manage a crypto corporate reserve powered by the ENA token, with investors including Pantera, Galaxy Digital and the Ethena Foundation.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "d7274152a0eeb0a29ebb59b2a3f94a73",
-      "title": "StablecoinX to go public via SPAC merger, raising $360M for ENA treasury",
-      "link": "https://cointelegraph.com/news/stablecoinx-spac-merger-ena-treasury-ethena?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Mon, 21 Jul 2025 21:56:25 +0100",
-      "excerpt": "The new entity will manage a crypto corporate reserve powered by the ENA token, with investors including Pantera, Galaxy Digital and the Ethena Foundation.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "0821447ee41f38a15cbe5ac4065d814b",
-      "title": "Jito proposes a block marketplace to turn Solana into a ‘decentralized Nasdaq’",
-      "link": "https://cryptoslate.com/jito-proposes-a-block-marketplace-to-turn-solana-into-a-decentralized-nasdaq/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 21:45:54 +0000",
-      "excerpt": "Jito Labs published a proposal for a Block Assembly Marketplace (BAM) on July 21, a transaction-sequencing system that would enable developers to run central-limit order books, perpetual exchanges,...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "e62619ff4d6079175546f47c7eebb44f",
-      "title": "Shocking Amount of ETH Lost Forever Due to User Errors: Report",
-      "link": "https://cryptopotato.com/shocking-amount-of-eth-lost-forever-due-to-user-errors-report/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 21:37:23 +0000",
-      "excerpt": "At least 913,111 ETH worth $3.4B is unrecoverable due to mistakes like sending funds to burn addresses or faulty contracts.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "9ec52c968d17341c83d2332957ccde55",
-      "title": "GENIUS Act Poised to Reshape Global Stablecoin Landscape, Experts Say",
-      "link": "https://news.bitcoin.com/genius-act-poised-to-reshape-global-stablecoin-landscape-experts-say/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 21:30:42 +0000",
-      "excerpt": "Experts believe the recently passed GENIUS Act in the U.S. will significantly influence global stablecoin regulation, establishing compliance standards that non-U.S. issuers must meet to access U.S...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
     }
   ],
-  "last_updated": "2025-07-22T18:45:11.372383"
+  "last_updated": "2025-07-22T19:26:54.106081"
 }
