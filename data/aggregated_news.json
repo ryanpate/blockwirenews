@@ -1,6 +1,23 @@
 {
   "latest": [
     {
+      "id": "833439d46afc28ebbbeff5a6503480d7",
+      "title": "Japan just found a way to let you earn XRP without spending yen",
+      "link": "https://cointelegraph.com/explained/japan-just-found-a-way-to-let-you-earnxrp-without-spending-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 08:15:00 +0100",
+      "excerpt": "Aplus and SBI VC Trade launch Japan’s first point-to-crypto program, letting users earn XRP, BTC and ETH from everyday spending.",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ]
+    },
+    {
       "id": "f8e9c3ef291581cc1c5427c4a4df54d8",
       "title": "Cathie Wood sells Coinbase, Roblox shares for Tom Lee’s ETH firm",
       "link": "https://cointelegraph.com/news/cathie-wood-sells-coinbase-roblox-shares-for-eth-treasury-firm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -14,6 +31,47 @@
       "tags": [
         "Ethereum"
       ]
+    },
+    {
+      "id": "b5f5bea90b8c2d14dbf923afa4eb8d49",
+      "title": "Brian Quintenz Suddenly Dropped From CFTC Chair Nomination Vote Roster",
+      "link": "https://news.bitcoin.com/brian-quintenz-suddenly-dropped-from-cftc-chair-nomination-vote-roster/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:30:44 +0000",
+      "excerpt": "Brian Quintenz, former commissioner at the U.S. Commodity Futures Trading Commission (CFTC) and current head of policy at the crypto arm of prominent venture capital firm Andreessen Horowitz, has u...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "562bdd3f068c933cec2283aa416a471c",
+      "title": "Western Union Eyes Stablecoin Integration to Boost Cross-Border Payment Efficiency",
+      "link": "https://cryptonews.com/news/western-union-eyes-stablecoin-integration/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:30:08 +0000",
+      "excerpt": "Remittance heavyweight Western Union has shown interest in using stablecoins to modernize its global remittance operations.\nThe post Western Union Eyes Stablecoin Integration to Boost Cross-Border ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6698e807491af55472108457f0f4b258",
+      "title": "Pundit Puts XRP To The Ride Test—25 Uber Trips Reviewed",
+      "link": "https://bitcoinist.com/pundit-puts-xrp-to-the-ride-test-25-uber-trips-reviewed/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:30:05 +0000",
+      "excerpt": "According to reports, Solana advocate Jakey, known online as @SolJakey, spent a day riding with 25 Uber drivers to see if XRP has really made its way into everyday wallets. He asked each driver a s...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "99a844008f5ce00402c93bc351ca30c1",
@@ -58,6 +116,52 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "63af6508850e395a046a7cb88085c038",
+      "title": "Records of 1,905,000 Americans at Risk As Names, Addresses, Medical Histories and More Potentially Stolen by Hacker: Report",
+      "link": "https://dailyhodl.com/2025/07/22/records-of-1905000-americans-at-risk-as-names-addresses-medical-histories-and-more-potentially-stolen-by-hacker-report/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:04:34 +0000",
+      "excerpt": "Nearly two million Americans are at risk of identity theft following a data breach in which a hacker stole sensitive personal and health information from a healthcare provider. The latest data from...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "aa47de4cdc8389967aecf0d306be26e0",
+      "title": "Ethereum To $10,000? Analyst Says ETH Has To Break This Level",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-to-10000-analyst-eth-break-this-level/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:00:09 +0000",
+      "excerpt": "An analyst has explained how Ethereum could be eyeing $10,000 next, if it manages to break past the resistance line of this technical analysis pattern. Ethereum Is Nearing A Retest Of This Resistan...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "7d5d45ad473ca601aef69bc60af8ca9c",
+      "title": "Could Pi Coin Repeat History With a 114% Price Rally? Here’s What to Expect",
+      "link": "https://beincrypto.com/pi-coin-repeat-history-with-a-rally/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:00:00 +0000",
+      "excerpt": "Pi Coin is flashing bullish signals after ending a long downtrend, with strong technical indicators hinting at a potential breakout. Investors eye $0.45 as the next key level in a rising altcoin ma...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
       ]
     },
     {
@@ -206,117 +310,26 @@
         "Bitcoin",
         "Regulation"
       ]
-    },
-    {
-      "id": "6d32aead2f84839217cf5240f22e5d00",
-      "title": "Bitcoin Holders Are Taking Profits—But Is the Top Still Far Away?",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-holders-are-taking-profits-but-is-the-top-still-far-away/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 05:30:10 +0000",
-      "excerpt": "Bitcoin’s recent price movement reflects a pause in the broader uptrend, with the asset trading at $117,901 following a near 5% weekly decline. While the current downturn may signal a cooling of in...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "dc913e7a733efa740f4a5ee4f23719b6",
-      "title": "Ethereum Buying Pressure Surges Amid New Treasury Wave and ETF Inflows",
-      "link": "https://cryptopotato.com/ethereum-buying-pressure-surges-amid-new-treasury-wave-and-etf-inflows/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 05:10:20 +0000",
-      "excerpt": "Buying pressure on Ethereum over the next year is mounting up as more corporate treasury firms emerge and institutional funds continue to hoover up the asset.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "60c9545159f1a25d48c9d129d7850844",
-      "title": "Lazarus Group Behind $44M CoinDCX Heist, Experts Find Same Exploit Pattern as WazirX",
-      "link": "https://cryptonews.com/news/lazarus-group-behind-44m-coindcx-heist-cyvers/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 04:39:44 +0000",
-      "excerpt": "Cybersecurity experts from Cyvers said the speed, precision, and cross-chain sophistication of the CoinDCX hack were “alarming.”\nThe post Lazarus Group Behind $44M CoinDCX Heist, Experts Find Same ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "3d61d0b4c4d9d9b5840d6b6dcd450e60",
-      "title": "Bitcoin (BTC) Price Risks 12% Drop as Long-Term Holders Book Profits",
-      "link": "https://beincrypto.com/bitcoin-price-risks-12-drop-as-long-term-holders-book-profits/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 04:38:44 +0000",
-      "excerpt": "Bitcoin is trading around $117,500, but rising whale activity and long-term holder profit-taking raise the risk of a correction. If $116,456 breaks, price could slide toward $103,355. Only a breako...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "b047f3fb1afa60feb40f6e11504c67fa",
-      "title": "Arthur Hayes: BOJ’s Subtle Shift Could Explode Bitcoin Price",
-      "link": "https://news.bitcoin.com/arthur-hayes-bojs-subtle-shift-could-explode-bitcoin-price/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 04:30:56 +0000",
-      "excerpt": "As a discreet financial maneuver takes shape in Japan, Arthur Hayes says this subtle central bank shift could be the catalyst behind bitcoin’s next explosive surge. On July 19, Hayes highlighted re...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "dff8fdc5976df3bc94aeb6492cfdbab9",
-      "title": "Crypto Graveyard Grows: Coinbase Says $3.4B In ETH Is Irrecoverable",
-      "link": "https://bitcoinist.com/crypto-graveyard-grows-coinbase-says-3-4b-in-eth-is-irrecoverable/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 04:30:11 +0000",
-      "excerpt": "Ethereum is seeing a growing chunk of its coins slip out of reach. According to Coinbase head of product, Conor Grogan, 913,111 ETH—about 0.76 % of the nearly 121 million coins in circulation—are n...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "3b49a293730f89b463a127427c6dc157",
-      "title": "[LIVE] Crypto News Today: Latest Updates for July 22, 2025 – SOL Jumps Above $200, XRP Holds $3.5 as Altcoins Continue to Dominate",
-      "link": "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-july-22-2025/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 04:20:29 +0000",
-      "excerpt": "Follow up to the hour updates on what is happening in crypto today, July 22. Market movements, crypto news, and more!\nThe post [LIVE] Crypto News Today: Latest Updates for July 22, 2025 – SOL Jumps...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "833439d46afc28ebbbeff5a6503480d7",
+      "title": "Japan just found a way to let you earn XRP without spending yen",
+      "link": "https://cointelegraph.com/explained/japan-just-found-a-way-to-let-you-earnxrp-without-spending-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 08:15:00 +0100",
+      "excerpt": "Aplus and SBI VC Trade launch Japan’s first point-to-crypto program, letting users earn XRP, BTC and ETH from everyday spending.",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ]
+    },
     {
       "id": "f8e9c3ef291581cc1c5427c4a4df54d8",
       "title": "Cathie Wood sells Coinbase, Roblox shares for Tom Lee’s ETH firm",
@@ -363,39 +376,41 @@
       ]
     },
     {
-      "id": "17e55da8dd541381e67ac0b45c93d0b3",
-      "title": "Latam Insights Encore: El Salvador’s IMF Bitcoin-Fueled Defiance Was a Fugazi",
-      "link": "https://news.bitcoin.com/latam-insights-encore-el-salvadors-imf-bitcoin-fueled-defiance-was-a-fugazi/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 06:30:27 +0000",
-      "excerpt": "Welcome to Latam Insights Encore, a deep dive into Latin America’s most relevant economic and crypto news from the past week. This edition explores how the Salvadoran government’s confusing communi...",
+      "id": "aa47de4cdc8389967aecf0d306be26e0",
+      "title": "Ethereum To $10,000? Analyst Says ETH Has To Break This Level",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-to-10000-analyst-eth-break-this-level/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:00:09 +0000",
+      "excerpt": "An analyst has explained how Ethereum could be eyeing $10,000 next, if it manages to break past the resistance line of this technical analysis pattern. Ethereum Is Nearing A Retest Of This Resistan...",
       "categories": [
-        "bitcoin",
-        "defi"
+        "ethereum",
+        "analysis"
       ],
       "tags": [
-        "Bitcoin",
-        "DeFi"
-      ]
-    },
-    {
-      "id": "57f4c569c07ebf5b16062e1fac914f2a",
-      "title": "SpaceX Moves $152M BTC After Three Years – Is Elon Musk Looking to Dump Bitcoin?",
-      "link": "https://cryptonews.com/news/elon-musks-spacex-moves-152-million-in-bitcoin-after-three-years-arkham/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 06:01:10 +0000",
-      "excerpt": "Elon Musk's SpaceX has moved over $152 million worth of Bitcoin after more than three years of dormancy, according to data from Arkham Intelligence.\nThe post SpaceX Moves $152M BTC After Three Year...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
+        "Ethereum",
+        "Analysis"
       ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "833439d46afc28ebbbeff5a6503480d7",
+      "title": "Japan just found a way to let you earn XRP without spending yen",
+      "link": "https://cointelegraph.com/explained/japan-just-found-a-way-to-let-you-earnxrp-without-spending-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 08:15:00 +0100",
+      "excerpt": "Aplus and SBI VC Trade launch Japan’s first point-to-crypto program, letting users earn XRP, BTC and ETH from everyday spending.",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ]
+    },
     {
       "id": "b4508f5b632bea6115288be240571d57",
       "title": "Chinese pork producer turned BTC miner kicks off Dogecoin plan",
@@ -542,25 +557,26 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "3d61d0b4c4d9d9b5840d6b6dcd450e60",
-      "title": "Bitcoin (BTC) Price Risks 12% Drop as Long-Term Holders Book Profits",
-      "link": "https://beincrypto.com/bitcoin-price-risks-12-drop-as-long-term-holders-book-profits/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 04:38:44 +0000",
-      "excerpt": "Bitcoin is trading around $117,500, but rising whale activity and long-term holder profit-taking raise the risk of a correction. If $116,456 breaks, price could slide toward $103,355. Only a breako...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "833439d46afc28ebbbeff5a6503480d7",
+      "title": "Japan just found a way to let you earn XRP without spending yen",
+      "link": "https://cointelegraph.com/explained/japan-just-found-a-way-to-let-you-earnxrp-without-spending-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 08:15:00 +0100",
+      "excerpt": "Aplus and SBI VC Trade launch Japan’s first point-to-crypto program, letting users earn XRP, BTC and ETH from everyday spending.",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ]
+    },
     {
       "id": "f8e9c3ef291581cc1c5427c4a4df54d8",
       "title": "Cathie Wood sells Coinbase, Roblox shares for Tom Lee’s ETH firm",
@@ -589,6 +605,23 @@
       ],
       "tags": [
         "Ethereum"
+      ]
+    },
+    {
+      "id": "aa47de4cdc8389967aecf0d306be26e0",
+      "title": "Ethereum To $10,000? Analyst Says ETH Has To Break This Level",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-to-10000-analyst-eth-break-this-level/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:00:09 +0000",
+      "excerpt": "An analyst has explained how Ethereum could be eyeing $10,000 next, if it manages to break past the resistance line of this technical analysis pattern. Ethereum Is Nearing A Retest Of This Resistan...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Analysis"
       ]
     },
     {
@@ -687,39 +720,6 @@
       ],
       "tags": [
         "Ethereum"
-      ]
-    },
-    {
-      "id": "c8a7f6f2ca4018f2f75c08863164ea6d",
-      "title": "Ethereum Price Momentum Explodes—Is the Path to $4K Wide Open?",
-      "link": "https://www.newsbtc.com/analysis/eth/ethereum-price-momentum-explodes-4k/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 03:48:19 +0000",
-      "excerpt": "Ethereum price started a fresh increase above the $3,750 zone. ETH is now showing bullish signs and might continue to rise toward the $3,950 zone. Ethereum started a fresh increase above the $3,750...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "f9c3e68eeeaba94eb1bd309dc181cbf6",
-      "title": "DeFi Development SOL Milestone, Korea Stablecoin Push and More",
-      "link": "https://beincrypto.com/apac_morning_brief_0722/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 02:55:32 +0000",
-      "excerpt": "DeFi Development reaches a major Solana milestone with $181 million in holdings, while The Ether Machine plans a $220 billion ETH public debut. Meanwhile, South Korea pushes ahead with legislation ...",
-      "categories": [
-        "ethereum",
-        "defi"
-      ],
-      "tags": [
-        "Ethereum",
-        "DeFi"
       ]
     }
   ],
@@ -1079,6 +1079,39 @@
   ],
   "analysis": [
     {
+      "id": "aa47de4cdc8389967aecf0d306be26e0",
+      "title": "Ethereum To $10,000? Analyst Says ETH Has To Break This Level",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-to-10000-analyst-eth-break-this-level/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:00:09 +0000",
+      "excerpt": "An analyst has explained how Ethereum could be eyeing $10,000 next, if it manages to break past the resistance line of this technical analysis pattern. Ethereum Is Nearing A Retest Of This Resistan...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "7d5d45ad473ca601aef69bc60af8ca9c",
+      "title": "Could Pi Coin Repeat History With a 114% Price Rally? Here’s What to Expect",
+      "link": "https://beincrypto.com/pi-coin-repeat-history-with-a-rally/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:00:00 +0000",
+      "excerpt": "Pi Coin is flashing bullish signals after ending a long downtrend, with strong technical indicators hinting at a potential breakout. Investors eye $0.45 as the next key level in a rising altcoin ma...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
       "id": "003cf7f60f954254a160843ba6b72045",
       "title": "JPMorgan May Start Lending Directly Against BTC, ETH Starting Next Year: Report",
       "link": "https://cryptonews.com/news/jpmorgan-to-start-lending-directly-against-btc-eth-starting-next-year-report/",
@@ -1207,45 +1240,26 @@
       "tags": [
         "Analysis"
       ]
-    },
-    {
-      "id": "b1f72e044c8c11ae826bb0663ff9cb3b",
-      "title": "Ethereum Set To Hit $10,000, Elliott Wave Analysis Predicts",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-set-to-hit-10000-elliott-wave-analysis-predicts/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 11:30:20 +0000",
-      "excerpt": "Over the past week, the Ethereum (ETH) market recorded a solid positive price performance, reaching as high as $3,600. Notably, the second-largest cryptocurrency, among many altcoins, is experienci...",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Regulation",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "ccdd2afafd4229915f6e505218209ef5",
-      "title": "Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This Last?",
-      "link": "https://cryptonews.com/news/ethereum-price-prediction-eth-just-hit-180-day-peak-can-this-last/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sun, 20 Jul 2025 10:52:49 +0000",
-      "excerpt": "Ethereum has surged to a dramatic 180-day peak of $3,671, delivering an explosive 152% rally from March lows near $1,392.\nThe post Ethereum Price Prediction: ETH Just Hit 180-Day Peak – Can This La...",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
     }
   ],
   "all": [
+    {
+      "id": "833439d46afc28ebbbeff5a6503480d7",
+      "title": "Japan just found a way to let you earn XRP without spending yen",
+      "link": "https://cointelegraph.com/explained/japan-just-found-a-way-to-let-you-earnxrp-without-spending-yen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 08:15:00 +0100",
+      "excerpt": "Aplus and SBI VC Trade launch Japan’s first point-to-crypto program, letting users earn XRP, BTC and ETH from everyday spending.",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum"
+      ]
+    },
     {
       "id": "f8e9c3ef291581cc1c5427c4a4df54d8",
       "title": "Cathie Wood sells Coinbase, Roblox shares for Tom Lee’s ETH firm",
@@ -1260,6 +1274,47 @@
       "tags": [
         "Ethereum"
       ]
+    },
+    {
+      "id": "b5f5bea90b8c2d14dbf923afa4eb8d49",
+      "title": "Brian Quintenz Suddenly Dropped From CFTC Chair Nomination Vote Roster",
+      "link": "https://news.bitcoin.com/brian-quintenz-suddenly-dropped-from-cftc-chair-nomination-vote-roster/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:30:44 +0000",
+      "excerpt": "Brian Quintenz, former commissioner at the U.S. Commodity Futures Trading Commission (CFTC) and current head of policy at the crypto arm of prominent venture capital firm Andreessen Horowitz, has u...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "562bdd3f068c933cec2283aa416a471c",
+      "title": "Western Union Eyes Stablecoin Integration to Boost Cross-Border Payment Efficiency",
+      "link": "https://cryptonews.com/news/western-union-eyes-stablecoin-integration/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:30:08 +0000",
+      "excerpt": "Remittance heavyweight Western Union has shown interest in using stablecoins to modernize its global remittance operations.\nThe post Western Union Eyes Stablecoin Integration to Boost Cross-Border ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "6698e807491af55472108457f0f4b258",
+      "title": "Pundit Puts XRP To The Ride Test—25 Uber Trips Reviewed",
+      "link": "https://bitcoinist.com/pundit-puts-xrp-to-the-ride-test-25-uber-trips-reviewed/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:30:05 +0000",
+      "excerpt": "According to reports, Solana advocate Jakey, known online as @SolJakey, spent a day riding with 25 Uber drivers to see if XRP has really made its way into everyday wallets. He asked each driver a s...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "99a844008f5ce00402c93bc351ca30c1",
@@ -1304,6 +1359,52 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "63af6508850e395a046a7cb88085c038",
+      "title": "Records of 1,905,000 Americans at Risk As Names, Addresses, Medical Histories and More Potentially Stolen by Hacker: Report",
+      "link": "https://dailyhodl.com/2025/07/22/records-of-1905000-americans-at-risk-as-names-addresses-medical-histories-and-more-potentially-stolen-by-hacker-report/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:04:34 +0000",
+      "excerpt": "Nearly two million Americans are at risk of identity theft following a data breach in which a hacker stole sensitive personal and health information from a healthcare provider. The latest data from...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "aa47de4cdc8389967aecf0d306be26e0",
+      "title": "Ethereum To $10,000? Analyst Says ETH Has To Break This Level",
+      "link": "https://www.newsbtc.com/news/ethereum/ethereum-to-10000-analyst-eth-break-this-level/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:00:09 +0000",
+      "excerpt": "An analyst has explained how Ethereum could be eyeing $10,000 next, if it manages to break past the resistance line of this technical analysis pattern. Ethereum Is Nearing A Retest Of This Resistan...",
+      "categories": [
+        "ethereum",
+        "analysis"
+      ],
+      "tags": [
+        "Ethereum",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "7d5d45ad473ca601aef69bc60af8ca9c",
+      "title": "Could Pi Coin Repeat History With a 114% Price Rally? Here’s What to Expect",
+      "link": "https://beincrypto.com/pi-coin-repeat-history-with-a-rally/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 07:00:00 +0000",
+      "excerpt": "Pi Coin is flashing bullish signals after ending a long downtrend, with strong technical indicators hinting at a potential breakout. Investors eye $0.45 as the next key level in a rising altcoin ma...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
       ]
     },
     {
@@ -8712,116 +8813,7 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "c1ddc6594f1d985011256290c81288b2",
-      "title": "Is NFT Mania Coming Back? Sector Adds $1 Billion in a Day",
-      "link": "https://cryptopotato.com/is-nft-mania-coming-back-sector-adds-1-billion-in-a-day/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 07:21:39 +0000",
-      "excerpt": "Non-fungible tokens are witnessing a potential revival with a surge in market capitalization as Ethereum continues to march higher.",
-      "categories": [
-        "ethereum",
-        "nft"
-      ],
-      "tags": [
-        "Ethereum",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "d127b65a2f060e15026dbd98af6e3a12",
-      "title": "US bank lobby challenges crypto firms’ bids for bank licences",
-      "link": "https://cointelegraph.com/news/bank-lobby-urge-delay-crypto-bank-licence-bids?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Mon, 21 Jul 2025 07:17:55 +0100",
-      "excerpt": "US banking and credit union groups asked the OCC to delay deciding on bank license applications from crypto firms, arguing there are “significant policy and process concerns.”",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "ae0848b7b32a292c9fab2cb98620b3ed",
-      "title": "London Stock Exchange Eyes 24-Hour Trading in Crypto-Inspired Shift: Report",
-      "link": "https://cryptonews.com/news/london-stock-exchange-eyes-crypto-style-24-hour-trading/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Mon, 21 Jul 2025 07:08:30 +0000",
-      "excerpt": "The London Stock Exchange Group is exploring 24-hour trading as it faces pressure to modernise over rising retail demand and crypto market influence, a report said.\nThe post London Stock Exchange E...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "85b8f97a79b0dd8cae50b1c3df1a9430",
-      "title": "‘Rich Dad, Poor Dad’ author warns Bitcoin ‘bubble’ could burst soon",
-      "link": "https://cointelegraph.com/news/rich-dad-poor-dad-author-bitcoin-and-gold-bubble-could-bust-soon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Mon, 21 Jul 2025 07:08:04 +0100",
-      "excerpt": "Robert Kiyosaki says that asset bubbles will soon \"bust\", and when they do, “odds are gold, silver, and Bitcoin will bust too.”",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "83fae2576b7bfaf6ec6db8d6d067ab8f",
-      "title": "JPMorgan Chase Says Stock Market Going ‘Meaningfully’ Higher in 12 Months Amid Resilient Corporate America",
-      "link": "https://dailyhodl.com/2025/07/21/jpmorgan-chase-says-stock-market-going-meaningfully-higher-in-12-months-amid-resilient-corporate-america/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 07:04:28 +0000",
-      "excerpt": "Banking giant JPMorgan Chase believes that the US stock market is not finished rallying and will hit much higher levels in the coming months. In a new CNBC Television interview, JPMorgan Asset Mana...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "90c43866bfed879243d306473e3bd3c6",
-      "title": "XRP Targets $6–$10 If Bitcoin Hits $144,000, Analyst Predicts",
-      "link": "https://www.newsbtc.com/xrp-news/xrp-targets-6-10-if-bitcoin-hits-144000/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 07:00:55 +0000",
-      "excerpt": "Pseudonymous market technician Dr Cat has laid out a tightly argued roadmap that would see XRP triple from its current range to between six and ten dollars within the next two months—provided Bitco...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "fd94470cf4423dcab1e603042146f34c",
-      "title": "3 US Economic Signals That Could Move Bitcoin This Week",
-      "link": "https://beincrypto.com/us-economic-signals-bitcoin-triggers/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Mon, 21 Jul 2025 07:00:00 +0000",
-      "excerpt": "Three critical US economic indicators this week—Powell’s remarks, jobless claims, and PMI data—could trigger major Bitcoin price moves. With macroeconomic pressure mounting, crypto markets are brac...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
     }
   ],
-  "last_updated": "2025-07-22T06:46:39.303718"
+  "last_updated": "2025-07-22T07:32:17.985690"
 }
