@@ -1,6 +1,21 @@
 {
   "latest": [
     {
+      "id": "006b67ae90ca57efe7afdc9f43a22205",
+      "title": "Bitfarms to buy back 10% of shares, calls stock undervalued",
+      "link": "https://cointelegraph.com/news/headline-bitcoin-miner-bitfarms-begins-stock-buyback-citing-undervaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 23:30:00 +0100",
+      "excerpt": "The bitcoin miner plans to repurchase up to 49.9 million shares over the next year as it pivots to high-performance computing and AI infrastructure.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
       "id": "930614044c940ba2b6c1f8353b8885b9",
       "title": "Bitcoin liquidity wars carry on, but BTC price target remains $140K",
       "link": "https://cointelegraph.com/news/bitcoin-liquidity-wars-carry-on-but-btc-price-target-remains-dollar140k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -26,6 +41,49 @@
       "sourceUrl": "https://cointelegraph.com/rss",
       "timestamp": "Tue, 22 Jul 2025 23:08:22 +0100",
       "excerpt": "A survey conducted by the National Cryptocurrency Association explored why some people aren’t comfortable investing in digital assets.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e1467f5ffaf70c3cc8a8a71b5ce30931",
+      "title": "Polymarket mulls own stablecoin for efficient use of USDC reserves",
+      "link": "https://cryptoslate.com/polymarket-mulls-own-stablecoin-for-efficient-use-of-usdc-reserves/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:00:55 +0000",
+      "excerpt": "Crypto prediction market Polymarket is considering launching its own stablecoin to gain control over the interest-bearing reserves currently backing USDC deposits on its platform, CoinDesk reported...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "221e3a65952b5a1881023eff07b51ff9",
+      "title": "How Ripple Is Taking On SWIFT To Grab 14% Market Share As XRP Price Surges",
+      "link": "https://bitcoinist.com/how-ripple-is-taking-on-swift/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:00:40 +0000",
+      "excerpt": "XRP’s breakout above its long-standing ceiling of $3.40 is more than just a price milestone. It’s a symbol of Ripple’s shifting narrative from underdog disruptor to serious challenger of traditiona...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "7701b3bfd1d6490bc349fd540dfce8af",
+      "title": "PEPE Sparks Google Frenzy With 300% Surge In Search Interest",
+      "link": "https://www.newsbtc.com/news/pepe-sparks-google-frenzy-with-300-surge-in-search-interest/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:00:30 +0000",
+      "excerpt": "PEPE is back in the spotlight. A massive surge in Google search activity on July 22 sent the memecoin to the top of the trending list. Data from Google Trends showed interest in PEPE spiking from 2...",
       "categories": [
         "crypto"
       ],
@@ -63,6 +121,23 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "0c4afae8737c493e3af2b582cca25ad0",
+      "title": "US Predictions Platform Polymarket Could Launch Its Own Stablecoin",
+      "link": "https://beincrypto.com/polymarket-stablecoin-rumors-us-market/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 22:30:00 +0000",
+      "excerpt": "Polymarket is weighing a stablecoin launch to capture reserve yield, following similar moves by banks after the GENIUS Act passed.\nThe post US Predictions Platform Polymarket Could Launch Its Own S...",
+      "categories": [
+        "defi",
+        "analysis"
+      ],
+      "tags": [
+        "DeFi",
+        "Trading"
       ]
     },
     {
@@ -229,82 +304,24 @@
       "tags": [
         "Trading"
       ]
-    },
-    {
-      "id": "038283b7d9997b680b725ee2f285029c",
-      "title": "PNC Bank to launch crypto trading via Coinbase partnership",
-      "link": "https://cointelegraph.com/news/pnc-bank-crypto-market-coinbase-partnership?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 21:53:22 +0100",
-      "excerpt": "Institutional interest in crypto has been rising as regulatory clarity increases in the United States.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "a17da215c3df7254e94de3a7b701d382",
-      "title": "SEC Approves, Immediately Pauses Bitwise's Bid to Convert BITW Crypto Index Fund to ETF",
-      "link": "https://www.coindesk.com/policy/2025/07/22/sec-approves-then-pauses-bitwise-s-bid-to-convert-bitw-crypto-index-fund-to-etf",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Tue, 22 Jul 2025 21:50:55 +0000",
-      "excerpt": "The SEC has released multiple crypto ETF updates this week, signaling shifting regulatory priorities.",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "00e2ee7a399ab29efa05adf4e36da8f3",
-      "title": "Solana Price Prediction: SOL Breaks $200 – Could $500 Be Closer Than Anyone Thinks?",
-      "link": "https://cryptonews.com/news/solana-price-prediction-sol-breaks-200-could-500-next/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 21:41:00 +0000",
-      "excerpt": "With growing participation from both retail investors and developers, Solana (SOL) is laying a strong fundamental foundation for new highs.\nThe post Solana Price Prediction: SOL Breaks $200 – Could...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "a33029e75e4ec1a31a60705a7d9d22ef",
-      "title": "Solana SSK ETF breaks $100M as Wall Street warms to crypto staking",
-      "link": "https://cointelegraph.com/news/solana-ssk-etf-100m-crypto-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 21:37:39 +0100",
-      "excerpt": "SSK, the first US ETF to combine spot Solana exposure with on-chain staking rewards, attracted over $100M in 12 trading days.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "a50c38ea6d9f0268e2dfd00fdffeab17",
-      "title": "Stargate Unravels: Report Claims Softbank and OpenAI Tensions Stall AI Ambitions",
-      "link": "https://news.bitcoin.com/stargate-unravels-report-claims-softbank-and-openai-tensions-stall-ai-ambitions/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 21:30:25 +0000",
-      "excerpt": "A new report claims tensions are brewing between Softbank and OpenAI over major terms in their Stargate collaboration—chiefly, where the data centers should go and funding. People familiar with the...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
     }
   ],
   "featured": [
+    {
+      "id": "006b67ae90ca57efe7afdc9f43a22205",
+      "title": "Bitfarms to buy back 10% of shares, calls stock undervalued",
+      "link": "https://cointelegraph.com/news/headline-bitcoin-miner-bitfarms-begins-stock-buyback-citing-undervaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 23:30:00 +0100",
+      "excerpt": "The bitcoin miner plans to repurchase up to 49.9 million shares over the next year as it pivots to high-performance computing and AI infrastructure.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
     {
       "id": "930614044c940ba2b6c1f8353b8885b9",
       "title": "Bitcoin liquidity wars carry on, but BTC price target remains $140K",
@@ -376,24 +393,24 @@
         "Trading",
         "Regulation"
       ]
-    },
-    {
-      "id": "7e03818e26ce14e7550a63faac7e3514",
-      "title": "Public companies now hold $3.2B worth of Ethereum, swelling past 865,000 ETH",
-      "link": "https://cryptoslate.com/public-companies-now-hold-3-2b-worth-of-ethereum-swelling-past-865000-eth/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:15:00 +0000",
-      "excerpt": "Out of the 58 entities holding Ethereum (ETH) in their treasuries, the 10 public-listed companies have roughly $3.2 billion, equivalent to 865,265 ETH. According to Strategic ETH Reserve data, four...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "006b67ae90ca57efe7afdc9f43a22205",
+      "title": "Bitfarms to buy back 10% of shares, calls stock undervalued",
+      "link": "https://cointelegraph.com/news/headline-bitcoin-miner-bitfarms-begins-stock-buyback-citing-undervaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 23:30:00 +0100",
+      "excerpt": "The bitcoin miner plans to repurchase up to 49.9 million shares over the next year as it pivots to high-performance computing and AI infrastructure.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
     {
       "id": "930614044c940ba2b6c1f8353b8885b9",
       "title": "Bitcoin liquidity wars carry on, but BTC price target remains $140K",
@@ -547,22 +564,6 @@
         "Bitcoin",
         "Ethereum",
         "Trading"
-      ]
-    },
-    {
-      "id": "dc438cf373473e42ed096f2b1466df3a",
-      "title": "Profusa Launches $100 Million Bitcoin Treasury Strategy",
-      "link": "https://news.bitcoin.com/profusa-launches-100-million-bitcoin-treasury-strategy/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 20:30:13 +0000",
-      "excerpt": "Profusa is pivoting into bitcoin by securing a $100 million equity line of credit with Ascent Partners, committing all proceeds beyond a $5 million cash buffer to BTC as its primary treasury reserv...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Regulation"
       ]
     }
   ],
@@ -757,6 +758,23 @@
       ]
     },
     {
+      "id": "0c4afae8737c493e3af2b582cca25ad0",
+      "title": "US Predictions Platform Polymarket Could Launch Its Own Stablecoin",
+      "link": "https://beincrypto.com/polymarket-stablecoin-rumors-us-market/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 22:30:00 +0000",
+      "excerpt": "Polymarket is weighing a stablecoin launch to capture reserve yield, following similar moves by banks after the GENIUS Act passed.\nThe post US Predictions Platform Polymarket Could Launch Its Own S...",
+      "categories": [
+        "defi",
+        "analysis"
+      ],
+      "tags": [
+        "DeFi",
+        "Trading"
+      ]
+    },
+    {
       "id": "be122f57526994dfe69a477dea180527",
       "title": "Aave Dominates DeFi Rally, Grabs 31% of $49B TVL Increase",
       "link": "https://cryptopotato.com/aave-dominates-defi-rally-grabs-31-of-49b-tvl-increase/",
@@ -875,21 +893,6 @@
       ],
       "tags": [
         "Bitcoin",
-        "DeFi"
-      ]
-    },
-    {
-      "id": "5df7543f89119575a710bea5a9aa7d0d",
-      "title": "TON Wallet goes live for Telegram users in US",
-      "link": "https://cointelegraph.com/news/telegram-launches-native-crypto-wallet-for-87m-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 14:36:19 +0100",
-      "excerpt": "Telegram rolls out TON Wallet to US users, enabling self-custodial crypto transactions, DeFi access and off-ramp features within the app.",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
         "DeFi"
       ]
     }
@@ -1063,6 +1066,21 @@
   ],
   "analysis": [
     {
+      "id": "e1467f5ffaf70c3cc8a8a71b5ce30931",
+      "title": "Polymarket mulls own stablecoin for efficient use of USDC reserves",
+      "link": "https://cryptoslate.com/polymarket-mulls-own-stablecoin-for-efficient-use-of-usdc-reserves/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:00:55 +0000",
+      "excerpt": "Crypto prediction market Polymarket is considering launching its own stablecoin to gain control over the interest-bearing reserves currently backing USDC deposits on its platform, CoinDesk reported...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "c3135699e8003583bf9ef37c7ee61541",
       "title": "Price predictions 7/22: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE",
       "link": "https://cointelegraph.com/news/price-predictions-7-22-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1078,6 +1096,23 @@
       "tags": [
         "Bitcoin",
         "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "0c4afae8737c493e3af2b582cca25ad0",
+      "title": "US Predictions Platform Polymarket Could Launch Its Own Stablecoin",
+      "link": "https://beincrypto.com/polymarket-stablecoin-rumors-us-market/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 22:30:00 +0000",
+      "excerpt": "Polymarket is weighing a stablecoin launch to capture reserve yield, following similar moves by banks after the GENIUS Act passed.\nThe post US Predictions Platform Polymarket Could Launch Its Own S...",
+      "categories": [
+        "defi",
+        "analysis"
+      ],
+      "tags": [
+        "DeFi",
         "Trading"
       ]
     },
@@ -1112,6 +1147,22 @@
       ],
       "tags": [
         "Trading"
+      ]
+    },
+    {
+      "id": "55af471b782a95c879d3f9dbbabe9620",
+      "title": "ChatGPT’s 42-Indicator SOL Analysis Flags $210 Breakout Amid Corporate Treasury Shift",
+      "link": "https://cryptonews.com/news/chatgpt-sol-analysis-flags-explosive-210-breakout/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 21:00:50 +0000",
+      "excerpt": "ChatGPT’s SOL Analysis has recorded Solana’s climb to $204.15, up 26 % this week, with RSI 82.22 and price 21 % above the 200-day EMA. Corporate treasury accumulation, Transak’s MetaMask gateway an...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
       ]
     },
     {
@@ -1182,57 +1233,24 @@
         "Bitcoin",
         "Analysis"
       ]
-    },
-    {
-      "id": "fb93a3d4fe827666b0bf05f3dfe99b9b",
-      "title": "Bitcoin Cash Price Prediction as Uptrend Continues – How Quickly Can BCH Hit $1,000?",
-      "link": "https://cryptonews.com/news/bitcoin-cash-price-prediction-as-uptrend-continues-1000-bch/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 19:41:00 +0000",
-      "excerpt": "Altcoin season sentiment is fueling a deeper capital rotation into risk assets, positioning Bitcoin Cash (BCH) for a potential move toward higher price targets.\nThe post Bitcoin Cash Price Predicti...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "76ccb8be0aeb6a40e8371ac3b64e3471",
-      "title": "Polymarket Finds Path Back To US Following Offshore Move",
-      "link": "https://bitcoinist.com/polymarket-finds-path-back-to-us/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 19:00:29 +0000",
-      "excerpt": "Crypto-based predictions marketplace Polymarket, has secured a deal to return to the US market shortly after federal regulators concluded their investigation into the company.  The New York-based p...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "f8eddff76c0311540f295ecbd937a209",
-      "title": "US Banking Lobby Asks Regulators To Halt Charter Applications From Companies Like Ripple, Fidelity and Others",
-      "link": "https://dailyhodl.com/2025/07/22/us-banking-lobby-asks-regulators-to-halt-charter-applications-from-companies-like-ripple-fidelity-and-others/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 18:45:24 +0000",
-      "excerpt": "Traditional banks want the US banking regulator to pump the brakes on approving charter applications from digital asset firms like Ripple, Circle and Fidelity. A group of banking and credit union l...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Analysis"
-      ]
     }
   ],
   "all": [
+    {
+      "id": "006b67ae90ca57efe7afdc9f43a22205",
+      "title": "Bitfarms to buy back 10% of shares, calls stock undervalued",
+      "link": "https://cointelegraph.com/news/headline-bitcoin-miner-bitfarms-begins-stock-buyback-citing-undervaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Tue, 22 Jul 2025 23:30:00 +0100",
+      "excerpt": "The bitcoin miner plans to repurchase up to 49.9 million shares over the next year as it pivots to high-performance computing and AI infrastructure.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
     {
       "id": "930614044c940ba2b6c1f8353b8885b9",
       "title": "Bitcoin liquidity wars carry on, but BTC price target remains $140K",
@@ -1259,6 +1277,49 @@
       "sourceUrl": "https://cointelegraph.com/rss",
       "timestamp": "Tue, 22 Jul 2025 23:08:22 +0100",
       "excerpt": "A survey conducted by the National Cryptocurrency Association explored why some people aren’t comfortable investing in digital assets.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "e1467f5ffaf70c3cc8a8a71b5ce30931",
+      "title": "Polymarket mulls own stablecoin for efficient use of USDC reserves",
+      "link": "https://cryptoslate.com/polymarket-mulls-own-stablecoin-for-efficient-use-of-usdc-reserves/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:00:55 +0000",
+      "excerpt": "Crypto prediction market Polymarket is considering launching its own stablecoin to gain control over the interest-bearing reserves currently backing USDC deposits on its platform, CoinDesk reported...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "221e3a65952b5a1881023eff07b51ff9",
+      "title": "How Ripple Is Taking On SWIFT To Grab 14% Market Share As XRP Price Surges",
+      "link": "https://bitcoinist.com/how-ripple-is-taking-on-swift/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:00:40 +0000",
+      "excerpt": "XRP’s breakout above its long-standing ceiling of $3.40 is more than just a price milestone. It’s a symbol of Ripple’s shifting narrative from underdog disruptor to serious challenger of traditiona...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "7701b3bfd1d6490bc349fd540dfce8af",
+      "title": "PEPE Sparks Google Frenzy With 300% Surge In Search Interest",
+      "link": "https://www.newsbtc.com/news/pepe-sparks-google-frenzy-with-300-surge-in-search-interest/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:00:30 +0000",
+      "excerpt": "PEPE is back in the spotlight. A massive surge in Google search activity on July 22 sent the memecoin to the top of the trending list. Data from Google Trends showed interest in PEPE spiking from 2...",
       "categories": [
         "crypto"
       ],
@@ -1296,6 +1357,23 @@
       ],
       "tags": [
         "Regulation"
+      ]
+    },
+    {
+      "id": "0c4afae8737c493e3af2b582cca25ad0",
+      "title": "US Predictions Platform Polymarket Could Launch Its Own Stablecoin",
+      "link": "https://beincrypto.com/polymarket-stablecoin-rumors-us-market/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 22:30:00 +0000",
+      "excerpt": "Polymarket is weighing a stablecoin launch to capture reserve yield, following similar moves by banks after the GENIUS Act passed.\nThe post US Predictions Platform Polymarket Could Launch Its Own S...",
+      "categories": [
+        "defi",
+        "analysis"
+      ],
+      "tags": [
+        "DeFi",
+        "Trading"
       ]
     },
     {
@@ -1599,6 +1677,22 @@
       "tags": [
         "Bitcoin",
         "Trading"
+      ]
+    },
+    {
+      "id": "55af471b782a95c879d3f9dbbabe9620",
+      "title": "ChatGPT’s 42-Indicator SOL Analysis Flags $210 Breakout Amid Corporate Treasury Shift",
+      "link": "https://cryptonews.com/news/chatgpt-sol-analysis-flags-explosive-210-breakout/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 21:00:50 +0000",
+      "excerpt": "ChatGPT’s SOL Analysis has recorded Solana’s climb to $204.15, up 26 % this week, with RSI 82.22 and price 21 % above the 200-day EMA. Corporate treasury accumulation, Transak’s MetaMask gateway an...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
       ]
     },
     {
@@ -8692,91 +8786,7 @@
       "tags": [
         "Regulation"
       ]
-    },
-    {
-      "id": "5da0199d81f344b178802331ffe2c3e1",
-      "title": "Visual Crossing Integrates Real-Time Radar into Weather API for U.S. and European Markets",
-      "link": "https://cryptopotato.com/visual-crossing-integrates-real-time-radar-into-weather-api-for-u-s-and-european-markets/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 06:59:49 +0000",
-      "excerpt": "[PRESS RELEASE – Reston, VA, United States, July 18th, 2025] Visual Crossing has expanded its weather data platform with the integration of real-time radar capabilities. The rollout begins with cov...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "7c44dacd7212d11cd6474e3af3316b8e",
-      "title": "3 Ways You Can Use ChatGPT to Find the Perfect Ripple (XRP) Entry",
-      "link": "https://cryptopotato.com/3-ways-you-can-use-chatgpt-to-find-the-perfect-ripple-xrp-entry/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 06:45:22 +0000",
-      "excerpt": "Are you having hard times identifying the perfect XRP entry? Well, perhaps, ChatGPT can help?",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "275bbf4988fcb30bf4c409d0bd0e4195",
-      "title": "DOGE Rebounds Hard After Flash Dip, Bulls Target $0.27 Next",
-      "link": "https://www.coindesk.com/markets/2025/07/19/doge-rebounds-hard-after-flash-dip-bulls-target-027-next",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Sat, 19 Jul 2025 06:17:29 +0000",
-      "excerpt": "Institutional flows and ETF speculation trigger sharp reversal as price smashes through $0.25 resistance.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "1d1e7a263c3113ac0df452c873dd0b5c",
-      "title": "Bitcoin ‘pausing here for air’ likely, but another July ATH still possible",
-      "link": "https://cointelegraph.com/news/bitcoin-price-consolidation-phase-possible-july-highs-forecast-trader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 06:16:36 +0100",
-      "excerpt": "Galaxy Digital’s Michael Harvey says the most optimistic scenario for Bitcoin is a “continued slow melt-up” through the end of July.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "f95721718211686d56468940570c5372",
-      "title": "XRP Cools After ATH Surge, But Accumulation Zones Signal More Upside",
-      "link": "https://www.coindesk.com/markets/2025/07/19/xrp-cools-after-ath-surge-but-accumulation-zones-signal-more-upside",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Sat, 19 Jul 2025 05:58:21 +0000",
-      "excerpt": "The $3.34 floor remains the key level to hold if short-term bullish sentiment is to stay intact.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "45897655954221684dd4cb46a1d2592c",
-      "title": "US Banking Associations Oppose License For Crypto Custody Firms – Details",
-      "link": "https://bitcoinist.com/us-banks-against-license-crypto-custody-firms/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 05:30:54 +0000",
-      "excerpt": "Several US banking associations have pushed against the issuance of a banking license to crypto custody firms, citing a need for public input in such a change in industry policy, among other reason...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
     }
   ],
-  "last_updated": "2025-07-22T22:31:43.771478"
+  "last_updated": "2025-07-22T23:29:26.090021"
 }
