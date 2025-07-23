@@ -1,6 +1,113 @@
 {
   "latest": [
     {
+      "id": "9aa35db84d1b213b05e4c1fbdc80589b",
+      "title": "SOL price drop to $180 would be &#039;golden&#039; entry before rally to new highs",
+      "link": "https://cointelegraph.com/news/sol-price-drop-to-dollar180-would-be-a-golden-entry-before-rally-to-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 21:55:20 +0100",
+      "excerpt": "SOL is down nearly 10% on the day, but charts suggest the bull trend remains intact.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "44c7154fff77bd682f3cf887ea7c9107",
+      "title": "Traditional companies enter the crypto treasury game with BTC, XRP and SOL buys",
+      "link": "https://cointelegraph.com/news/companies-crypto-treasury-nature-miracle-kitabo-upexi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 21:44:49 +0100",
+      "excerpt": "Nature’s Miracle, Upexi and Japan's Kitabo are the latest companies adopting crypto treasury strategies.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "db95bdb42687f77ad6de136189c4af9c",
+      "title": "Bitcoin Price Prediction: $1 Million BTC Incoming? ‘Digital Gold’ Thesis Backed by Millionaire Analyst Tom Lee",
+      "link": "https://cryptonews.com/news/bitcoin-price-prediction-1-million-btc-incoming-digital-gold-thesis-backed-by-millionaire-analyst-tom-lee/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:04:42 +0000",
+      "excerpt": "Bitcoin price continues to demonstrate remarkable resilience, earning recognition from prominent analyst Tom Lee, who labeled it 'Digital Gold' while forecasting a potential $1 million valuation in...",
+      "categories": [
+        "bitcoin",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "6842ecd17d0cae555419f43d327d3a7f",
+      "title": "Mercurity Fintech Secures $200M From Solana Ventures For Digital Treasury Initiative",
+      "link": "https://bitcoinist.com/mercurity-fintech-secures-200m-from-solana-ventures/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:00:59 +0000",
+      "excerpt": "In a bold move to modernize institutional finance, Mercurity Fintech has secured a $200 million equity line from Solana Ventures to launch a next-generation digital treasury strategy built on the S...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "8bf1de227065272a3948fa8e488adb30",
+      "title": "Solana Labs, Jito Labs hit with RICO charges in amended Pump Fun fraud lawsuit",
+      "link": "https://cryptoslate.com/solana-labs-jito-labs-hit-with-rico-charges-in-amended-pump-fun-fraud-lawsuit/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:00:37 +0000",
+      "excerpt": "Solana Labs and Jito Labs have been named as co-defendants in a newly amended federal lawsuit that accuses them of playing a central role in an alleged $1.5 billion fraud tied to the Solana-based m...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "bb1ced3afa310237821380299fb84461",
+      "title": "Crypto Market’s Fate Hangs On The Last Days Of July",
+      "link": "https://www.newsbtc.com/news/crypto-markets-fate-hangs-on-the-last-days-of-july/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:00:27 +0000",
+      "excerpt": "Bitcoin hovers just below its mid‑May record at roughly $119,000, while the global crypto‑asset capitalisation approaches $4 trillion, but traders say the real test will come in the last week of Ju...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "bdb66541a2dda03ab9a36b4a0aeceff0",
+      "title": "Cardano Price Prediction: Governance War Erupts as Hoskinson Defends IOG – What Happens to ADA Now?",
+      "link": "https://cryptonews.com/news/cardano-price-prediction-governance-war-erupts-as-hoskinson-defends-iog-what-happens-to-ada-now/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 20:52:20 +0000",
+      "excerpt": "Tensions are rising in the Cardano ecosystem, putting pressure on the Cardano price prediction as founder Charles Hoskinson faces public criticism from a key supporter known as “Cardano Whale.”The ...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "d216fed09571adea927ac1661ab0cd7b",
       "title": "Fate of crypto, CBDC bills unclear as US Congress heads into recess",
       "link": "https://cointelegraph.com/news/crypto-week-bills-congress-recess?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -12,6 +119,22 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "abca9ecf1269924de3d0ea24f6bfd8cf",
+      "title": "XRP Price Prediction: XRP Sets New ATH, But Fans Are Still Furious – How Quickly Could XRP Hit $20 From Here?",
+      "link": "https://cryptonews.com/news/xrp-price-prediction-xrp-sets-new-ath-but-fans-are-still-furious-how-quickly-could-xrp-hit-20-from-here/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 20:46:38 +0000",
+      "excerpt": "Loyal supporters of XRP (XRP) are furious about the token’s slow journey to make a new all-time high after years of legal battles that made Ripple the Cinderella of the crypto world. For some, the ...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
     },
     {
       "id": "8fab16a0b782f77170f559c005412719",
@@ -178,130 +301,57 @@
         "Trading",
         "Regulation"
       ]
-    },
-    {
-      "id": "c4f9b2d347d2014edd073a969cc59d18",
-      "title": "Treasury Secretary Scott Bessent Calls for ‘Internal Review’ of Federal Reserve As Pressure on Jerome Powell Mounts",
-      "link": "https://dailyhodl.com/2025/07/23/treasury-secretary-scott-bessent-calls-for-internal-review-of-federal-reserve-as-pressure-on-jerome-powell-mounts/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 19:55:49 +0000",
-      "excerpt": "U.S. Treasury Secretary Scott Bessent is calling for a review of the central bank’s operations as Federal Reserve Chair Jerome Powell faces mounting pressure to resign. In a new interview with Bloo...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "cf57f670714082afc456908793ddc68a",
-      "title": "XRP Plunges, Dragging Altcoins Down as BNB Rises to New Peak",
-      "link": "https://news.bitcoin.com/xrp-plunges-dragging-altcoins-down-as-bnb-rises-to-new-peak/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 19:50:35 +0000",
-      "excerpt": "On July 23, XRP experienced a significant decline, dropping 9.4% in 24 hours to $3.20, following a recent peak of $3.66. BNB was an exception among the top 20 digital assets, gaining 0.2% and reach...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "ca0929c6393052db7b948df85450aaa6",
-      "title": "Washington State Moves To Forfeit $7.1 Million Worth Of Crypto From International Fraud Scheme",
-      "link": "https://cryptonews.com/news/washington-state-moves-to-forfeit-7-1-million-worth-of-crypto-from-international-fraud-scheme/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Wed, 23 Jul 2025 19:49:57 +0000",
-      "excerpt": "U.S. officials have pursued forfeiture of $7.1 M in crypto recovered from a $97 M Crypto Scheme in which Geoffrey K. Auyeung and partners promised oil-tank rental profits, then diverted victims’ mo...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "428d0168b2f915b38cc3aa326b547907",
-      "title": "Shiba Inu Price Prediction: 22% Rally and 2 Bullish Signals – New All-Time High Next?",
-      "link": "https://cryptonews.com/news/shiba-inu-price-prediction-22-rally-and-2-bullish-signals-new-all-time-high-next/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Wed, 23 Jul 2025 19:34:00 +0000",
-      "excerpt": "With the Shiba Inu price dipping today, are its technical indicators pointing to a big incoming rally?\nThe post Shiba Inu Price Prediction: 22% Rally and 2 Bullish Signals – New All-Time High Next?...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "93f2485cac12e78fa5d791113f610a01",
-      "title": "XRP threatens drop to $3: Will bulls step in to buy the dip?",
-      "link": "https://cointelegraph.com/news/xrp-threatens-drop-to-dollar3-will-bulls-step-in-to-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Wed, 23 Jul 2025 19:31:06 +0100",
-      "excerpt": "XRP’s tight range trading resolved to the downside, but lower levels are expected to attract buyers.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "9d84c3a7d8283f1138f299183c72dbb6",
-      "title": "Ethereum Based Meme Coin PEPETO Surpasses $5.5M in Presale",
-      "link": "https://dailyhodl.com/2025/07/23/ethereum-based-meme-coin-pepeto-surpasses-5-5m-in-presale/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 19:31:00 +0000",
-      "excerpt": "July 23rd, 2025 – Dubai, UAE Early-stage presales present a rare window for high upside participation. Backing a project before its official launch allows investors to enter at ground-floor valuati...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "83ec0db2cf2dfc45351bb0cb090f51e9",
-      "title": "Ether ETFs Extend Dominance With $534 Million Inflow as Bitcoin ETFs Slip Further",
-      "link": "https://news.bitcoin.com/ether-etfs-extend-dominance-with-534-million-inflow-as-bitcoin-etfs-slip-further/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 19:30:25 +0000",
-      "excerpt": "Ether ETFs kept their momentum with a $534 million inflow, while bitcoin ETFs saw a second consecutive day of outflows totaling $68 million. Trading activity stayed strong as ETH products pushed to...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "5ecfd2cfeaf24494b25a27f62014aba1",
-      "title": "Big Money Enters BNB, Pushing Crypto To $801 ATH—Details",
-      "link": "https://www.newsbtc.com/altcoin/big-money-enters-bnb-pushing-crypto-to-801-ath-details/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 19:30:15 +0000",
-      "excerpt": "BNB, the native cryptocurrency of BNB Chain, crossed the $800 level in early Asian trading on Wednesday to set a new all-time high of $801. Related Reading: Too Pricey? Expert Says XRP Beats Bitcoi...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "44c7154fff77bd682f3cf887ea7c9107",
+      "title": "Traditional companies enter the crypto treasury game with BTC, XRP and SOL buys",
+      "link": "https://cointelegraph.com/news/companies-crypto-treasury-nature-miracle-kitabo-upexi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 21:44:49 +0100",
+      "excerpt": "Nature’s Miracle, Upexi and Japan's Kitabo are the latest companies adopting crypto treasury strategies.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "db95bdb42687f77ad6de136189c4af9c",
+      "title": "Bitcoin Price Prediction: $1 Million BTC Incoming? ‘Digital Gold’ Thesis Backed by Millionaire Analyst Tom Lee",
+      "link": "https://cryptonews.com/news/bitcoin-price-prediction-1-million-btc-incoming-digital-gold-thesis-backed-by-millionaire-analyst-tom-lee/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:04:42 +0000",
+      "excerpt": "Bitcoin price continues to demonstrate remarkable resilience, earning recognition from prominent analyst Tom Lee, who labeled it 'Digital Gold' while forecasting a potential $1 million valuation in...",
+      "categories": [
+        "bitcoin",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "bb1ced3afa310237821380299fb84461",
+      "title": "Crypto Market’s Fate Hangs On The Last Days Of July",
+      "link": "https://www.newsbtc.com/news/crypto-markets-fate-hangs-on-the-last-days-of-july/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:00:27 +0000",
+      "excerpt": "Bitcoin hovers just below its mid‑May record at roughly $119,000, while the global crypto‑asset capitalisation approaches $4 trillion, but traders say the real test will come in the last week of Ju...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
     {
       "id": "8fab16a0b782f77170f559c005412719",
       "title": "Tesla’s Bitcoin Holdings Now Worth $1.2B After 30% BTC Price Rally in Q2",
@@ -333,60 +383,57 @@
       "tags": [
         "Bitcoin"
       ]
-    },
-    {
-      "id": "9d84c3a7d8283f1138f299183c72dbb6",
-      "title": "Ethereum Based Meme Coin PEPETO Surpasses $5.5M in Presale",
-      "link": "https://dailyhodl.com/2025/07/23/ethereum-based-meme-coin-pepeto-surpasses-5-5m-in-presale/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 19:31:00 +0000",
-      "excerpt": "July 23rd, 2025 – Dubai, UAE Early-stage presales present a rare window for high upside participation. Backing a project before its official launch allows investors to enter at ground-floor valuati...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "83ec0db2cf2dfc45351bb0cb090f51e9",
-      "title": "Ether ETFs Extend Dominance With $534 Million Inflow as Bitcoin ETFs Slip Further",
-      "link": "https://news.bitcoin.com/ether-etfs-extend-dominance-with-534-million-inflow-as-bitcoin-etfs-slip-further/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 19:30:25 +0000",
-      "excerpt": "Ether ETFs kept their momentum with a $534 million inflow, while bitcoin ETFs saw a second consecutive day of outflows totaling $68 million. Trading activity stayed strong as ETH products pushed to...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "351f62d4ae531e9603423f38df0f476d",
-      "title": "Tron Overtakes Ethereum As Monthly Average Fees Surge To New Levels",
-      "link": "https://bitcoinist.com/tron-overtakes-ethereum-in-fees/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 19:00:28 +0000",
-      "excerpt": "The Tron network, one of the leading blockchains in the market, appears to have regained steam following the renewed bullish sentiment across the crypto sector. Recent data show that the network, e...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Regulation"
-      ]
     }
   ],
   "bitcoin": [
+    {
+      "id": "44c7154fff77bd682f3cf887ea7c9107",
+      "title": "Traditional companies enter the crypto treasury game with BTC, XRP and SOL buys",
+      "link": "https://cointelegraph.com/news/companies-crypto-treasury-nature-miracle-kitabo-upexi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 21:44:49 +0100",
+      "excerpt": "Nature’s Miracle, Upexi and Japan's Kitabo are the latest companies adopting crypto treasury strategies.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "db95bdb42687f77ad6de136189c4af9c",
+      "title": "Bitcoin Price Prediction: $1 Million BTC Incoming? ‘Digital Gold’ Thesis Backed by Millionaire Analyst Tom Lee",
+      "link": "https://cryptonews.com/news/bitcoin-price-prediction-1-million-btc-incoming-digital-gold-thesis-backed-by-millionaire-analyst-tom-lee/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:04:42 +0000",
+      "excerpt": "Bitcoin price continues to demonstrate remarkable resilience, earning recognition from prominent analyst Tom Lee, who labeled it 'Digital Gold' while forecasting a potential $1 million valuation in...",
+      "categories": [
+        "bitcoin",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "bb1ced3afa310237821380299fb84461",
+      "title": "Crypto Market’s Fate Hangs On The Last Days Of July",
+      "link": "https://www.newsbtc.com/news/crypto-markets-fate-hangs-on-the-last-days-of-july/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:00:27 +0000",
+      "excerpt": "Bitcoin hovers just below its mid‑May record at roughly $119,000, while the global crypto‑asset capitalisation approaches $4 trillion, but traders say the real test will come in the last week of Ju...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
     {
       "id": "8fab16a0b782f77170f559c005412719",
       "title": "Tesla’s Bitcoin Holdings Now Worth $1.2B After 30% BTC Price Rally in Q2",
@@ -499,57 +546,6 @@
       "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
       "timestamp": "Wed, 23 Jul 2025 17:58:21 +0000",
       "excerpt": "Billionaire venture capitalist Tim Draper first invested in bitcoin at $6 — and he’s still super bullish on the digital asset. We chatted about it last week.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "bef7770629689ef4caf5606ccdc08917",
-      "title": "Binance Unrealized Profits Hit A Record 60,000 Bitcoin Despite Falling Reserves",
-      "link": "https://bitcoinist.com/binance-unrealized-profits-hit-a-record-60000-bitcoin-despite-falling-reserves/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 17:30:49 +0000",
-      "excerpt": "Binance Coin (BNB) just hit a new all-time high, surging to $804 a few hours ago as momentum in select altcoins continues despite broader market consolidation. While Bitcoin and Ethereum enter a pe...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "e46ec76dad9eb3f9f6a1e0d818bc2ee7",
-      "title": "From Jokes to Giants: Altseason Crowns PEPE, Fartcoin, HYPE as Market Movers",
-      "link": "https://cryptonews.com/news/altseason-crowns-pepe-fartcoin-hype-as-market-movers/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Wed, 23 Jul 2025 16:56:48 +0000",
-      "excerpt": "Altseason momentum has strengthened as Bitcoin dominance has slid, sending liquidity toward PEPE, Fartcoin and HYPE. The trio illustrates how visibility, meme culture and a derivatives protocol hav...",
-      "categories": [
-        "bitcoin",
-        "defi"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "Trading"
-      ]
-    },
-    {
-      "id": "42c4d6208a5ecc9e2f58375e9e652f9f",
-      "title": "Clear-Cutting Bitcoin: Inside BSTR’s Bulldozer Strategy to Accumulate BTC and Tap Dormant Reserves",
-      "link": "https://news.bitcoin.com/clear-cutting-bitcoin-inside-bstrs-bulldozer-strategy-to-accumulate-btc-and-tap-dormant-reserves/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 16:40:39 +0000",
-      "excerpt": "According to Sean Bill, chief investment officer at BSTR, only a few companies will ultimately stand out in the bitcoin treasury arena—and he’s placing his bet on Bitcoin Standard Treasury Company ...",
       "categories": [
         "bitcoin"
       ],
@@ -1065,6 +1061,70 @@
   ],
   "analysis": [
     {
+      "id": "9aa35db84d1b213b05e4c1fbdc80589b",
+      "title": "SOL price drop to $180 would be &#039;golden&#039; entry before rally to new highs",
+      "link": "https://cointelegraph.com/news/sol-price-drop-to-dollar180-would-be-a-golden-entry-before-rally-to-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 21:55:20 +0100",
+      "excerpt": "SOL is down nearly 10% on the day, but charts suggest the bull trend remains intact.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "db95bdb42687f77ad6de136189c4af9c",
+      "title": "Bitcoin Price Prediction: $1 Million BTC Incoming? ‘Digital Gold’ Thesis Backed by Millionaire Analyst Tom Lee",
+      "link": "https://cryptonews.com/news/bitcoin-price-prediction-1-million-btc-incoming-digital-gold-thesis-backed-by-millionaire-analyst-tom-lee/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:04:42 +0000",
+      "excerpt": "Bitcoin price continues to demonstrate remarkable resilience, earning recognition from prominent analyst Tom Lee, who labeled it 'Digital Gold' while forecasting a potential $1 million valuation in...",
+      "categories": [
+        "bitcoin",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "bdb66541a2dda03ab9a36b4a0aeceff0",
+      "title": "Cardano Price Prediction: Governance War Erupts as Hoskinson Defends IOG – What Happens to ADA Now?",
+      "link": "https://cryptonews.com/news/cardano-price-prediction-governance-war-erupts-as-hoskinson-defends-iog-what-happens-to-ada-now/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 20:52:20 +0000",
+      "excerpt": "Tensions are rising in the Cardano ecosystem, putting pressure on the Cardano price prediction as founder Charles Hoskinson faces public criticism from a key supporter known as “Cardano Whale.”The ...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "abca9ecf1269924de3d0ea24f6bfd8cf",
+      "title": "XRP Price Prediction: XRP Sets New ATH, But Fans Are Still Furious – How Quickly Could XRP Hit $20 From Here?",
+      "link": "https://cryptonews.com/news/xrp-price-prediction-xrp-sets-new-ath-but-fans-are-still-furious-how-quickly-could-xrp-hit-20-from-here/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 20:46:38 +0000",
+      "excerpt": "Loyal supporters of XRP (XRP) are furious about the token’s slow journey to make a new all-time high after years of legal battles that made Ripple the Cinderella of the crypto world. For some, the ...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
       "id": "fced772906e1b92612b517dd4b55efe7",
       "title": "ChatGPT’s XRP Analysis Flags Golden Cross – Is $5 XRP Imminent After Healthy Correction?",
       "link": "https://cryptonews.com/news/chatgpts-42-signal-xrp-analysis-flags-healthy-3-30-correction-amid-golden-cross-and-corporate-treasury-surge/",
@@ -1160,76 +1220,116 @@
         "DeFi",
         "Analysis"
       ]
-    },
-    {
-      "id": "16d64720a5a9a67c305da4400021f05c",
-      "title": "BNB Briefly Tops $800 as Investors Adopt Risk-On Attitude, Corporate Adoption Grows",
-      "link": "https://www.coindesk.com/markets/2025/07/23/bnb-briefly-tops-usd800-as-investors-adopt-risk-on-attitude-corporate-adoption-grows",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Wed, 23 Jul 2025 14:48:44 +0000",
-      "excerpt": "The price increase helped BNB become the fifth-largest cryptocurrency by market capitalization, and while technical resistance near $808 may limit further gains.",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "8999f7762f835a4eb0f98b8d2ca3b3cf",
-      "title": "Ethereum Price Analysis: ETH Rally Cools, Can it Dodge a Major Correction?",
-      "link": "https://cryptopotato.com/ethereum-price-analysis-eth-rally-cools-can-it-dodge-a-major-correction/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 13:36:05 +0000",
-      "excerpt": "After a sharp breakout above $3,000, Ethereum has rallied toward $3,800, fueled by strong momentum and bullish market conditions. The rally has pushed ETH to levels not seen since early 2025, flipp...",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "2b5452e33d6ca7f7a41e0423aea14e11",
-      "title": "Ethereum Technical Analysis: Bullish Structure Intact—If $3,600 Support Survives",
-      "link": "https://news.bitcoin.com/ethereum-technical-analysis-bullish-structure-intact-if-3600-support-survives/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 13:15:12 +0000",
-      "excerpt": "Ethereum traded at $3,674 on July 23, 2025, with a market capitalization of $443 billion and a 24-hour trading volume of $41.24 billion. The intraday price fluctuated between $3,650 and $3,758.05, ...",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "fb04f3c68e9cf4641eac03853ae32298",
-      "title": "XRP Pulls Back After Technical Surge; Pattern Still Points to $6 Target",
-      "link": "https://www.coindesk.com/markets/2025/07/23/xrp-pulls-back-after-technical-surge-pattern-still-points-to-6-target",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Wed, 23 Jul 2025 12:34:54 +0000",
-      "excerpt": "Six-year breakout holds, but late-session sell pressure tests key levels as ETF momentum and U.S. crypto legislation continue to drive long-term narrative.",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Analysis"
-      ]
     }
   ],
   "all": [
+    {
+      "id": "9aa35db84d1b213b05e4c1fbdc80589b",
+      "title": "SOL price drop to $180 would be &#039;golden&#039; entry before rally to new highs",
+      "link": "https://cointelegraph.com/news/sol-price-drop-to-dollar180-would-be-a-golden-entry-before-rally-to-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 21:55:20 +0100",
+      "excerpt": "SOL is down nearly 10% on the day, but charts suggest the bull trend remains intact.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "44c7154fff77bd682f3cf887ea7c9107",
+      "title": "Traditional companies enter the crypto treasury game with BTC, XRP and SOL buys",
+      "link": "https://cointelegraph.com/news/companies-crypto-treasury-nature-miracle-kitabo-upexi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 21:44:49 +0100",
+      "excerpt": "Nature’s Miracle, Upexi and Japan's Kitabo are the latest companies adopting crypto treasury strategies.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "db95bdb42687f77ad6de136189c4af9c",
+      "title": "Bitcoin Price Prediction: $1 Million BTC Incoming? ‘Digital Gold’ Thesis Backed by Millionaire Analyst Tom Lee",
+      "link": "https://cryptonews.com/news/bitcoin-price-prediction-1-million-btc-incoming-digital-gold-thesis-backed-by-millionaire-analyst-tom-lee/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:04:42 +0000",
+      "excerpt": "Bitcoin price continues to demonstrate remarkable resilience, earning recognition from prominent analyst Tom Lee, who labeled it 'Digital Gold' while forecasting a potential $1 million valuation in...",
+      "categories": [
+        "bitcoin",
+        "analysis"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "6842ecd17d0cae555419f43d327d3a7f",
+      "title": "Mercurity Fintech Secures $200M From Solana Ventures For Digital Treasury Initiative",
+      "link": "https://bitcoinist.com/mercurity-fintech-secures-200m-from-solana-ventures/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:00:59 +0000",
+      "excerpt": "In a bold move to modernize institutional finance, Mercurity Fintech has secured a $200 million equity line from Solana Ventures to launch a next-generation digital treasury strategy built on the S...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "8bf1de227065272a3948fa8e488adb30",
+      "title": "Solana Labs, Jito Labs hit with RICO charges in amended Pump Fun fraud lawsuit",
+      "link": "https://cryptoslate.com/solana-labs-jito-labs-hit-with-rico-charges-in-amended-pump-fun-fraud-lawsuit/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:00:37 +0000",
+      "excerpt": "Solana Labs and Jito Labs have been named as co-defendants in a newly amended federal lawsuit that accuses them of playing a central role in an alleged $1.5 billion fraud tied to the Solana-based m...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "bb1ced3afa310237821380299fb84461",
+      "title": "Crypto Market’s Fate Hangs On The Last Days Of July",
+      "link": "https://www.newsbtc.com/news/crypto-markets-fate-hangs-on-the-last-days-of-july/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 21:00:27 +0000",
+      "excerpt": "Bitcoin hovers just below its mid‑May record at roughly $119,000, while the global crypto‑asset capitalisation approaches $4 trillion, but traders say the real test will come in the last week of Ju...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "bdb66541a2dda03ab9a36b4a0aeceff0",
+      "title": "Cardano Price Prediction: Governance War Erupts as Hoskinson Defends IOG – What Happens to ADA Now?",
+      "link": "https://cryptonews.com/news/cardano-price-prediction-governance-war-erupts-as-hoskinson-defends-iog-what-happens-to-ada-now/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 20:52:20 +0000",
+      "excerpt": "Tensions are rising in the Cardano ecosystem, putting pressure on the Cardano price prediction as founder Charles Hoskinson faces public criticism from a key supporter known as “Cardano Whale.”The ...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
     {
       "id": "d216fed09571adea927ac1661ab0cd7b",
       "title": "Fate of crypto, CBDC bills unclear as US Congress heads into recess",
@@ -1242,6 +1342,22 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "abca9ecf1269924de3d0ea24f6bfd8cf",
+      "title": "XRP Price Prediction: XRP Sets New ATH, But Fans Are Still Furious – How Quickly Could XRP Hit $20 From Here?",
+      "link": "https://cryptonews.com/news/xrp-price-prediction-xrp-sets-new-ath-but-fans-are-still-furious-how-quickly-could-xrp-hit-20-from-here/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 20:46:38 +0000",
+      "excerpt": "Loyal supporters of XRP (XRP) are furious about the token’s slow journey to make a new all-time high after years of legal battles that made Ripple the Cinderella of the crypto world. For some, the ...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
     },
     {
       "id": "8fab16a0b782f77170f559c005412719",
@@ -8626,129 +8742,7 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "0174358253f053bdf7a0efd8420592ff",
-      "title": "Analyst Says XRP Investors Are Getting Ripped Off — Here’s Why",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-investors-ripped-off/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 10:00:51 +0000",
-      "excerpt": "Over the last few weeks, XRP has creeped up slowly but surely to become one of the most talked-about cryptocurrencies in the space. Its price has also risen steadily through this time, beating the ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "fe5c2a9d6deadf797b603d02376d1418",
-      "title": "Best Meme Coins Live News Today: Latest Opportunities & Updates (July 22)",
-      "link": "https://bitcoinist.com/meme-coins-live-news-july-22-2025/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 10:00:07 +0000",
-      "excerpt": "Get Early Alpha with Our Immediate Analysis of Today’s Best Meme Coins Check out our Live Update Coverage on the Best Meme Coins for July 22, 2025! With Bitcoin merrily skipping past the $123K ATH,...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "a9abbaa067bfad4d09807c00c846e99b",
-      "title": "Crypto Presales Live News Today: Latest Opportunities & Updates (July 22)",
-      "link": "https://bitcoinist.com/crypto-presales-live-news-july-22-2025/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 10:00:04 +0000",
-      "excerpt": "Stay Ahead with Our Immediate Analysis of Today’s Best Crypto Presales Check out our Live Update Coverage on the Best Crypto Presales for July 22, 2025! As Bitcoin broke through a historical $123K ...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "9f7a23c14a60ac2bd4bb3cb37ae9ce00",
-      "title": "Cardano (ADA) Price Under Pressure as $34 Million Liquidation Risk Looms",
-      "link": "https://beincrypto.com/cardano-price-liquidation-risk-34-million-downside/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 10:00:00 +0000",
-      "excerpt": "Cardano’s price is under pressure as $34 million in long liquidation clusters form below $0.749. Overheated RSI and rising MVRV suggest that short-term holders may start exiting, exposing ADA to a ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "d7b61c670c24d37e1baf610725c8ceff",
-      "title": "Strategy launches ANOTHER Bitcoin share class to lure capital from $7T traditional funds",
-      "link": "https://cryptoslate.com/strategys-bitcoin-backed-stretch-stock-could-lure-capital-from-7t-traditional-funds/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 09:50:43 +0000",
-      "excerpt": "Bitcoin-focused treasury firm Strategy has introduced a new class of perpetual preferred shares, the Series A Variable Rate Stretch Preferred Stock (STRC), according to a July 21 statement. Accordi...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "0011df3bf03c08e8854ee390ca5d949f",
-      "title": "Strategy’s Bitcoin-backed Stretch stock could lure capital from $7T traditional funds",
-      "link": "https://cryptoslate.com/strategys-bitcoin-backed-stretch-stock-could-lure-capital-from-7t-traditional-funds/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 09:50:43 +0000",
-      "excerpt": "Bitcoin-focused treasury firm Strategy has introduced a new class of perpetual preferred shares, the Series A Variable Rate Stretch Preferred Stock (STRC), according to a July 21 statement. Accordi...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "f58850d725703070a2fe7abaf6c94ed7",
-      "title": "More Public Companies Turn to Bitcoin This Week As Corporate Adoption Rises",
-      "link": "https://beincrypto.com/corporate-bitcoin-adoption-rises/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 09:44:40 +0000",
-      "excerpt": "Global corporations are embracing Bitcoin as a treasury asset, with billion-dollar moves signaling a strategic shift toward digital reserves.\nThe post More Public Companies Turn to Bitcoin This Wee...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "dc3fcfd2ebfefee6fd5c8eb29987ed02",
-      "title": "JPMorgan Reportedly Explores Lending Against Clients’ Cryptocurrency Holdings",
-      "link": "https://news.bitcoin.com/jpmorgan-reportedly-explores-lending-against-clients-cryptocurrency-holdings/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 09:30:47 +0000",
-      "excerpt": "JPMorgan Chase is reportedly exploring the possibility of lending against clients’ cryptocurrency holdings, marking a significant shift in the bank’s stance on digital assets, according to the FT. ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
     }
   ],
-  "last_updated": "2025-07-23T20:33:43.662978"
+  "last_updated": "2025-07-23T21:30:21.226183"
 }
