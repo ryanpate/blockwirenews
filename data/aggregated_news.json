@@ -1,6 +1,216 @@
 {
   "latest": [
     {
+      "id": "fb3e1b7728a183dc6577943cc1a6aad9",
+      "title": "‘Sell Ethereum, Buy Bitcoin’: Peter Schiff Makes Surprising Crypto Call",
+      "link": "https://www.newsbtc.com/news/sell-ethereum-buy-bitcoin-peter-schiff/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 02:00:36 +0000",
+      "excerpt": "In a fresh post to X on 21 July, long-time cryptoc sceptic and gold advocate Peter Schiff urged holders of Ethereum (ETH) to exit while prices hover “near the upper end of its trading range.” “If y...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "69f97ab268d0c96910111e085a0bb702",
+      "title": "Asia Morning Briefing: The First AI vs BTC Environmental Impact Numbers are Here. And it Might Start a New Debate",
+      "link": "https://www.coindesk.com/markets/2025/07/23/asia-morning-briefing-the-first-ai-vs-btc-environmental-impact-numbers-are-here-and-it-might-start-a-new-debate",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 01:43:49 +0000",
+      "excerpt": "Bitcoin’s environmental footprint dwarfs that of large language models across every metric, from CO₂ emissions to water use to mineral depletion. But comparisons need context.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "66587f5abe35e68d6375337ad3622cc1",
+      "title": "Ethereum Off The Hook: SEC Chair Rules ETH A Commodity, Not A Security",
+      "link": "https://bitcoinist.com/ethereum-off-the-hook-sec-chair-rules-eth-is-not-a-security/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 01:30:50 +0000",
+      "excerpt": "According to CNBC, SEC Chair Paul Atkins said the Commission treats Ethereum like Bitcoin. He made it clear that securities laws won’t apply to the digital coin. He also noted that this view remain...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "2159d59001331ba1ba686b3875ce2ad2",
+      "title": "Nubank Announces New Nucoin Loyalty Program",
+      "link": "https://news.bitcoin.com/nubank-announces-new-nucoin-loyalty-program/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 01:30:45 +0000",
+      "excerpt": "Nubank, one of the largest neobanks in Latam, has announced that it has launched a new version of its previously abandoned Nucoin loyalty program. The tokens issued will be registered in a blockcha...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "eb77bb85a085900cc98d8f55cf808173",
+      "title": "Bitcoin Must Defend This Key Support For $180,000 Year-End Target, Analyst Says",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-must-defend-this-key-support-for-180000-year-end-target-analyst-says/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 01:00:52 +0000",
+      "excerpt": "As Bitcoin (BTC) consolidates near the $119,000 mark following a new all-time high (ATH) above $123,000 last week, several on-chain indicators are presenting a mixed picture regarding the cryptocur...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "04323d39e0744b028cea678384e4a868",
+      "title": "$100B Binance Futures volume backs traders’ ‘altseason’ claim",
+      "link": "https://cointelegraph.com/news/dollar100b-binance-futures-volume-backs-traders-altseason-claim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 00:35:00 +0100",
+      "excerpt": "Altseason takes center stage as 71% of Binance Futures volume are altcoins.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "954afd332ffcc0af3a75e90a0051e41c",
+      "title": "US Senators Unveil Draft Bill to Overhaul Crypto Regulation Framework",
+      "link": "https://news.bitcoin.com/us-senators-unveil-draft-bill-to-overhaul-crypto-regulation-framework/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:30:50 +0000",
+      "excerpt": "A sweeping Senate draft bill sets the stage for overhauling U.S. crypto regulation, proposing clear classifications, limited SEC oversight, and exemptions to accelerate compliant crypto innovation....",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "52f2d08216470d3456a9b9ae2434bac2",
+      "title": "SpaceX Moves Bitcoin For First Time In 3 Years: $153M In Play",
+      "link": "https://bitcoinist.com/spacex-moves-bitcoin-for-first-time-in-3-years-153m-in-play/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:30:14 +0000",
+      "excerpt": "Bitcoin is up more than 20% since late June, pushing to a new all-time high of $123,000 before entering a consolidation phase. Price action is currently locked in a tight range, with bulls holding ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "665f982aa2042c77d8169d5897c66a86",
+      "title": "JPMorgan Chase’s Plans for Charging Fintechs for Customer Account Data Raising Concerns With at Least One CFPB Official: Report",
+      "link": "https://dailyhodl.com/2025/07/22/jpmorgan-chases-plans-for-charging-fintechs-for-customer-account-data-raising-concerns-with-at-least-one-cfpb-official-report/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:00:48 +0000",
+      "excerpt": "One official at a federal consumer protection agency is reportedly raising concerns over JPMorgan Chase’s plan to charge fintech fees for customers’ account data. An unnamed politically appointed o...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "89699783776851040a5d59cca2307f47",
+      "title": "Analyst Predicts Explosive 126% Shiba Inu Rally After SHIB Surpasses Litecoin Market Cap",
+      "link": "https://www.newsbtc.com/shiba-inu/explosive-126-shiba-inu-rally/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:00:45 +0000",
+      "excerpt": "Crypto analyst Maddox has provided a bullish outlook for Shiba Inu, predicting an explosive rally. His prediction comes as SHIB surpasses Litecoin to climb into the 18th spot on the list of largest...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "fb55b1b82ac93702e003a970d05ccaf5",
+      "title": "Jack Dorsey’s Square Begins Onboarding Merchants for Bitcoin Payments",
+      "link": "https://beincrypto.com/jack-dorsey-square-bitcoin-payments/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:00:00 +0000",
+      "excerpt": "Square has begun onboarding merchants for Bitcoin payments, opening the door for BTC use at over 4 million US businesses.\nThe post Jack Dorsey’s Square Begins Onboarding Merchants for Bitcoin Payme...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "3acb189fd5c6b791541caca7b4927aba",
+      "title": "Tron’s Justin Sun to Fly on Blue Origin’s Next Crewed Mission",
+      "link": "https://cryptopotato.com/trons-justin-sun-to-fly-on-blue-origins-next-crewed-mission/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:55:30 +0000",
+      "excerpt": "Blue Origin announced Justin Sun as one of the passengers for its NS-34 mission.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1a638663d77d603dabc1351ebc463c13",
+      "title": "Trump Announces Trade Deals with Japan and Philippines",
+      "link": "https://beincrypto.com/trump-announces-trade-deals-with-japan-and-philippines/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:37:39 +0000",
+      "excerpt": "President Trump secured significant trade agreements with Japan and the Philippines, marking major strides in US foreign trade and market access.\nThe post Trump Announces Trade Deals with Japan and...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "51b46a965c4b2d7127e09deee35aa636",
+      "title": "Treasury Secretary Scott Bessent Calls for Full Fed Audit",
+      "link": "https://news.bitcoin.com/treasury-secretary-scott-bessent-calls-for-full-fed-audit/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:30:55 +0000",
+      "excerpt": "After describing U.S. Federal Reserve Chairman Jerome Powell as “a good public servant,” Bessent reiterated his call for a full internal review of the central bank’s operations. Should the Fed Face...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
       "id": "006b67ae90ca57efe7afdc9f43a22205",
       "title": "Bitfarms to buy back 10% of shares, calls stock undervalued",
       "link": "https://cointelegraph.com/news/headline-bitcoin-miner-bitfarms-begins-stock-buyback-citing-undervaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -13,6 +223,22 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "3878349ebe44e05a550f2d46de69265f",
+      "title": "Russian Policymaker Says State Should Seize Crypto From Illegal Miners",
+      "link": "https://cryptonews.com/news/russian-policymaker-says-state-should-seize-crypto-from-illegal-miners/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:30:00 +0000",
+      "excerpt": "A leading Russian policymaker says authorities should be given the power to seize coins from illegal or quasi-legal Bitcoin miners.\nThe post Russian Policymaker Says State Should Seize Crypto From ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Regulation"
       ]
     },
     {
@@ -75,283 +301,20 @@
       "tags": [
         "Trading"
       ]
-    },
-    {
-      "id": "7701b3bfd1d6490bc349fd540dfce8af",
-      "title": "PEPE Sparks Google Frenzy With 300% Surge In Search Interest",
-      "link": "https://www.newsbtc.com/news/pepe-sparks-google-frenzy-with-300-surge-in-search-interest/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 23:00:30 +0000",
-      "excerpt": "PEPE is back in the spotlight. A massive surge in Google search activity on July 22 sent the memecoin to the top of the trending list. Data from Google Trends showed interest in PEPE spiking from 2...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "c3135699e8003583bf9ef37c7ee61541",
-      "title": "Price predictions 7/22: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE",
-      "link": "https://cointelegraph.com/news/price-predictions-7-22-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 22:40:27 +0100",
-      "excerpt": "Bitcoin continues to face selling near $120,000, but the bulls have kept up the pressure, increasing the likelihood of an upside breakout.",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "30039c66fdc8eddb0b278d6a52f35aaf",
-      "title": "DOJ Seeks Direct Meeting With Ghislaine Maxwell Amid Epstein Probe",
-      "link": "https://news.bitcoin.com/doj-seeks-direct-meeting-with-ghislaine-maxwell-amid-epstein-probe/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:30:41 +0000",
-      "excerpt": "U.S. Attorney General Pam Bondi has directed Deputy Attorney General Todd Blanche to initiate direct talks with Ghislaine Maxwell’s legal team and possibly Maxwell herself, marking a dramatic new p...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "0c4afae8737c493e3af2b582cca25ad0",
-      "title": "US Predictions Platform Polymarket Could Launch Its Own Stablecoin",
-      "link": "https://beincrypto.com/polymarket-stablecoin-rumors-us-market/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:30:00 +0000",
-      "excerpt": "Polymarket is weighing a stablecoin launch to capture reserve yield, following similar moves by banks after the GENIUS Act passed.\nThe post US Predictions Platform Polymarket Could Launch Its Own S...",
-      "categories": [
-        "defi",
-        "analysis"
-      ],
-      "tags": [
-        "DeFi",
-        "Trading"
-      ]
-    },
-    {
-      "id": "be28dfeeb3e5b1f955495353e8cfd8e6",
-      "title": "Crypto Price Prediction Today 22 July – XRP, Solana, Pepe",
-      "link": "https://cryptonews.com/news/crypto-price-prediction-today-22-july-xrp-solana-pepe/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:30:00 +0000",
-      "excerpt": "Crypto price prediction today has charted Bitcoin’s rise to $122,838 and a 4.3 % cooldown as traders assess XRP’s post-lawsuit rally, Solana ETF talk, Pepe’s meme rebound and Snorter’s low-fee trad...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "a20259f28003663f7131d1b8376428f0",
-      "title": "China’s DeepSeek AI Predicts the Price of XRP, Dogecoin and Cardano by the End of 2025",
-      "link": "https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-dogecoin-and-cardano-by-the-end-of-2025/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:30:00 +0000",
-      "excerpt": "DeepSeek, China’s leading publicly available AI, anticipates that numerous prominent altcoins will achieve new all-time highs in the second half of 2025, spurred by Bitcoin’s exceptional upward tra...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "5e90a5db5148bcc849c8bd76fc1c6742",
-      "title": "Boom in RWA tokenization expected after passing of GENIUS Act — Aptos exec",
-      "link": "https://cointelegraph.com/news/genius-act-rwa-tokenization-aptos-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 22:15:00 +0100",
-      "excerpt": "New legislation like the GENIUS Act is paving the way for institutional adoption of real-world asset tokenization, as Aptos Labs and other major players lead the charge.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "7e03818e26ce14e7550a63faac7e3514",
-      "title": "Public companies now hold $3.2B worth of Ethereum, swelling past 865,000 ETH",
-      "link": "https://cryptoslate.com/public-companies-now-hold-3-2b-worth-of-ethereum-swelling-past-865000-eth/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:15:00 +0000",
-      "excerpt": "Out of the 58 entities holding Ethereum (ETH) in their treasuries, the 10 public-listed companies have roughly $3.2 billion, equivalent to 865,265 ETH. According to Strategic ETH Reserve data, four...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "be122f57526994dfe69a477dea180527",
-      "title": "Aave Dominates DeFi Rally, Grabs 31% of $49B TVL Increase",
-      "link": "https://cryptopotato.com/aave-dominates-defi-rally-grabs-31-of-49b-tvl-increase/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:07:25 +0000",
-      "excerpt": "The Aave DAO recently approved the Ink Foundation to launch a white-label Aave V3 to expand Aave's institutional lending reach.",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi"
-      ]
-    },
-    {
-      "id": "e7d0571e60e844ffee60d51c2700c3ea",
-      "title": "Department of Justice Drops Investigation Into Kraken Founder Jesse Powell: Report",
-      "link": "https://cryptonews.com/news/department-of-justice-drops-investigation-into-kraken-founder-jesse-powell-report/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:03:24 +0000",
-      "excerpt": "Fortune has reported that the U.S. Department of Justice has closed its investigation into Kraken founder Jesse Powell, tied to allegations of hacking at Verge Center for the Arts, returning dozens...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "3f7d5e3898b7a95f901a2eeb6de9160a",
-      "title": "$410,000,000,000 PNC Bank Partners With Coinbase To Expand Crypto Services to Institutional Clients",
-      "link": "https://dailyhodl.com/2025/07/22/410000000000-pnc-bank-partners-with-coinbase-to-expand-crypto-services-to-institutional-clients/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:01:25 +0000",
-      "excerpt": "A multi-billion-dollar bank is teaming up with the largest crypto exchange in the US to serve institutional investors. According to a new press release, PNC Bank announces it is partnering with Coi...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "205a2b981dbc5cf809296b8d98791a62",
-      "title": "Trump Shares Viral Bitcoin Breakdown — Here’s What He Posted",
-      "link": "https://www.newsbtc.com/bitcoin-news/trump-shares-viral-bitcoin-breakdown-heres-what-he-posted/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:00:48 +0000",
-      "excerpt": "President Donald Trump has reignited crypto conversations online after sharing a viral video explaining Bitcoin during a U.S. Senate hearing. The clip, which features Director of Research at Coin C...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "ce26413dd407b58b63a9ee284b546dd3",
-      "title": "Bitcoin Investor Price Model Signals Healthy Growth:  BTC Eyes $139K Level",
-      "link": "https://bitcoinist.com/bitcoin-investor-price-model-signals-healthy-growth-btc-eyes-139k-level/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:00:22 +0000",
-      "excerpt": "Bitcoin continues to trade in a tight range, hovering just above the $117,000 mark as market participants brace for its next major move. This prolonged consolidation has stirred speculation among t...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "6b5257079c9de0cf7acd79b71d8c435d",
-      "title": "XRP Price Reversal Likely After $2.81 Billion Selling in 7 Days",
-      "link": "https://beincrypto.com/xrp-price-reversal-likely-after-selling/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:00:00 +0000",
-      "excerpt": "XRP is experiencing pressure after significant selling, and without renewed demand, it could see a price reversal. A drop below key support levels could lead to further losses.\nThe post XRP Price R...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "540cbeb0bf16fb91384b1b8862d9e360",
-      "title": "Dan Tapiero Projects Crypto Economy Hitting $50T, Launches $500M Fund Under New Firm",
-      "link": "https://www.coindesk.com/business/2025/07/22/dan-tapiero-projects-crypto-economy-hitting-usd50t-launches-usd500m-fund-under-new-firm",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Tue, 22 Jul 2025 21:54:58 +0000",
-      "excerpt": "Tapiero, who previously projected a $10 trillion crypto market, adjusted his forecast after seeing the success of Circle's IPO and Deribit's acquisition by Coinbase.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
     }
   ],
   "featured": [
     {
-      "id": "006b67ae90ca57efe7afdc9f43a22205",
-      "title": "Bitfarms to buy back 10% of shares, calls stock undervalued",
-      "link": "https://cointelegraph.com/news/headline-bitcoin-miner-bitfarms-begins-stock-buyback-citing-undervaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 23:30:00 +0100",
-      "excerpt": "The bitcoin miner plans to repurchase up to 49.9 million shares over the next year as it pivots to high-performance computing and AI infrastructure.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "930614044c940ba2b6c1f8353b8885b9",
-      "title": "Bitcoin liquidity wars carry on, but BTC price target remains $140K",
-      "link": "https://cointelegraph.com/news/bitcoin-liquidity-wars-carry-on-but-btc-price-target-remains-dollar140k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 23:28:53 +0100",
-      "excerpt": "Bitcoin holds firm above $115,000 as resilient buyers absorb sell pressure, setting the stage for a potential breakout to new highs.",
+      "id": "fb3e1b7728a183dc6577943cc1a6aad9",
+      "title": "‘Sell Ethereum, Buy Bitcoin’: Peter Schiff Makes Surprising Crypto Call",
+      "link": "https://www.newsbtc.com/news/sell-ethereum-buy-bitcoin-peter-schiff/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 02:00:36 +0000",
+      "excerpt": "In a fresh post to X on 21 July, long-time cryptoc sceptic and gold advocate Peter Schiff urged holders of Ethereum (ETH) to exit while prices hover “near the upper end of its trading range.” “If y...",
       "categories": [
         "bitcoin",
-        "defi"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "Trading"
-      ]
-    },
-    {
-      "id": "c3135699e8003583bf9ef37c7ee61541",
-      "title": "Price predictions 7/22: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE",
-      "link": "https://cointelegraph.com/news/price-predictions-7-22-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Tue, 22 Jul 2025 22:40:27 +0100",
-      "excerpt": "Bitcoin continues to face selling near $120,000, but the bulls have kept up the pressure, increasing the likelihood of an upside breakout.",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
+        "ethereum"
       ],
       "tags": [
         "Bitcoin",
@@ -360,43 +323,169 @@
       ]
     },
     {
-      "id": "be28dfeeb3e5b1f955495353e8cfd8e6",
-      "title": "Crypto Price Prediction Today 22 July – XRP, Solana, Pepe",
-      "link": "https://cryptonews.com/news/crypto-price-prediction-today-22-july-xrp-solana-pepe/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:30:00 +0000",
-      "excerpt": "Crypto price prediction today has charted Bitcoin’s rise to $122,838 and a 4.3 % cooldown as traders assess XRP’s post-lawsuit rally, Solana ETF talk, Pepe’s meme rebound and Snorter’s low-fee trad...",
+      "id": "69f97ab268d0c96910111e085a0bb702",
+      "title": "Asia Morning Briefing: The First AI vs BTC Environmental Impact Numbers are Here. And it Might Start a New Debate",
+      "link": "https://www.coindesk.com/markets/2025/07/23/asia-morning-briefing-the-first-ai-vs-btc-environmental-impact-numbers-are-here-and-it-might-start-a-new-debate",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 01:43:49 +0000",
+      "excerpt": "Bitcoin’s environmental footprint dwarfs that of large language models across every metric, from CO₂ emissions to water use to mineral depletion. But comparisons need context.",
       "categories": [
-        "bitcoin",
-        "analysis"
+        "bitcoin"
       ],
       "tags": [
-        "Bitcoin",
-        "Trading",
-        "Analysis"
+        "Bitcoin"
       ]
     },
     {
-      "id": "a20259f28003663f7131d1b8376428f0",
-      "title": "China’s DeepSeek AI Predicts the Price of XRP, Dogecoin and Cardano by the End of 2025",
-      "link": "https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-dogecoin-and-cardano-by-the-end-of-2025/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:30:00 +0000",
-      "excerpt": "DeepSeek, China’s leading publicly available AI, anticipates that numerous prominent altcoins will achieve new all-time highs in the second half of 2025, spurred by Bitcoin’s exceptional upward tra...",
+      "id": "66587f5abe35e68d6375337ad3622cc1",
+      "title": "Ethereum Off The Hook: SEC Chair Rules ETH A Commodity, Not A Security",
+      "link": "https://bitcoinist.com/ethereum-off-the-hook-sec-chair-rules-eth-is-not-a-security/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 01:30:50 +0000",
+      "excerpt": "According to CNBC, SEC Chair Paul Atkins said the Commission treats Ethereum like Bitcoin. He made it clear that securities laws won’t apply to the digital coin. He also noted that this view remain...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "eb77bb85a085900cc98d8f55cf808173",
+      "title": "Bitcoin Must Defend This Key Support For $180,000 Year-End Target, Analyst Says",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-must-defend-this-key-support-for-180000-year-end-target-analyst-says/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 01:00:52 +0000",
+      "excerpt": "As Bitcoin (BTC) consolidates near the $119,000 mark following a new all-time high (ATH) above $123,000 last week, several on-chain indicators are presenting a mixed picture regarding the cryptocur...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "52f2d08216470d3456a9b9ae2434bac2",
+      "title": "SpaceX Moves Bitcoin For First Time In 3 Years: $153M In Play",
+      "link": "https://bitcoinist.com/spacex-moves-bitcoin-for-first-time-in-3-years-153m-in-play/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:30:14 +0000",
+      "excerpt": "Bitcoin is up more than 20% since late June, pushing to a new all-time high of $123,000 before entering a consolidation phase. Price action is currently locked in a tight range, with bulls holding ...",
       "categories": [
         "bitcoin"
       ],
       "tags": [
         "Bitcoin",
-        "Trading",
-        "Regulation"
+        "Trading"
       ]
     }
   ],
   "bitcoin": [
     {
+      "id": "fb3e1b7728a183dc6577943cc1a6aad9",
+      "title": "‘Sell Ethereum, Buy Bitcoin’: Peter Schiff Makes Surprising Crypto Call",
+      "link": "https://www.newsbtc.com/news/sell-ethereum-buy-bitcoin-peter-schiff/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 02:00:36 +0000",
+      "excerpt": "In a fresh post to X on 21 July, long-time cryptoc sceptic and gold advocate Peter Schiff urged holders of Ethereum (ETH) to exit while prices hover “near the upper end of its trading range.” “If y...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "69f97ab268d0c96910111e085a0bb702",
+      "title": "Asia Morning Briefing: The First AI vs BTC Environmental Impact Numbers are Here. And it Might Start a New Debate",
+      "link": "https://www.coindesk.com/markets/2025/07/23/asia-morning-briefing-the-first-ai-vs-btc-environmental-impact-numbers-are-here-and-it-might-start-a-new-debate",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 01:43:49 +0000",
+      "excerpt": "Bitcoin’s environmental footprint dwarfs that of large language models across every metric, from CO₂ emissions to water use to mineral depletion. But comparisons need context.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "66587f5abe35e68d6375337ad3622cc1",
+      "title": "Ethereum Off The Hook: SEC Chair Rules ETH A Commodity, Not A Security",
+      "link": "https://bitcoinist.com/ethereum-off-the-hook-sec-chair-rules-eth-is-not-a-security/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 01:30:50 +0000",
+      "excerpt": "According to CNBC, SEC Chair Paul Atkins said the Commission treats Ethereum like Bitcoin. He made it clear that securities laws won’t apply to the digital coin. He also noted that this view remain...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "eb77bb85a085900cc98d8f55cf808173",
+      "title": "Bitcoin Must Defend This Key Support For $180,000 Year-End Target, Analyst Says",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-must-defend-this-key-support-for-180000-year-end-target-analyst-says/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 01:00:52 +0000",
+      "excerpt": "As Bitcoin (BTC) consolidates near the $119,000 mark following a new all-time high (ATH) above $123,000 last week, several on-chain indicators are presenting a mixed picture regarding the cryptocur...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "52f2d08216470d3456a9b9ae2434bac2",
+      "title": "SpaceX Moves Bitcoin For First Time In 3 Years: $153M In Play",
+      "link": "https://bitcoinist.com/spacex-moves-bitcoin-for-first-time-in-3-years-153m-in-play/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:30:14 +0000",
+      "excerpt": "Bitcoin is up more than 20% since late June, pushing to a new all-time high of $123,000 before entering a consolidation phase. Price action is currently locked in a tight range, with bulls holding ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "fb55b1b82ac93702e003a970d05ccaf5",
+      "title": "Jack Dorsey’s Square Begins Onboarding Merchants for Bitcoin Payments",
+      "link": "https://beincrypto.com/jack-dorsey-square-bitcoin-payments/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:00:00 +0000",
+      "excerpt": "Square has begun onboarding merchants for Bitcoin payments, opening the door for BTC use at over 4 million US businesses.\nThe post Jack Dorsey’s Square Begins Onboarding Merchants for Bitcoin Payme...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
       "id": "006b67ae90ca57efe7afdc9f43a22205",
       "title": "Bitfarms to buy back 10% of shares, calls stock undervalued",
       "link": "https://cointelegraph.com/news/headline-bitcoin-miner-bitfarms-begins-stock-buyback-citing-undervaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -409,6 +498,22 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "3878349ebe44e05a550f2d46de69265f",
+      "title": "Russian Policymaker Says State Should Seize Crypto From Illegal Miners",
+      "link": "https://cryptonews.com/news/russian-policymaker-says-state-should-seize-crypto-from-illegal-miners/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:30:00 +0000",
+      "excerpt": "A leading Russian policymaker says authorities should be given the power to seize coins from illegal or quasi-legal Bitcoin miners.\nThe post Russian Policymaker Says State Should Seize Crypto From ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Regulation"
       ]
     },
     {
@@ -437,124 +542,6 @@
       "sourceUrl": "https://cointelegraph.com/rss",
       "timestamp": "Tue, 22 Jul 2025 22:40:27 +0100",
       "excerpt": "Bitcoin continues to face selling near $120,000, but the bulls have kept up the pressure, increasing the likelihood of an upside breakout.",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "be28dfeeb3e5b1f955495353e8cfd8e6",
-      "title": "Crypto Price Prediction Today 22 July – XRP, Solana, Pepe",
-      "link": "https://cryptonews.com/news/crypto-price-prediction-today-22-july-xrp-solana-pepe/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:30:00 +0000",
-      "excerpt": "Crypto price prediction today has charted Bitcoin’s rise to $122,838 and a 4.3 % cooldown as traders assess XRP’s post-lawsuit rally, Solana ETF talk, Pepe’s meme rebound and Snorter’s low-fee trad...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "a20259f28003663f7131d1b8376428f0",
-      "title": "China’s DeepSeek AI Predicts the Price of XRP, Dogecoin and Cardano by the End of 2025",
-      "link": "https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-dogecoin-and-cardano-by-the-end-of-2025/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:30:00 +0000",
-      "excerpt": "DeepSeek, China’s leading publicly available AI, anticipates that numerous prominent altcoins will achieve new all-time highs in the second half of 2025, spurred by Bitcoin’s exceptional upward tra...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "205a2b981dbc5cf809296b8d98791a62",
-      "title": "Trump Shares Viral Bitcoin Breakdown — Here’s What He Posted",
-      "link": "https://www.newsbtc.com/bitcoin-news/trump-shares-viral-bitcoin-breakdown-heres-what-he-posted/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:00:48 +0000",
-      "excerpt": "President Donald Trump has reignited crypto conversations online after sharing a viral video explaining Bitcoin during a U.S. Senate hearing. The clip, which features Director of Research at Coin C...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "ce26413dd407b58b63a9ee284b546dd3",
-      "title": "Bitcoin Investor Price Model Signals Healthy Growth:  BTC Eyes $139K Level",
-      "link": "https://bitcoinist.com/bitcoin-investor-price-model-signals-healthy-growth-btc-eyes-139k-level/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 22:00:22 +0000",
-      "excerpt": "Bitcoin continues to trade in a tight range, hovering just above the $117,000 mark as market participants brace for its next major move. This prolonged consolidation has stirred speculation among t...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "727340130d1ab053be07d2e164e16bdf",
-      "title": "In-kind redemption for Bitcoin and Ethereum ETFs get ‘positive sign’ as Cboe’s files amendments",
-      "link": "https://cryptoslate.com/in-kind-redemption-for-bitcoin-and-ethereum-etfs-get-positive-sign-as-cboes-files-amendments/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 21:30:12 +0000",
-      "excerpt": "Cboe has submitted amendments for five crypto-related exchange-traded funds (ETFs) that would allow authorized participants to create and redeem shares in-kind, which is a positive sign for the app...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "a45e20f38939adcf877bab4f483d372b",
-      "title": "Bitcoin Acts As A Hedge Against Local Fears And Could Rise To $700,000 – BlackRock CEO",
-      "link": "https://bitcoinist.com/bitcoin-to-tackle-local-fears/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 21:00:52 +0000",
-      "excerpt": "In the ongoing bull market cycle, Bitcoin has been remarkable, as the cryptocurrency becomes a crucial global asset sought after persistently by prominent figures and companies worldwide. Many of t...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "10026a24ff4eae84081b625bd063b212",
-      "title": "Analyst Drops ‘Realistic’ Price Predictions For Bitcoin, Ethereum, LINK, BNB, And Aptos",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-eth-link-bnb-and-aptos/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 21:00:42 +0000",
-      "excerpt": "As the crypto market gears up for what many expect to be a major bull run in 2025, top analysts are beginning to share their most realistic price predictions for leading digital assets like Bitcoin...",
       "categories": [
         "bitcoin",
         "ethereum",
@@ -568,6 +555,42 @@
     }
   ],
   "ethereum": [
+    {
+      "id": "fb3e1b7728a183dc6577943cc1a6aad9",
+      "title": "‘Sell Ethereum, Buy Bitcoin’: Peter Schiff Makes Surprising Crypto Call",
+      "link": "https://www.newsbtc.com/news/sell-ethereum-buy-bitcoin-peter-schiff/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 02:00:36 +0000",
+      "excerpt": "In a fresh post to X on 21 July, long-time cryptoc sceptic and gold advocate Peter Schiff urged holders of Ethereum (ETH) to exit while prices hover “near the upper end of its trading range.” “If y...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "66587f5abe35e68d6375337ad3622cc1",
+      "title": "Ethereum Off The Hook: SEC Chair Rules ETH A Commodity, Not A Security",
+      "link": "https://bitcoinist.com/ethereum-off-the-hook-sec-chair-rules-eth-is-not-a-security/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 01:30:50 +0000",
+      "excerpt": "According to CNBC, SEC Chair Paul Atkins said the Commission treats Ethereum like Bitcoin. He made it clear that securities laws won’t apply to the digital coin. He also noted that this view remain...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Regulation"
+      ]
+    },
     {
       "id": "c3135699e8003583bf9ef37c7ee61541",
       "title": "Price predictions 7/22: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE",
@@ -695,39 +718,6 @@
       "sourceUrl": "https://dailyhodl.com/feed/",
       "timestamp": "Tue, 22 Jul 2025 20:00:01 +0000",
       "excerpt": "Analytics firm Glassnode says that large Bitcoin investors are gobbling up BTC, fueling the crypto king’s ascent above $100,000. In a post on the social media platform X, Glassnode says that all ma...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "3bcc3d61092129d87febc3c79506f689",
-      "title": "Tron Outpaces Ethereum In Fee Revenue – TRX Burn Accelerates",
-      "link": "https://www.newsbtc.com/news/tron-trx/tron-outpaces-ethereum-in-fee-revenue-trx-burn-accelerates/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 19:00:20 +0000",
-      "excerpt": "Tron (TRX) hit a fresh yearly high last Friday, climbing to $0.3344 for the first time since early December 2024. The price surge reflects growing market confidence, with bulls firmly in control an...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "6d5d5244d3dcb2af5b9874b809e2978a",
-      "title": "Coinbase Opens CFTC-Regulated Perp Futures to US Traders",
-      "link": "https://cryptopotato.com/coinbase-opens-cftc-regulated-perp-futures-to-us-traders/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 18:33:28 +0000",
-      "excerpt": "Retail traders in the United States can now access nano Bitcoin and nano Ether perpetual futures with up to 10x intraday leverage.",
       "categories": [
         "bitcoin",
         "ethereum"
@@ -1066,6 +1056,21 @@
   ],
   "analysis": [
     {
+      "id": "89699783776851040a5d59cca2307f47",
+      "title": "Analyst Predicts Explosive 126% Shiba Inu Rally After SHIB Surpasses Litecoin Market Cap",
+      "link": "https://www.newsbtc.com/shiba-inu/explosive-126-shiba-inu-rally/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:00:45 +0000",
+      "excerpt": "Crypto analyst Maddox has provided a bullish outlook for Shiba Inu, predicting an explosive rally. His prediction comes as SHIB surpasses Litecoin to climb into the 18th spot on the list of largest...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "e1467f5ffaf70c3cc8a8a71b5ce30931",
       "title": "Polymarket mulls own stablecoin for efficient use of USDC reserves",
       "link": "https://cryptoslate.com/polymarket-mulls-own-stablecoin-for-efficient-use-of-usdc-reserves/",
@@ -1216,26 +1221,219 @@
         "DeFi",
         "Trading"
       ]
-    },
-    {
-      "id": "63c81cf826c1cd6d3cd712d134d78130",
-      "title": "Bitcoin Final Push? Wave (5) Could Deliver A Spectacular Breakout",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-final-wave-5-push/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 20:00:00 +0000",
-      "excerpt": "Bitcoin is turning heads once again as it climbs steadily within a rising channel, teasing a potential explosive move. According to chart watchers, the current rally aligns with Wave (5) of an Elli...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Analysis"
-      ]
     }
   ],
   "all": [
+    {
+      "id": "fb3e1b7728a183dc6577943cc1a6aad9",
+      "title": "‘Sell Ethereum, Buy Bitcoin’: Peter Schiff Makes Surprising Crypto Call",
+      "link": "https://www.newsbtc.com/news/sell-ethereum-buy-bitcoin-peter-schiff/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 02:00:36 +0000",
+      "excerpt": "In a fresh post to X on 21 July, long-time cryptoc sceptic and gold advocate Peter Schiff urged holders of Ethereum (ETH) to exit while prices hover “near the upper end of its trading range.” “If y...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "69f97ab268d0c96910111e085a0bb702",
+      "title": "Asia Morning Briefing: The First AI vs BTC Environmental Impact Numbers are Here. And it Might Start a New Debate",
+      "link": "https://www.coindesk.com/markets/2025/07/23/asia-morning-briefing-the-first-ai-vs-btc-environmental-impact-numbers-are-here-and-it-might-start-a-new-debate",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 01:43:49 +0000",
+      "excerpt": "Bitcoin’s environmental footprint dwarfs that of large language models across every metric, from CO₂ emissions to water use to mineral depletion. But comparisons need context.",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "66587f5abe35e68d6375337ad3622cc1",
+      "title": "Ethereum Off The Hook: SEC Chair Rules ETH A Commodity, Not A Security",
+      "link": "https://bitcoinist.com/ethereum-off-the-hook-sec-chair-rules-eth-is-not-a-security/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 01:30:50 +0000",
+      "excerpt": "According to CNBC, SEC Chair Paul Atkins said the Commission treats Ethereum like Bitcoin. He made it clear that securities laws won’t apply to the digital coin. He also noted that this view remain...",
+      "categories": [
+        "bitcoin",
+        "ethereum"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Ethereum",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "2159d59001331ba1ba686b3875ce2ad2",
+      "title": "Nubank Announces New Nucoin Loyalty Program",
+      "link": "https://news.bitcoin.com/nubank-announces-new-nucoin-loyalty-program/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 01:30:45 +0000",
+      "excerpt": "Nubank, one of the largest neobanks in Latam, has announced that it has launched a new version of its previously abandoned Nucoin loyalty program. The tokens issued will be registered in a blockcha...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "eb77bb85a085900cc98d8f55cf808173",
+      "title": "Bitcoin Must Defend This Key Support For $180,000 Year-End Target, Analyst Says",
+      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-must-defend-this-key-support-for-180000-year-end-target-analyst-says/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 01:00:52 +0000",
+      "excerpt": "As Bitcoin (BTC) consolidates near the $119,000 mark following a new all-time high (ATH) above $123,000 last week, several on-chain indicators are presenting a mixed picture regarding the cryptocur...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "04323d39e0744b028cea678384e4a868",
+      "title": "$100B Binance Futures volume backs traders’ ‘altseason’ claim",
+      "link": "https://cointelegraph.com/news/dollar100b-binance-futures-volume-backs-traders-altseason-claim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 00:35:00 +0100",
+      "excerpt": "Altseason takes center stage as 71% of Binance Futures volume are altcoins.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "954afd332ffcc0af3a75e90a0051e41c",
+      "title": "US Senators Unveil Draft Bill to Overhaul Crypto Regulation Framework",
+      "link": "https://news.bitcoin.com/us-senators-unveil-draft-bill-to-overhaul-crypto-regulation-framework/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:30:50 +0000",
+      "excerpt": "A sweeping Senate draft bill sets the stage for overhauling U.S. crypto regulation, proposing clear classifications, limited SEC oversight, and exemptions to accelerate compliant crypto innovation....",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "52f2d08216470d3456a9b9ae2434bac2",
+      "title": "SpaceX Moves Bitcoin For First Time In 3 Years: $153M In Play",
+      "link": "https://bitcoinist.com/spacex-moves-bitcoin-for-first-time-in-3-years-153m-in-play/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:30:14 +0000",
+      "excerpt": "Bitcoin is up more than 20% since late June, pushing to a new all-time high of $123,000 before entering a consolidation phase. Price action is currently locked in a tight range, with bulls holding ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "665f982aa2042c77d8169d5897c66a86",
+      "title": "JPMorgan Chase’s Plans for Charging Fintechs for Customer Account Data Raising Concerns With at Least One CFPB Official: Report",
+      "link": "https://dailyhodl.com/2025/07/22/jpmorgan-chases-plans-for-charging-fintechs-for-customer-account-data-raising-concerns-with-at-least-one-cfpb-official-report/",
+      "source": "The Daily Hodl",
+      "sourceUrl": "https://dailyhodl.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:00:48 +0000",
+      "excerpt": "One official at a federal consumer protection agency is reportedly raising concerns over JPMorgan Chase’s plan to charge fintech fees for customers’ account data. An unnamed politically appointed o...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "89699783776851040a5d59cca2307f47",
+      "title": "Analyst Predicts Explosive 126% Shiba Inu Rally After SHIB Surpasses Litecoin Market Cap",
+      "link": "https://www.newsbtc.com/shiba-inu/explosive-126-shiba-inu-rally/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:00:45 +0000",
+      "excerpt": "Crypto analyst Maddox has provided a bullish outlook for Shiba Inu, predicting an explosive rally. His prediction comes as SHIB surpasses Litecoin to climb into the 18th spot on the list of largest...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "fb55b1b82ac93702e003a970d05ccaf5",
+      "title": "Jack Dorsey’s Square Begins Onboarding Merchants for Bitcoin Payments",
+      "link": "https://beincrypto.com/jack-dorsey-square-bitcoin-payments/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 00:00:00 +0000",
+      "excerpt": "Square has begun onboarding merchants for Bitcoin payments, opening the door for BTC use at over 4 million US businesses.\nThe post Jack Dorsey’s Square Begins Onboarding Merchants for Bitcoin Payme...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "3acb189fd5c6b791541caca7b4927aba",
+      "title": "Tron’s Justin Sun to Fly on Blue Origin’s Next Crewed Mission",
+      "link": "https://cryptopotato.com/trons-justin-sun-to-fly-on-blue-origins-next-crewed-mission/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:55:30 +0000",
+      "excerpt": "Blue Origin announced Justin Sun as one of the passengers for its NS-34 mission.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1a638663d77d603dabc1351ebc463c13",
+      "title": "Trump Announces Trade Deals with Japan and Philippines",
+      "link": "https://beincrypto.com/trump-announces-trade-deals-with-japan-and-philippines/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:37:39 +0000",
+      "excerpt": "President Trump secured significant trade agreements with Japan and the Philippines, marking major strides in US foreign trade and market access.\nThe post Trump Announces Trade Deals with Japan and...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "51b46a965c4b2d7127e09deee35aa636",
+      "title": "Treasury Secretary Scott Bessent Calls for Full Fed Audit",
+      "link": "https://news.bitcoin.com/treasury-secretary-scott-bessent-calls-for-full-fed-audit/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:30:55 +0000",
+      "excerpt": "After describing U.S. Federal Reserve Chairman Jerome Powell as “a good public servant,” Bessent reiterated his call for a full internal review of the central bank’s operations. Should the Fed Face...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
     {
       "id": "006b67ae90ca57efe7afdc9f43a22205",
       "title": "Bitfarms to buy back 10% of shares, calls stock undervalued",
@@ -1249,6 +1447,22 @@
       ],
       "tags": [
         "Bitcoin"
+      ]
+    },
+    {
+      "id": "3878349ebe44e05a550f2d46de69265f",
+      "title": "Russian Policymaker Says State Should Seize Crypto From Illegal Miners",
+      "link": "https://cryptonews.com/news/russian-policymaker-says-state-should-seize-crypto-from-illegal-miners/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Tue, 22 Jul 2025 23:30:00 +0000",
+      "excerpt": "A leading Russian policymaker says authorities should be given the power to seize coins from illegal or quasi-legal Bitcoin miners.\nThe post Russian Policymaker Says State Should Seize Crypto From ...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Regulation"
       ]
     },
     {
@@ -8564,229 +8778,7 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "2dfbfb4758e2b15ffdc1c3fd258d1ba7",
-      "title": "Bullish Crypto Exchange Files to Go Public, Aiming to List on NYSE",
-      "link": "https://cryptonews.com/news/bullish-crypto-exchange-files-to-go-public-aiming-to-list-on-nyse/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 09:32:18 +0000",
-      "excerpt": "Bullish, the cryptocurrency exchange backed by Peter Thiel, took a major step toward becoming a publicly traded company by filing for an IPO.\nThe post Bullish Crypto Exchange Files to Go Public, Ai...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "ab0f5910f9cd0ff677bcfd0e5d14cf6a",
-      "title": "Mastercard Pushes Stablecoins Closer to Mass Adoption With New Infrastructure",
-      "link": "https://news.bitcoin.com/mastercard-pushes-stablecoins-closer-to-mass-adoption-with-new-infrastructure/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 09:30:02 +0000",
-      "excerpt": "Stablecoins are charging into the financial mainstream as regulatory clarity, institutional infrastructure, and Mastercard-backed tools converge to unlock scalable, secure, and frictionless global ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "1a16b822d809fa25eee9a43f36202d2a",
-      "title": "The World Liberty Financial Paradox: Inside The Risks of WLFI Token Tradability",
-      "link": "https://beincrypto.com/world-liberty-financial-wlfi-token-trade-trump-paradox/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 09:17:14 +0000",
-      "excerpt": "WLFI's move to tradability promises wider access but highlights deep tensions between decentralization ideals and wealth-driven control. With celebrity ties and large investments at play, WLFI’s go...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "bda19f22a04d8be6cbba4de6eb0876da",
-      "title": "Bitcoin Could Explode to $136,000 if Demand Remains Resilient, Says Analytics Firm Glassnode – But There’s a Catch",
-      "link": "https://dailyhodl.com/2025/07/19/bitcoin-could-explode-to-136000-if-demand-remains-resilient-says-analytics-firm-glassnode-but-theres-a-catch/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 09:15:39 +0000",
-      "excerpt": "Bitcoin (BTC) could go up by around 15% from the current level if demand for the flagship crypto asset remains robust and the market continues in an upward trend, according to analytics platform Gl...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "88e42020ec914a6f54bee4f282effcd7",
-      "title": "Crypto exchange Bullish files for US IPO, targets NYSE listing as “BLSH”",
-      "link": "https://cointelegraph.com/news/crypto-exchange-bullish-files-for-us-ipo-targets-nyse-listing-as-blsh?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 09:07:11 +0100",
-      "excerpt": "Cayman Islands-based Bullish has filed for IPO registration with the SEC, aiming to list on NYSE as “BLSH.”",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "3e3037866a81901adfe4ee0232e206a2",
-      "title": "Goldman Sachs’ Chief US Economist Says Tariffs Unlikely To Spark a Prolonged Inflation Period, Predicts Three Rate Cuts This Year",
-      "link": "https://dailyhodl.com/2025/07/19/goldman-sachs-chief-us-economist-says-tariffs-unlikely-to-spark-a-prolonged-inflation-period-predicts-three-rate-cuts-this-year/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 09:04:32 +0000",
-      "excerpt": "David Mericle, chief US economist at Goldman Sachs, says that President Trump’s tariffs are unlikely to result in a lengthy period of inflation. In a new interview with CNBC Television, Mericle say...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "593e8e8e62f960615a3732b78960e1e0",
-      "title": "Ethereum Futures Flip Bitcoin: Volume 50% Higher Than BTC’s",
-      "link": "https://bitcoinist.com/ethereum-futures-bitcoin-volume-50-higher-btcs/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 08:30:06 +0000",
-      "excerpt": "Data shows the Ethereum futures volume has flipped that of Bitcoin, a sign that strong speculative interest is flooding into the asset. Ethereum Futures Volume Has Shot Up Alongside Price Rally Acc...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "ae127e6d50f3ba873b7c4c90fb291fee",
-      "title": "Satoshi-Era Bitcoin Now For Sale: Galaxy Digital Sends 1,500 BTC To Binance",
-      "link": "https://www.newsbtc.com/bitcoin-news/satoshi-era-bitcoin-now-for-sale-galaxy-digital-sends-1500-btc-to-binance/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 08:30:06 +0000",
-      "excerpt": "Bitcoin is currently consolidating between $115,000 and its all-time high of $123,000, forming a tight range that has kept both bulls and bears on edge. Despite the recent surge, price action has s...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "c5d7bf0003832837d1fc185b92950d96",
-      "title": "Crypto Markets Shed $100 Billion as Bitcoin Was Rejected at $120K: Weekend Watch",
-      "link": "https://cryptopotato.com/crypto-markets-shed-100-billion-as-bitcoin-was-rejected-at-120k-weekend-watch/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 08:28:09 +0000",
-      "excerpt": "Many altcoins have dropped hard over the past 24 hours.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "2396b26ee58124c7c1cbdf1f366ed5da",
-      "title": "Jack Dorsey’s Block to join S&amp;P 500, stock surges 9% after-hours",
-      "link": "https://cointelegraph.com/news/block-inc-jack-dorsey-s-and-p-500-us-stocks-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 08:11:20 +0100",
-      "excerpt": "Block’s inclusion in the S&P 500 comes just two months after crypto exchange Coinbase made history as the first cryptocurrency firm to join the index.",
-      "categories": [
-        "defi"
-      ],
-      "tags": []
-    },
-    {
-      "id": "97864d32860bfb870be80435e52a7303",
-      "title": "SEC Crypto Task Force Calls on Investors to Help Shape Post-GENIUS Act Policy",
-      "link": "https://news.bitcoin.com/sec-crypto-task-force-calls-on-investors-to-help-shape-post-genius-act-policy/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 07:30:00 +0000",
-      "excerpt": "U.S. crypto regulation takes a decisive leap forward as new law clears stablecoin ambiguity, empowering SEC-regulated firms to reshape markets with clear, actionable compliance pathways. Commission...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "037b592b2d2eeb5cbc67f39ee133dc43",
-      "title": "DOGE Price Ships to 2-Month High: How Bullish Are Whales and Traders?",
-      "link": "https://cryptopotato.com/doge-price-ships-to-2-month-high-how-bullish-are-whales-and-traders/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 07:15:12 +0000",
-      "excerpt": "DOGE neared $0.26 earlier today.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "f841510e3f22a20e2d407021fc611382",
-      "title": "JPMorgan Chase, Citi and Wells Fargo Lose $5,361,000,000 To Bad Loans in One Quarter As Customers Fail To Pay Debt",
-      "link": "https://dailyhodl.com/2025/07/19/jpmorgan-chase-citi-and-wells-fargo-lose-5361000000-to-bad-loans-in-one-quarter-as-customers-fail-to-pay-debt/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 07:04:47 +0000",
-      "excerpt": "JPMorgan Chase, Citi and Wells Fargo say they’ve lost $5.361 billion from customers who can no longer pay their debt. In their Q2 2025 earnings reports, the three major banks disclosed billions of ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "85dabef306f4123a038eb19a39fc882d",
-      "title": "Analyst Says You Should Be Preparing To Exit XRP — Here’s Why",
-      "link": "https://www.newsbtc.com/analysis/xrp/preparing-to-exit-xrp/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 07:00:18 +0000",
-      "excerpt": "The XRP price is on the rise once again after clearing the resistance that had mounted at the $3 level. This resistance has now been turned into support as the price is now only 15% from its all-ti...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "929036160ed88d5455eee6337161023b",
-      "title": "SEC Exploring ‘Innovation Exception’ To Boost Tokenization After Historic Crypto Week",
-      "link": "https://bitcoinist.com/sec-exploring-innovation-exception-to-boost-tokenization-after-historic-crypto-week/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 07:00:06 +0000",
-      "excerpt": "Following the historic vote on three major crypto bills, the Securities and Exchange Commission (SEC) is reportedly considering regulatory changes related to digital assets to incentivize the indus...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
     }
   ],
-  "last_updated": "2025-07-22T23:29:26.090021"
+  "last_updated": "2025-07-23T02:28:24.854007"
 }
