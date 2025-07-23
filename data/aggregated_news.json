@@ -1,6 +1,22 @@
 {
   "latest": [
     {
+      "id": "33f0858bc54bc807b19dbfdc7e407936",
+      "title": "CoinShares secures MiCA license in France, cementing EU presence",
+      "link": "https://cointelegraph.com/news/coinshares-secures-mica-license-eyes-european-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 11:55:12 +0100",
+      "excerpt": "In addition to its presence in the EU, CoinShares has expanded in the US market since entering it in 2023, aiming to compete with major industry peers.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
       "id": "4756530ee651cfb50b41af18cdea8aa5",
       "title": "OpenAI, Oracle expand $500B Stargate spend as Musk unveils bold xAI plan",
       "link": "https://cointelegraph.com/news/openai-oracle-stargate-expansion-musk-xai-h100-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -12,6 +28,52 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "6202cce39a704624d86078a53e56da2d",
+      "title": "Altcoins, NFTs Lure Risk-On Buyers: Crypto Daybook Americas",
+      "link": "https://www.coindesk.com/daybook-us/2025/07/23/altcoins-nfts-lure-risk-on-buyers-crypto-daybook-americas",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 11:25:00 +0000",
+      "excerpt": "Your day-ahead look for July 23, 2025",
+      "categories": [
+        "nft"
+      ],
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
+      "id": "d32231bf09cb0b6e209c192532406fd9",
+      "title": "Bitwise CIO on Ether’s ‘Demand Shock’: Why ETH’s Rally Has Staying Power",
+      "link": "https://www.coindesk.com/markets/2025/07/23/bitwise-cio-on-ether-s-demand-shock-why-eth-s-rally-has-staying-power",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 11:13:30 +0000",
+      "excerpt": "Matthew Hougan says ETH treasury firms and spot ether ETFs are driving a $10 billion ETH supply squeeze, pushing ether toward structurally higher prices.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "88bb0e97fcb1f822fa30e4f71bdb9548",
+      "title": "Massive Polkadot (DOT) Rally Ahead? Here’s What’s Driving It",
+      "link": "https://cryptopotato.com/massive-polkadot-dot-rally-ahead-heres-whats-driving-it/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 11:07:42 +0000",
+      "excerpt": "Polkadot (DOT) eyes a strong 2025 rally as JAM upgrade, DeFi growth, and adoption boost momentum.",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
     },
     {
       "id": "9c0b91bfb80bb46ce8c62616fdfac842",
@@ -32,6 +94,62 @@
       ]
     },
     {
+      "id": "980941658a86725bc7c1af45499013df",
+      "title": "Prince of Darkness’ Death Sparks Wave of Rug-Pulls on Solana",
+      "link": "https://www.coindesk.com/business/2025/07/23/prince-of-darkness-death-sparks-wave-of-rug-pulls-on-solana",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 11:03:04 +0000",
+      "excerpt": "Ozzy Osbourne’s death on Tuesday has sparked a wave of scam tokens on Solana, as bad actors exploit the heavy metal icon’s legacy for quick cash grabs.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "62fe4e81eeb753bde23e7237eb0c97f7",
+      "title": "MEI Pharma Pioneers Litecoin Treasury Strategy With $100 Million Commitment, Stock Surges",
+      "link": "https://beincrypto.com/mei-pharma-litecoin-treasury-strategy/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 11:02:08 +0000",
+      "excerpt": "MEI Pharma has committed $100 million to buy Litecoin as part of a unique treasury strategy, driving its stock price up by 111%. This move highlights growing institutional interest in LTC and its p...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "1660ed051bbc2f8f2adec9eb4e58065a",
+      "title": "‘Not A Threat’: Wester Union To Explore Stablecoin Integration For Cross-Border Payments",
+      "link": "https://bitcoinist.com/not-a-threat-wester-union-to-explore-stablecoin-integration-for-cross-border-payments/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 11:00:26 +0000",
+      "excerpt": "Western Union has joined the stablecoin race following the end of the historic “Crypto Week” and the recent passage of key legislation. The company is reportedly set to tap into digital assets for ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "017ec20e156062cd623b5bfbb606a041",
+      "title": "Stellar (XLM) Risks a 40% Drop as Bearish Divergence Returns",
+      "link": "https://beincrypto.com/xlm-price-40-percent-drop-bearish-divergence/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 11:00:00 +0000",
+      "excerpt": "XLM price sits around $0.47 after a 103% run. Bearish RSI divergence and a liquidation cluster below $0.40 raise deeper correction risk. Fibonacci supports at $0.44, $0.40, and $0.33 mark the path ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "0c7b1051cafa1e6528d81aa1190f31f7",
       "title": "Fees, collateral give DeFi edge as TradFi eyes crypto loans: 1inch exec",
       "link": "https://cointelegraph.com/news/defi-vs-tradfi-crypto-lending-jpmorgan-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -44,6 +162,37 @@
       ],
       "tags": [
         "DeFi"
+      ]
+    },
+    {
+      "id": "56da95a180f39c0c5921712a374ab471",
+      "title": "Bitcoin Slides as ETF Inflows Reverse and Network Activity Dips",
+      "link": "https://beincrypto.com/bitcoin-price-risks-etf-flows-retreat/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 10:44:23 +0000",
+      "excerpt": "After Bitcoin's all-time high, institutional outflows and reduced network activity suggest a potential short-term price correction, with BTC testing support levels.\nThe post Bitcoin Slides as ETF I...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "9ede962821b8b50eb49ea1b8cde140ad",
+      "title": "Is a $10K ETH Christmas rally now base-case? As Ethereum ETFs pull in $4 Billion in 2 weeks",
+      "link": "https://cryptoslate.com/ethereum-etfs-pull-in-4-billion-in-2-weeks-is-a-10k-eth-christmas-rally-now-base-case/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 10:35:50 +0000",
+      "excerpt": "Spot Ethereum ETFs have drawn more than $4 billion in net inflows over a two-week streak ending Tuesday, including $533.9 million added yesterday alone. That run pushed total assets across all eigh...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
       ]
     },
     {
@@ -106,6 +255,22 @@
       ]
     },
     {
+      "id": "a959fb4455f3cf2768225fa91c1d3744",
+      "title": "Ozzy Osbourne’s death sparks 400% surge in CryptoBatz NFTs",
+      "link": "https://cointelegraph.com/news/ozzy-osbourne-death-400-surge-cryptobatz-nfts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 10:30:12 +0100",
+      "excerpt": "Though modest compared to 2022 levels, the latest spike in Ozzy Osbourne’s CryptoBatz NFTs could signal an NFT market rebound.",
+      "categories": [
+        "nft"
+      ],
+      "tags": [
+        "NFT",
+        "Trading"
+      ]
+    },
+    {
       "id": "8797cfd80de0d8a5e9ca313e63ac3a18",
       "title": "Ozzy Osbourne’s passing sparks 400% surge in CryptoBatz NFTs",
       "link": "https://cointelegraph.com/news/ozzy-osbourne-death-400-surge-cryptobatz-nfts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -136,170 +301,25 @@
         "Trading",
         "Analysis"
       ]
-    },
-    {
-      "id": "56b5dc47641a870513bded3782f6fab1",
-      "title": "South Korean regulator urges asset managers to limit crypto exposure",
-      "link": "https://cointelegraph.com/news/south-korea-warns-on-crypto-etf-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Wed, 23 Jul 2025 10:24:07 +0100",
-      "excerpt": "South Korea’s FSS advises fund managers to limit ETF exposure to crypto firms like Coinbase, citing caution as regulatory rules are still evolving.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "ac0fb0a341f2fecbec85177c9683bcb1",
-      "title": "Wall Street Set to Benefit as In-Kind Crypto ETF Redemptions Gain Momentum",
-      "link": "https://beincrypto.com/sec-filings-in-kind-crypto-etf-progress/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 10:23:24 +0000",
-      "excerpt": "Crypto ETFs are moving toward in-kind creations, improving efficiency, but the changes mainly benefit institutional investors. Retail access remains limited for now, though broader access could com...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "f4f78650b9293679795f7e35b19aa2b9",
-      "title": "Binance BTC Reserves Drop as Unrealized Gains Reach All-Time High",
-      "link": "https://cryptopotato.com/binance-btc-reserves-drop-as-unrealized-gains-reach-all-time-high/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 10:20:05 +0000",
-      "excerpt": "Binance's BTC reserves fall but unrealized profits hit records amid the crypto asset's rally.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "60872b094106089bee24af0517a6506d",
-      "title": "DeepSeek Says Altseason Is Here – These 3 Presales Could Be First to Run",
-      "link": "https://bitcoinist.com/crypto-market-outlook-deepseek-best-presales/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 10:18:46 +0000",
-      "excerpt": "Bitcoin is back on corporate balance sheets. Altcoins are waking up. And DeepSeek’s sentiment models hint at a bullish undercurrent building fast. Trump Media’s $2B Bitcoin bet and Strategy’s lates...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "2b357747172668e3096cbd916b76ca95",
-      "title": "Solana's SOL Could Hit $500 in This Bull Run, Says Analyst, as Upexi Boosts Holdings to 1.8M SOL",
-      "link": "https://www.coindesk.com/markets/2025/07/23/solana-s-sol-could-hit-usd500-in-this-bull-run-says-analyst-as-upexi-boosts-holdings-to-1-8m-sol",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Wed, 23 Jul 2025 10:14:30 +0000",
-      "excerpt": "Upexi’s SOL stash now exceeds $330 million after a $200 million capital raise, as one analyst calls for a breakout to $500 this cycle.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "732129fd2e7e37a5535b8f4560f01e17",
-      "title": "Pi Network (PI) Price Predictions for This Week",
-      "link": "https://cryptopotato.com/pi-network-pi-price-predictions-for-this-week-9/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 10:14:12 +0000",
-      "excerpt": "Pi Network’s native token tried to break away from the $0.52 resistance, but has been rejected so far. What comes next? PI Coin Price Predictions to Watch This Week Key Support levels: $0.40, $0.44...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "0a98074cc237eb03f7ae0b4173eb066d",
-      "title": "Colorado pastor and wife indicted in $3.4M crypto scam",
-      "link": "https://cointelegraph.com/news/online-pastor-indicted-3-4m-crypto-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Wed, 23 Jul 2025 10:12:16 +0100",
-      "excerpt": "The pastor claimed that “God told” him to shill INDXcoin, which caused financial losses to at least 300 investors.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "f613cc6120a1a6a35c5f23ca3935b3ec",
-      "title": "Cardano (ADA) Price Predictions for This Week",
-      "link": "https://cryptopotato.com/cardano-ada-price-predictions-for-this-week-11/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 10:10:35 +0000",
-      "excerpt": "ADA tested the $0.90 resistance, but was unable to break it. What’s next for Cardano’s native asset? Key Support levels: $0.64, $0.80 Key Resistance levels: $0.90, $1 1. Key Resistance Stops the Up...",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "1c41aa6694b030150ece35d7ea6fb4a2",
-      "title": "Best Meme Coins Live News Today: Latest Opportunities & Updates (July 23)",
-      "link": "https://bitcoinist.com/meme-coins-live-news-july-23-2025/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 10:05:43 +0000",
-      "excerpt": "Get Early Alpha with Our Immediate Analysis of Today’s Best Meme Coins Check out our Live Update Coverage on the Best Meme Coins for July 23, 2025! With Bitcoin merrily skipping past the $123K ATH,...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "3c3edb0595e6485021f345c0c7cd5887",
-      "title": "Crypto Presales Live News Today: Latest Opportunities & Updates (July 23)",
-      "link": "https://bitcoinist.com/crypto-presales-live-news-july-23-2025/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 10:05:23 +0000",
-      "excerpt": "Stay Ahead with Our Immediate Analysis of Today’s Best Crypto Presales Check out our Live Update Coverage on the Best Crypto Presales for July 23, 2025! As Bitcoin broke through a historical $123K ...",
-      "categories": [
-        "bitcoin",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "5881b822d6504567ce5924ddc9e70984",
-      "title": "Grayscale ETF Head David LaValle to Exit as Firm Eyes IPO: Report",
-      "link": "https://www.coindesk.com/business/2025/07/23/grayscale-etf-head-david-lavalle-to-exit-as-firm-eyes-ipo-report",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Wed, 23 Jul 2025 09:44:06 +0000",
-      "excerpt": "LaValle joined Grayscale in 2021 to address investor dissatisfaction with the Bitcoin Trust’s discount and worked on its conversion to a spot bitcoin ETF.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "d32231bf09cb0b6e209c192532406fd9",
+      "title": "Bitwise CIO on Ether’s ‘Demand Shock’: Why ETH’s Rally Has Staying Power",
+      "link": "https://www.coindesk.com/markets/2025/07/23/bitwise-cio-on-ether-s-demand-shock-why-eth-s-rally-has-staying-power",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 11:13:30 +0000",
+      "excerpt": "Matthew Hougan says ETH treasury firms and spot ether ETFs are driving a $10 billion ETH supply squeeze, pushing ether toward structurally higher prices.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
     {
       "id": "9c0b91bfb80bb46ce8c62616fdfac842",
       "title": "Bitcoin speculators hint at &#039;local bottom&#039; as buyers target $117.5K",
@@ -319,8 +339,24 @@
       ]
     },
     {
-      "id": "c40a1fcfa9811beca9fc6ffeed98b254",
-      "title": "Ethereum ETFs pull in $4 Billion in 2 weeks – Is a $10K ETH Christmas rally now base-case?",
+      "id": "56da95a180f39c0c5921712a374ab471",
+      "title": "Bitcoin Slides as ETF Inflows Reverse and Network Activity Dips",
+      "link": "https://beincrypto.com/bitcoin-price-risks-etf-flows-retreat/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 10:44:23 +0000",
+      "excerpt": "After Bitcoin's all-time high, institutional outflows and reduced network activity suggest a potential short-term price correction, with BTC testing support levels.\nThe post Bitcoin Slides as ETF I...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "9ede962821b8b50eb49ea1b8cde140ad",
+      "title": "Is a $10K ETH Christmas rally now base-case? As Ethereum ETFs pull in $4 Billion in 2 weeks",
       "link": "https://cryptoslate.com/ethereum-etfs-pull-in-4-billion-in-2-weeks-is-a-10k-eth-christmas-rally-now-base-case/",
       "source": "CryptoSlate",
       "sourceUrl": "https://cryptoslate.com/feed/",
@@ -334,49 +370,18 @@
       ]
     },
     {
-      "id": "c906dfff3533731dc9f6dcc29f3fc35b",
-      "title": "Ethereum Adoption Accelerates As Daily Transactions Set 2025 Record",
-      "link": "https://www.newsbtc.com/news/ethereum/ethereum-adoption-accelerates-as-daily-transactions-set-2025-record/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 10:30:22 +0000",
-      "excerpt": "Ethereum is currently consolidating between $3,600 and $3,850 after an explosive rally that saw the second-largest cryptocurrency surge more than 80% since late June. Despite the brief pause in upw...",
+      "id": "c40a1fcfa9811beca9fc6ffeed98b254",
+      "title": "Ethereum ETFs pull in $4 Billion in 2 weeks – Is a $10K ETH Christmas rally now base-case?",
+      "link": "https://cryptoslate.com/ethereum-etfs-pull-in-4-billion-in-2-weeks-is-a-10k-eth-christmas-rally-now-base-case/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 10:35:50 +0000",
+      "excerpt": "Spot Ethereum ETFs have drawn more than $4 billion in net inflows over a two-week streak ending Tuesday, including $533.9 million added yesterday alone. That run pushed total assets across all eigh...",
       "categories": [
         "ethereum"
       ],
       "tags": [
-        "Ethereum",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "f4f78650b9293679795f7e35b19aa2b9",
-      "title": "Binance BTC Reserves Drop as Unrealized Gains Reach All-Time High",
-      "link": "https://cryptopotato.com/binance-btc-reserves-drop-as-unrealized-gains-reach-all-time-high/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 10:20:05 +0000",
-      "excerpt": "Binance's BTC reserves fall but unrealized profits hit records amid the crypto asset's rally.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "60872b094106089bee24af0517a6506d",
-      "title": "DeepSeek Says Altseason Is Here – These 3 Presales Could Be First to Run",
-      "link": "https://bitcoinist.com/crypto-market-outlook-deepseek-best-presales/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 10:18:46 +0000",
-      "excerpt": "Bitcoin is back on corporate balance sheets. Altcoins are waking up. And DeepSeek’s sentiment models hint at a bullish undercurrent building fast. Trump Media’s $2B Bitcoin bet and Strategy’s lates...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
+        "Ethereum"
       ]
     }
   ],
@@ -397,6 +402,22 @@
         "Bitcoin",
         "Trading",
         "Analysis"
+      ]
+    },
+    {
+      "id": "56da95a180f39c0c5921712a374ab471",
+      "title": "Bitcoin Slides as ETF Inflows Reverse and Network Activity Dips",
+      "link": "https://beincrypto.com/bitcoin-price-risks-etf-flows-retreat/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 10:44:23 +0000",
+      "excerpt": "After Bitcoin's all-time high, institutional outflows and reduced network activity suggest a potential short-term price correction, with BTC testing support levels.\nThe post Bitcoin Slides as ETF I...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
       ]
     },
     {
@@ -527,25 +548,40 @@
         "Bitcoin",
         "Trading"
       ]
-    },
-    {
-      "id": "c2ed0391c9d5c826920dec9a47bac41e",
-      "title": "PENGU Shoots Up by 20%, Bitcoin (BTC) Fails at $120K Again: Market Watch",
-      "link": "https://cryptopotato.com/pengu-shoots-up-by-20-bitcoin-btc-fails-at-120k-again-market-watch/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 08:31:47 +0000",
-      "excerpt": "FLR and PENGU are today's top performers.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "d32231bf09cb0b6e209c192532406fd9",
+      "title": "Bitwise CIO on Ether’s ‘Demand Shock’: Why ETH’s Rally Has Staying Power",
+      "link": "https://www.coindesk.com/markets/2025/07/23/bitwise-cio-on-ether-s-demand-shock-why-eth-s-rally-has-staying-power",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 11:13:30 +0000",
+      "excerpt": "Matthew Hougan says ETH treasury firms and spot ether ETFs are driving a $10 billion ETH supply squeeze, pushing ether toward structurally higher prices.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "9ede962821b8b50eb49ea1b8cde140ad",
+      "title": "Is a $10K ETH Christmas rally now base-case? As Ethereum ETFs pull in $4 Billion in 2 weeks",
+      "link": "https://cryptoslate.com/ethereum-etfs-pull-in-4-billion-in-2-weeks-is-a-10k-eth-christmas-rally-now-base-case/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 10:35:50 +0000",
+      "excerpt": "Spot Ethereum ETFs have drawn more than $4 billion in net inflows over a two-week streak ending Tuesday, including $533.9 million added yesterday alone. That run pushed total assets across all eigh...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
     {
       "id": "c40a1fcfa9811beca9fc6ffeed98b254",
       "title": "Ethereum ETFs pull in $4 Billion in 2 weeks – Is a $10K ETH Christmas rally now base-case?",
@@ -671,41 +707,24 @@
       "tags": [
         "Ethereum"
       ]
-    },
-    {
-      "id": "5a3a36401a22b3d011ab3057ab0f6f91",
-      "title": "Bitcoin, Ethereum To Back Loans? JPMorgan Explores Bold New Option",
-      "link": "https://bitcoinist.com/bitcoin-ethereum-loans-jpmorgan-bold-new-option/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 08:00:12 +0000",
-      "excerpt": "JPMorgan is reportedly considering loans backed directly by clients’ Bitcoin and Ethereum holdings, a move that would pull TradFi further into crypto. JPMorgan Could Launch Crypto-Backed Loans As S...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "ccb4fcad28deed1dfa1d58d2d14afb08",
-      "title": "Disguised Unemployment in Blockchain? Data Shows Only 12% of Ethereum, 25% of Solana Protocols Have Revenue",
-      "link": "https://www.coindesk.com/markets/2025/07/23/disguised-unemployment-in-blockchain-data-shows-only-12-of-ethereum-25-of-solana-protocols-have-revenue",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Wed, 23 Jul 2025 07:42:46 +0000",
-      "excerpt": "A large number of protocols on the two chains haven't captured any value lately, in what looks like on-chain version of disguised unemployment.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
     }
   ],
   "defi": [
+    {
+      "id": "88bb0e97fcb1f822fa30e4f71bdb9548",
+      "title": "Massive Polkadot (DOT) Rally Ahead? Here’s What’s Driving It",
+      "link": "https://cryptopotato.com/massive-polkadot-dot-rally-ahead-heres-whats-driving-it/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 11:07:42 +0000",
+      "excerpt": "Polkadot (DOT) eyes a strong 2025 rally as JAM upgrade, DeFi growth, and adoption boost momentum.",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
+    },
     {
       "id": "0c7b1051cafa1e6528d81aa1190f31f7",
       "title": "Fees, collateral give DeFi edge as TradFi eyes crypto loans: 1inch exec",
@@ -854,25 +873,40 @@
         "DeFi",
         "Trading"
       ]
-    },
-    {
-      "id": "52de34ffe564dfd5d5a9963fffde7c67",
-      "title": "Solana DeFi Rebirth: TVL Breaks Past $14 Billion Amid Price Surge",
-      "link": "https://www.newsbtc.com/altcoin/solana-defi-rebirth-tvl-nears-11-billion-amid-price-surge/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 16:00:24 +0000",
-      "excerpt": "Solana’s price rally reached a new milestone on Monday. SOL traded at $195.50 per coin, pushing the total valuation to over $105 billion for the first time since January 25. Related Reading: Too Pr...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi",
-        "Trading"
-      ]
     }
   ],
   "nft": [
+    {
+      "id": "6202cce39a704624d86078a53e56da2d",
+      "title": "Altcoins, NFTs Lure Risk-On Buyers: Crypto Daybook Americas",
+      "link": "https://www.coindesk.com/daybook-us/2025/07/23/altcoins-nfts-lure-risk-on-buyers-crypto-daybook-americas",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 11:25:00 +0000",
+      "excerpt": "Your day-ahead look for July 23, 2025",
+      "categories": [
+        "nft"
+      ],
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
+      "id": "a959fb4455f3cf2768225fa91c1d3744",
+      "title": "Ozzy Osbourne’s death sparks 400% surge in CryptoBatz NFTs",
+      "link": "https://cointelegraph.com/news/ozzy-osbourne-death-400-surge-cryptobatz-nfts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 10:30:12 +0100",
+      "excerpt": "Though modest compared to 2022 levels, the latest spike in Ozzy Osbourne’s CryptoBatz NFTs could signal an NFT market rebound.",
+      "categories": [
+        "nft"
+      ],
+      "tags": [
+        "NFT",
+        "Trading"
+      ]
+    },
     {
       "id": "8797cfd80de0d8a5e9ca313e63ac3a18",
       "title": "Ozzy Osbourne’s passing sparks 400% surge in CryptoBatz NFTs",
@@ -1155,6 +1189,22 @@
   ],
   "all": [
     {
+      "id": "33f0858bc54bc807b19dbfdc7e407936",
+      "title": "CoinShares secures MiCA license in France, cementing EU presence",
+      "link": "https://cointelegraph.com/news/coinshares-secures-mica-license-eyes-european-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 11:55:12 +0100",
+      "excerpt": "In addition to its presence in the EU, CoinShares has expanded in the US market since entering it in 2023, aiming to compete with major industry peers.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
       "id": "4756530ee651cfb50b41af18cdea8aa5",
       "title": "OpenAI, Oracle expand $500B Stargate spend as Musk unveils bold xAI plan",
       "link": "https://cointelegraph.com/news/openai-oracle-stargate-expansion-musk-xai-h100-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1166,6 +1216,52 @@
         "crypto"
       ],
       "tags": []
+    },
+    {
+      "id": "6202cce39a704624d86078a53e56da2d",
+      "title": "Altcoins, NFTs Lure Risk-On Buyers: Crypto Daybook Americas",
+      "link": "https://www.coindesk.com/daybook-us/2025/07/23/altcoins-nfts-lure-risk-on-buyers-crypto-daybook-americas",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 11:25:00 +0000",
+      "excerpt": "Your day-ahead look for July 23, 2025",
+      "categories": [
+        "nft"
+      ],
+      "tags": [
+        "NFT"
+      ]
+    },
+    {
+      "id": "d32231bf09cb0b6e209c192532406fd9",
+      "title": "Bitwise CIO on Ether’s ‘Demand Shock’: Why ETH’s Rally Has Staying Power",
+      "link": "https://www.coindesk.com/markets/2025/07/23/bitwise-cio-on-ether-s-demand-shock-why-eth-s-rally-has-staying-power",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 11:13:30 +0000",
+      "excerpt": "Matthew Hougan says ETH treasury firms and spot ether ETFs are driving a $10 billion ETH supply squeeze, pushing ether toward structurally higher prices.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "88bb0e97fcb1f822fa30e4f71bdb9548",
+      "title": "Massive Polkadot (DOT) Rally Ahead? Here’s What’s Driving It",
+      "link": "https://cryptopotato.com/massive-polkadot-dot-rally-ahead-heres-whats-driving-it/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 11:07:42 +0000",
+      "excerpt": "Polkadot (DOT) eyes a strong 2025 rally as JAM upgrade, DeFi growth, and adoption boost momentum.",
+      "categories": [
+        "defi"
+      ],
+      "tags": [
+        "DeFi"
+      ]
     },
     {
       "id": "9c0b91bfb80bb46ce8c62616fdfac842",
@@ -1186,6 +1282,62 @@
       ]
     },
     {
+      "id": "980941658a86725bc7c1af45499013df",
+      "title": "Prince of Darkness’ Death Sparks Wave of Rug-Pulls on Solana",
+      "link": "https://www.coindesk.com/business/2025/07/23/prince-of-darkness-death-sparks-wave-of-rug-pulls-on-solana",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 11:03:04 +0000",
+      "excerpt": "Ozzy Osbourne’s death on Tuesday has sparked a wave of scam tokens on Solana, as bad actors exploit the heavy metal icon’s legacy for quick cash grabs.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "62fe4e81eeb753bde23e7237eb0c97f7",
+      "title": "MEI Pharma Pioneers Litecoin Treasury Strategy With $100 Million Commitment, Stock Surges",
+      "link": "https://beincrypto.com/mei-pharma-litecoin-treasury-strategy/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 11:02:08 +0000",
+      "excerpt": "MEI Pharma has committed $100 million to buy Litecoin as part of a unique treasury strategy, driving its stock price up by 111%. This move highlights growing institutional interest in LTC and its p...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "1660ed051bbc2f8f2adec9eb4e58065a",
+      "title": "‘Not A Threat’: Wester Union To Explore Stablecoin Integration For Cross-Border Payments",
+      "link": "https://bitcoinist.com/not-a-threat-wester-union-to-explore-stablecoin-integration-for-cross-border-payments/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 11:00:26 +0000",
+      "excerpt": "Western Union has joined the stablecoin race following the end of the historic “Crypto Week” and the recent passage of key legislation. The company is reportedly set to tap into digital assets for ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "017ec20e156062cd623b5bfbb606a041",
+      "title": "Stellar (XLM) Risks a 40% Drop as Bearish Divergence Returns",
+      "link": "https://beincrypto.com/xlm-price-40-percent-drop-bearish-divergence/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 11:00:00 +0000",
+      "excerpt": "XLM price sits around $0.47 after a 103% run. Bearish RSI divergence and a liquidation cluster below $0.40 raise deeper correction risk. Fibonacci supports at $0.44, $0.40, and $0.33 mark the path ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
       "id": "0c7b1051cafa1e6528d81aa1190f31f7",
       "title": "Fees, collateral give DeFi edge as TradFi eyes crypto loans: 1inch exec",
       "link": "https://cointelegraph.com/news/defi-vs-tradfi-crypto-lending-jpmorgan-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1198,6 +1350,37 @@
       ],
       "tags": [
         "DeFi"
+      ]
+    },
+    {
+      "id": "56da95a180f39c0c5921712a374ab471",
+      "title": "Bitcoin Slides as ETF Inflows Reverse and Network Activity Dips",
+      "link": "https://beincrypto.com/bitcoin-price-risks-etf-flows-retreat/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 10:44:23 +0000",
+      "excerpt": "After Bitcoin's all-time high, institutional outflows and reduced network activity suggest a potential short-term price correction, with BTC testing support levels.\nThe post Bitcoin Slides as ETF I...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin",
+        "Trading"
+      ]
+    },
+    {
+      "id": "9ede962821b8b50eb49ea1b8cde140ad",
+      "title": "Is a $10K ETH Christmas rally now base-case? As Ethereum ETFs pull in $4 Billion in 2 weeks",
+      "link": "https://cryptoslate.com/ethereum-etfs-pull-in-4-billion-in-2-weeks-is-a-10k-eth-christmas-rally-now-base-case/",
+      "source": "CryptoSlate",
+      "sourceUrl": "https://cryptoslate.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 10:35:50 +0000",
+      "excerpt": "Spot Ethereum ETFs have drawn more than $4 billion in net inflows over a two-week streak ending Tuesday, including $533.9 million added yesterday alone. That run pushed total assets across all eigh...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
       ]
     },
     {
@@ -1257,6 +1440,22 @@
       "tags": [
         "Ethereum",
         "Regulation"
+      ]
+    },
+    {
+      "id": "a959fb4455f3cf2768225fa91c1d3744",
+      "title": "Ozzy Osbourne’s death sparks 400% surge in CryptoBatz NFTs",
+      "link": "https://cointelegraph.com/news/ozzy-osbourne-death-400-surge-cryptobatz-nfts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 10:30:12 +0100",
+      "excerpt": "Though modest compared to 2022 levels, the latest spike in Ozzy Osbourne’s CryptoBatz NFTs could signal an NFT market rebound.",
+      "categories": [
+        "nft"
+      ],
+      "tags": [
+        "NFT",
+        "Trading"
       ]
     },
     {
@@ -8515,166 +8714,7 @@
         "crypto"
       ],
       "tags": []
-    },
-    {
-      "id": "217ab11a8d5aae33411fb892346c094d",
-      "title": "Chainlink Sees Heavy Accumulation – Whales Add 8M LINK In One Month",
-      "link": "https://www.newsbtc.com/chainlink-news/chainlink-sees-heavy-accumulation-whales-add-8m-link-in-one-month/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 04:00:13 +0000",
-      "excerpt": "Chainlink is entering a pivotal moment in its market cycle, with bullish sentiment returning after a prolonged period of underperformance. Since late June, LINK has surged over 70%, marking its str...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "ee1688f16abaa09c7d166879fbad1e3d",
-      "title": "Crypto Giant Bullish Files for NYSE IPO With Peter Thiel Backing",
-      "link": "https://news.bitcoin.com/crypto-giant-bullish-files-for-nyse-ipo-with-peter-thiel-backing/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 02:30:43 +0000",
-      "excerpt": "Bullish is charging into the public markets with a bold NYSE bid, signaling massive momentum for institutional crypto as investor appetite reignites and global ambitions scale fast. Thiel-Backed Bu...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "20ce94118bd31751466760b1e24a73e3",
-      "title": "Ripple CEO Says Likens GENIUS Act To Major Regulation After 2008 Finanical Crisis",
-      "link": "https://bitcoinist.com/ripple-ceo-on-the-genius-act/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 02:30:36 +0000",
-      "excerpt": "In a landmark moment for both Ripple and the broader crypto industry, US President Donald Trump has officially signed the Guiding and Establishing National Innovation for US Stablecoins Act, or the...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "57c61ffec17dd9366df7badb69824620",
-      "title": "FLOKI Faces Historical Reversal Cues After a 40% Rally",
-      "link": "https://beincrypto.com/floki-price-surge-faces-historical-reversal/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 02:30:00 +0000",
-      "excerpt": "FLOKI’s 40% weekly rally has drawn investor attention, but signs of overheating—like rising open interest and high MVRV—signal a possible reversal.\nThe post FLOKI Faces Historical Reversal Cues Aft...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "209d27c69732230399511c568d15850c",
-      "title": "Billionaire Ray Dalio’s Bridgewater Sells S&P 500, Amasses $1,020,000,000 in Two Major Assets",
-      "link": "https://dailyhodl.com/2025/07/19/billionaire-ray-dalios-bridgewater-sells-sp-500-amasses-1020000000-in-two-major-assets/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 02:23:31 +0000",
-      "excerpt": "Billionaire Ray Dalio’s hedge fund is shedding exposure to the S&P 500 and hedging against the US dollar – while managing to stay on offense. The latest 13F filings show Dalio’s Bridgewater Associa...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "ec27dcec68582f46707dc77eff2015d4",
-      "title": "Robinhood CEO: Crypto Will Reshape Every Industry—And It’s Already Happening",
-      "link": "https://news.bitcoin.com/robinhood-ceo-crypto-will-reshape-every-industry-and-its-already-happening/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 01:30:45 +0000",
-      "excerpt": "The United States just ignited a new era of crypto dominance, with landmark legislation unleashing blockchain and AI to revolutionize finance, healthcare, and the global digital economy. Crypto Tec...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "65c8e78583c4ff99c84bab826607dc45",
-      "title": "DOGE Bullish Pattern Points To $0.42 Target – Analyst",
-      "link": "https://www.newsbtc.com/news/dogecoin/doge-bullish-pattern-points-to-0-42-target-analyst/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 01:00:36 +0000",
-      "excerpt": "Dogecoin (DOGE) prices surged by over 17% in the past week, in line with a bullish altcoin performance, pushing the total crypto market cap to $4 trillion. The prominent altcoin is now facing major...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "3b91830685735f94a14d60b355572614",
-      "title": "Stellar (XLM) Price Faces Challenge Amid Mounting Outflows",
-      "link": "https://beincrypto.com/stellar-xlm-price-challenge-mounting-outflows/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 01:00:00 +0000",
-      "excerpt": "Stellar struggles to breach $0.50 amidst outflows and weakening momentum. A further drop is possible unless inflows recover, which could drive a price reversal.\nThe post Stellar (XLM) Price Faces C...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "9e06ad22abc44df6e388c1221e7f727e",
-      "title": "Steller (XLM) Price Faces Challenge Amid Mounting Outflows",
-      "link": "https://beincrypto.com/stellar-xlm-price-challenge-mounting-outflows/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sun, 20 Jul 2025 01:00:00 +0000",
-      "excerpt": "Stellar struggles to breach $0.50 amidst outflows and weakening momentum. A further drop is possible unless inflows recover, which could drive a price reversal.\nThe post Steller (XLM) Price Faces C...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "7a05da6ffbf22d045af3471f570f4629",
-      "title": "XLM’s price to rocket like XRP, Trump’s big crypto nod: Hodler’s Digest, July 13 – 19",
-      "link": "https://cointelegraph.com/news/stellar-xlm-xrp-rally-donald-trump-crypto-sign-bill-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 00:38:07 +0100",
-      "excerpt": "Stellar may be setting up for more upside after XRP's recent price surge, US President Donald Trump signed one of the first bills related to crypto of his adminstration, and other news.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "d29aafe90e06820be41a2af36d8a3f3d",
-      "title": "XLM&#039;s price to rocket like XRP, Trump’s big crypto nod: Hodler’s Digest, July 13 – 19",
-      "link": "https://cointelegraph.com/news/stellar-xlm-xrp-rally-donald-trump-crypto-sign-bill-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sun, 20 Jul 2025 00:38:07 +0100",
-      "excerpt": "Stellar may be setting up more upside after XRP's recent price surge, US President Donald Trump signed one of the first bills related to crypto, and other news.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
     }
   ],
-  "last_updated": "2025-07-23T10:37:04.020419"
+  "last_updated": "2025-07-23T11:28:00.942234"
 }
