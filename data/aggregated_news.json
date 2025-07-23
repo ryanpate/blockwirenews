@@ -1,6 +1,49 @@
 {
   "latest": [
     {
+      "id": "e574b8b1ce3fe0d7d30e334d2bfe7a41",
+      "title": "US looks to grab $7.1M in crypto from oil and gas investment scam",
+      "link": "https://cointelegraph.com/news/us-forfeiture-7-million-crypto-oil-gas-investment-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 07:36:03 +0100",
+      "excerpt": "Federal prosecutors in Seattle are looking to win forfeiture of millions worth of crypto tied to an investment scheme in the hope of distributing it to victims.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ca39e2463fe529f600288e4ae3af0f4f",
+      "title": "Crypto traders with ‘emotionless approach’ to do well this cycle — Exec",
+      "link": "https://cointelegraph.com/news/crypto-traders-historical-patterns-repeat-this-cycle-coinstash-founder-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 07:18:26 +0100",
+      "excerpt": "As traders try to guess the crypto market’s next move, Coinstash co-founder Mena Theodorou says sticking to historical trends is still the smartest move.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "f719d7b31d34e3cb896fefcfd7d046e5",
+      "title": "Bank of England mulls canning CBDC plan: Report",
+      "link": "https://cointelegraph.com/news/bank-of-england-mulls-canning-cbdc-plan-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 07:06:01 +0100",
+      "excerpt": "The UK central bank is considering abandoning its digital pound plans as its Governor Andrew Bailey favors private payment innovations over a state-backed CBDC.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
       "id": "e64c007cb2303fa61d92a4fbb1fe0516",
       "title": "SEC approves, then instantly pauses Bitwise’s ETF conversion",
       "link": "https://cointelegraph.com/news/sec-pauses-bitwise-crypto-etf-after-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -14,6 +57,212 @@
       "tags": [
         "Regulation"
       ]
+    },
+    {
+      "id": "1c5e385dcba6c1ad44561b7164e4730c",
+      "title": "Volcon Acquires 280 Bitcoin via $500 Million Private Placement",
+      "link": "https://news.bitcoin.com/volcon-acquires-280-bitcoin-via-500-million-private-placement/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:30:57 +0000",
+      "excerpt": "The $500 million private placement by Volcon will be used to fuel its bitcoin treasury strategy. The company has already accumulated over 280 BTC and entered a strategic partnership with Gemini. Vo...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "c487b74acb3684aa7d27e322e953847d",
+      "title": "Pi Coin Teases a Quick 40% Burst If This One EMA Cross Confirms",
+      "link": "https://beincrypto.com/pi-coin-price-40-percent-burst-ema-cross/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:30:00 +0000",
+      "excerpt": "Pi Coin price is stabilizing near $0.47 after the Buy Pi rollout jump. ADX shows trend strength returning, and a second EMA crossover is close. A break over $0.51 could send PI toward $0.54 and $0....",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "5130a8dffc003740ec0c17b982b49d15",
+      "title": "Backed Finance's Tokenized Stocks Product Volume Jumps to $300M",
+      "link": "https://www.coindesk.com/markets/2025/07/23/backed-finance-s-tokenized-stocks-product-volume-jumps-to-usd300m",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 06:23:44 +0000",
+      "excerpt": "Backed Finance's tokenized U.S. equities product, xStocks, has surpassed $300 million in trading volume within four weeks of launch.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "870323d2a0e152230593cc5243a5490c",
+      "title": "21Shares Seeks SEC Nod to Launch Ondo ETF",
+      "link": "https://beincrypto.com/21shares-ondo-trust-etf-registration/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:19:52 +0000",
+      "excerpt": "21Shares has submitted a filing for the 21Shares Ondo Trust ETF, designed to track the price of the ONDO token. The filing could boost institutional interest in ONDO amid rising crypto ETF momentum...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "e2989f4d286b6cbe96d219c221a869e9",
+      "title": "Binance Coin (BNB) Hits $800 in New All-Time High",
+      "link": "https://cryptopotato.com/binance-coin-bnb-hits-800-in-new-all-time-high/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:15:11 +0000",
+      "excerpt": "The native token of the world’s largest crypto exchange, Binance, has surged to an all-time high as calls for altseason intensify.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "248ce56ec075cef864dd67c10692642f",
+      "title": "$700M Worth of XRP Just Moved: Should You Be Worried?",
+      "link": "https://cryptopotato.com/700m-worth-of-xrp-just-moved-should-you-be-worried/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:10:57 +0000",
+      "excerpt": "The big transfer was spotted an hour ago.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a59fc85674011ec325c10dda59c43b08",
+      "title": "DOGE Volume Spikes 75% Above Average as Traders Defend $0.26 Floor",
+      "link": "https://www.coindesk.com/markets/2025/07/23/doge-volume-spikes-75-above-average-as-traders-defend-026-floor",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 06:02:37 +0000",
+      "excerpt": "Traders are eyeing breakout signals from resistance at $0.27, which has held firm despite bullish intraday activity.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "546108e6245ce1b39935567038e537f2",
+      "title": "SharpLink Acquires 79,949 Ethereum, Expands Treasury to 360,807 ETH",
+      "link": "https://bitcoinist.com/sharplink-acquires-eth-expands-treasury-ethereum/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:00:43 +0000",
+      "excerpt": "SharpLink Gaming, a Nasdaq-listed company chaired by Ethereum co-founder Joseph Lubin, has increased its Ethereum (ETH) reserves by nearly 30% in a strategic treasury move. The company acquired 79,...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "41fc497a91833ad38c51cf152cacab26",
+      "title": "XRP Breaks Out Of Bull Pennant—Is $15 Now In Sight?",
+      "link": "https://www.newsbtc.com/xrp-news/xrp-breaks-out-of-bull-pennant-is-15-now-in-sight/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:00:32 +0000",
+      "excerpt": "An analyst has pointed out that XRP has broken out of a Bull Pennant on the weekly chart and may now be setting its sights on this target. XRP Has Surged Above Bull Pennant Recently In a new post o...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Analysis"
+      ]
+    },
+    {
+      "id": "7fe408923ec840966b58388a7501a734",
+      "title": "21Shares Files for Spot ETF Tied to Ondo Finance’s Native Token",
+      "link": "https://cryptonews.com/news/21shares-files-for-spot-etf-tied-to-ondo-finances-native-token/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 05:59:58 +0000",
+      "excerpt": "21Shares is pushing further into the tokenized finance sector, filing with U.S. regulators for a spot ETF that tracks the native token of Ondo Finance.\nThe post 21Shares Files for Spot ETF Tied to ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "846038f26d14e53837ddb2645ff7b5b3",
+      "title": "Spot Ethereum ETFs Record $534M in Daily Inflows, Third-Highest Since Launch",
+      "link": "https://cryptonews.com/news/spot-ethereum-etf-record-534m-daily-inflows-third-highest-since-launch/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 05:53:31 +0000",
+      "excerpt": "Spot Ethereum ETFs saw a $534M inflow on July 22, the third-largest to date, showing growing institutional interest in Ethereum’s tokenization role.\nThe post Spot Ethereum ETFs Record $534M in Dail...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "63913f26f4718b6f4717b80a27b45ece",
+      "title": "XRP Climbs 4% on Triangle Breakout, Holds $3.50 Amid Profit-Taking",
+      "link": "https://www.coindesk.com/markets/2025/07/23/xrp-climbs-4-on-triangle-breakout-holds-350-amid-profit-taking",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 05:47:00 +0000",
+      "excerpt": "Digital asset breaks multi-year technical pattern as Congress advances crypto legislation, though institutional profit-taking emerges in final trading hour.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "8940314eab01da7e84ac21e4c526e50c",
+      "title": "Ethereum Demand Shock Could Send ETH to $10K This Year",
+      "link": "https://cryptopotato.com/ethereum-demand-shock-could-send-eth-to-10k-this-year/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 05:45:58 +0000",
+      "excerpt": "Ethereum has been on a tear recently, and its price will continue to rise due to a demand shock, according to industry experts.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "41e94c74623b9ccb7f848d57cdc28901",
+      "title": "Dogecoin Could Soon Verify ZK Proofs Natively, Thanks to DogeOS Push",
+      "link": "https://www.coindesk.com/tech/2025/07/23/dogecoin-could-soon-verify-zk-proofs-natively-thanks-to-dogeos-push",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 05:35:15 +0000",
+      "excerpt": "Developers aim to transform an unused part of the script system into a tool that can verify cryptographic proofs, starting with ‘Groth16’ (a specific type of proof widely used in zk systems) and al...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "7e3e6e5a2f0607b1bceade9bf7e6ed8e",
@@ -44,264 +293,70 @@
       "tags": [
         "Regulation"
       ]
-    },
-    {
-      "id": "0236d17d1ae760a59315d2b4182a8a05",
-      "title": "Solana (SOL) Smashes $200, Bulls Now Target $220–$250 Zone",
-      "link": "https://www.newsbtc.com/analysis/solana-sol-smashes-200/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 05:28:36 +0000",
-      "excerpt": "Solana started a fresh increase above the $185 zone. SOL price is now correcting gains and might find bids near the $195 support zone SOL price started a fresh upward move above the $185 and $192 l...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "089f37f5d9ef0f8d86b3acba2f6c1654",
-      "title": "21Shares files with SEC for spot ONDO ETF",
-      "link": "https://cointelegraph.com/news/21shares-files-spot-ondo-etf-with-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Wed, 23 Jul 2025 05:22:22 +0100",
-      "excerpt": "21Shares has filed a preliminary application with the US Securities and Exchange Commission for an ETF tracking the token of the DeFi platform Ondo Finance.",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "d185cd14edff08e47b8dc7445f68ef00",
-      "title": "South Korea FSS Restricts Firms From Including Coinbase, Strategy in ETF Portfolios",
-      "link": "https://cryptonews.com/news/south-korea-fss-restricts-firms-from-including-crypto-stock-in-etfs/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Wed, 23 Jul 2025 05:18:41 +0000",
-      "excerpt": "South Korea’s financial regulator has advised domestic asset managers to limit exposure to crypto-related stocks like Coinbase and MicroStrategy in ETFs, reinforcing existing restrictions despite g...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "42c26db63d278655a250d7561d6274e9",
-      "title": "Peter Schiff Celebrates Gold ETF Returns, Dunks on Bitcoin",
-      "link": "https://news.bitcoin.com/peter-schiff-celebrates-gold-etf-returns-dunks-on-bitcoin/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 05:05:24 +0000",
-      "excerpt": "Gold investor Peter Schiff bragged about the returns on his precious metals in an X post on Tuesday before using the moment to take a dig at bitcoin ( BTC). Schiff says he owns the VanEck Gold Mine...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "92346f3157aeebadf2a9530669867891",
-      "title": "South Korea Tells Firms to Cut Exposure to Crypto ETFs, Coinbase and Strategy: Report",
-      "link": "https://www.coindesk.com/policy/2025/07/23/south-korea-tells-firms-to-cut-exposure-to-crypto-etfs-coinbase-and-strategy-report",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Wed, 23 Jul 2025 05:00:10 +0000",
-      "excerpt": "The report seems to suggest a change in stance by South Korea, which was reportedly looking to ease crypto trading.",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "c071b9534cdafdb05670be28b3f9e6d1",
-      "title": "Ken Griffin’s Citadel Urges SEC to Treat Tokenized Shares Like Traditional Stocks",
-      "link": "https://cryptonews.com/news/citadel-securities-urges-sec-treat-tokenized-shares-traditional-stocks/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Wed, 23 Jul 2025 04:42:29 +0000",
-      "excerpt": "Citadel Securities urged the SEC to regulate tokenized equities like traditional stocks, warning against broad exemptions for crypto-based lookalike assets.\nThe post Ken Griffin’s Citadel Urges SEC...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "4f412ce16dd5763cbfccb1f521017fda",
-      "title": "Coinbase Teases 3 New Altcoin Listings, Market Reacts with Price Jumps",
-      "link": "https://beincrypto.com/coinbase-new-altcoin-listing-bnkr-jitosol-mplx/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 04:37:59 +0000",
-      "excerpt": "Coinbase's roadmap addition of BNKR, JITOSOL, and MPLX caused swift market reactions, especially for BNKR. Traders await full listings.\nThe post Coinbase Teases 3 New Altcoin Listings, Market React...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "9651b3707c12f3dea6a35e94f6dab668",
-      "title": "Bitcoin Hovers Below $120K as On-Chain Indicators Point to Slowing Demand",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-hovers-below-120k-as-on-chain-indicators-point-to-slowing-demand/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 04:30:28 +0000",
-      "excerpt": "Bitcoin’s price remains in a zone where it is seeing little upward momentum as it continues to hover below its recent all-time high. After reaching above $123,000 earlier this month, the asset has ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "c0dda36d6b72b9f507ea19e5ec10a926",
-      "title": "SpaceX Moves $153 Million In Bitcoin After Years Of Silence",
-      "link": "https://bitcoinist.com/spacex-moves-153-million-in-bitcoin/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 04:30:26 +0000",
-      "excerpt": "SpaceX has jolted the on‑chain ledgers for the first time in more than three years, dispatching 1,308 bitcoin—worth roughly $153 million at today’s market rate—to a fresh, unlabeled SegWit address....",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "4faa8acebfda8f6bc2a5e3c0256d523f",
-      "title": "Republic, DePIN Project Mawari Launch Landmark US Node Sale via Reg D",
-      "link": "https://news.bitcoin.com/republic-depin-project-mawari-launch-landmark-us-node-sale-via-reg-d/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 04:30:24 +0000",
-      "excerpt": "An alternative asset investment platform has partnered with the decentralized physical infrastructure network project Mawari to launch the first license sale of guardian nodes for U.S. investors. D...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "b143530d5f8eecaa79e176fb83523294",
-      "title": "[LIVE] Crypto News Today: Latest Updates for July 23, 2025 – BNB Hits New ATH Above $800, Flips SOL in Market Cap",
-      "link": "https://cryptonews.com/news/live-crypto-news-today-latest-updates-for-july-22-2025-bnb-breaks-ath-above-800/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Wed, 23 Jul 2025 04:14:04 +0000",
-      "excerpt": "Follow up to the hour updates on what is happening in crypto today, July 23. Market movements, crypto news, and more!\nThe post [LIVE] Crypto News Today: Latest Updates for July 23, 2025 – BNB Hits ...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "76ca3ae644a5972df04a144408ca6032",
-      "title": "XRP Price Maintains Support—Can Bulls Push It Higher Again?",
-      "link": "https://www.newsbtc.com/analysis/xrp/xrp-price-maintains-support-3-35/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 04:08:12 +0000",
-      "excerpt": "XRP price started a fresh increase and traded above the $3.40 zone. The price is now consolidating gains and might aim for a fresh increase above the $3.550 zone. XRP price started a fresh increase...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "abfbcb6eb333c7e14238e402279a43d8",
-      "title": "Bitcoin hitting $200K this year ‘very improbable,’ says analyst",
-      "link": "https://cointelegraph.com/news/bitcoin-price-200k-probability-crypto-analysts-buying-volume-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Wed, 23 Jul 2025 04:04:57 +0100",
-      "excerpt": "Glassnode lead analyst James Check says in five years’ time Bitcoin will be “well and truly” past the $200,000 price level, but doesn't expect it to surpass that this year.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "9f7f547216240b128f323c0fae2062ae",
-      "title": "Bitcoin Shows Near-term Fragility as Investors Shift to Altcoins: Bitfinex",
-      "link": "https://cryptopotato.com/bitcoin-shows-near-term-fragility-as-investors-shift-to-altcoins-bitfinex/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 03:55:49 +0000",
-      "excerpt": "For the first time since early 2024, long-term BTC holders have begun to distribute their holdings, and bitcoin's dominance is declining.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "2017b04433b71dbf3b7940c5268686bd",
-      "title": "PNC Bank to Offer Crypto Services Through Coinbase Partnership",
-      "link": "https://cryptonews.com/news/pnc-bank-to-offer-buy-sell-hold-crypto-services-through-coinbase-partnership/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Wed, 23 Jul 2025 03:48:34 +0000",
-      "excerpt": "PNC Bank to add Coinbase’s Crypto-as-a-Service platform for trading of digital assets, and would offer banking services to Coinbase.\nThe post PNC Bank to Offer Crypto Services Through Coinbase Part...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "ea545afbf099ac3ea6ea9681faea1fd0",
-      "title": "UK to ban public sector from making ransomware payments",
-      "link": "https://cointelegraph.com/news/uk-ransomware-payment-ban-critical-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Wed, 23 Jul 2025 03:45:48 +0100",
-      "excerpt": "The UK will prohibit its public sector, such as its health service and local councils, from paying ransomware in a bid to “smash the cyber criminal business model.”",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
-      "id": "6533d5b6ecac90a19c384ba28c8d4a05",
-      "title": "Analyst Warns XRP Investors About Banks, Here’s Why",
-      "link": "https://bitcoinist.com/analyst-warns-xrp-investors/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 03:30:29 +0000",
-      "excerpt": "A crypto analyst has raised alarm bells for XRP investors, claiming that traditional banks may be strategically working to drive down the altcoin’s price under the guise of regulatory caution. Acco...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
     }
   ],
   "featured": [
+    {
+      "id": "1c5e385dcba6c1ad44561b7164e4730c",
+      "title": "Volcon Acquires 280 Bitcoin via $500 Million Private Placement",
+      "link": "https://news.bitcoin.com/volcon-acquires-280-bitcoin-via-500-million-private-placement/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:30:57 +0000",
+      "excerpt": "The $500 million private placement by Volcon will be used to fuel its bitcoin treasury strategy. The company has already accumulated over 280 BTC and entered a strategic partnership with Gemini. Vo...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "546108e6245ce1b39935567038e537f2",
+      "title": "SharpLink Acquires 79,949 Ethereum, Expands Treasury to 360,807 ETH",
+      "link": "https://bitcoinist.com/sharplink-acquires-eth-expands-treasury-ethereum/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:00:43 +0000",
+      "excerpt": "SharpLink Gaming, a Nasdaq-listed company chaired by Ethereum co-founder Joseph Lubin, has increased its Ethereum (ETH) reserves by nearly 30% in a strategic treasury move. The company acquired 79,...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "846038f26d14e53837ddb2645ff7b5b3",
+      "title": "Spot Ethereum ETFs Record $534M in Daily Inflows, Third-Highest Since Launch",
+      "link": "https://cryptonews.com/news/spot-ethereum-etf-record-534m-daily-inflows-third-highest-since-launch/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 05:53:31 +0000",
+      "excerpt": "Spot Ethereum ETFs saw a $534M inflow on July 22, the third-largest to date, showing growing institutional interest in Ethereum’s tokenization role.\nThe post Spot Ethereum ETFs Record $534M in Dail...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "8940314eab01da7e84ac21e4c526e50c",
+      "title": "Ethereum Demand Shock Could Send ETH to $10K This Year",
+      "link": "https://cryptopotato.com/ethereum-demand-shock-could-send-eth-to-10k-this-year/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 05:45:58 +0000",
+      "excerpt": "Ethereum has been on a tear recently, and its price will continue to rise due to a demand shock, according to industry experts.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
     {
       "id": "7e3e6e5a2f0607b1bceade9bf7e6ed8e",
       "title": "Ethereum Based Meme Coin PEPETO Raises Above $5.5M in Presale",
@@ -316,15 +371,17 @@
       "tags": [
         "Ethereum"
       ]
-    },
+    }
+  ],
+  "bitcoin": [
     {
-      "id": "42c26db63d278655a250d7561d6274e9",
-      "title": "Peter Schiff Celebrates Gold ETF Returns, Dunks on Bitcoin",
-      "link": "https://news.bitcoin.com/peter-schiff-celebrates-gold-etf-returns-dunks-on-bitcoin/",
+      "id": "1c5e385dcba6c1ad44561b7164e4730c",
+      "title": "Volcon Acquires 280 Bitcoin via $500 Million Private Placement",
+      "link": "https://news.bitcoin.com/volcon-acquires-280-bitcoin-via-500-million-private-placement/",
       "source": "Bitcoin.com",
       "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 05:05:24 +0000",
-      "excerpt": "Gold investor Peter Schiff bragged about the returns on his precious metals in an X post on Tuesday before using the moment to take a dig at bitcoin ( BTC). Schiff says he owns the VanEck Gold Mine...",
+      "timestamp": "Wed, 23 Jul 2025 06:30:57 +0000",
+      "excerpt": "The $500 million private placement by Volcon will be used to fuel its bitcoin treasury strategy. The company has already accumulated over 280 BTC and entered a strategic partnership with Gemini. Vo...",
       "categories": [
         "bitcoin"
       ],
@@ -332,56 +389,6 @@
         "Bitcoin"
       ]
     },
-    {
-      "id": "9651b3707c12f3dea6a35e94f6dab668",
-      "title": "Bitcoin Hovers Below $120K as On-Chain Indicators Point to Slowing Demand",
-      "link": "https://www.newsbtc.com/bitcoin-news/bitcoin-hovers-below-120k-as-on-chain-indicators-point-to-slowing-demand/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 04:30:28 +0000",
-      "excerpt": "Bitcoin’s price remains in a zone where it is seeing little upward momentum as it continues to hover below its recent all-time high. After reaching above $123,000 earlier this month, the asset has ...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "c0dda36d6b72b9f507ea19e5ec10a926",
-      "title": "SpaceX Moves $153 Million In Bitcoin After Years Of Silence",
-      "link": "https://bitcoinist.com/spacex-moves-153-million-in-bitcoin/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Wed, 23 Jul 2025 04:30:26 +0000",
-      "excerpt": "SpaceX has jolted the on‑chain ledgers for the first time in more than three years, dispatching 1,308 bitcoin—worth roughly $153 million at today’s market rate—to a fresh, unlabeled SegWit address....",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    },
-    {
-      "id": "abfbcb6eb333c7e14238e402279a43d8",
-      "title": "Bitcoin hitting $200K this year ‘very improbable,’ says analyst",
-      "link": "https://cointelegraph.com/news/bitcoin-price-200k-probability-crypto-analysts-buying-volume-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Wed, 23 Jul 2025 04:04:57 +0100",
-      "excerpt": "Glassnode lead analyst James Check says in five years’ time Bitcoin will be “well and truly” past the $200,000 price level, but doesn't expect it to surpass that this year.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Trading"
-      ]
-    }
-  ],
-  "bitcoin": [
     {
       "id": "42c26db63d278655a250d7561d6274e9",
       "title": "Peter Schiff Celebrates Gold ETF Returns, Dunks on Bitcoin",
@@ -530,24 +537,55 @@
         "Ethereum",
         "Trading"
       ]
-    },
-    {
-      "id": "69f97ab268d0c96910111e085a0bb702",
-      "title": "Asia Morning Briefing: The First AI vs BTC Environmental Impact Numbers are Here. And it Might Start a New Debate",
-      "link": "https://www.coindesk.com/markets/2025/07/23/asia-morning-briefing-the-first-ai-vs-btc-environmental-impact-numbers-are-here-and-it-might-start-a-new-debate",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Wed, 23 Jul 2025 01:43:49 +0000",
-      "excerpt": "Bitcoin’s environmental footprint dwarfs that of large language models across every metric, from CO₂ emissions to water use to mineral depletion. But comparisons need context.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
     }
   ],
   "ethereum": [
+    {
+      "id": "546108e6245ce1b39935567038e537f2",
+      "title": "SharpLink Acquires 79,949 Ethereum, Expands Treasury to 360,807 ETH",
+      "link": "https://bitcoinist.com/sharplink-acquires-eth-expands-treasury-ethereum/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:00:43 +0000",
+      "excerpt": "SharpLink Gaming, a Nasdaq-listed company chaired by Ethereum co-founder Joseph Lubin, has increased its Ethereum (ETH) reserves by nearly 30% in a strategic treasury move. The company acquired 79,...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "846038f26d14e53837ddb2645ff7b5b3",
+      "title": "Spot Ethereum ETFs Record $534M in Daily Inflows, Third-Highest Since Launch",
+      "link": "https://cryptonews.com/news/spot-ethereum-etf-record-534m-daily-inflows-third-highest-since-launch/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 05:53:31 +0000",
+      "excerpt": "Spot Ethereum ETFs saw a $534M inflow on July 22, the third-largest to date, showing growing institutional interest in Ethereum’s tokenization role.\nThe post Spot Ethereum ETFs Record $534M in Dail...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "8940314eab01da7e84ac21e4c526e50c",
+      "title": "Ethereum Demand Shock Could Send ETH to $10K This Year",
+      "link": "https://cryptopotato.com/ethereum-demand-shock-could-send-eth-to-10k-this-year/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 05:45:58 +0000",
+      "excerpt": "Ethereum has been on a tear recently, and its price will continue to rise due to a demand shock, according to industry experts.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
     {
       "id": "7e3e6e5a2f0607b1bceade9bf7e6ed8e",
       "title": "Ethereum Based Meme Coin PEPETO Raises Above $5.5M in Presale",
@@ -668,55 +706,6 @@
       ],
       "tags": [
         "Ethereum"
-      ]
-    },
-    {
-      "id": "727340130d1ab053be07d2e164e16bdf",
-      "title": "In-kind redemption for Bitcoin and Ethereum ETFs get ‘positive sign’ as Cboe’s files amendments",
-      "link": "https://cryptoslate.com/in-kind-redemption-for-bitcoin-and-ethereum-etfs-get-positive-sign-as-cboes-files-amendments/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 21:30:12 +0000",
-      "excerpt": "Cboe has submitted amendments for five crypto-related exchange-traded funds (ETFs) that would allow authorized participants to create and redeem shares in-kind, which is a positive sign for the app...",
-      "categories": [
-        "bitcoin",
-        "ethereum"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "9fa7c33afd6f1e43ab0d51066c3169b7",
-      "title": "Cathie Wood’s ARK Offloads Coinbase and Roblox to Back Tom Lee’s ETH Venture",
-      "link": "https://cryptopotato.com/cathie-woods-ark-offloads-coinbase-and-roblox-to-back-tom-lees-eth-venture/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 21:10:14 +0000",
-      "excerpt": "The company with over $20 billion in AUM has made room in the portfolio for the second-largest crypto asset.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "f3cc3beeaaa1cec8c81d6b746f771d70",
-      "title": "Ethereum Validator Exit Queue Nears $2B as Stakers Rush to Exit After 160% Rally",
-      "link": "https://www.coindesk.com/tech/2025/07/22/ethereum-validator-exit-queue-nears-2b-as-stakers-rush-to-exit-after-160-rally",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Tue, 22 Jul 2025 21:08:27 +0000",
-      "excerpt": "The exodus stretched the waiting line to over 9 days, but strong staking demand from ETH treasury firms and SEC clarity may keep sell pressure in check.",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Regulation"
       ]
     }
   ],
@@ -1030,30 +1019,40 @@
         "Trading",
         "Regulation"
       ]
-    },
-    {
-      "id": "6c52ddf456df5f3b867420b37e355c7d",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:55:35 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
     }
   ],
   "analysis": [
+    {
+      "id": "41fc497a91833ad38c51cf152cacab26",
+      "title": "XRP Breaks Out Of Bull Pennant—Is $15 Now In Sight?",
+      "link": "https://www.newsbtc.com/xrp-news/xrp-breaks-out-of-bull-pennant-is-15-now-in-sight/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:00:32 +0000",
+      "excerpt": "An analyst has pointed out that XRP has broken out of a Bull Pennant on the weekly chart and may now be setting its sights on this target. XRP Has Surged Above Bull Pennant Recently In a new post o...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Analysis"
+      ]
+    },
+    {
+      "id": "63913f26f4718b6f4717b80a27b45ece",
+      "title": "XRP Climbs 4% on Triangle Breakout, Holds $3.50 Amid Profit-Taking",
+      "link": "https://www.coindesk.com/markets/2025/07/23/xrp-climbs-4-on-triangle-breakout-holds-350-amid-profit-taking",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 05:47:00 +0000",
+      "excerpt": "Digital asset breaks multi-year technical pattern as Congress advances crypto legislation, though institutional profit-taking emerges in final trading hour.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
     {
       "id": "89699783776851040a5d59cca2307f47",
       "title": "Analyst Predicts Explosive 126% Shiba Inu Rally After SHIB Surpasses Litecoin Market Cap",
@@ -1184,45 +1183,52 @@
         "Trading",
         "Analysis"
       ]
-    },
-    {
-      "id": "10026a24ff4eae84081b625bd063b212",
-      "title": "Analyst Drops ‘Realistic’ Price Predictions For Bitcoin, Ethereum, LINK, BNB, And Aptos",
-      "link": "https://www.newsbtc.com/news/bitcoin/bitcoin-eth-link-bnb-and-aptos/",
-      "source": "NewsBTC",
-      "sourceUrl": "https://www.newsbtc.com/feed/",
-      "timestamp": "Tue, 22 Jul 2025 21:00:42 +0000",
-      "excerpt": "As the crypto market gears up for what many expect to be a major bull run in 2025, top analysts are beginning to share their most realistic price predictions for leading digital assets like Bitcoin...",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "770da8524a79aca5f5656a8382f3ed80",
-      "title": "Crypto Prediction Market Polymarket Weighs Launching Its Own Stablecoin: Source",
-      "link": "https://www.coindesk.com/business/2025/07/22/crypto-prediction-market-polymarket-weighs-launching-its-own-stablecoin-source",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-      "timestamp": "Tue, 22 Jul 2025 20:08:57 +0000",
-      "excerpt": "Polymarket would create its own stablecoin to own the yield-generating USD reserves that back the amount of Circle’s dollar-pegged token, USDC, a source said.",
-      "categories": [
-        "defi",
-        "analysis"
-      ],
-      "tags": [
-        "DeFi",
-        "Trading"
-      ]
     }
   ],
   "all": [
+    {
+      "id": "e574b8b1ce3fe0d7d30e334d2bfe7a41",
+      "title": "US looks to grab $7.1M in crypto from oil and gas investment scam",
+      "link": "https://cointelegraph.com/news/us-forfeiture-7-million-crypto-oil-gas-investment-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 07:36:03 +0100",
+      "excerpt": "Federal prosecutors in Seattle are looking to win forfeiture of millions worth of crypto tied to an investment scheme in the hope of distributing it to victims.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "ca39e2463fe529f600288e4ae3af0f4f",
+      "title": "Crypto traders with ‘emotionless approach’ to do well this cycle — Exec",
+      "link": "https://cointelegraph.com/news/crypto-traders-historical-patterns-repeat-this-cycle-coinstash-founder-forecast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 07:18:26 +0100",
+      "excerpt": "As traders try to guess the crypto market’s next move, Coinstash co-founder Mena Theodorou says sticking to historical trends is still the smartest move.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "f719d7b31d34e3cb896fefcfd7d046e5",
+      "title": "Bank of England mulls canning CBDC plan: Report",
+      "link": "https://cointelegraph.com/news/bank-of-england-mulls-canning-cbdc-plan-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "CoinTelegraph",
+      "sourceUrl": "https://cointelegraph.com/rss",
+      "timestamp": "Wed, 23 Jul 2025 07:06:01 +0100",
+      "excerpt": "The UK central bank is considering abandoning its digital pound plans as its Governor Andrew Bailey favors private payment innovations over a state-backed CBDC.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
     {
       "id": "e64c007cb2303fa61d92a4fbb1fe0516",
       "title": "SEC approves, then instantly pauses Bitwise’s ETF conversion",
@@ -1237,6 +1243,212 @@
       "tags": [
         "Regulation"
       ]
+    },
+    {
+      "id": "1c5e385dcba6c1ad44561b7164e4730c",
+      "title": "Volcon Acquires 280 Bitcoin via $500 Million Private Placement",
+      "link": "https://news.bitcoin.com/volcon-acquires-280-bitcoin-via-500-million-private-placement/",
+      "source": "Bitcoin.com",
+      "sourceUrl": "https://news.bitcoin.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:30:57 +0000",
+      "excerpt": "The $500 million private placement by Volcon will be used to fuel its bitcoin treasury strategy. The company has already accumulated over 280 BTC and entered a strategic partnership with Gemini. Vo...",
+      "categories": [
+        "bitcoin"
+      ],
+      "tags": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "id": "c487b74acb3684aa7d27e322e953847d",
+      "title": "Pi Coin Teases a Quick 40% Burst If This One EMA Cross Confirms",
+      "link": "https://beincrypto.com/pi-coin-price-40-percent-burst-ema-cross/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:30:00 +0000",
+      "excerpt": "Pi Coin price is stabilizing near $0.47 after the Buy Pi rollout jump. ADX shows trend strength returning, and a second EMA crossover is close. A break over $0.51 could send PI toward $0.54 and $0....",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "5130a8dffc003740ec0c17b982b49d15",
+      "title": "Backed Finance's Tokenized Stocks Product Volume Jumps to $300M",
+      "link": "https://www.coindesk.com/markets/2025/07/23/backed-finance-s-tokenized-stocks-product-volume-jumps-to-usd300m",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 06:23:44 +0000",
+      "excerpt": "Backed Finance's tokenized U.S. equities product, xStocks, has surpassed $300 million in trading volume within four weeks of launch.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading"
+      ]
+    },
+    {
+      "id": "870323d2a0e152230593cc5243a5490c",
+      "title": "21Shares Seeks SEC Nod to Launch Ondo ETF",
+      "link": "https://beincrypto.com/21shares-ondo-trust-etf-registration/",
+      "source": "BeInCrypto",
+      "sourceUrl": "https://beincrypto.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:19:52 +0000",
+      "excerpt": "21Shares has submitted a filing for the 21Shares Ondo Trust ETF, designed to track the price of the ONDO token. The filing could boost institutional interest in ONDO amid rising crypto ETF momentum...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Trading",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "e2989f4d286b6cbe96d219c221a869e9",
+      "title": "Binance Coin (BNB) Hits $800 in New All-Time High",
+      "link": "https://cryptopotato.com/binance-coin-bnb-hits-800-in-new-all-time-high/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:15:11 +0000",
+      "excerpt": "The native token of the world’s largest crypto exchange, Binance, has surged to an all-time high as calls for altseason intensify.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "248ce56ec075cef864dd67c10692642f",
+      "title": "$700M Worth of XRP Just Moved: Should You Be Worried?",
+      "link": "https://cryptopotato.com/700m-worth-of-xrp-just-moved-should-you-be-worried/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:10:57 +0000",
+      "excerpt": "The big transfer was spotted an hour ago.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a59fc85674011ec325c10dda59c43b08",
+      "title": "DOGE Volume Spikes 75% Above Average as Traders Defend $0.26 Floor",
+      "link": "https://www.coindesk.com/markets/2025/07/23/doge-volume-spikes-75-above-average-as-traders-defend-026-floor",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 06:02:37 +0000",
+      "excerpt": "Traders are eyeing breakout signals from resistance at $0.27, which has held firm despite bullish intraday activity.",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
+    },
+    {
+      "id": "546108e6245ce1b39935567038e537f2",
+      "title": "SharpLink Acquires 79,949 Ethereum, Expands Treasury to 360,807 ETH",
+      "link": "https://bitcoinist.com/sharplink-acquires-eth-expands-treasury-ethereum/",
+      "source": "Bitcoinist",
+      "sourceUrl": "https://bitcoinist.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:00:43 +0000",
+      "excerpt": "SharpLink Gaming, a Nasdaq-listed company chaired by Ethereum co-founder Joseph Lubin, has increased its Ethereum (ETH) reserves by nearly 30% in a strategic treasury move. The company acquired 79,...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "41fc497a91833ad38c51cf152cacab26",
+      "title": "XRP Breaks Out Of Bull Pennant—Is $15 Now In Sight?",
+      "link": "https://www.newsbtc.com/xrp-news/xrp-breaks-out-of-bull-pennant-is-15-now-in-sight/",
+      "source": "NewsBTC",
+      "sourceUrl": "https://www.newsbtc.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 06:00:32 +0000",
+      "excerpt": "An analyst has pointed out that XRP has broken out of a Bull Pennant on the weekly chart and may now be setting its sights on this target. XRP Has Surged Above Bull Pennant Recently In a new post o...",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Analysis"
+      ]
+    },
+    {
+      "id": "7fe408923ec840966b58388a7501a734",
+      "title": "21Shares Files for Spot ETF Tied to Ondo Finance’s Native Token",
+      "link": "https://cryptonews.com/news/21shares-files-for-spot-etf-tied-to-ondo-finances-native-token/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 05:59:58 +0000",
+      "excerpt": "21Shares is pushing further into the tokenized finance sector, filing with U.S. regulators for a spot ETF that tracks the native token of Ondo Finance.\nThe post 21Shares Files for Spot ETF Tied to ...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": [
+        "Regulation"
+      ]
+    },
+    {
+      "id": "846038f26d14e53837ddb2645ff7b5b3",
+      "title": "Spot Ethereum ETFs Record $534M in Daily Inflows, Third-Highest Since Launch",
+      "link": "https://cryptonews.com/news/spot-ethereum-etf-record-534m-daily-inflows-third-highest-since-launch/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 05:53:31 +0000",
+      "excerpt": "Spot Ethereum ETFs saw a $534M inflow on July 22, the third-largest to date, showing growing institutional interest in Ethereum’s tokenization role.\nThe post Spot Ethereum ETFs Record $534M in Dail...",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum"
+      ]
+    },
+    {
+      "id": "63913f26f4718b6f4717b80a27b45ece",
+      "title": "XRP Climbs 4% on Triangle Breakout, Holds $3.50 Amid Profit-Taking",
+      "link": "https://www.coindesk.com/markets/2025/07/23/xrp-climbs-4-on-triangle-breakout-holds-350-amid-profit-taking",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 05:47:00 +0000",
+      "excerpt": "Digital asset breaks multi-year technical pattern as Congress advances crypto legislation, though institutional profit-taking emerges in final trading hour.",
+      "categories": [
+        "analysis"
+      ],
+      "tags": [
+        "Trading",
+        "Analysis"
+      ]
+    },
+    {
+      "id": "8940314eab01da7e84ac21e4c526e50c",
+      "title": "Ethereum Demand Shock Could Send ETH to $10K This Year",
+      "link": "https://cryptopotato.com/ethereum-demand-shock-could-send-eth-to-10k-this-year/",
+      "source": "CryptoPotato",
+      "sourceUrl": "https://cryptopotato.com/feed/",
+      "timestamp": "Wed, 23 Jul 2025 05:45:58 +0000",
+      "excerpt": "Ethereum has been on a tear recently, and its price will continue to rise due to a demand shock, according to industry experts.",
+      "categories": [
+        "ethereum"
+      ],
+      "tags": [
+        "Ethereum",
+        "Trading"
+      ]
+    },
+    {
+      "id": "41e94c74623b9ccb7f848d57cdc28901",
+      "title": "Dogecoin Could Soon Verify ZK Proofs Natively, Thanks to DogeOS Push",
+      "link": "https://www.coindesk.com/tech/2025/07/23/dogecoin-could-soon-verify-zk-proofs-natively-thanks-to-dogeos-push",
+      "source": "CoinDesk",
+      "sourceUrl": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "timestamp": "Wed, 23 Jul 2025 05:35:15 +0000",
+      "excerpt": "Developers aim to transform an unused part of the script system into a tool that can verify cryptographic proofs, starting with ‘Groth16’ (a specific type of proof widely used in zk systems) and al...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "7e3e6e5a2f0607b1bceade9bf7e6ed8e",
@@ -1298,6 +1510,19 @@
         "DeFi",
         "Regulation"
       ]
+    },
+    {
+      "id": "e5db74f6ac2618415deccbb72ec7fd8a",
+      "title": "South Korea Restricts Firms From Including Coinbase, Strategy in ETF Portfolios",
+      "link": "https://cryptonews.com/news/south-korea-fss-restricts-firms-from-including-crypto-stock-in-etfs/",
+      "source": "CryptoNews",
+      "sourceUrl": "https://cryptonews.com/news/feed/",
+      "timestamp": "Wed, 23 Jul 2025 05:18:41 +0000",
+      "excerpt": "South Korea’s financial regulator has advised domestic asset managers to limit exposure to crypto-related stocks like Coinbase and MicroStrategy in ETFs, reinforcing existing restrictions despite g...",
+      "categories": [
+        "crypto"
+      ],
+      "tags": []
     },
     {
       "id": "d185cd14edff08e47b8dc7445f68ef00",
@@ -8489,292 +8714,7 @@
         "Trading",
         "Analysis"
       ]
-    },
-    {
-      "id": "821bed78895712201327574d49dc7278",
-      "title": "Can XRP price reach $20? These charts say ‘full bull’ phase is still ahead",
-      "link": "https://cointelegraph.com/news/can-xrp-price-reach-dollar20-these-charts-full-bull-phase-still-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 15:50:07 +0100",
-      "excerpt": "Multiple chart technicals and indicators suggest that XRP price has the potential to stage a parabolic rally over the next few weeks.",
-      "categories": [
-        "analysis"
-      ],
-      "tags": [
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "177d58fb2764fa75407f4e01f08211c9",
-      "title": "Bitcoin Flashing ‘Very Bullish Signal’ Right Now, According to Analyst Kevin Svenson – Here’s His Target",
-      "link": "https://dailyhodl.com/2025/07/19/bitcoin-flashing-very-bullish-signal-right-now-according-to-analyst-kevin-svenson-here-are-his-targets/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:45:10 +0000",
-      "excerpt": "Cryptocurrency analyst and trader Kevin Svenson is saying one indicator is signaling major momentum for Bitcoin (BTC). Svenson tells his 83,500 YouTube subscribers that the relative strength index ...",
-      "categories": [
-        "bitcoin",
-        "defi"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "2c1054e49cedf8a5d101bdc933e50f27",
-      "title": "Pump.fun’s PUMP Token Peaks Then Plummets—Is the Party Over?",
-      "link": "https://news.bitcoin.com/pump-funs-pump-token-peaks-then-plummets-is-the-party-over/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:34:48 +0000",
-      "excerpt": "Pump.fun’s freshly minted token, PUMP, has hit a few speed bumps since its debut on July 12. Originally offered at $0.004 during the platform’s initial coin offering (ICO), it’s barely nudged highe...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "b64f2daae18801e1d3b221777b69c305",
-      "title": "3 Made in USA Coins to Watch for The Fourth Week of July",
-      "link": "https://beincrypto.com/made-in-usa-coins-watch-july-fourth-week/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:30:00 +0000",
-      "excerpt": "With strong investor support, these three altcoins are poised for potential growth in the fourth week of July, but market shifts could alter their momentum.\nThe post 3 Made in USA Coins to Watch fo...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": [
-        "Trading"
-      ]
-    },
-    {
-      "id": "79ae16ac1641e5c46ed80813c2ce67a4",
-      "title": "Bitcoin Podcaster Peter McCormack Pledges to Fight Crime in Bedford Like a Real-Life Batman",
-      "link": "https://cryptonews.com/news/bitcoin-podcaster-peter-mccormack-pledges-to-fight-crime-in-bedford-like-a-real-life-batman/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 15:11:00 +0000",
-      "excerpt": "Peter McCormack, well-known Bitcoin podcaster and owner of Real Bedford FC, has announced a plan to tackle rising crime in Bedford, UK.\nThe post Bitcoin Podcaster Peter McCormack Pledges to Fight C...",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "795f74763a494fe2e4abaa297d009e5e",
-      "title": "Ethereum Price Prediction: Eyes on $4,000 – ETH’s 20% Weekly Gain Reshapes Market Outlook",
-      "link": "https://cryptonews.com/news/ethereum-price-prediction-eyes-on-4000-eths-20-weekly-gain-reshapes-market-outlook/",
-      "source": "CryptoNews",
-      "sourceUrl": "https://cryptonews.com/news/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:58:17 +0000",
-      "excerpt": "Ethereum has delivered one of the most impressive performances of 2025, surging over 20% in the past seven days as ETH bulls target the $4,000 mark as the next key psychological resistance.\nThe pos...",
-      "categories": [
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading"
-      ]
-    },
-    {
-      "id": "b310cbf8b39a11db4ce66a5fade19529",
-      "title": "From $5 Billion to $260 Billion: Stablecoins Mark Massive 5-Year Growth",
-      "link": "https://news.bitcoin.com/from-5-billion-to-260-billion-stablecoins-mark-massive-5-year-growth/",
-      "source": "Bitcoin.com",
-      "sourceUrl": "https://news.bitcoin.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:40:22 +0000",
-      "excerpt": "The stablecoin economy expanded by $3.533 billion over the past week, pushing its total valuation past the $260 billion mark for the first time in history. DeFi and Payments Fuel Stablecoin Growth ...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi"
-      ]
-    },
-    {
-      "id": "e58b912ffebefa7a3d779bc9e36af591",
-      "title": "JPMorgan Chase Warns De-Dollarization Underway As Central Banks Ditch USD, Aggressively Stockpile Gold",
-      "link": "https://dailyhodl.com/2025/07/19/jpmorgan-chase-warns-de-dollarization-underway-as-central-banks-ditch-usd-aggressively-stockpile-gold/",
-      "source": "The Daily Hodl",
-      "sourceUrl": "https://dailyhodl.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:30:14 +0000",
-      "excerpt": "JPMorgan Chase warns de-dollarization is accelerating, as central banks slash USD reserves while aggressively stockpiling gold. In a new note, Meera Chandan, co-head of Global FX Strategy at JPMorg...",
-      "categories": [
-        "crypto"
-      ],
-      "tags": []
-    },
-    {
-      "id": "3d2de63fc3e51ee10907aaf7548792dc",
-      "title": "Crypto Lawyer Argues GENIUS Act Sets The Stage For DeFi Expansion",
-      "link": "https://bitcoinist.com/crypto-lawyer-argues-genius-act-sets-the-stage-for-defi-expansion/",
-      "source": "Bitcoinist",
-      "sourceUrl": "https://bitcoinist.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:30:09 +0000",
-      "excerpt": "In a historic move for the digital asset industry, US President Donald Trump signed the GENIUS Act into law on Friday, marking the first major federal legislation governing cryptocurrency. The bill...",
-      "categories": [
-        "defi"
-      ],
-      "tags": [
-        "DeFi"
-      ]
-    },
-    {
-      "id": "07108c5b190c481757fec1de8c91af7b",
-      "title": "ETH Treasuries Ditch ‘Digital Gold’ Model for Yield-Generating Staking: Here’s Why It Matters",
-      "link": "https://cryptopotato.com/eth-treasuries-ditch-digital-gold-model-for-yield-generating-staking-heres-why-it-matters/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:19:02 +0000",
-      "excerpt": "Ethereum treasury strategies avoid hype, and focus on productive yield and staking, according to Galaxy Digital.",
-      "categories": [
-        "ethereum",
-        "defi"
-      ],
-      "tags": [
-        "Ethereum",
-        "DeFi"
-      ]
-    },
-    {
-      "id": "342df301606ae20daa3c44af81b29cd2",
-      "title": "Top 3 Altcoins Trending in Nigeria In The Fourth Week Of July",
-      "link": "https://beincrypto.com/trending-altcoins-nigeria-july-fourth-week/",
-      "source": "BeInCrypto",
-      "sourceUrl": "https://beincrypto.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 14:00:00 +0000",
-      "excerpt": "Ethereum leads the charge in Nigeria, while XRP reaches new highs, and Hedera benefits from institutional backing, signaling continued bullish trends for altcoins.\nThe post Top 3 Altcoins Trending ...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum"
-      ]
-    },
-    {
-      "id": "6c52ddf456df5f3b867420b37e355c7d",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:55:35 +0100",
-      "excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "categories": [
-        "bitcoin",
-        "defi",
-        "nft"
-      ],
-      "tags": [
-        "Bitcoin",
-        "DeFi",
-        "NFT",
-        "Trading",
-        "Regulation"
-      ]
-    },
-    {
-      "id": "d20452ab833fc1144d1b9ead40f0b67d",
-      "title": "Spot Bitcoin ETFs gain $363M, extend 12-day inflow streak to $6.6B",
-      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:52:16 +0100",
-      "excerpt": "Spot Bitcoin ETFs have attracted over $6.6 billion in 12 days, boosting assets under management to $152.4 billion.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "320036e38177d0afbc377247b0d5733f",
-      "title": "Spot Bitcoin ETFs gains $363M, extend 12-day inflow streak to $6.6B",
-      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss%3F&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:52:16 +0100",
-      "excerpt": "Spot Bitcoin ETFs have attracted over $6.6 billion in 12 days, boosting assets under management to $152.4 billion.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "d2dabb95a8ec755e695bf235ca4d8e08",
-      "title": "Spot Bitcoin ETFs gains $363M, extend 12-day inflow streak to $6.6B",
-      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss%3FREFRESH1635418611669&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:52:16 +0100",
-      "excerpt": "Spot Bitcoin ETFs have attracted over $6.6 billion in 12 days, boosting assets under management to $152.4 billion.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "c9b84864f25a4669e885076c30271f9a",
-      "title": "Spot Bitcoin ETFs gains $363M, extend 12-day inflow streak to $6.6B",
-      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-363m-inflow-12-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "CoinTelegraph",
-      "sourceUrl": "https://cointelegraph.com/rss",
-      "timestamp": "Sat, 19 Jul 2025 13:52:16 +0100",
-      "excerpt": "Spot Bitcoin ETFs have attracted over $6.6 billion in 12 days, boosting assets under management to $152.4 billion.",
-      "categories": [
-        "bitcoin"
-      ],
-      "tags": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "id": "aaee25f545b25890bf6fa8934e8ea69d",
-      "title": "Ripple Price Analysis: Is XRP About to Explode Above $4 This Week?",
-      "link": "https://cryptopotato.com/ripple-price-analysis-is-xrp-about-to-explode-above-4-this-week/",
-      "source": "CryptoPotato",
-      "sourceUrl": "https://cryptopotato.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:50:35 +0000",
-      "excerpt": "XRP has finally broken out of months of consolidation, reclaiming critical levels against both USDT and BTC. This breakout comes as broader market sentiment shifts bullish, with Ethereum and Bitcoi...",
-      "categories": [
-        "bitcoin",
-        "ethereum",
-        "analysis"
-      ],
-      "tags": [
-        "Bitcoin",
-        "Ethereum",
-        "Trading",
-        "Analysis"
-      ]
-    },
-    {
-      "id": "6c636a54f96bfdb87a636e1380e8591e",
-      "title": "Traders are bullish on ETH as price begins to catch up with the tech",
-      "link": "https://cryptoslate.com/traders-are-bullish-on-eth-as-price-begins-to-catch-up-with-the-tech/",
-      "source": "CryptoSlate",
-      "sourceUrl": "https://cryptoslate.com/feed/",
-      "timestamp": "Sat, 19 Jul 2025 13:30:52 +0000",
-      "excerpt": "Ethereum (ETH), the world’s second-largest crypto by market cap, may finally be poised for a breakout after years of underwhelming performance. With both traders and the broader community expressin...",
-      "categories": [
-        "ethereum"
-      ],
-      "tags": [
-        "Ethereum",
-        "Trading",
-        "Regulation"
-      ]
     }
   ],
-  "last_updated": "2025-07-23T05:40:06.915685"
+  "last_updated": "2025-07-23T06:47:25.816368"
 }
