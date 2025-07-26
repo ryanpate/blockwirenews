@@ -1,0 +1,251 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <!-- Hero Section -->
+    <div class="text-center mb-5">
+        <h1 class="glitch mb-3">BLOCKWIRE NEWS</h1>
+        <p class="lead" style="color: var(--text-secondary);">Real-time cryptocurrency intelligence</p>
+    </div>
+
+    <!-- Featured Articles -->
+    {% if featured_articles %}
+    <section class="featured-section mb-5">
+        <h2 class="mb-4 text-uppercase" style="color: var(--accent-primary); letter-spacing: 2px;">
+            <i class="fas fa-star"></i> Featured Intel
+        </h2>
+        <div class="row">
+            {% for article in featured_articles %}
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <span class="badge bg-primary mb-2">PRIORITY</span>
+                        <h5 class="card-title">{{ article.title|truncatechars:60 }}</h5>
+                        <p class="card-text" style="color: var(--text-secondary);">{{
+                            article.excerpt|striptags|truncatechars:150 }}</p>
+                        <a href="{{ article.get_absolute_url }}" class="btn btn-primary btn-sm">
+                            ACCESS <i class="fas fa-chevron-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    <!-- Market Overview -->
+    <section class="market-overview mb-5">
+        <h2 class="mb-4">
+            <i class="fas fa-chart-line"></i> Market Analysis
+        </h2>
+        <div class="row">
+            <div class="col-md-8">
+                <canvas id="priceChart" width="400" height="200"></canvas>
+            </div>
+            <div class="col-md-4">
+                <h4 class="text-uppercase mb-3" style="color: var(--accent-secondary); letter-spacing: 1px;">Top Assets
+                </h4>
+                <div class="list-group">
+                    {% for crypto in cryptocurrencies %}
+                    <div class="list-group-item d-flex justify-content-between align-items-center">
+                        <div>
+                            <strong>{{ crypto.name }}</strong>
+                            <small class="text-muted d-block">{{ crypto.symbol }}</small>
+                        </div>
+                        <div class="text-end">
+                            <strong style="font-family: 'Roboto Mono', monospace;">${{
+                                crypto.current_price|floatformat:2 }}</strong>
+                            {% if crypto.percent_change_24h %}
+                            {% if crypto.percent_change_24h >= 0 %}
+                            <small class="d-block text-success">▲ {{ crypto.percent_change_24h|floatformat:2 }}%</small>
+                            {% else %}
+                            <small class="d-block text-danger">▼ {{ crypto.percent_change_24h|floatformat:2|slice:"1:"
+                                }}%</small>
+                            {% endif %}
+                            {% else %}
+                            <small class="d-block text-muted">N/A</small>
+                            {% endif %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Latest News -->
+    <section class="latest-news">
+        <h2 class="mb-4 text-uppercase" style="color: var(--accent-primary); letter-spacing: 2px;">
+            <i class="fas fa-newspaper"></i> Intelligence Feed
+        </h2>
+        <div class="row">
+            {% for article in articles %}
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between align-items-start mb-2">
+                            {% if article.category %}
+                            <span class="badge bg-primary">{{ article.category.name|upper }}</span>
+                            {% endif %}
+                            <small class="text-muted">
+                                <i class="far fa-clock"></i> {{ article.published_date|date:"M d, Y" }}
+                            </small>
+                        </div>
+                        <h5 class="card-title">
+                            <a href="{{ article.get_absolute_url }}">
+                                {{ article.title }}
+                            </a>
+                        </h5>
+                        <p class="card-text" style="color: var(--text-secondary);">{{
+                            article.excerpt|striptags|truncatechars:150 }}</p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <small class="text-muted">
+                                {% if article.source %}
+                                <i class="fas fa-satellite-dish"></i> {{ article.source.name }}
+                                {% else %}
+                                <i class="fas fa-user-secret"></i> {{ article.author.username }}
+                                {% endif %}
+                            </small>
+                            <a href="{{ article.get_absolute_url }}" class="btn btn-outline-primary btn-sm">
+                                READ <i class="fas fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% empty %}
+            <div class="col-12">
+                <div class="text-center py-5">
+                    <i class="fas fa-satellite fa-3x mb-3" style="color: var(--accent-primary);"></i>
+                    <p style="color: var(--text-secondary);">No intelligence available. Scanning for updates...</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <!-- Pagination -->
+        {% if is_paginated %}
+        <nav aria-label="Page navigation" class="mt-4">
+            <ul class="pagination justify-content-center">
+                {% if page_obj.has_previous %}
+                <li class="page-item">
+                    <a class="page-link" href="?page={{ page_obj.previous_page_number }}">
+                        <i class="fas fa-chevron-left"></i>
+                    </a>
+                </li>
+                {% endif %}
+
+                {% for num in page_obj.paginator.page_range %}
+                <li class="page-item {% if page_obj.number == num %}active{% endif %}">
+                    <a class="page-link" href="?page={{ num }}">{{ num }}</a>
+                </li>
+                {% endfor %}
+
+                {% if page_obj.has_next %}
+                <li class="page-item">
+                    <a class="page-link" href="?page={{ page_obj.next_page_number }}">
+                        <i class="fas fa-chevron-right"></i>
+                    </a>
+                </li>
+                {% endif %}
+            </ul>
+        </nav>
+        {% endif %}
+    </section>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Enhanced futuristic chart
+    async function loadPriceChart() {
+        try {
+            const response = await fetch('/api/price-history/bitcoin/');
+            const data = await response.json();
+
+            const ctx = document.getElementById('priceChart').getContext('2d');
+            const gradient = ctx.createLinearGradient(0, 0, 0, 300);
+            gradient.addColorStop(0, 'rgba(0, 212, 255, 0.5)');
+            gradient.addColorStop(1, 'rgba(0, 212, 255, 0.01)');
+
+            const chart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: data.history.map(h => new Date(h.timestamp).toLocaleTimeString()),
+                    datasets: [{
+                        label: 'Bitcoin Price (USD)',
+                        data: data.history.map(h => h.price),
+                        borderColor: '#00d4ff',
+                        backgroundColor: gradient,
+                        borderWidth: 2,
+                        tension: 0.4,
+                        pointRadius: 0,
+                        pointHoverRadius: 5,
+                        pointHoverBackgroundColor: '#00d4ff',
+                        pointHoverBorderColor: '#fff',
+                        pointHoverBorderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: true,
+                            labels: {
+                                color: '#e0e0e0',
+                                font: {
+                                    family: "'Roboto Mono', monospace"
+                                }
+                            }
+                        },
+                        title: {
+                            display: true,
+                            text: 'BITCOIN PRICE ANALYSIS - LAST 24H',
+                            color: '#00d4ff',
+                            font: {
+                                size: 14,
+                                family: "'Roboto Mono', monospace",
+                                weight: 'bold'
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            grid: {
+                                color: 'rgba(255, 255, 255, 0.1)',
+                                borderColor: 'rgba(255, 255, 255, 0.2)'
+                            },
+                            ticks: {
+                                color: '#808080',
+                                font: {
+                                    size: 10,
+                                    family: "'Roboto Mono', monospace"
+                                }
+                            }
+                        },
+                        y: {
+                            grid: {
+                                color: 'rgba(255, 255, 255, 0.1)',
+                                borderColor: 'rgba(255, 255, 255, 0.2)'
+                            },
+                            ticks: {
+                                color: '#808080',
+                                font: {
+                                    family: "'Roboto Mono', monospace"
+                                },
+                                callback: function (value) {
+                                    return '$' + value.toFixed(0);
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        } catch (error) {
+            console.error('Error loading price chart:', error);
+        }
+    }
+
+    loadPriceChart();
+</script>
+{% endblock %}

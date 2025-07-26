@@ -1,0 +1,62 @@
+/* Crypto Ticker */
+.crypto-ticker {
+    overflow: hidden;
+    background: #000;
+}
+
+.ticker-wrap {
+    width: 100%;
+    overflow: hidden;
+}
+
+.ticker {
+    display: flex;
+    animation: ticker 30s linear infinite;
+    white-space: nowrap;
+}
+
+.ticker-item {
+    padding: 0 2rem;
+    font-size: 0.9rem;
+}
+
+@keyframes ticker {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+/* Featured Section */
+.featured-section .card {
+    transition: transform 0.3s;
+}
+
+.featured-section .card:hover {
+    transform: translateY(-5px);
+}
+
+/* Article Cards */
+.card-title a:hover {
+    color: #0d6efd !important;
+}
+
+/* Market Stats */
+.market-stats .list-group-item {
+    border-left: 3px solid transparent;
+    transition: all 0.3s;
+}
+
+.market-stats .list-group-item:hover {
+    border-left-color: #0d6efd;
+    background-color: #f8f9fa;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .ticker {
+        animation-duration: 20s;
+    }
+}
