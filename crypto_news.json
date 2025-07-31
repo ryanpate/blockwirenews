@@ -1,0 +1,186 @@
+{
+  "last_updated": "2025-07-31T11:15:04.115831",
+  "total_articles": 20,
+  "articles": [
+    {
+      "id": "bc8ecc2cde82",
+      "title": "Blockstream debuts Simplicity as Bitcoin’s answer to Ethereum’s Solidity",
+      "url": "https://cointelegraph.com/news/blockstream-bitcoin-smart-contract-simplicity-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODYwMDktMzgzOC03YTAyLTgyZTAtMjFhODc1OWFlNmZm.jpg\" alt=\"Blockstream debuts Simplicity as Bitcoin’s answer to Ethereum’s Solidity\"></p><p>Adam Back’s Blockstream has launched Bitcoin-native smart contract programming language Simplicity, offering an alternative to Ethereum’s Solidity.</p>",
+      "published": "Thu, 31 Jul 2025 17:00:00 +0100",
+      "source": "Cointelegraph",
+      "scraped_at": "2025-07-31T11:15:02.672659"
+    },
+    {
+      "id": "d6ef891d7e3e",
+      "title": "Ethereum derivatives show no momentum, raising doubts over $4K rally",
+      "url": "https://cointelegraph.com/news/ethereum-derivatives-show-no-monentum-raising-doubts-over-4k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODYwODQtZWJmZi03NTUxLTkxN2UtZjRhOTM1OTg1Mjc3.jpg\" alt=\"Ethereum derivatives show no momentum, raising doubts over $4K rally\"></p><p>Despite strong ETF inflows, ETH traders remain cautious as competitive pressures and weak network activity persist.</p>",
+      "published": "Thu, 31 Jul 2025 16:25:29 +0100",
+      "source": "Cointelegraph",
+      "scraped_at": "2025-07-31T11:15:02.672746"
+    },
+    {
+      "id": "27df16bae307",
+      "title": "White House crypto report a mixed bag for Bitcoin advocates",
+      "url": "https://cointelegraph.com/news/white-house-crypto-report-bitcoin-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODYwZDktNDA3YS03NTMyLWE5YWItZjEyNGZkMWYxMzVh.jpg\" alt=\"White House crypto report a mixed bag for Bitcoin advocates\"></p><p>The White House’s crypto report did not provide updates to the March 6 executive order establishing a Bitcoin reserve.</p>",
+      "published": "Thu, 31 Jul 2025 16:17:55 +0100",
+      "source": "Cointelegraph",
+      "scraped_at": "2025-07-31T11:15:02.672821"
+    },
+    {
+      "id": "5e6e9a6e765f",
+      "title": "The rise of Money2: The next financial system has already begun",
+      "url": "https://cointelegraph.com/news/money2-financial-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5N2E2ZGMtM2Q0Yy03NjRiLThlMGUtZGE1MDdlM2ZhMzYy.jpg\" alt=\"The rise of Money2: The next financial system has already begun\"></p><p>Money2 is a new financial system powered by stablecoins and DeFi. With $225 billion in stablecoins and code-based contracts replacing banks, Money2 is already changing how value moves.</p>",
+      "published": "Thu, 31 Jul 2025 16:00:00 +0100",
+      "source": "Cointelegraph",
+      "scraped_at": "2025-07-31T11:15:02.672901"
+    },
+    {
+      "id": "5e4d0c11532e",
+      "title": "Helium Plus Lets Businesses Join Solana DePIN Project With Just Wi-Fi",
+      "url": "https://www.coindesk.com/tech/2025/07/30/helium-plus-lets-businesses-join-solana-depin-project-with-just-wi-fi",
+      "description": "The Solana DePIN project is launching a new service that allows businesses to contribute to the Helium Network with just Wi-Fi and without having to buy new equipment.",
+      "published": "Thu, 31 Jul 2025 16:00:00 +0000",
+      "source": "CoinDesk",
+      "scraped_at": "2025-07-31T11:15:01.381480"
+    },
+    {
+      "id": "f81bd798cd06",
+      "title": "Appeals court overturns Nate Chastain&#039;s conviction in OpenSea insider trading case",
+      "url": "https://cointelegraph.com/news/appeals-court-overturns-conviction-opensea-insider-trading-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5NDE0ZjEtOWQ1My03YTNkLThkNzUtYTVjMDc3NDM4OTA5.jpg\" alt=\"Appeals court overturns Nate Chastain&#039;s conviction in OpenSea insider trading case\"></p><p>Former OpenSea employee Nathaniel Chastain has successfully appealed his conviction for wire fraud and money laundering.</p>",
+      "published": "Thu, 31 Jul 2025 15:31:09 +0100",
+      "source": "Cointelegraph",
+      "scraped_at": "2025-07-31T11:15:02.672972"
+    },
+    {
+      "id": "78f7a83e386d",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDYvMDE5Nzk0MjMtZWY4ZS03YzYwLWI5MzctYjlkZGY3NWZlOGFk.jpg\" alt=\"Here’s what happened in crypto today\"></p><p>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.</p>",
+      "published": "Thu, 31 Jul 2025 15:27:55 +0100",
+      "source": "Cointelegraph",
+      "scraped_at": "2025-07-31T11:15:02.673065"
+    },
+    {
+      "id": "56674896c3b2",
+      "title": "Bitcoin’s quantum threat: Naoris offers bounty to break crypto encryption",
+      "url": "https://cointelegraph.com/news/bounty-to-be-paid-to-whoever-breaks-bitcoin-s-cryptography-by-naoris?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODYwODItZmFlOS03NWMxLTg5MmUtZTAyM2M3OTE2NTJi.jpg\" alt=\"Bitcoin’s quantum threat: Naoris offers bounty to break crypto encryption\"></p><p>Naoris has launched a $120,000 bounty incentivising researchers to break key cryptographic algorithms underpinning Bitcoin, Ethereum and Solana.</p>",
+      "published": "Thu, 31 Jul 2025 15:18:02 +0100",
+      "source": "Cointelegraph",
+      "scraped_at": "2025-07-31T11:15:02.673135"
+    },
+    {
+      "id": "935db2fca7ac",
+      "title": "Bitcoin is now bigger than Amazon: Here’s how it became a top-5 asset",
+      "url": "https://cointelegraph.com/explained/bitcoin-is-now-bigger-than-amazon-heres-how-it-became-a-top-5-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85YWQwYTdjYWZjNDY4NDZkMTJkNDlhZWM2ZDJmNWQ2OC5qcGc=.jpg\" alt=\"Bitcoin is now bigger than Amazon: Here’s how it became a top-5 asset\"></p><p>Bitcoin’s explosive July rally pushed its market cap to $2.4 trillion, overtaking Amazon, silver and Alphabet, cementing its place among the world’s five most valuable assets.</p>",
+      "published": "Thu, 31 Jul 2025 15:15:00 +0100",
+      "source": "Cointelegraph",
+      "scraped_at": "2025-07-31T11:15:02.673209"
+    },
+    {
+      "id": "e0b3086f3405",
+      "title": "Crypto for Advisors: Ethereum Just Turned Ten",
+      "url": "https://www.coindesk.com/coindesk-indices/2025/07/30/crypto-for-advisors-ethereum-just-turned-ten",
+      "description": "Ethereum turned 10, and Ether’s role as a treasury reserve is growing. Read about current trends.",
+      "published": "Thu, 31 Jul 2025 15:00:00 +0000",
+      "source": "CoinDesk",
+      "scraped_at": "2025-07-31T11:15:01.381556"
+    },
+    {
+      "id": "edd68d337c1a",
+      "title": "Deutsche Bank-backed EURAU stablecoin launch: Key things to know",
+      "url": "https://cointelegraph.com/news/eurau-stablecoin-allunity-launch-key-things-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODYwNjAtZDM3Ni03Mjg5LWEyNTQtMjg3NGM2ZmI2YTA4.jpg\" alt=\"Deutsche Bank-backed EURAU stablecoin launch: Key things to know\"></p><p>AllUnity’s EURAU stablecoin launches as euro-denominated stablecoins account for just 0.2% of the stablecoin market despite surging 60% since late 2024.</p>",
+      "published": "Thu, 31 Jul 2025 14:57:58 +0100",
+      "source": "Cointelegraph",
+      "scraped_at": "2025-07-31T11:15:02.673281"
+    },
+    {
+      "id": "a8a618cd46be",
+      "title": "Robinhood's Strong Q2 Fails to Sway Cautious Wall Street Analysts",
+      "url": "https://www.coindesk.com/markets/2025/07/31/robinhood-s-strong-q2-fails-to-sway-cautious-wall-street-analysts",
+      "description": "Having nearly tripled in price from the April lows, the stock received a number of modest price target hikes, but no ratings upgrades.",
+      "published": "Thu, 31 Jul 2025 14:47:28 +0000",
+      "source": "CoinDesk",
+      "scraped_at": "2025-07-31T11:15:01.381624"
+    },
+    {
+      "id": "0113cf4b7cbb",
+      "title": "99% of CFOs plan to use crypto long term, 23% within two years: Deloitte",
+      "url": "https://cointelegraph.com/news/99-percent-of-cfos-plan-to-use-crypto-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "description": "<p style=\"float:right; margin:0 0 10px 15px; width:240px;\"><img src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDcvMDE5ODYwOTEtZDU5Mi03ZGE0LTliOGEtZjc1MjM0MmY4OWE1.jpg\" alt=\"99% of CFOs plan to use crypto long term, 23% within two years: Deloitte\"></p><p>A Deloitte survey shows 99% of CFOs at billion-dollar firms expect to adopt crypto long term, with nearly a quarter planning integration within two years.</p>",
+      "published": "Thu, 31 Jul 2025 14:45:16 +0100",
+      "source": "Cointelegraph",
+      "scraped_at": "2025-07-31T11:15:02.673354"
+    },
+    {
+      "id": "b6a8fcb4eef8",
+      "title": "Visa Expands Settlement Platform to Stellar, Avalanche, Adds Support for 3 Stablecoins",
+      "url": "https://www.coindesk.com/business/2025/07/31/visa-expands-settlement-platform-to-stellar-avalanche-adds-support-for-3-stablecoins",
+      "description": "Visa's platform now supports four stablecoins across four blockchains, including Ethereum and Solana.",
+      "published": "Thu, 31 Jul 2025 14:26:27 +0000",
+      "source": "CoinDesk",
+      "scraped_at": "2025-07-31T11:15:01.381691"
+    },
+    {
+      "id": "0f392f509bc9",
+      "title": "Stablecoins Speed Up Thanks to ‘AWS of Crypto’ Alchemy’s Latest Upgrade",
+      "url": "https://www.coindesk.com/tech/2025/07/31/stablecoins-speed-up-thanks-to-aws-of-crypto-alchemy-s-latest-upgrade",
+      "description": "Blockchain infrastructure firm Alchemy has released a punchy upgrade with its new Cortex Engine.",
+      "published": "Thu, 31 Jul 2025 14:14:50 +0000",
+      "source": "CoinDesk",
+      "scraped_at": "2025-07-31T11:15:01.381757"
+    },
+    {
+      "id": "16f0bf37b504",
+      "title": "ETH Going to $16K in This Cycle? Analyst Explains Why This Could happen",
+      "url": "https://www.coindesk.com/markets/2025/07/31/eth-going-to-usd16k-in-this-cycle-analyst-explains-why-this-could-happen",
+      "description": "Crypto analyst Edward says ether could surge to $15K–$16K this cycle, citing bullish technical patterns, ETF inflows and rising institutional demand.",
+      "published": "Thu, 31 Jul 2025 14:09:02 +0000",
+      "source": "CoinDesk",
+      "scraped_at": "2025-07-31T11:15:01.381826"
+    },
+    {
+      "id": "a5d2266c371f",
+      "title": "Clearpool Expands to Payments Financing, Debuts Stablecoin Yield Token",
+      "url": "https://www.coindesk.com/tech/2025/07/31/clearpool-expands-to-payments-financing-debuts-stablecoin-yield-token",
+      "description": "The decentralized finance platform targets fintechs bridging fiat settlement gaps with short-term stablecoin credit.",
+      "published": "Thu, 31 Jul 2025 13:54:46 +0000",
+      "source": "CoinDesk",
+      "scraped_at": "2025-07-31T11:15:01.381892"
+    },
+    {
+      "id": "2c03b367f328",
+      "title": "CoinDesk Indices and SGX Indices launch iEdge CoinDesk Cryptocurrency Indices",
+      "url": "https://www.coindesk.com/coindesk-indices/2025/07/31/coindesk-indices-and-sgx-indices-launch-iedge-coindesk-cryptocurrency-indices",
+      "description": "Institutional-grade benchmarks built for crypto market participation",
+      "published": "Thu, 31 Jul 2025 13:30:59 +0000",
+      "source": "CoinDesk",
+      "scraped_at": "2025-07-31T11:15:01.381957"
+    },
+    {
+      "id": "1382ece76df2",
+      "title": "CoinDesk 20 Performance Update: Hedera (HBAR) Gains 7.9% as All Assets Climb Higher",
+      "url": "https://www.coindesk.com/coindesk-indices/2025/07/31/coindesk-20-performance-update-hedera-hbar-gains-7-9-as-all-assets-climb-higher",
+      "description": "Aptos (APT) was also among the top performers, rising 5% from Wednesday.",
+      "published": "Thu, 31 Jul 2025 13:18:55 +0000",
+      "source": "CoinDesk",
+      "scraped_at": "2025-07-31T11:15:01.382026"
+    },
+    {
+      "id": "c2e30b63c983",
+      "title": "BTC Faces Golden Fibonacci Hurdle at $122K, XRP Holds Support at $3",
+      "url": "https://www.coindesk.com/markets/2025/07/31/btc-faces-golden-fibonacci-hurdle-at-usd122k-xrp-holds-support-at-usd3",
+      "description": "BTC bulls need to overcome the 161.8% Fib extension, the so-called golden ratio.",
+      "published": "Thu, 31 Jul 2025 13:13:37 +0000",
+      "source": "CoinDesk",
+      "scraped_at": "2025-07-31T11:15:01.382091"
+    }
+  ]
+}

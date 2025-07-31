@@ -1,0 +1,129 @@
+from flask import Flask, render_template, jsonify, request, redirect, url_for
+from datetime import datetime
+import json
+import os
+from apscheduler.schedulers.background import BackgroundScheduler
+import requests
+from crypto_news_scraper import SimpleCryptoRSSFeedScraper
+
+app = Flask(__name__)
+app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'your-secret-key-here')
+
+# Initialize scheduler for automatic news updates
+scheduler = BackgroundScheduler()
+scheduler.start()
+
+# Global variable to store news articles
+NEWS_FILE = 'crypto_news_rss.json'
+BLOG_FILE = 'blog_posts.json'
+
+
+def load_news():
+    """Load news from JSON file"""
+    try:
+        with open(NEWS_FILE, 'r') as f:
+            data = json.load(f)
+            return data.get('articles', [])
+    except:
+        return []
+
+
+def load_blog_posts():
+    """Load blog posts from JSON file"""
+    try:
+        with open(BLOG_FILE, 'r') as f:
+            return json.load(f)
+    except:
+        return []
+
+
+def save_blog_posts(posts):
+    """Save blog posts to JSON file"""
+    with open(BLOG_FILE, 'w') as f:
+        json.dump(posts, f, indent=2)
+
+
+def update_news():
+    """Function to update news - runs on schedule"""
+    print("Updating cryptocurrency news...")
+    scraper = SimpleCryptoRSSFeedScraper()
+    scraper.save_to_json(NEWS_FILE)
+
+
+# Schedule news updates every hour
+scheduler.add_job(func=update_news, trigger="interval",
+                  hours=1, id='news_updater')
+
+
+@app.route('/')
+def index():
+    """Main page with news and price ticker"""
+    news = load_news()[:15]  # Show latest 15 articles
+    blog_posts = load_blog_posts()[:5]  # Show latest 5 blog posts
+    return render_template('index.html', news=news, blog_posts=blog_posts)
+
+
+@app.route('/api/news')
+def api_news():
+    """API endpoint for news data"""
+    news = load_news()
+    return jsonify(news)
+
+
+@app.route('/api/prices')
+def api_prices():
+    """API endpoint for cryptocurrency prices"""
+    try:
+        # Using CoinGecko API (free tier)
+        url = "https://api.coingecko.com/api/v3/simple/price"
+        params = {
+            'ids': 'bitcoin,ethereum,binancecoin,ripple,cardano,solana,polkadot,dogecoin',
+            'vs_currencies': 'usd',
+            'include_24hr_change': 'true'
+        }
+        response = requests.get(url, params=params)
+        return jsonify(response.json())
+    except:
+        return jsonify({'error': 'Unable to fetch prices'}), 500
+
+
+@app.route('/blog')
+def blog():
+    """Blog page"""
+    blog_posts = load_blog_posts()
+    return render_template('blog.html', posts=blog_posts)
+
+
+@app.route('/blog/new', methods=['GET', 'POST'])
+def new_blog_post():
+    """Create new blog post"""
+    if request.method == 'POST':
+        posts = load_blog_posts()
+        new_post = {
+            'id': datetime.now().strftime('%Y%m%d%H%M%S'),
+            'title': request.form.get('title'),
+            'content': request.form.get('content'),
+            'author': request.form.get('author', 'Admin'),
+            'date': datetime.now().isoformat(),
+            'summary': request.form.get('content')[:200] + '...'
+        }
+        posts.insert(0, new_post)  # Add to beginning
+        save_blog_posts(posts)
+        return redirect(url_for('blog'))
+
+    return render_template('new_blog.html')
+
+
+@app.route('/update-news')
+def manual_update():
+    """Manually trigger news update"""
+    update_news()
+    return redirect(url_for('index'))
+
+
+if __name__ == '__main__':
+    # Update news on startup
+    if not os.path.exists(NEWS_FILE):
+        update_news()
+
+    app.run(debug=True, port=5000)

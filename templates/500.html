@@ -1,0 +1,14 @@
+{% extends "base_enhanced.html" %}
+
+{% block title %}Server Error - BlockWire News{% endblock %}
+
+{% block content %}
+<div style="max-width: 600px; margin: 4rem auto; text-align: center;">
+    <h1 style="font-size: 6rem; margin: 0; color: var(--danger);">500</h1>
+    <h2 style="color: var(--primary-color); margin-bottom: 1rem;">Server Error</h2>
+    <p style="color: #666; font-size: 1.1rem; margin-bottom: 2rem;">
+        Something went wrong on our end. We're working to fix it.
+    </p>
+    <a href="{{ url_for('index') }}" class="btn">Back to Home</a>
+</div>
+{% endblock %}

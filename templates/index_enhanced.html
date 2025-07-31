@@ -1,0 +1,118 @@
+{% extends "base_enhanced.html" %}
+
+{% block content %}
+<div style="display: grid; grid-template-columns: 1fr 300px; gap: 2rem;">
+    <main>
+        <h1 style="margin-bottom: 2rem; color: var(--primary-color);">Latest Cryptocurrency News</h1>
+        
+        {% if news %}
+            {% for article in news %}
+            <article style="background: white; border-radius: 8px; padding: 1.5rem; margin-bottom: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s;">
+                <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 0.5rem;">
+                    <span style="background: var(--accent-color); color: white; padding: 0.25rem 0.75rem; border-radius: 4px; font-size: 0.8rem; font-weight: 500;">
+                        {{ article.source }}
+                    </span>
+                </div>
+                <a href="{{ article.url }}" target="_blank" style="color: var(--primary-color); text-decoration: none; font-size: 1.2rem; font-weight: 600; line-height: 1.4; display: block; margin-bottom: 0.5rem;">
+                    {{ article.title }}
+                </a>
+                <p style="color: #666; font-size: 0.95rem; line-height: 1.5; margin-bottom: 0.5rem;">
+                    {{ article.summary }}
+                </p>
+                <time style="color: #999; font-size: 0.85rem;" data-timestamp="{{ article.scraped_at }}">
+                    {{ article.scraped_at }}
+                </time>
+            </article>
+            {% endfor %}
+        {% else %}
+            <div style="background: white; border-radius: 8px; padding: 2rem; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                <p style="color: #666; margin-bottom: 1rem;">No news articles available yet.</p>
+                {% if current_user.is_authenticated and current_user.is_admin %}
+                    <a href="{{ url_for('admin_update_news') }}" class="btn">Update News Now</a>
+                {% endif %}
+            </div>
+        {% endif %}
+    </main>
+    
+    <aside style="position: sticky; top: 2rem;">
+        <!-- Latest Blog Posts -->
+        <section style="background: white; border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+            <h2 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem; color: var(--primary-color);">
+                Latest Analysis
+            </h2>
+            {% if articles %}
+                {% for post in articles %}
+                <div style="border-bottom: 1px solid #eee; padding-bottom: 1rem; margin-bottom: 1rem;">
+                    <a href="{{ url_for('view_article', slug=post.slug) }}" style="color: var(--primary-color); text-decoration: none; font-weight: 500; font-size: 0.95rem;">
+                        {{ post.title }}
+                    </a>
+                    <div style="color: #999; font-size: 0.8rem; margin-top: 0.25rem;">
+                        by {{ post.author.username }} • {{ post.published_at.strftime('%b %d') if post.published_at else 'Draft' }}
+                    </div>
+                </div>
+                {% endfor %}
+            {% else %}
+                <p style="color: #666; font-size: 0.9rem;">No articles yet.</p>
+            {% endif %}
+            
+            {% if current_user.is_authenticated %}
+                <a href="{{ url_for('new_article') }}" class="btn btn-secondary" style="margin-top: 1rem; display: block; text-align: center;">
+                    Write New Article
+                </a>
+            {% endif %}
+        </section>
+        
+        <!-- About Section -->
+        <section style="background: white; border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+            <h2 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem; color: var(--primary-color);">
+                About BlockWire
+            </h2>
+            <p style="font-size: 0.9rem; color: #666; line-height: 1.6;">
+                Your trusted source for cryptocurrency news and analysis. We aggregate the latest updates from leading crypto news outlets to keep you informed about the rapidly evolving digital asset landscape.
+            </p>
+        </section>
+        
+        <!-- Actions -->
+        <section style="background: white; border-radius: 8px; padding: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+            <h2 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 1rem; color: var(--primary-color);">
+                Stay Updated
+            </h2>
+            <p style="font-size: 0.9rem; color: #666; margin-bottom: 1rem;">
+                News automatically updates every hour.
+            </p>
+            {% if current_user.is_authenticated and current_user.is_admin %}
+                <a href="{{ url_for('admin_update_news') }}" class="btn" style="width: 100%; text-align: center;">
+                    Refresh News Feed
+                </a>
+            {% elif not current_user.is_authenticated %}
+                <a href="{{ url_for('register') }}" class="btn" style="width: 100%; text-align: center;">
+                    Join BlockWire
+                </a>
+            {% endif %}
+        </section>
+    </aside>
+</div>
+
+<script>
+    // Format timestamps
+    document.querySelectorAll('time[data-timestamp]').forEach(el => {
+        try {
+            const date = new Date(el.getAttribute('data-timestamp'));
+            const now = new Date();
+            const diff = now - date;
+            const hours = Math.floor(diff / (1000 * 60 * 60));
+            const days = Math.floor(hours / 24);
+            
+            if (days > 0) {
+                el.textContent = `${days} day${days > 1 ? 's' : ''} ago`;
+            } else if (hours > 0) {
+                el.textContent = `${hours} hour${hours > 1 ? 's' : ''} ago`;
+            } else {
+                el.textContent = 'Just now';
+            }
+        } catch (e) {
+            // Keep original text if parsing fails
+        }
+    });
+</script>
+{% endblock %}

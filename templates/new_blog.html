@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+
+{% block title %}Write New Article - BlockWire News{% endblock %}
+
+{% block content %}
+<div style="max-width: 800px; margin: 0 auto;">
+    <h1 style="color: var(--primary-color); margin-bottom: 2rem;">Write New Article</h1>
+    
+    <form method="POST" style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <div style="margin-bottom: 1.5rem;">
+            <label for="title" style="display: block; margin-bottom: 0.5rem; font-weight: 600; color: var(--primary-color);">
+                Article Title
+            </label>
+            <input 
+                type="text" 
+                id="title" 
+                name="title" 
+                required
+                style="width: 100%; padding: 0.75rem; border: 1px solid #ddd; border-radius: 4px; font-size: 1rem;"
+                placeholder="Enter your article title..."
+            >
+        </div>
+        
+        <div style="margin-bottom: 1.5rem;">
+            <label for="author" style="display: block; margin-bottom: 0.5rem; font-weight: 600; color: var(--primary-color);">
+                Author Name
+            </label>
+            <input 
+                type="text" 
+                id="author" 
+                name="author" 
+                required
+                style="width: 100%; padding: 0.75rem; border: 1px solid #ddd; border-radius: 4px; font-size: 1rem;"
+                placeholder="Your name..."
+                value="Admin"
+            >
+        </div>
+        
+        <div style="margin-bottom: 1.5rem;">
+            <label for="content" style="display: block; margin-bottom: 0.5rem; font-weight: 600; color: var(--primary-color);">
+                Article Content
+            </label>
+            <textarea 
+                id="content" 
+                name="content" 
+                required
+                style="width: 100%; padding: 0.75rem; border: 1px solid #ddd; border-radius: 4px; font-size: 1rem; min-height: 400px; resize: vertical; line-height: 1.6;"
+                placeholder="Write your article content here..."
+            ></textarea>
+        </div>
+        
+        <div style="display: flex; gap: 1rem;">
+            <button type="submit" class="btn">Publish Article</button>
+            <a href="/blog" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+    
+    <div style="margin-top: 2rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+        <h3 style="color: var(--primary-color); margin-bottom: 1rem;">Writing Tips</h3>
+        <ul style="color: #666; line-height: 1.8;">
+            <li>Focus on recent cryptocurrency developments and trends</li>
+            <li>Provide analysis backed by data and credible sources</li>
+            <li>Keep your writing clear and accessible to all readers</li>
+            <li>Include your unique perspective on market movements</li>
+            <li>Break up long content with paragraphs for better readability</li>
+        </ul>
+    </div>
+</div>
+{% endblock %}

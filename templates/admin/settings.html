@@ -1,0 +1,66 @@
+{% extends "base_enhanced.html" %}
+
+{% block title %}Site Settings - Admin - BlockWire News{% endblock %}
+
+{% block content %}
+<div style="max-width: 800px; margin: 0 auto;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
+        <h1 style="color: var(--primary-color);">Site Settings</h1>
+        <a href="{{ url_for('admin_dashboard') }}" class="btn btn-secondary">Back to Dashboard</a>
+    </div>
+    
+    <form method="POST" style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h2 style="color: var(--primary-color); margin-bottom: 1.5rem;">General Settings</h2>
+        
+        <div class="form-group">
+            <label class="form-label">Site Name</label>
+            <input type="text" name="site_name" value="{{ settings.site_name }}" class="form-control">
+            <p style="color: #666; font-size: 0.875rem; margin-top: 0.25rem;">
+                The name displayed in the header and title
+            </p>
+        </div>
+        
+        <div class="form-group">
+            <label class="form-label">Site Description</label>
+            <textarea name="site_description" rows="3" class="form-control">{{ settings.site_description }}</textarea>
+            <p style="color: #666; font-size: 0.875rem; margin-top: 0.25rem;">
+                SEO meta description for search engines
+            </p>
+        </div>
+        
+        <hr style="margin: 2rem 0;">
+        
+        <h2 style="color: var(--primary-color); margin-bottom: 1.5rem;">Display Settings</h2>
+        
+        <div class="form-group">
+            <label class="form-label">Articles Per Page</label>
+            <input type="number" name="articles_per_page" value="{{ settings.articles_per_page }}" min="5" max="50" class="form-control">
+        </div>
+        
+        <div class="form-group">
+            <label class="form-label">News Items Per Page</label>
+            <input type="number" name="news_per_page" value="{{ settings.news_per_page }}" min="5" max="50" class="form-control">
+        </div>
+        
+        <hr style="margin: 2rem 0;">
+        
+        <h2 style="color: var(--primary-color); margin-bottom: 1.5rem;">User Settings</h2>
+        
+        <div class="form-group">
+            <label style="display: flex; align-items: center;">
+                <input type="checkbox" name="enable_registration" value="true" 
+                       {% if settings.enable_registration %}checked{% endif %} 
+                       class="form-checkbox">
+                <span style="margin-left: 0.5rem;">Enable User Registration</span>
+            </label>
+            <p style="color: #666; font-size: 0.875rem; margin-top: 0.25rem;">
+                Allow new users to create accounts
+            </p>
+        </div>
+        
+        <div style="margin-top: 2rem;">
+            <button type="submit" class="btn">Save Settings</button>
+        </div>
+    </form>
+</div>
+{% endblock %}

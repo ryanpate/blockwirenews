@@ -1,0 +1,72 @@
+{% extends "base_enhanced.html" %}
+
+{% block title %}{{ title }} - BlockWire News{% endblock %}
+
+{% block content %}
+<div style="max-width: 800px; margin: 0 auto;">
+    <h1 style="color: var(--primary-color); margin-bottom: 2rem;">{{ title }}</h1>
+    
+    <form method="POST" style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        {{ form.hidden_tag() }}
+        
+        <div class="form-group">
+            {{ form.title.label(class="form-label") }}
+            {{ form.title(class="form-control", placeholder="Enter a compelling title...") }}
+            {% if form.title.errors %}
+                {% for error in form.title.errors %}
+                    <div class="form-error">{{ error }}</div>
+                {% endfor %}
+            {% endif %}
+        </div>
+        
+        <div class="form-group">
+            {{ form.summary.label(class="form-label") }}
+            <p style="color: #666; font-size: 0.875rem; margin-top: -0.5rem; margin-bottom: 0.5rem;">
+                Brief summary (optional) - will be auto-generated from content if left blank
+            </p>
+            {{ form.summary(class="form-control", rows="3", placeholder="A brief summary of your article...") }}
+            {% if form.summary.errors %}
+                {% for error in form.summary.errors %}
+                    <div class="form-error">{{ error }}</div>
+                {% endfor %}
+            {% endif %}
+        </div>
+        
+        <div class="form-group">
+            {{ form.content.label(class="form-label") }}
+            {{ form.content(class="form-control", rows="20", placeholder="Write your article content here...") }}
+            {% if form.content.errors %}
+                {% for error in form.content.errors %}
+                    <div class="form-error">{{ error }}</div>
+                {% endfor %}
+            {% endif %}
+        </div>
+        
+        <div class="form-group">
+            <label style="display: flex; align-items: center;">
+                {{ form.published(class="form-checkbox") }}
+                <span style="margin-left: 0.5rem;">Publish immediately</span>
+            </label>
+            <p style="color: #666; font-size: 0.875rem; margin-top: 0.5rem;">
+                If unchecked, the article will be saved as a draft
+            </p>
+        </div>
+        
+        <div style="display: flex; gap: 1rem;">
+            {{ form.submit(class="btn") }}
+            <a href="{{ url_for('index') }}" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+    
+    <div style="margin-top: 2rem; padding: 1.5rem; background: #f8f9fa; border-radius: 8px;">
+        <h3 style="color: var(--primary-color); margin-bottom: 1rem;">Writing Tips</h3>
+        <ul style="color: #666; line-height: 1.8;">
+            <li>Focus on recent cryptocurrency developments and trends</li>
+            <li>Provide analysis backed by data and credible sources</li>
+            <li>Keep your writing clear and accessible to all readers</li>
+            <li>Include your unique perspective on market movements</li>
+            <li>Break up long content with paragraphs for better readability</li>
+        </ul>
+    </div>
+</div>
+{% endblock %}

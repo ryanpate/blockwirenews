@@ -1,0 +1,76 @@
+{% extends "base_enhanced.html" %}
+
+{% block title %}Manage News - Admin - BlockWire News{% endblock %}
+
+{% block content %}
+<div style="max-width: 1000px; margin: 0 auto;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
+        <h1 style="color: var(--primary-color);">Manage News Items</h1>
+        <div style="display: flex; gap: 1rem;">
+            <a href="{{ url_for('admin_update_news') }}" class="btn">Update News</a>
+            <a href="{{ url_for('admin_dashboard') }}" class="btn btn-secondary">Back to Dashboard</a>
+        </div>
+    </div>
+    
+    <div class="table">
+        <table style="width: 100%;">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Source</th>
+                    <th>Featured</th>
+                    <th>Published</th>
+                    <th>Scraped</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for item in news.items %}
+                <tr>
+                    <td>
+                        <a href="{{ item.url }}" target="_blank" 
+                           style="color: var(--primary-color); text-decoration: none;">
+                            {{ item.title[:60] }}{% if item.title|length > 60 %}...{% endif %}
+                        </a>
+                    </td>
+                    <td>{{ item.source }}</td>
+                    <td>
+                        {% if item.is_featured %}
+                            <span style="color: var(--accent-color);">★ Featured</span>
+                        {% else %}
+                            <span style="color: #ccc;">Not Featured</span>
+                        {% endif %}
+                    </td>
+                    <td>
+                        {% if item.published_date %}
+                            {{ item.published_date.strftime('%Y-%m-%d %H:%M') }}
+                        {% else %}
+                            -
+                        {% endif %}
+                    </td>
+                    <td>{{ item.scraped_at.strftime('%Y-%m-%d %H:%M') }}</td>
+                    <td>
+                        <a href="{{ url_for('toggle_featured', news_id=item.id) }}" 
+                           class="btn btn-small {% if item.is_featured %}btn-secondary{% endif %}">
+                            {% if item.is_featured %}Unfeature{% else %}Feature{% endif %}
+                        </a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    
+    <div class="pagination">
+        {% if news.has_prev %}
+            <a href="{{ url_for('admin_news', page=news.prev_num) }}">← Previous</a>
+        {% endif %}
+        
+        <span class="active">Page {{ news.page }} of {{ news.pages }}</span>
+        
+        {% if news.has_next %}
+            <a href="{{ url_for('admin_news', page=news.next_num) }}">Next →</a>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

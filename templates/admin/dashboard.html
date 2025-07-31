@@ -1,0 +1,110 @@
+{% extends "base_enhanced.html" %}
+
+{% block title %}Admin Dashboard - BlockWire News{% endblock %}
+
+{% block content %}
+<h1 style="margin-bottom: 2rem; color: var(--primary-color);">Admin Dashboard</h1>
+
+<!-- Statistics Cards -->
+<div
+    style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin-bottom: 3rem;">
+    <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h3 style="color: var(--info); margin-bottom: 0.5rem;">Total Users</h3>
+        <p style="font-size: 2rem; font-weight: 600; color: var(--text-dark);">{{ stats.total_users }}</p>
+    </div>
+
+    <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h3 style="color: var(--success); margin-bottom: 0.5rem;">Published Articles</h3>
+        <p style="font-size: 2rem; font-weight: 600; color: var(--text-dark);">
+            {{ stats.published_articles }} / {{ stats.total_articles }}
+        </p>
+    </div>
+
+    <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h3 style="color: var(--warning); margin-bottom: 0.5rem;">News Items</h3>
+        <p style="font-size: 2rem; font-weight: 600; color: var(--text-dark);">{{ stats.total_news }}</p>
+        <p style="font-size: 0.9rem; color: #666;">{{ stats.news_today }} added today</p>
+    </div>
+
+    <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h3 style="color: var(--accent-color); margin-bottom: 0.5rem;">Last Price Update</h3>
+        <p style="font-size: 1.2rem; color: var(--text-dark);">
+            {% if stats.latest_price_update %}
+            {{ stats.latest_price_update.timestamp.strftime('%H:%M:%S') }}
+            {% else %}
+            Never
+            {% endif %}
+        </p>
+    </div>
+</div>
+
+<!-- Quick Actions -->
+<div
+    style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 2rem;">
+    <h2 style="margin-bottom: 1.5rem; color: var(--primary-color);">Quick Actions</h2>
+    <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+        <a href="{{ url_for('admin_users') }}" class="btn">Manage Users</a>
+        <a href="{{ url_for('admin_articles') }}" class="btn">Manage Articles</a>
+        <a href="{{ url_for('admin_news') }}" class="btn">Manage News</a>
+        <a href="{{ url_for('admin_settings') }}" class="btn btn-secondary">Site Settings</a>
+        <a href="{{ url_for('admin_update_news') }}" class="btn btn-secondary">Update News</a>
+        <a href="{{ url_for('admin_update_prices') }}" class="btn btn-secondary">Update Prices</a>
+    </div>
+</div>
+
+<!-- Recent Activity -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
+    <div style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h2 style="margin-bottom: 1.5rem; color: var(--primary-color);">Recent Articles</h2>
+        {% if recent_articles %}
+        <ul style="list-style: none;">
+            {% for article in recent_articles %}
+            <li style="padding: 0.75rem 0; border-bottom: 1px solid #eee;">
+                <a href="{{ url_for('view_article', slug=article.slug) }}"
+                    style="color: var(--text-dark); text-decoration: none; font-weight: 500;">
+                    {{ article.title }}
+                </a>
+                <div style="font-size: 0.875rem; color: #666; margin-top: 0.25rem;">
+                    by {{ article.author.username }} •
+                    {{ article.created_at.strftime('%Y-%m-%d %H:%M') }}
+                    {% if not article.published %}
+                    <span style="color: var(--warning);">(Draft)</span>
+                    {% endif %}
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p style="color: #666;">No articles yet.</p>
+        {% endif %}
+    </div>
+
+    <div style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h2 style="margin-bottom: 1.5rem; color: var(--primary-color);">Recent Users</h2>
+        {% if recent_users %}
+        <ul style="list-style: none;">
+            {% for user in recent_users %}
+            <li style="padding: 0.75rem 0; border-bottom: 1px solid #eee;">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <div>
+                        <span style="font-weight: 500;">{{ user.username }}</span>
+                        {% if user.is_admin %}
+                        <span
+                            style="background: var(--accent-color); color: white; padding: 0.2rem 0.5rem; 
+                                               border-radius: 4px; font-size: 0.75rem; margin-left: 0.5rem;">Admin</span>
+                        {% endif %}
+                    </div>
+                    <span style="font-size: 0.875rem; color: #666;">
+                        {{ user.created_at.strftime('%Y-%m-%d') }}
+                    </span>
+                </div>
+                <div style="font-size: 0.875rem; color: #666;">{{ user.email }}</div>
+            </li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p style="color: #666;">No users yet.</p>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

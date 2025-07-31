@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}BlockWire News - Cryptocurrency News & Analysis{% endblock %}</title>
+    
+    <!-- CSS -->
+    <style>
+        :root {
+            --primary-color: #1a1a2e;
+            --secondary-color: #16213e;
+            --accent-color: #f39c12;
+            --text-light: #ecf0f1;
+            --text-dark: #2c3e50;
+            --success: #27ae60;
+            --danger: #e74c3c;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background-color: #f5f6fa;
+            color: var(--text-dark);
+            line-height: 1.6;
+        }
+        
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+            color: var(--text-light);
+            padding: 1rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .logo {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--accent-color);
+            text-decoration: none;
+            letter-spacing: -1px;
+        }
+        
+        .nav {
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+        }
+        
+        .nav a {
+            color: var(--text-light);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        
+        .nav a:hover {
+            color: var(--accent-color);
+        }
+        
+        /* Price Ticker */
+        .price-ticker {
+            background: var(--secondary-color);
+            padding: 0.75rem 0;
+            overflow: hidden;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .ticker-content {
+            display: flex;
+            animation: scroll 30s linear infinite;
+            white-space: nowrap;
+        }
+        
+        @keyframes scroll {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+        
+        .ticker-item {
+            display: inline-flex;
+            align-items: center;
+            margin-right: 3rem;
+            color: var(--text-light);
+            font-size: 0.9rem;
+        }
+        
+        .ticker-symbol {
+            font-weight: 700;
+            margin-right: 0.5rem;
+        }
+        
+        .ticker-price {
+            margin-right: 0.5rem;
+        }
+        
+        .ticker-change {
+            font-weight: 500;
+        }
+        
+        .ticker-change.positive {
+            color: var(--success);
+        }
+        
+        .ticker-change.negative {
+            color: var(--danger);
+        }
+        
+        /* Main Content */
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+        
+        .main-grid {
+            display: grid;
+            grid-template-columns: 1fr 300px;
+            gap: 2rem;
+        }
+        
+        /* News Cards */
+        .news-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .news-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        
+        .news-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            margin-bottom: 0.5rem;
+        }
+        
+        .news-source {
+            background: var(--accent-color);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+        
+        .news-title {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-size: 1.2rem;
+            font-weight: 600;
+            line-height: 1.4;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        
+        .news-title:hover {
+            color: var(--accent-color);
+        }
+        
+        .news-summary {
+            color: #666;
+            font-size: 0.95rem;
+            line-height: 1.5;
+            margin-bottom: 0.5rem;
+        }
+        
+        .news-time {
+            color: #999;
+            font-size: 0.85rem;
+        }
+        
+        /* Sidebar */
+        .sidebar {
+            position: sticky;
+            top: 2rem;
+        }
+        
+        .sidebar-section {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .sidebar-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--primary-color);
+        }
+        
+        /* Blog Section */
+        .blog-preview {
+            border-bottom: 1px solid #eee;
+            padding-bottom: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .blog-preview:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        
+        .blog-link {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.95rem;
+        }
+        
+        .blog-link:hover {
+            color: var(--accent-color);
+        }
+        
+        .blog-date {
+            color: #999;
+            font-size: 0.8rem;
+            margin-top: 0.25rem;
+        }
+        
+        /* Buttons */
+        .btn {
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            background: var(--accent-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 500;
+            transition: background 0.3s;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .btn:hover {
+            background: #e67e22;
+        }
+        
+        .btn-secondary {
+            background: var(--secondary-color);
+        }
+        
+        .btn-secondary:hover {
+            background: var(--primary-color);
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .main-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .header-content {
+                flex-direction: column;
+                gap: 1rem;
+            }
+            
+            .nav {
+                gap: 1rem;
+            }
+            
+            .sidebar {
+                position: static;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <a href="/" class="logo">BlockWire News</a>
+            <nav class="nav">
+                <a href="/">Home</a>
+                <a href="/blog">Blog</a>
+                <a href="/blog/new">Write Article</a>
+                <a href="/update-news">Update News</a>
+            </nav>
+        </div>
+    </header>
+    
+    <div class="price-ticker">
+        <div class="ticker-content" id="ticker-content">
+            <!-- Price ticker will be populated by JavaScript -->
+        </div>
+    </div>
+    
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+    
+    <script>
+        // Price ticker functionality
+        async function updatePrices() {
+            try {
+                const response = await fetch('/api/prices');
+                const prices = await response.json();
+                
+                const tickerContent = document.getElementById('ticker-content');
+                let tickerHTML = '';
+                
+                const cryptoSymbols = {
+                    'bitcoin': 'BTC',
+                    'ethereum': 'ETH',
+                    'binancecoin': 'BNB',
+                    'ripple': 'XRP',
+                    'cardano': 'ADA',
+                    'solana': 'SOL',
+                    'polkadot': 'DOT',
+                    'dogecoin': 'DOGE'
+                };
+                
+                // Create ticker items twice for seamless scrolling
+                for (let i = 0; i < 2; i++) {
+                    for (const [id, data] of Object.entries(prices)) {
+                        const symbol = cryptoSymbols[id];
+                        const price = data.usd.toFixed(2);
+                        const change = data.usd_24h_change.toFixed(2);
+                        const changeClass = change >= 0 ? 'positive' : 'negative';
+                        const changeSymbol = change >= 0 ? '+' : '';
+                        
+                        tickerHTML += `
+                            <div class="ticker-item">
+                                <span class="ticker-symbol">${symbol}</span>
+                                <span class="ticker-price">$${price}</span>
+                                <span class="ticker-change ${changeClass}">${changeSymbol}${change}%</span>
+                            </div>
+                        `;
+                    }
+                }
+                
+                tickerContent.innerHTML = tickerHTML;
+            } catch (error) {
+                console.error('Error fetching prices:', error);
+            }
+        }
+        
+        // Update prices on load and every 60 seconds
+        updatePrices();
+        setInterval(updatePrices, 60000);
+    </script>
+</body>
+</html>

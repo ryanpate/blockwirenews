@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="main-grid">
+    <main>
+        <h1 style="margin-bottom: 2rem; color: var(--primary-color);">Latest Cryptocurrency News</h1>
+        
+        {% for article in news %}
+        <article class="news-card">
+            <div class="news-header">
+                <span class="news-source">{{ article.source }}</span>
+            </div>
+            <a href="{{ article.url }}" target="_blank" class="news-title">
+                {{ article.title }}
+            </a>
+            <p class="news-summary">{{ article.summary }}</p>
+            <time class="news-time">{{ article.scraped_at }}</time>
+        </article>
+        {% endfor %}
+        
+        {% if not news %}
+        <div class="news-card">
+            <p>No news articles available. Click "Update News" to fetch the latest articles.</p>
+        </div>
+        {% endif %}
+    </main>
+    
+    <aside class="sidebar">
+        <section class="sidebar-section">
+            <h2 class="sidebar-title">Latest Blog Posts</h2>
+            {% for post in blog_posts %}
+            <div class="blog-preview">
+                <a href="/blog" class="blog-link">{{ post.title }}</a>
+                <div class="blog-date">{{ post.date }}</div>
+            </div>
+            {% endfor %}
+            
+            {% if not blog_posts %}
+            <p style="color: #666; font-size: 0.9rem;">No blog posts yet.</p>
+            {% endif %}
+            
+            <a href="/blog/new" class="btn btn-secondary" style="margin-top: 1rem; display: block; text-align: center;">
+                Write New Article
+            </a>
+        </section>
+        
+        <section class="sidebar-section">
+            <h2 class="sidebar-title">About BlockWire</h2>
+            <p style="font-size: 0.9rem; color: #666; line-height: 1.6;">
+                Your trusted source for cryptocurrency news and analysis. We aggregate the latest updates from leading crypto news outlets to keep you informed about the rapidly evolving digital asset landscape.
+            </p>
+        </section>
+        
+        <section class="sidebar-section">
+            <h2 class="sidebar-title">Stay Updated</h2>
+            <p style="font-size: 0.9rem; color: #666; margin-bottom: 1rem;">
+                News automatically updates every hour, or click below for manual refresh.
+            </p>
+            <a href="/update-news" class="btn" style="width: 100%; text-align: center;">
+                Refresh News Feed
+            </a>
+        </section>
+    </aside>
+</div>
+
+<script>
+    // Format dates nicely
+    document.querySelectorAll('.news-time').forEach(el => {
+        const date = new Date(el.textContent);
+        const now = new Date();
+        const diff = now - date;
+        const hours = Math.floor(diff / (1000 * 60 * 60));
+        const days = Math.floor(hours / 24);
+        
+        if (days > 0) {
+            el.textContent = `${days} day${days > 1 ? 's' : ''} ago`;
+        } else if (hours > 0) {
+            el.textContent = `${hours} hour${hours > 1 ? 's' : ''} ago`;
+        } else {
+            el.textContent = 'Just now';
+        }
+    });
+    
+    // Format blog dates
+    document.querySelectorAll('.blog-date').forEach(el => {
+        const date = new Date(el.textContent);
+        el.textContent = date.toLocaleDateString('en-US', { 
+            month: 'short', 
+            day: 'numeric', 
+            year: 'numeric' 
+        });
+    });
+</script>
+{% endblock %}

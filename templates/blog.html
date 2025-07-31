@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block title %}Blog - BlockWire News{% endblock %}
+
+{% block content %}
+<div style="max-width: 800px; margin: 0 auto;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
+        <h1 style="color: var(--primary-color);">Blog & Analysis</h1>
+        <a href="/blog/new" class="btn">Write New Article</a>
+    </div>
+    
+    {% for post in posts %}
+    <article class="news-card" style="margin-bottom: 2rem;">
+        <h2 style="color: var(--primary-color); margin-bottom: 0.5rem;">{{ post.title }}</h2>
+        <div style="color: #666; font-size: 0.9rem; margin-bottom: 1rem;">
+            By {{ post.author }} • <time class="blog-post-date">{{ post.date }}</time>
+        </div>
+        <div style="line-height: 1.8; color: #333; white-space: pre-wrap;">{{ post.content }}</div>
+    </article>
+    {% endfor %}
+    
+    {% if not posts %}
+    <div class="news-card">
+        <p style="text-align: center; color: #666;">No blog posts yet. Be the first to write one!</p>
+        <div style="text-align: center; margin-top: 1rem;">
+            <a href="/blog/new" class="btn">Create First Article</a>
+        </div>
+    </div>
+    {% endif %}
+</div>
+
+<script>
+    // Format blog dates
+    document.querySelectorAll('.blog-post-date').forEach(el => {
+        const date = new Date(el.textContent);
+        el.textContent = date.toLocaleDateString('en-US', { 
+            month: 'long', 
+            day: 'numeric', 
+            year: 'numeric',
+            hour: 'numeric',
+            minute: '2-digit'
+        });
+    });
+</script>
+{% endblock %}
