@@ -1,0 +1,67 @@
+{% extends "base_enhanced.html" %}
+
+{% block title %}Contact Us - BlockWire News{% endblock %}
+
+{% block content %}
+<div style="max-width: 600px; margin: 0 auto;">
+    <h1 style="color: var(--primary-color); margin-bottom: 2rem;">Contact Us</h1>
+    
+    <div style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <p style="font-size: 1.1rem; line-height: 1.8; color: #333; margin-bottom: 2rem;">
+            We'd love to hear from you! Whether you have questions, feedback, or partnership inquiries, 
+            feel free to reach out to our team.
+        </p>
+        
+        <form method="POST" action="#" style="margin-bottom: 2rem;">
+            <div class="form-group">
+                <label class="form-label">Your Name</label>
+                <input type="text" name="name" class="form-control" required>
+            </div>
+            
+            <div class="form-group">
+                <label class="form-label">Email Address</label>
+                <input type="email" name="email" class="form-control" required>
+            </div>
+            
+            <div class="form-group">
+                <label class="form-label">Subject</label>
+                <select name="subject" class="form-control">
+                    <option>General Inquiry</option>
+                    <option>News Submission</option>
+                    <option>Partnership Opportunity</option>
+                    <option>Technical Support</option>
+                    <option>Feedback</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label class="form-label">Message</label>
+                <textarea name="message" rows="5" class="form-control" required></textarea>
+            </div>
+            
+            <button type="submit" class="btn" style="width: 100%;">Send Message</button>
+        </form>
+        
+        <div style="border-top: 1px solid #eee; padding-top: 2rem;">
+            <h3 style="color: var(--primary-color); margin-bottom: 1rem;">Other Ways to Reach Us</h3>
+            
+            <div style="margin-bottom: 1rem;">
+                <strong>Email:</strong> contact@blockwirenews.com
+            </div>
+            
+            <div style="margin-bottom: 1rem;">
+                <strong>Social Media:</strong>
+                <div style="margin-top: 0.5rem;">
+                    <a href="#" style="color: var(--accent-color); text-decoration: none; margin-right: 1rem;">Twitter</a>
+                    <a href="#" style="color: var(--accent-color); text-decoration: none; margin-right: 1rem;">LinkedIn</a>
+                    <a href="#" style="color: var(--accent-color); text-decoration: none;">Telegram</a>
+                </div>
+            </div>
+            
+            <div>
+                <strong>Response Time:</strong> We typically respond within 24-48 hours
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

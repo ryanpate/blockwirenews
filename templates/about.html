@@ -1,0 +1,60 @@
+{% extends "base_enhanced.html" %}
+
+{% block title %}About BlockWire News - Your Trusted Crypto News Source{% endblock %}
+
+{% block content %}
+<div style="max-width: 800px; margin: 0 auto;">
+    <h1 style="color: var(--primary-color); margin-bottom: 2rem;">About BlockWire News</h1>
+    
+    <div style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h2 style="color: var(--primary-color); margin-bottom: 1rem;">Your Trusted Source for Cryptocurrency News</h2>
+        
+        <p style="font-size: 1.1rem; line-height: 1.8; color: #333; margin-bottom: 1.5rem;">
+            BlockWire News is a comprehensive cryptocurrency news aggregation and analysis platform. 
+            We bring together the latest updates from leading crypto news sources, providing you with 
+            real-time insights into the rapidly evolving digital asset landscape.
+        </p>
+        
+        <h3 style="color: var(--secondary-color); margin-top: 2rem; margin-bottom: 1rem;">Our Mission</h3>
+        <p style="line-height: 1.8; color: #333; margin-bottom: 1.5rem;">
+            To democratize access to cryptocurrency information by providing timely, accurate, and 
+            comprehensive coverage of the blockchain and digital asset ecosystem. We believe that 
+            informed investors make better decisions.
+        </p>
+        
+        <h3 style="color: var(--secondary-color); margin-top: 2rem; margin-bottom: 1rem;">What We Offer</h3>
+        <ul style="line-height: 1.8; color: #333; margin-bottom: 1.5rem;">
+            <li><strong>Real-time News Aggregation:</strong> Latest updates from top crypto news sources</li>
+            <li><strong>Expert Analysis:</strong> In-depth articles and market insights from our contributors</li>
+            <li><strong>Live Price Tracking:</strong> Real-time cryptocurrency prices and market data</li>
+            <li><strong>Educational Content:</strong> Guides and explanations for crypto beginners</li>
+            <li><strong>Community Insights:</strong> User-generated content and discussions</li>
+        </ul>
+        
+        <h3 style="color: var(--secondary-color); margin-top: 2rem; margin-bottom: 1rem;">Our Values</h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+            <div style="text-align: center; padding: 1.5rem;">
+                <div style="font-size: 2rem; margin-bottom: 0.5rem;">🎯</div>
+                <h4 style="color: var(--primary-color); margin-bottom: 0.5rem;">Accuracy</h4>
+                <p style="color: #666; font-size: 0.9rem;">We prioritize factual, verified information</p>
+            </div>
+            <div style="text-align: center; padding: 1.5rem;">
+                <div style="font-size: 2rem; margin-bottom: 0.5rem;">⚡</div>
+                <h4 style="color: var(--primary-color); margin-bottom: 0.5rem;">Speed</h4>
+                <p style="color: #666; font-size: 0.9rem;">Breaking news delivered in real-time</p>
+            </div>
+            <div style="text-align: center; padding: 1.5rem;">
+                <div style="font-size: 2rem; margin-bottom: 0.5rem;">🔍</div>
+                <h4 style="color: var(--primary-color); margin-bottom: 0.5rem;">Transparency</h4>
+                <p style="color: #666; font-size: 0.9rem;">Clear sources and unbiased reporting</p>
+            </div>
+        </div>
+        
+        <div style="background: var(--primary-color); color: white; padding: 2rem; border-radius: 8px; text-align: center; margin-top: 2rem;">
+            <h3 style="margin-bottom: 1rem;">Join Our Community</h3>
+            <p style="margin-bottom: 1.5rem;">Stay updated with the latest cryptocurrency news and analysis</p>
+            <a href="{{ url_for('register') }}" class="btn" style="background: var(--accent-color); color: white;">Get Started</a>
+        </div>
+    </div>
+</div>
+{% endblock %}

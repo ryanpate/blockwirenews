@@ -1,0 +1,79 @@
+{% extends "base_enhanced.html" %}
+
+{% block title %}Search - BlockWire News{% endblock %}
+
+{% block content %}
+<div style="max-width: 800px; margin: 0 auto;">
+    <h1 style="color: var(--primary-color); margin-bottom: 2rem;">Search BlockWire News</h1>
+    
+    <!-- Search Form -->
+    <form method="GET" action="{{ url_for('search_page') }}" style="margin-bottom: 2rem;">
+        <div style="display: flex; gap: 1rem;">
+            <input type="text" 
+                   name="q" 
+                   value="{{ query }}" 
+                   placeholder="Search for articles, news, or topics..." 
+                   style="flex: 1; padding: 0.75rem; border: 1px solid #ddd; border-radius: 4px; font-size: 1rem;">
+            <button type="submit" class="btn">Search</button>
+        </div>
+    </form>
+    
+    {% if query and query|length >= 3 %}
+        {% if results %}
+            <!-- Search Results -->
+            <div style="margin-bottom: 3rem;">
+                {% if results.articles %}
+                    <section style="margin-bottom: 2rem;">
+                        <h2 style="color: var(--primary-color); margin-bottom: 1rem;">Articles</h2>
+                        {% for article in results.articles %}
+                            <div style="background: white; padding: 1.5rem; border-radius: 8px; margin-bottom: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                                <h3 style="margin-bottom: 0.5rem;">
+                                    <a href="{{ url_for('view_article', slug=article.slug) }}" 
+                                       style="color: var(--primary-color); text-decoration: none;">
+                                        {{ article.title }}
+                                    </a>
+                                </h3>
+                                <p style="color: #666; margin-bottom: 0.5rem;">
+                                    {{ article.summary or article.content[:150] }}...
+                                </p>
+                                <div style="font-size: 0.875rem; color: #999;">
+                                    By {{ article.author.username }} • 
+                                    {{ article.published_at.strftime('%B %d, %Y') if article.published_at else 'Draft' }}
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </section>
+                {% endif %}
+                
+                {% if results.news %}
+                    <section>
+                        <h2 style="color: var(--primary-color); margin-bottom: 1rem;">News</h2>
+                        {% for news in results.news %}
+                            <div style="background: white; padding: 1.5rem; border-radius: 8px; margin-bottom: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                                <h3 style="margin-bottom: 0.5rem;">
+                                    <a href="{{ news.url }}" 
+                                       target="_blank"
+                                       style="color: var(--primary-color); text-decoration: none;">
+                                        {{ news.title }}
+                                    </a>
+                                </h3>
+                                <p style="color: #666; margin-bottom: 0.5rem;">
+                                    {{ news.summary }}
+                                </p>
+                                <div style="font-size: 0.875rem; color: #999;">
+                                    {{ news.source }} • 
+                                    {{ news.published_date.strftime('%B %d, %Y') if news.published_date else news.scraped_at.strftime('%B %d, %Y') }}
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </section>
+                {% endif %}
+            </div>
+        {% endif %}
+    {% elif query %}
+        <div style="text-align: center; padding: 3rem; color: #666;">
+            <p>Please enter at least 3 characters to search.</p>
+        </div>
+    {% endif %}
+</div>
+{% endblock %}

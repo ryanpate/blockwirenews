@@ -1,0 +1,60 @@
+{% extends "base_enhanced.html" %}
+
+{% block title %}Latest Cryptocurrency News - BlockWire News{% endblock %}
+
+{% block content %}
+<div style="max-width: 1000px; margin: 0 auto;">
+    <h1 style="color: var(--primary-color); margin-bottom: 2rem;">Latest Cryptocurrency News</h1>
+    
+    <!-- Source Filter -->
+    {% if sources %}
+    <div style="margin-bottom: 2rem;">
+        <label style="font-weight: 600; margin-right: 1rem;">Filter by Source:</label>
+        <select onchange="window.location.href=this.value" style="padding: 0.5rem; border: 1px solid #ddd; border-radius: 4px;">
+            <option value="{{ url_for('news_page') }}">All Sources</option>
+            {% for source in sources %}
+            <option value="{{ url_for('news_page', source=source) }}" {% if current_source == source %}selected{% endif %}>
+                {{ source }}
+            </option>
+            {% endfor %}
+        </select>
+    </div>
+    {% endif %}
+    
+    <!-- News Items -->
+    {% for item in news.items %}
+    <article style="background: white; border-radius: 8px; padding: 1.5rem; margin-bottom: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 0.5rem;">
+            <span style="background: var(--accent-color); color: white; padding: 0.25rem 0.75rem; border-radius: 4px; font-size: 0.8rem; font-weight: 500;">
+                {{ item.source }}
+            </span>
+            {% if item.is_featured %}
+            <span style="color: var(--accent-color);">★ Featured</span>
+            {% endif %}
+        </div>
+        <a href="{{ item.url }}" target="_blank" style="color: var(--primary-color); text-decoration: none; font-size: 1.2rem; font-weight: 600; line-height: 1.4; display: block; margin-bottom: 0.5rem;">
+            {{ item.title }}
+        </a>
+        <p style="color: #666; font-size: 0.95rem; line-height: 1.5; margin-bottom: 0.5rem;">
+            {{ item.summary }}
+        </p>
+        <time style="color: #999; font-size: 0.85rem;">
+            {{ item.published_date.strftime('%B %d, %Y at %I:%M %p') if item.published_date else item.scraped_at.strftime('%B %d, %Y') }}
+        </time>
+    </article>
+    {% endfor %}
+    
+    <!-- Pagination -->
+    <div class="pagination">
+        {% if news.has_prev %}
+            <a href="{{ url_for('news_page', page=news.prev_num, source=current_source) }}">← Previous</a>
+        {% endif %}
+        
+        <span class="active">Page {{ news.page }} of {{ news.pages }}</span>
+        
+        {% if news.has_next %}
+            <a href="{{ url_for('news_page', page=news.next_num, source=current_source) }}">Next →</a>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

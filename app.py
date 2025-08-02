@@ -1,4 +1,4 @@
-from flask import Flask, render_template, jsonify, request, redirect, url_for, flash
+from flask import Flask, render_template, jsonify, request, redirect, url_for, flash, abort
 from flask_login import LoginManager, login_user, logout_user, login_required, current_user
 from flask_migrate import Migrate
 from datetime import datetime, timedelta
@@ -13,6 +13,16 @@ from functools import wraps
 from models import db, User, Article, NewsItem, PriceData, SiteSettings
 from forms import LoginForm, RegistrationForm, ArticleForm, ProfileForm
 from crypto_news_scraper import SimpleCryptoRSSFeedScraper
+
+# Import SEO modules
+from seo_routes import register_seo_routes
+from seo_config import init_seo, SEOConfig, register_additional_seo_routes
+
+try:
+    import pytz
+except ImportError:
+    print("Please install pytz: pip install pytz")
+    pytz = None
 
 app = Flask(__name__)
 
@@ -33,6 +43,7 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 # Initialize extensions
 db.init_app(app)
+init_seo(app)
 migrate = Migrate(app, db)
 login_manager = LoginManager(app)
 login_manager.login_view = 'login'
@@ -41,6 +52,10 @@ login_manager.login_message = 'Please log in to access this page.'
 # Initialize scheduler
 scheduler = BackgroundScheduler()
 scheduler.start()
+
+# Register SEO routes
+register_seo_routes(app, db)
+register_additional_seo_routes(app, db)
 
 
 @login_manager.user_loader
@@ -61,13 +76,10 @@ def admin_required(f):
 
 def create_slug(title):
     """Create URL-friendly slug from title"""
-    slug = re.sub(r'[^\w\s-]', '', title.lower())
-    slug = re.sub(r'[-\s]+', '-', slug)
-    return slug[:50]
+    return SEOConfig.slugify(title)
+
 
 # Scheduled tasks
-
-
 def update_news():
     """Update news from scraper and save to database"""
     print("Updating cryptocurrency news...")
@@ -152,9 +164,8 @@ scheduler.add_job(func=update_news, trigger="interval",
 scheduler.add_job(func=update_prices, trigger="interval",
                   minutes=5, id='price_updater')
 
+
 # Routes
-
-
 @app.route('/')
 def index():
     """Main page with news and price ticker"""
@@ -187,10 +198,18 @@ def index():
     except:
         pass
 
+    # Generate SEO metadata
+    seo_meta = SEOConfig.generate_meta_tags(
+        title="Real-Time Cryptocurrency News & Analysis",
+        description="Stay updated with the latest cryptocurrency news, Bitcoin and Ethereum prices, expert analysis, and blockchain insights from BlockWire News.",
+        page_type="website"
+    )
+
     return render_template('index_enhanced.html',
                            news=news,
                            articles=articles,
-                           prices=latest_prices)
+                           prices=latest_prices,
+                           seo_meta=seo_meta)
 
 
 @app.route('/login', methods=['GET', 'POST'])
@@ -314,7 +333,7 @@ def new_article():
 
 @app.route('/article/<slug>')
 def view_article(slug):
-    """View article"""
+    """View article with SEO enhancements"""
     article = Article.query.filter_by(slug=slug).first_or_404()
 
     # Only show unpublished articles to author or admin
@@ -327,7 +346,39 @@ def view_article(slug):
     article.views += 1
     db.session.commit()
 
-    return render_template('article.html', article=article)
+    # Get related articles
+    keywords = article.title.lower().split()
+    related_query = Article.query.filter(
+        Article.id != article.id,
+        Article.published == True
+    )
+
+    filters = []
+    for keyword in keywords[:5]:
+        if len(keyword) > 3:
+            filters.append(Article.title.ilike(f'%{keyword}%'))
+
+    if filters:
+        related_query = related_query.filter(db.or_(*filters))
+
+    related_articles = related_query.order_by(
+        Article.published_at.desc()).limit(4).all()
+
+    # Generate SEO metadata
+    seo_meta = SEOConfig.generate_meta_tags(
+        title=article.title,
+        description=article.summary or article.content[:155],
+        article=article
+    )
+
+    # Generate schema markup
+    article_schema = SEOConfig.generate_schema_article(article)
+
+    return render_template('article.html',
+                           article=article,
+                           related_articles=related_articles,
+                           seo_meta=seo_meta,
+                           article_schema=article_schema)
 
 
 @app.route('/article/<slug>/edit', methods=['GET', 'POST'])
@@ -366,9 +417,8 @@ def edit_article(slug):
 
     return render_template('article_form.html', form=form, title='Edit Article', article=article)
 
+
 # Admin routes
-
-
 @app.route('/admin')
 @admin_required
 def admin_dashboard():
@@ -530,9 +580,8 @@ def admin_update_prices():
     flash('Price update triggered successfully!')
     return redirect(url_for('admin_dashboard'))
 
+
 # API routes
-
-
 @app.route('/api/news')
 def api_news():
     """API endpoint for news data"""
@@ -567,22 +616,55 @@ def api_prices():
 
     return jsonify(latest_prices)
 
+
+# New SEO-friendly routes
+@app.route('/newsletter/subscribe', methods=['POST'])
+def newsletter_subscribe():
+    """Newsletter subscription endpoint"""
+    email = request.form.get('email')
+    if email:
+        # TODO: Add to your newsletter system
+        flash('Thank you for subscribing to our newsletter!', 'success')
+    return redirect(request.referrer or url_for('index'))
+
+
+# Performance optimization
+@app.after_request
+def optimize_response(response):
+    """Optimize responses for better performance"""
+    # Compress HTML responses
+    if response.content_type == 'text/html; charset=utf-8':
+        # Remove unnecessary whitespace
+        response.direct_passthrough = False
+        try:
+            response.data = re.sub(b'>\s+<', b'><', response.data)
+        except:
+            pass
+
+    return response
+
+
 # Error handlers
-
-
 @app.errorhandler(404)
 def not_found_error(error):
-    return render_template('404.html'), 404
+    seo_meta = SEOConfig.generate_meta_tags(
+        title="Page Not Found",
+        description="The page you're looking for doesn't exist on BlockWire News."
+    )
+    return render_template('404.html', seo_meta=seo_meta), 404
 
 
 @app.errorhandler(500)
 def internal_error(error):
     db.session.rollback()
-    return render_template('500.html'), 500
+    seo_meta = SEOConfig.generate_meta_tags(
+        title="Server Error",
+        description="An error occurred on BlockWire News. Please try again later."
+    )
+    return render_template('500.html', seo_meta=seo_meta), 500
+
 
 # CLI commands for database initialization
-
-
 @app.cli.command()
 def init_db():
     """Initialize the database."""
@@ -606,9 +688,49 @@ def create_admin():
     print(f"Admin user {username} created successfully!")
 
 
+@app.cli.command()
+def update_sitemap():
+    """Manually update the sitemap"""
+    print("Sitemap is dynamically generated at /sitemap.xml")
+    print("Submit this URL to Google Search Console:")
+    print("https://www.blockwirenews.com/sitemap.xml")
+
+
+@app.cli.command()
+def check_seo():
+    """Check SEO health"""
+    print("Checking SEO health...")
+    print("=" * 50)
+
+    # Check for missing meta descriptions
+    articles_without_summary = Article.query.filter_by(
+        published=True,
+        summary=None
+    ).count()
+
+    print(f"Articles without summaries: {articles_without_summary}")
+
+    # Check for duplicate titles
+    from sqlalchemy import func
+    duplicates = db.session.query(
+        Article.title,
+        func.count(Article.title)
+    ).group_by(Article.title).having(func.count(Article.title) > 1).all()
+
+    if duplicates:
+        print(f"Duplicate article titles found: {len(duplicates)}")
+        for title, count in duplicates:
+            print(f"  - '{title}' appears {count} times")
+    else:
+        print("No duplicate titles found ✓")
+
+    print("=" * 50)
+    print("SEO check complete!")
+
+
 if __name__ == '__main__':
     print("\n" + "="*50)
-    print("BlockWire News - Starting Application")
+    print("BlockWire News - Starting Application with SEO")
     print("="*50)
 
     with app.app_context():
@@ -621,6 +743,14 @@ if __name__ == '__main__':
             user_count = 0
             try:
                 user_count = User.query.count()
+                articles_count = Article.query.filter_by(
+                    published=True).count()
+                news_count = NewsItem.query.count()
+
+                print(f"✓ Found {user_count} users in database")
+                print(f"✓ Found {articles_count} published articles")
+                print(f"✓ Found {news_count} news items")
+
             except:
                 print("! Could not access database tables")
                 print("! Run 'python init_db.py' to initialize the database")
@@ -628,8 +758,13 @@ if __name__ == '__main__':
             if user_count == 0:
                 print("\n! No users found in database")
                 print("! Run 'python init_db.py' to create admin user")
-            else:
-                print(f"✓ Found {user_count} users in database")
+
+            # Display SEO endpoints
+            print("\n✓ SEO Features Active:")
+            print("  - Sitemap: http://localhost:5000/sitemap.xml")
+            print("  - RSS Feed: http://localhost:5000/rss")
+            print("  - Robots.txt: http://localhost:5000/robots.txt")
+            print("  - Search: http://localhost:5000/search")
 
         except Exception as e:
             print(f"\n✗ Database error: {e}")

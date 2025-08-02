@@ -1,0 +1,158 @@
+{% extends "base_enhanced.html" %}
+
+{% block title %}Live Cryptocurrency Prices - BlockWire News{% endblock %}
+
+{% block content %}
+<div style="max-width: 1000px; margin: 0 auto;">
+    <h1 style="color: var(--primary-color); margin-bottom: 2rem;">Live Cryptocurrency Prices</h1>
+    
+    <div id="price-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-bottom: 3rem;">
+        <!-- Prices will be loaded here -->
+        <div style="grid-column: 1/-1; text-align: center; padding: 3rem;">
+            <div class="spinner"></div>
+            <p style="color: #666; margin-top: 1rem;">Loading prices...</p>
+        </div>
+    </div>
+    
+    <div style="background: #f8f9fa; padding: 2rem; border-radius: 8px;">
+        <h2 style="color: var(--primary-color); margin-bottom: 1rem;">About Our Price Data</h2>
+        <p style="color: #666; line-height: 1.6;">
+            Prices are updated every 60 seconds from reliable cryptocurrency exchanges. 
+            All prices are displayed in USD. Market cap and 24-hour volume data help you 
+            understand the size and liquidity of each cryptocurrency.
+        </p>
+    </div>
+</div>
+
+<style>
+    .spinner {
+        border: 3px solid #f3f3f3;
+        border-top: 3px solid var(--accent-color);
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        animation: spin 1s linear infinite;
+        margin: 0 auto;
+    }
+    
+    @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+    }
+    
+    .price-card {
+        background: white;
+        padding: 1.5rem;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        transition: transform 0.2s;
+    }
+    
+    .price-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    }
+    
+    .price-symbol {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: var(--primary-color);
+        margin-bottom: 0.5rem;
+    }
+    
+    .price-value {
+        font-size: 2rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+    }
+    
+    .price-change {
+        font-size: 1.2rem;
+        font-weight: 500;
+        margin-bottom: 1rem;
+    }
+    
+    .price-change.positive {
+        color: var(--success);
+    }
+    
+    .price-change.negative {
+        color: var(--danger);
+    }
+    
+    .price-stats {
+        border-top: 1px solid #eee;
+        padding-top: 1rem;
+        margin-top: 1rem;
+    }
+    
+    .stat-row {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 0.5rem;
+        color: #666;
+        font-size: 0.9rem;
+    }
+</style>
+
+<script>
+async function loadPrices() {
+    try {
+        const response = await fetch('/api/prices');
+        const prices = await response.json();
+        
+        const priceGrid = document.getElementById('price-grid');
+        priceGrid.innerHTML = '';
+        
+        const cryptoNames = {
+            'btc': 'Bitcoin',
+            'eth': 'Ethereum',
+            'bnb': 'Binance Coin',
+            'xrp': 'Ripple',
+            'ada': 'Cardano',
+            'sol': 'Solana',
+            'dot': 'Polkadot',
+            'doge': 'Dogecoin'
+        };
+        
+        for (const [symbol, data] of Object.entries(prices)) {
+            const change = data.change_24h || 0;
+            const changeClass = change >= 0 ? 'positive' : 'negative';
+            const changeSymbol = change >= 0 ? '+' : '';
+            
+            const card = document.createElement('div');
+            card.className = 'price-card';
+            card.innerHTML = `
+                <div class="price-symbol">${symbol.toUpperCase()} - ${cryptoNames[symbol]}</div>
+                <div class="price-value">$${data.price.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</div>
+                <div class="price-change ${changeClass}">${changeSymbol}${change.toFixed(2)}%</div>
+                <div class="price-stats">
+                    <div class="stat-row">
+                        <span>Market Cap:</span>
+                        <span>$${(data.market_cap / 1e9).toFixed(2)}B</span>
+                    </div>
+                    <div class="stat-row">
+                        <span>24h Volume:</span>
+                        <span>$${(data.volume_24h / 1e9).toFixed(2)}B</span>
+                    </div>
+                    <div class="stat-row">
+                        <span>Last Updated:</span>
+                        <span>${new Date(data.updated).toLocaleTimeString()}</span>
+                    </div>
+                </div>
+            `;
+            priceGrid.appendChild(card);
+        }
+    } catch (error) {
+        console.error('Error loading prices:', error);
+        document.getElementById('price-grid').innerHTML = '<div style="grid-column: 1/-1; text-align: center; color: var(--danger);">Error loading prices. Please refresh the page.</div>';
+    }
+}
+
+// Load prices on page load
+loadPrices();
+
+// Refresh prices every 60 seconds
+setInterval(loadPrices, 60000);
+</script>
+{% endblock %}

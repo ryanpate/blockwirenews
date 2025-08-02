@@ -1,0 +1,65 @@
+{% extends "base_enhanced.html" %}
+
+{% block title %}{{ author.username }} - Author Profile - BlockWire News{% endblock %}
+
+{% block content %}
+<div style="max-width: 800px; margin: 0 auto;">
+    <div style="background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 2rem;">
+        <div style="display: flex; align-items: center; gap: 2rem;">
+            <div style="width: 100px; height: 100px; background: var(--accent-color); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-size: 2rem; font-weight: 700;">
+                {{ author.username[0].upper() }}
+            </div>
+            <div>
+                <h1 style="color: var(--primary-color); margin-bottom: 0.5rem;">{{ author.username }}</h1>
+                {% if author.is_admin %}
+                <span style="background: var(--accent-color); color: white; padding: 0.25rem 0.75rem; border-radius: 4px; font-size: 0.875rem;">Editor</span>
+                {% endif %}
+                <p style="color: #666; margin-top: 0.5rem;">
+                    Member since {{ author.created_at.strftime('%B %Y') }} • 
+                    {{ articles.total }} articles published
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <h2 style="color: var(--primary-color); margin-bottom: 1.5rem;">Articles by {{ author.username }}</h2>
+    
+    {% for article in articles.items %}
+    <article style="background: white; border-radius: 8px; padding: 1.5rem; margin-bottom: 1rem; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+        <h3 style="margin-bottom: 0.5rem;">
+            <a href="{{ url_for('view_article', slug=article.slug) }}" 
+               style="color: var(--primary-color); text-decoration: none;">
+                {{ article.title }}
+            </a>
+        </h3>
+        <p style="color: #666; line-height: 1.6; margin-bottom: 0.5rem;">
+            {{ article.summary or article.content[:150] }}...
+        </p>
+        <div style="font-size: 0.875rem; color: #999;">
+            {{ article.published_at.strftime('%B %d, %Y') }} • {{ article.views }} views
+        </div>
+    </article>
+    {% endfor %}
+    
+    {% if not articles.items %}
+    <p style="text-align: center; color: #666; padding: 2rem;">
+        No articles published yet.
+    </p>
+    {% endif %}
+    
+    <!-- Pagination -->
+    {% if articles.pages > 1 %}
+    <div class="pagination">
+        {% if articles.has_prev %}
+            <a href="{{ url_for('author_profile', username=author.username, page=articles.prev_num) }}">← Previous</a>
+        {% endif %}
+        
+        <span class="active">Page {{ articles.page }} of {{ articles.pages }}</span>
+        
+        {% if articles.has_next %}
+            <a href="{{ url_for('author_profile', username=author.username, page=articles.next_num) }}">Next →</a>
+        {% endif %}
+    </div>
+    {% endif %}
+</div>
+{% endblock %}
