@@ -67,3 +67,6 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.env
+.env.local
+.env.*.local
