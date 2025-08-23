@@ -1,5 +1,6 @@
 from flask import Flask, render_template, jsonify, request, redirect, url_for, flash, abort
 from flask_login import LoginManager, login_user, logout_user, login_required, current_user
+from flask import send_from_directory, send_file
 from flask_migrate import Migrate
 from datetime import datetime, timedelta
 import os
@@ -627,6 +628,98 @@ def newsletter_subscribe():
         flash('Thank you for subscribing to our newsletter!', 'success')
     return redirect(request.referrer or url_for('index'))
 
+
+@app.route('/ads.txt')
+def ads_txt():
+    """Serve ads.txt file for Google AdSense verification"""
+    # Try multiple locations where ads.txt might be
+    locations = [
+        'static/ads.txt',  # In static folder
+        'ads.txt',         # In root folder
+        '../ads.txt'       # In parent folder
+    ]
+
+    for location in locations:
+        if os.path.exists(location):
+            return send_file(location, mimetype='text/plain')
+
+    # If file doesn't exist, create it dynamically
+    ads_content = "google.com, pub-5523870768931777, DIRECT, f08c47fec0942fa0\n"
+    response = app.response_class(
+        response=ads_content,
+        status=200,
+        mimetype='text/plain'
+    )
+    return response
+
+# Serve robots.txt (optional but recommended)
+
+
+@app.route('/robots.txt')
+def robots_txt():
+    """Serve robots.txt file"""
+    robots_content = """User-agent: *
+Allow: /
+Allow: /ads.txt
+Sitemap: https://www.blockwirenews.com/sitemap.xml
+"""
+    response = app.response_class(
+        response=robots_content,
+        status=200,
+        mimetype='text/plain'
+    )
+    return response
+
+# Optional: Sitemap route
+
+
+@app.route('/sitemap.xml')
+def sitemap():
+    """Generate dynamic sitemap"""
+    from datetime import datetime
+
+    # Get all published articles
+    articles = Article.query.filter_by(published=True).all()
+
+    sitemap_xml = """<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.blockwirenews.com/</loc>
+        <lastmod>{}</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://www.blockwirenews.com/blog</loc>
+        <lastmod>{}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>""".format(
+        datetime.utcnow().strftime('%Y-%m-%d'),
+        datetime.utcnow().strftime('%Y-%m-%d')
+    )
+
+    # Add articles to sitemap
+    for article in articles:
+        sitemap_xml += """
+    <url>
+        <loc>https://www.blockwirenews.com/article/{}</loc>
+        <lastmod>{}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>""".format(
+            article.slug,
+            article.updated_at.strftime('%Y-%m-%d')
+        )
+
+    sitemap_xml += "\n</urlset>"
+
+    response = app.response_class(
+        response=sitemap_xml,
+        status=200,
+        mimetype='application/xml'
+    )
+    return response
 
 # Performance optimization
 @app.after_request

@@ -1,0 +1,19 @@
+# robots.txt - Place in static/ folder
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /login
+Disallow: /register
+Crawl-delay: 1
+
+Sitemap: https://www.blockwirenews.com/sitemap.xml
+
+# Specific bot rules
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
