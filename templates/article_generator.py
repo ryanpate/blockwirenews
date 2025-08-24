@@ -24,7 +24,6 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 # Configuration
 OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
-DATABASE_URL = os.environ.get('DATABASE_URL', 'postgresql://doadmin:AVNS_A-t8v7cZcKSamFH3i0J@blockwirenews-db-do-user-23625312-0.h.db.ondigitalocean.com:25060/defaultdb?sslmode=require')
 
 # OpenAI Configuration - Using GPT-4o-mini for cost efficiency
 MODEL = "gpt-4o-mini"  # Most cost-effective: $0.150/1M input, $0.600/1M output tokens
