@@ -18,6 +18,7 @@ ENV/
 *.sqlite3
 blockwire_dev.db
 article_generator.py
+app_backup.py
 
 # Logs
 *.log
